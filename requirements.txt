@@ -1,5 +1,2 @@
-urllib
-unicodedata
-json
 bs4
 html5lib
