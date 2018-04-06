@@ -1,0 +1,289 @@
+{
+  "bio": {
+    "Playing role": "Allrounder",
+    "Education": "Mahanama Vidyalaya, Panadura",
+    "name": "Akila Dananjaya",
+    "Major teams": "Sri Lanka,",
+    "Current age": "24 years 184 days",
+    "coutry": "Sri Lanka",
+    "Height": "5.07",
+    "Born": "October 4, 1993, Panadura",
+    "Bowling style": "Right-arm offbreak",
+    "Batting style": "Left-hand bat",
+    "Full name": "Mahamarakkala Kurukulasooriya Patabendige Akila Dananjaya Perera"
+  },
+  "statistics": {
+    "Recent Matches": [
+      {
+        "Bat & Bowl": "24,3/61",
+        "Match Date": "30Mar2018",
+        "Scorecard": "FC",
+        "Opposition": "Colombo",
+        "Team": "Galle",
+        "Ground": "Hambantota"
+      },
+      {
+        "Bat & Bowl": "7,2/34",
+        "Match Date": "21Mar2018",
+        "Scorecard": "LA",
+        "Opposition": "Nondescripts",
+        "Team": "Colts",
+        "Ground": "Colombo(SSC)"
+      },
+      {
+        "Bat & Bowl": "1*,2/37",
+        "Match Date": "16Mar2018",
+        "Scorecard": "T20I#661",
+        "Opposition": "Bangladesh",
+        "Team": "SriLanka",
+        "Ground": "Colombo(RPS)"
+      },
+      {
+        "Bat & Bowl": "5,2/19",
+        "Match Date": "12Mar2018",
+        "Scorecard": "T20I#659",
+        "Opposition": "India",
+        "Team": "SriLanka",
+        "Ground": "Colombo(RPS)"
+      },
+      {
+        "Bat & Bowl": "0/36",
+        "Match Date": "10Mar2018",
+        "Scorecard": "T20I#658",
+        "Opposition": "Bangladesh",
+        "Team": "SriLanka",
+        "Ground": "Colombo(RPS)"
+      },
+      {
+        "Bat & Bowl": "0/37",
+        "Match Date": "6Mar2018",
+        "Scorecard": "T20I#656",
+        "Opposition": "India",
+        "Team": "SriLanka",
+        "Ground": "Colombo(RPS)"
+      },
+      {
+        "Bat & Bowl": "2/25",
+        "Match Date": "27Feb2018",
+        "Scorecard": "T20",
+        "Opposition": "SLPACC",
+        "Team": "Colts",
+        "Ground": "Colombo(CCC)"
+      },
+      {
+        "Bat & Bowl": "1/1",
+        "Match Date": "25Feb2018",
+        "Scorecard": "T20",
+        "Opposition": "GalleCC",
+        "Team": "Colts",
+        "Ground": "Colombo(Police)"
+      },
+      {
+        "Bat & Bowl": "2/28",
+        "Match Date": "24Feb2018",
+        "Scorecard": "T20",
+        "Opposition": "SLAirSC",
+        "Team": "Colts",
+        "Ground": "Panagoda"
+      },
+      {
+        "Bat & Bowl": "1/20",
+        "Match Date": "18Feb2018",
+        "Scorecard": "T20I#651",
+        "Opposition": "Bangladesh",
+        "Team": "SriLanka",
+        "Ground": "Sylhet"
+      }
+    ],
+    "Batting": {
+      "ODIs": {
+        "Runs": "  154",
+        "Inns": "  14",
+        "Mat": "  19",
+        "NO": "  2",
+        "HS": "  50*",
+        "4s": "  14",
+        "BF": "  251",
+        "50": "  1",
+        "6s": "  1",
+        "SR": "  61.35",
+        "Ave": "  12.83",
+        "100": "  0",
+        "St": "  0",
+        "Ct": "  7"
+      },
+      "Tests": {
+        "Runs": "  20",
+        "Inns": "  2",
+        "Mat": "  1",
+        "NO": "  0",
+        "HS": "  20",
+        "4s": "  2",
+        "BF": "  27",
+        "50": "  0",
+        "6s": "  0",
+        "SR": "  74.07",
+        "Ave": "  10.00",
+        "100": "  0",
+        "St": "  0",
+        "Ct": "  1"
+      },
+      "T20Is": {
+        "Runs": "  29",
+        "Inns": "  6",
+        "Mat": "  15",
+        "NO": "  3",
+        "HS": "  11*",
+        "4s": "  3",
+        "BF": "  29",
+        "50": "  0",
+        "6s": "  0",
+        "SR": "  100.00",
+        "Ave": "  9.66",
+        "100": "  0",
+        "St": "  0",
+        "Ct": "  5"
+      },
+      "List A": {
+        "Runs": "  247",
+        "Inns": "  28",
+        "Mat": "  58",
+        "NO": "  8",
+        "HS": "  50*",
+        "4s": "  23",
+        "BF": "  374",
+        "50": "  1",
+        "6s": "  3",
+        "SR": "  66.04",
+        "Ave": "  12.35",
+        "100": "  0",
+        "St": "  0",
+        "Ct": "  14"
+      },
+      "T20s": {
+        "Runs": "  67",
+        "Inns": "  16",
+        "Mat": "  47",
+        "NO": "  8",
+        "HS": "  28",
+        "4s": "  4",
+        "BF": "  77",
+        "50": "  0",
+        "6s": "  1",
+        "SR": "  87.01",
+        "Ave": "  8.37",
+        "100": "  0",
+        "St": "  0",
+        "Ct": "  12"
+      },
+      "First-class": {
+        "Runs": "  742",
+        "Inns": "  50",
+        "Mat": "  36",
+        "NO": "  19",
+        "HS": "  92",
+        "4s": "  89",
+        "BF": "  1479",
+        "50": "  4",
+        "6s": "  4",
+        "SR": "  50.16",
+        "Ave": "  23.93",
+        "100": "  0",
+        "St": "  0",
+        "Ct": "  18"
+      }
+    },
+    "Bowling": {
+      "ODIs": {
+        "Runs": "  777",
+        "Balls": "  937",
+        "Inns": "  17",
+        "Mat": "  19",
+        "BBI": "  6/54",
+        "SR": "  44.6",
+        "5w": "  1",
+        "Econ": "  4.97",
+        "Wkts": "  21",
+        "4w": "  1",
+        "Ave": "  37.00",
+        "BBM": "  6/54",
+        "10w": "  0"
+      },
+      "Tests": {
+        "Runs": "  44",
+        "Balls": "  90",
+        "Inns": "  2",
+        "Mat": "  1",
+        "BBI": "  5/24",
+        "SR": "  11.2",
+        "5w": "  1",
+        "Econ": "  2.93",
+        "Wkts": "  8",
+        "4w": "  0",
+        "Ave": "  5.50",
+        "BBM": "  8/44",
+        "10w": "  0"
+      },
+      "T20Is": {
+        "Runs": "  410",
+        "Balls": "  316",
+        "Inns": "  15",
+        "Mat": "  15",
+        "BBI": "  2/9",
+        "SR": "  26.3",
+        "5w": "  0",
+        "Econ": "  7.78",
+        "Wkts": "  12",
+        "4w": "  0",
+        "Ave": "  34.16",
+        "BBM": "  2/9",
+        "10w": "  0"
+      },
+      "List A": {
+        "Runs": "  1910",
+        "Balls": "  2492",
+        "Inns": "  53",
+        "Mat": "  58",
+        "BBI": "  6/54",
+        "SR": "  42.2",
+        "5w": "  1",
+        "Econ": "  4.59",
+        "Wkts": "  59",
+        "4w": "  4",
+        "Ave": "  32.37",
+        "BBM": "  6/54",
+        "10w": "  0"
+      },
+      "T20s": {
+        "Runs": "  1070",
+        "Balls": "  908",
+        "Inns": "  43",
+        "Mat": "  47",
+        "BBI": "  3/18",
+        "SR": "  21.1",
+        "5w": "  0",
+        "Econ": "  7.07",
+        "Wkts": "  43",
+        "4w": "  0",
+        "Ave": "  24.88",
+        "BBM": "  3/18",
+        "10w": "  0"
+      },
+      "First-class": {
+        "Runs": "  2880",
+        "Balls": "  4866",
+        "Inns": "  61",
+        "Mat": "  36",
+        "BBI": "  7/139",
+        "SR": "  44.6",
+        "5w": "  3",
+        "Econ": "  3.55",
+        "Wkts": "  109",
+        "4w": "  4",
+        "Ave": "  26.42",
+        "BBM": "  8/44",
+        "10w": "  0"
+      }
+    }
+  }
+}
