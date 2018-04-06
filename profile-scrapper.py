@@ -1,7 +1,8 @@
 from urllib import urlopen
-import unicodedata
 import json
 from bs4 import BeautifulSoup
+from pre_process import Preprocess
+
 
 def getPlayersOfCountry(country):
     players = []
@@ -16,15 +17,6 @@ def getPlayersOfCountry(country):
             json.dump(players, outfile)
         players = []
 
-def preprocess(str):
-    try:
-        return unicodedata \
-            .normalize('NFKD', str) \
-            .encode('ascii', 'ignore') \
-            .replace('\t', '').replace('\n', '')
-    except TypeError:
-        return str.replace('\t', '').replace('\n', '')
-
 def getPlayerInfo(url):
     # Sending the http request
     webpage = urlopen(url).read()
@@ -35,13 +27,13 @@ def getPlayerInfo(url):
     data['bio'] = {}
     data['statistics'] = {}
 
-    data['bio']['name'] = preprocess(soup.find(class_='ciPlayernametxt').find('h1').text).strip()
+    data['bio']['name'] = Preprocess.preprocess(soup.find(class_='ciPlayernametxt').find('h1').text).strip()
 
     data['bio']['coutry'] = soup.find(class_='PlayersSearchLink').find('b').text
 
     bio_details = soup.find_all(class_='ciPlayerinformationtxt')
     for det in bio_details:
-        data['bio'][det.find('b').text] = preprocess(det.find('span').text).strip()
+        data['bio'][det.find('b').text] = Preprocess.preprocess(det.find('span').text).strip()
 
     stat_tables = soup.find_all(class_='engineTable')
     for table in stat_tables :
@@ -50,7 +42,7 @@ def getPlayerInfo(url):
 
     stat_headings = []
     for head in soup.find_all('span', class_ = 'ciPhotoWidgetLink'):
-        stat_headings.append(preprocess(head.text))
+        stat_headings.append(Preprocess.preprocess(head.text))
 
     for head in stat_headings:
         if head == "Batting and fielding averages" or head == "Bowling averages" or \
@@ -65,7 +57,7 @@ def getPlayerInfo(url):
         if stat_headings[k] != 'Recent matches' :
             # Batting and bowling
             for col_name in stat_tables[k].find_all('th'):
-                key = preprocess(col_name.text)
+                key = Preprocess.preprocess(col_name.text)
                 if key == '10':
                     key += 'w'
                 keys.append(key)
@@ -73,27 +65,27 @@ def getPlayerInfo(url):
                 tds = row.find_all('td')
 
                 if tds[0].find('a'):
-                    head = preprocess(tds[0].find('a').find('span').find('b').text)
+                    head = Preprocess.preprocess(tds[0].find('a').find('span').find('b').text)
                 else:
-                    head = preprocess(tds[0].find('b').text)
+                    head = Preprocess.preprocess(tds[0].find('b').text)
 
                 data['statistics'][stat_headings[k]][head] = {}
 
                 for j in range(1, len(tds)):
-                    data['statistics'][stat_headings[k]][head][keys[j]] = preprocess(tds[j].text)
+                    data['statistics'][stat_headings[k]][head][keys[j]] = Preprocess.preprocess(tds[j].text)
         else :
             # recent scores
             for col_name in stat_tables[k].find_all('th'):
-                keys.append(preprocess(col_name.text))
+                keys.append(Preprocess.preprocess(col_name.text))
             matches = []
             for row in stat_tables[k].find('tbody').find_all('tr'):
                 tds = row.find_all('td')
                 match = {}
                 for i in range(len(tds)):
                     if tds[i].find('a'):
-                        d = preprocess(tds[i].find('a').text).replace(' ', '')
+                        d = Preprocess.preprocess(tds[i].find('a').text).replace(' ', '')
                     else:
-                        d = preprocess(preprocess(tds[i].text).replace(' ', '')).replace(' ', '')
+                        d = Preprocess.preprocess(preprocess(tds[i].text).replace(' ', '')).replace(' ', '')
                     if keys[i] == 'Opposition':
                         d = d.strip('v')
                     match[keys[i]] = d
