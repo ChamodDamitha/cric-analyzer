@@ -12,8 +12,9 @@ def getPlayersOfCountry(country):
         soup = BeautifulSoup(webpage, "html5lib")
         for link in soup.find_all('a', class_="ColumnistSmry"):
             players.append(getPlayerInfo("http://www.espncricinfo.com" + link.get('href')))
-    return players
-
+        with open('sl-player-profiles' + chr(65 + i) + '.json', 'w') as outfile:
+            json.dump(players, outfile)
+        players = []
 
 def preprocess(str):
     try:
@@ -102,6 +103,5 @@ def getPlayerInfo(url):
 
 
 
-players_data = getPlayersOfCountry(8)  # country = 8 for Sri Lanka
-with open('sl-player-profiles.json', 'w') as outfile:
-    json.dump(players_data, outfile)
+getPlayersOfCountry(8)  # country = 8 for Sri Lanka
+
