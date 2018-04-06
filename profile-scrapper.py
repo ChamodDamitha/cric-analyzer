@@ -1,17 +1,21 @@
 from urllib import urlopen
 import unicodedata
-# Sending the http request
-webpage = urlopen('http://www.espncricinfo.com/srilanka/content/player/574178.html').read()
-
+import json
 from bs4 import BeautifulSoup
 
-# making the soup! yummy ;)
-soup = BeautifulSoup(webpage, "html5lib")
+def getPlayersOfCountry(country):
+    players = []
+    for i in range(26):
+        url = "http://www.espncricinfo.com/ci/content/player/country.html?country=" \
+              + str(country) + ";alpha=" + chr(65 + i);
+        webpage = urlopen(url).read()
+        soup = BeautifulSoup(webpage, "html5lib")
+        for link in soup.find_all('a', class_="ColumnistSmry"):
+            players.append(getPlayerInfo("http://www.espncricinfo.com" + link.get('href')))
+    return players
 
-import json
 
-
-def preprocess(str) :
+def preprocess(str):
     try:
         return unicodedata \
             .normalize('NFKD', str) \
@@ -20,65 +24,84 @@ def preprocess(str) :
     except TypeError:
         return str.replace('\t', '').replace('\n', '')
 
-data = {}
-data['bio'] = {}
-data['statistics'] = {}
+def getPlayerInfo(url):
+    # Sending the http request
+    webpage = urlopen(url).read()
+    # making the soup! yummy ;)
+    soup = BeautifulSoup(webpage, "html5lib")
 
-data['bio']['name'] = preprocess(soup.find(class_='ciPlayernametxt').find('h1').text).strip()
+    data = {}
+    data['bio'] = {}
+    data['statistics'] = {}
 
-data['bio']['coutry'] = soup.find(class_='PlayersSearchLink').find('b').text
+    data['bio']['name'] = preprocess(soup.find(class_='ciPlayernametxt').find('h1').text).strip()
 
-bio_details = soup.find_all(class_='ciPlayerinformationtxt')
-for det in bio_details:
-    data['bio'][det.find('b').text] = preprocess(det.find('span').text).strip()
+    data['bio']['coutry'] = soup.find(class_='PlayersSearchLink').find('b').text
 
-stat_tables = soup.find_all(class_='engineTable')
-del stat_tables[2]
-stat_headings = ['Batting', 'Bowling', 'Recent Matches']
-for head in stat_headings:
-    data['statistics'][head] = {}
+    bio_details = soup.find_all(class_='ciPlayerinformationtxt')
+    for det in bio_details:
+        data['bio'][det.find('b').text] = preprocess(det.find('span').text).strip()
 
-for i in range(2):
-    keys = []
-    for col_name in stat_tables[i].find_all('th'):
-        key = preprocess(col_name.text)
-        if key == '10':
-            key += 'w'
-        keys.append(key)
-    for row in stat_tables[i].find('tbody').find_all('tr'):
-        tds = row.find_all('td')
+    stat_tables = soup.find_all(class_='engineTable')
+    for table in stat_tables :
+        if not table.find('thead') :
+            stat_tables.remove(table)
 
-        if tds[0].find('a'):
-            head = preprocess(tds[0].find('a').find('span').find('b').text)
-        else:
-            head = preprocess(tds[0].find('b').text)
+    stat_headings = []
+    for head in soup.find_all('span', class_ = 'ciPhotoWidgetLink'):
+        stat_headings.append(preprocess(head.text))
 
-        data['statistics'][stat_headings[i]][head] = {}
-
-        for j in range(1, len(tds)):
-            data['statistics'][stat_headings[i]][head][keys[j]] = preprocess(tds[j].text)
-
-# recent scores
-keys = []
-for col_name in stat_tables[2].find_all('th'):
-    keys.append(preprocess(col_name.text))
-matches = []
-for row in stat_tables[2].find('tbody').find_all('tr'):
-    tds = row.find_all('td')
-    match = {}
-    for i in range(len(tds)):
-        if tds[i].find('a'):
-            d = preprocess(tds[i].find('a').text).replace(' ', '')
+    for head in stat_headings:
+        if head == "Batting and fielding averages" or head == "Bowling averages" or \
+                        head == "Recent matches":
+            data['statistics'][head] = {}
         else :
-            d = preprocess(preprocess(tds[i].text).replace(' ', '')).replace(' ', '')
-        if keys[i] == 'Opposition' :
-            d = d.strip('v')
-        match[keys[i]] = d
-    matches.append(match)
-data['statistics'][stat_headings[2]] = matches
-# json_data = json.dumps(data)
+            stat_headings.remove(head)
 
-#print(data)
 
-with open('player-profile.json', 'w') as outfile:
-    json.dump(data, outfile)
+    for k in range(len(stat_tables)):
+        keys = []
+        if stat_headings[k] != 'Recent matches' :
+            # Batting and bowling
+            for col_name in stat_tables[k].find_all('th'):
+                key = preprocess(col_name.text)
+                if key == '10':
+                    key += 'w'
+                keys.append(key)
+            for row in stat_tables[k].find('tbody').find_all('tr'):
+                tds = row.find_all('td')
+
+                if tds[0].find('a'):
+                    head = preprocess(tds[0].find('a').find('span').find('b').text)
+                else:
+                    head = preprocess(tds[0].find('b').text)
+
+                data['statistics'][stat_headings[k]][head] = {}
+
+                for j in range(1, len(tds)):
+                    data['statistics'][stat_headings[k]][head][keys[j]] = preprocess(tds[j].text)
+        else :
+            # recent scores
+            for col_name in stat_tables[k].find_all('th'):
+                keys.append(preprocess(col_name.text))
+            matches = []
+            for row in stat_tables[k].find('tbody').find_all('tr'):
+                tds = row.find_all('td')
+                match = {}
+                for i in range(len(tds)):
+                    if tds[i].find('a'):
+                        d = preprocess(tds[i].find('a').text).replace(' ', '')
+                    else:
+                        d = preprocess(preprocess(tds[i].text).replace(' ', '')).replace(' ', '')
+                    if keys[i] == 'Opposition':
+                        d = d.strip('v')
+                    match[keys[i]] = d
+                matches.append(match)
+            data['statistics'][stat_headings[k]] = matches
+    return data
+
+
+
+players_data = getPlayersOfCountry(8)  # country = 8 for Sri Lanka
+with open('sl-player-profiles.json', 'w') as outfile:
+    json.dump(players_data, outfile)
