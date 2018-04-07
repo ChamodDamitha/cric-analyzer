@@ -2,12 +2,18 @@
   {
     "innings": 1,
     "ball": " 9.3 ",
-    "stadium": "Queens Sports Club, Bulawayo",
-    "player": "V Kohli",
     "opposition": {
       "country": "Zimbabwe",
       "total": "289/4 (48.2 Overs, RR: 5.97)"
     },
+    "player_innings": {
+      "runs": "0",
+      "balls": "0",
+      "4s": "0",
+      "6s": "0"
+    },
+    "player": "V Kohli",
+    "stadium": "Queens Sports Club, Bulawayo",
     "team": {
       "country": "India",
       "total": "285/5 (50 Overs, RR: 5.70)"
@@ -20,12 +26,18 @@
   {
     "innings": 2,
     "ball": " 37.4 ",
-    "stadium": "Queens Sports Club, Bulawayo",
-    "player": "V Kohli",
     "opposition": {
       "country": "Sri Lanka at Bulawayo",
       "total": "242 all out (49.5 Overs, RR: 4.85)"
     },
+    "player_innings": {
+      "runs": "82",
+      "balls": "92",
+      "4s": "4",
+      "6s": "0"
+    },
+    "player": "V Kohli",
+    "stadium": "Queens Sports Club, Bulawayo",
     "team": {
       "country": "India",
       "total": "243/3 (43.3 Overs, RR: 5.58)"
@@ -38,12 +50,18 @@
   {
     "innings": 1,
     "ball": " 24.6 ",
-    "stadium": "Harare Sports Club",
-    "player": "V Kohli",
     "opposition": {
       "country": "Zimbabwe",
       "total": "197/3 (38.2 Overs, RR: 5.13)"
     },
+    "player_innings": {
+      "runs": "18",
+      "balls": "29",
+      "4s": "1",
+      "6s": "0"
+    },
+    "player": "V Kohli",
+    "stadium": "Harare Sports Club",
     "team": {
       "country": "India",
       "total": "194/9 (50 Overs, RR: 3.88)"
@@ -56,12 +74,18 @@
   {
     "innings": 1,
     "ball": " 34.2 ",
-    "stadium": "Harare Sports Club",
-    "player": "V Kohli",
     "opposition": {
       "country": "Sri Lanka at Harare",
       "total": "270/4 (48.2 Overs, RR: 5.58)"
     },
+    "player_innings": {
+      "runs": "68",
+      "balls": "95",
+      "4s": "5",
+      "6s": "0"
+    },
+    "player": "V Kohli",
+    "stadium": "Harare Sports Club",
     "team": {
       "country": "India",
       "total": "268/9 (50 Overs, RR: 5.36)"
@@ -74,12 +98,18 @@
   {
     "innings": 2,
     "ball": " 14.4 ",
-    "stadium": "Rangiri Dambulla International Stadium",
-    "player": "V Kohli",
     "opposition": {
       "country": "Bangladesh",
       "total": "167 all out (34.5 Overs, RR: 4.79)"
     },
+    "player_innings": {
+      "runs": "11",
+      "balls": "22",
+      "4s": "0",
+      "6s": "0"
+    },
+    "player": "V Kohli",
+    "stadium": "Rangiri Dambulla International Stadium",
     "team": {
       "country": "India",
       "total": "168/4 (30.4 Overs, RR: 5.47)"
@@ -92,12 +122,18 @@
   {
     "innings": 2,
     "ball": " 17.4 ",
-    "stadium": "Rangiri Dambulla International Stadium",
-    "player": "V Kohli",
     "opposition": {
       "country": "Pakistan at Dambulla",
       "total": "267 all out (49.3 Overs, RR: 5.39)"
     },
+    "player_innings": {
+      "runs": "18",
+      "balls": "27",
+      "4s": "1",
+      "6s": "0"
+    },
+    "player": "V Kohli",
+    "stadium": "Rangiri Dambulla International Stadium",
     "team": {
       "country": "India",
       "total": "271/7 (49.5 Overs, RR: 5.43)"
@@ -110,12 +146,18 @@
   {
     "innings": 1,
     "ball": " 14.3 ",
-    "stadium": "Rangiri Dambulla International Stadium",
-    "player": "V Kohli",
     "opposition": {
       "country": "Sri Lanka",
       "total": "211/3 (37.3 Overs, RR: 5.62)"
     },
+    "player_innings": {
+      "runs": "10",
+      "balls": "14",
+      "4s": "1",
+      "6s": "0"
+    },
+    "player": "V Kohli",
+    "stadium": "Rangiri Dambulla International Stadium",
     "team": {
       "country": "India",
       "total": "209 all out (42.3 Overs, RR: 4.91)"
@@ -128,12 +170,18 @@
   {
     "innings": 1,
     "ball": " 18.2 ",
-    "stadium": "Rangiri Dambulla International Stadium",
-    "player": "V Kohli",
     "opposition": {
       "country": "Sri Lanka",
       "total": "187 all out (44.4 Overs, RR: 4.18)"
     },
+    "player_innings": {
+      "runs": "28",
+      "balls": "34",
+      "4s": "4",
+      "6s": "0"
+    },
+    "player": "V Kohli",
+    "stadium": "Rangiri Dambulla International Stadium",
     "team": {
       "country": "India",
       "total": "268/6 (50 Overs, RR: 5.36)"
@@ -146,12 +194,18 @@
   {
     "innings": 2,
     "ball": " 9.6 ",
-    "stadium": "Rangiri Dambulla International Stadium",
-    "player": "V Kohli",
     "opposition": {
       "country": "Sri Lanka",
       "total": "170 all out (46.1 Overs, RR: 3.68)"
     },
+    "player_innings": {
+      "runs": "0",
+      "balls": "3",
+      "4s": "0",
+      "6s": "0"
+    },
+    "player": "V Kohli",
+    "stadium": "Rangiri Dambulla International Stadium",
     "team": {
       "country": "India",
       "total": "171/4 (34.3 Overs, RR: 4.95)"
@@ -164,12 +218,18 @@
   {
     "innings": 1,
     "ball": " 5.4 ",
-    "stadium": "Rangiri Dambulla International Stadium",
-    "player": "V Kohli",
     "opposition": {
       "country": "New Zealand at Dambulla",
       "total": "118 all out (30.1 Overs, RR: 3.91)"
     },
+    "player_innings": {
+      "runs": "8",
+      "balls": "16",
+      "4s": "1",
+      "6s": "0"
+    },
+    "player": "V Kohli",
+    "stadium": "Rangiri Dambulla International Stadium",
     "team": {
       "country": "India",
       "total": "223 all out (46.3 Overs, RR: 4.79)"
@@ -182,12 +242,18 @@
   {
     "innings": 2,
     "ball": " 21.1 ",
-    "stadium": "Rangiri Dambulla International Stadium",
-    "player": "V Kohli",
     "opposition": {
       "country": "Sri Lanka",
       "total": "299/8 (50 Overs, RR: 5.98)"
     },
+    "player_innings": {
+      "runs": "37",
+      "balls": "57",
+      "4s": "5",
+      "6s": "0"
+    },
+    "player": "V Kohli",
+    "stadium": "Rangiri Dambulla International Stadium",
     "team": {
       "country": "India",
       "total": "225 all out (46.5 Overs, RR: 4.80)"
@@ -200,12 +266,18 @@
   {
     "innings": 2,
     "ball": " 6.5 ",
-    "stadium": "Queen's Park Oval, Port of Spain, Trinidad",
-    "player": "V Kohli",
     "opposition": {
       "country": "West Indies",
       "total": "214/9 (50 Overs, RR: 4.28)"
     },
+    "player_innings": {
+      "runs": "2",
+      "balls": "8",
+      "4s": "0",
+      "6s": "0"
+    },
+    "player": "V Kohli",
+    "stadium": "Queen's Park Oval, Port of Spain, Trinidad",
     "team": {
       "country": "India",
       "total": "217/6 (44.5 Overs, RR: 4.84)"
@@ -218,12 +290,18 @@
   {
     "innings": 2,
     "ball": " 30.6 ",
-    "stadium": "Queen's Park Oval, Port of Spain, Trinidad",
-    "player": "V Kohli",
     "opposition": {
       "country": "West Indies",
       "total": "240/9 (50 Overs, RR: 4.80)"
     },
+    "player_innings": {
+      "runs": "81",
+      "balls": "103",
+      "4s": "6",
+      "6s": "1"
+    },
+    "player": "V Kohli",
+    "stadium": "Queen's Park Oval, Port of Spain, Trinidad",
     "team": {
       "country": "India",
       "total": "183/3 (33.4 Overs, RR: 5.43)"
@@ -236,12 +314,18 @@
   {
     "innings": 2,
     "ball": " 7.4 ",
-    "stadium": "Sir Vivian Richards Stadium, North Sound, Antigua",
-    "player": "V Kohli",
     "opposition": {
       "country": "West Indies",
       "total": "225/8 (50 Overs, RR: 4.50)"
     },
+    "player_innings": {
+      "runs": "0",
+      "balls": "1",
+      "4s": "0",
+      "6s": "0"
+    },
+    "player": "V Kohli",
+    "stadium": "Sir Vivian Richards Stadium, North Sound, Antigua",
     "team": {
       "country": "India",
       "total": "228/7 (46.2 Overs, RR: 4.92)"
@@ -254,12 +338,18 @@
   {
     "innings": 2,
     "ball": " 20.6 ",
-    "stadium": "Sir Vivian Richards Stadium, North Sound, Antigua",
-    "player": "V Kohli",
     "opposition": {
       "country": "West Indies",
       "total": "249/8 (50 Overs, RR: 4.98)"
     },
+    "player_innings": {
+      "runs": "22",
+      "balls": "33",
+      "4s": "1",
+      "6s": "0"
+    },
+    "player": "V Kohli",
+    "stadium": "Sir Vivian Richards Stadium, North Sound, Antigua",
     "team": {
       "country": "India",
       "total": "146 all out (39 Overs, RR: 3.74)"
@@ -272,12 +362,18 @@
   {
     "innings": 1,
     "ball": " 35.6 ",
-    "stadium": "Sabina Park, Kingston, Jamaica",
-    "player": "V Kohli",
     "opposition": {
       "country": "West Indies",
       "total": "255/3 (48.4 Overs, RR: 5.23)"
     },
+    "player_innings": {
+      "runs": "94",
+      "balls": "104",
+      "4s": "10",
+      "6s": "0"
+    },
+    "player": "V Kohli",
+    "stadium": "Sabina Park, Kingston, Jamaica",
     "team": {
       "country": "India",
       "total": "251 all out (47.3 Overs, RR: 5.28)"
@@ -290,12 +386,18 @@
   {
     "innings": 1,
     "ball": " 39.3 ",
-    "stadium": "Riverside Ground, Chester-le-Street",
-    "player": "V Kohli",
     "opposition": {
       "country": "England",
       "total": "27/2 (7.2 Overs, RR: 3.68)"
     },
+    "player_innings": {
+      "runs": "55",
+      "balls": "73",
+      "4s": "4",
+      "6s": "0"
+    },
+    "player": "V Kohli",
+    "stadium": "Riverside Ground, Chester-le-Street",
     "team": {
       "country": "India",
       "total": "274/7 (50 Overs, RR: 5.48)"
@@ -308,12 +410,18 @@
   {
     "innings": 1,
     "ball": " 16.6 ",
-    "stadium": "The Rose Bowl, Southampton",
-    "player": "V Kohli",
     "opposition": {
       "country": "England",
       "total": "188/3 (22.1 Overs, RR: 8.48)"
     },
+    "player_innings": {
+      "runs": "9",
+      "balls": "9",
+      "4s": "0",
+      "6s": "0"
+    },
+    "player": "V Kohli",
+    "stadium": "The Rose Bowl, Southampton",
     "team": {
       "country": "India",
       "total": "187/8 (23 Overs, RR: 8.13)"
@@ -326,12 +434,18 @@
   {
     "innings": 1,
     "ball": " 10.2 ",
-    "stadium": "Kennington Oval, London",
-    "player": "V Kohli",
     "opposition": {
       "country": "England",
       "total": "218/7 (41.5 Overs, RR: 5.21)"
     },
+    "player_innings": {
+      "runs": "7",
+      "balls": "18",
+      "4s": "0",
+      "6s": "0"
+    },
+    "player": "V Kohli",
+    "stadium": "Kennington Oval, London",
     "team": {
       "country": "India",
       "total": "234/7 (50 Overs, RR: 4.68)"
@@ -344,12 +458,18 @@
   {
     "innings": 1,
     "ball": " 25.2 ",
-    "stadium": "Lord's, London",
-    "player": "V Kohli",
     "opposition": {
       "country": "England",
       "total": "270/8 (48.5 Overs, RR: 5.52)"
     },
+    "player_innings": {
+      "runs": "16",
+      "balls": "36",
+      "4s": "1",
+      "6s": "0"
+    },
+    "player": "V Kohli",
+    "stadium": "Lord's, London",
     "team": {
       "country": "India",
       "total": "280/5 (50 Overs, RR: 5.60)"
@@ -362,12 +482,18 @@
   {
     "innings": 1,
     "ball": " 43.3 ",
-    "stadium": "Sophia Gardens, Cardiff",
-    "player": "V Kohli",
     "opposition": {
       "country": "England",
       "total": "241/4 (32.2 Overs, RR: 7.45)"
     },
+    "player_innings": {
+      "runs": "107",
+      "balls": "93",
+      "4s": "9",
+      "6s": "1"
+    },
+    "player": "V Kohli",
+    "stadium": "Sophia Gardens, Cardiff",
     "team": {
       "country": "India",
       "total": "304/6 (50 Overs, RR: 6.08)"
@@ -380,12 +506,18 @@
   {
     "innings": 1,
     "ball": " 39.6 ",
-    "stadium": "Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",
-    "player": "V Kohli",
     "opposition": {
       "country": "Sri Lanka",
       "total": "293/9 (50 Overs, RR: 5.86)"
     },
+    "player_innings": {
+      "runs": "106",
+      "balls": "113",
+      "4s": "9",
+      "6s": "0"
+    },
+    "player": "V Kohli",
+    "stadium": "Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",
     "team": {
       "country": "India",
       "total": "314/6 (50 Overs, RR: 6.28)"
@@ -398,12 +530,18 @@
   {
     "innings": 1,
     "ball": " 5.3 ",
-    "stadium": "Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",
-    "player": "V Kohli",
     "opposition": {
       "country": "Sri Lanka",
       "total": "139/1 (19.5 Overs, RR: 7.00)"
     },
+    "player_innings": {
+      "runs": "1",
+      "balls": "5",
+      "4s": "0",
+      "6s": "0"
+    },
+    "player": "V Kohli",
+    "stadium": "Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",
     "team": {
       "country": "India",
       "total": "138 all out (33.3 Overs, RR: 4.11)"
@@ -416,12 +554,18 @@
   {
     "innings": 2,
     "ball": " 20.5 ",
-    "stadium": "R.Premadasa Stadium, Khettarama, Colombo",
-    "player": "V Kohli",
     "opposition": {
       "country": "Sri Lanka",
       "total": "286/5 (50 Overs, RR: 5.72)"
     },
+    "player_innings": {
+      "runs": "38",
+      "balls": "65",
+      "4s": "2",
+      "6s": "0"
+    },
+    "player": "V Kohli",
+    "stadium": "R.Premadasa Stadium, Khettarama, Colombo",
     "team": {
       "country": "India",
       "total": "288/5 (49.4 Overs, RR: 5.79)"
@@ -434,12 +578,18 @@
   {
     "innings": 1,
     "ball": " 14.3 ",
-    "stadium": "Pallekele International Cricket Stadium",
-    "player": "V Kohli",
     "opposition": {
       "country": "Sri Lanka",
       "total": "274 all out (45.4 Overs, RR: 6.00)"
     },
+    "player_innings": {
+      "runs": "23",
+      "balls": "35",
+      "4s": "2",
+      "6s": "0"
+    },
+    "player": "V Kohli",
+    "stadium": "Pallekele International Cricket Stadium",
     "team": {
       "country": "India",
       "total": "294/7 (50 Overs, RR: 5.88)"
@@ -452,12 +602,18 @@
   {
     "innings": 1,
     "ball": " 9.1 ",
-    "stadium": "Sabina Park, Kingston, Jamaica",
-    "player": "V Kohli",
     "opposition": {
       "country": "West Indies",
       "total": "230/9 (47.4 Overs, RR: 4.82)"
     },
+    "player_innings": {
+      "runs": "11",
+      "balls": "21",
+      "4s": "0",
+      "6s": "1"
+    },
+    "player": "V Kohli",
+    "stadium": "Sabina Park, Kingston, Jamaica",
     "team": {
       "country": "India",
       "total": "229/7 (50 Overs, RR: 4.58)"
@@ -470,12 +626,18 @@
   {
     "innings": 2,
     "ball": " 15.5 ",
-    "stadium": "Sabina Park, Kingston, Jamaica",
-    "player": "V Kohli (c)",
     "opposition": {
       "country": "Sri Lanka at Kingston",
       "total": "348/1 (50 Overs, RR: 6.96)"
     },
+    "player_innings": {
+      "runs": "2",
+      "balls": "5",
+      "4s": "0",
+      "6s": "0"
+    },
+    "player": "V Kohli (c)",
+    "stadium": "Sabina Park, Kingston, Jamaica",
     "team": {
       "country": "India",
       "total": "187 all out (44.5 Overs, RR: 4.17)"
@@ -488,12 +650,18 @@
   {
     "innings": 1,
     "ball": " 49.6 ",
-    "stadium": "Queen's Park Oval, Port of Spain, Trinidad",
-    "player": "V Kohli (c)",
     "opposition": {
       "country": "West Indies",
       "total": "171 all out (34 Overs, RR: 5.02)"
     },
+    "player_innings": {
+      "runs": "102",
+      "balls": "83",
+      "4s": "13",
+      "6s": "2"
+    },
+    "player": "V Kohli (c)",
+    "stadium": "Queen's Park Oval, Port of Spain, Trinidad",
     "team": {
       "country": "India",
       "total": "311/7 (50 Overs, RR: 6.22)"
@@ -506,12 +674,18 @@
   {
     "innings": 1,
     "ball": " 20.3 ",
-    "stadium": "Queen's Park Oval, Port of Spain, Trinidad",
-    "player": "V Kohli (c)",
     "opposition": {
       "country": "Sri Lanka at Port of Spain",
       "total": "96 all out (24.4 Overs, RR: 3.89)"
     },
+    "player_innings": {
+      "runs": "31",
+      "balls": "52",
+      "4s": "4",
+      "6s": "0"
+    },
+    "player": "V Kohli (c)",
+    "stadium": "Queen's Park Oval, Port of Spain, Trinidad",
     "team": {
       "country": "India",
       "total": "119/3 (29 Overs, RR: 4.10)"
@@ -524,12 +698,18 @@
   {
     "innings": 2,
     "ball": " 10.4 ",
-    "stadium": "Queen's Park Oval, Port of Spain, Trinidad",
-    "player": "V Kohli",
     "opposition": {
       "country": "Sri Lanka at Port of Spain",
       "total": "201 all out (48.5 Overs, RR: 4.11)"
     },
+    "player_innings": {
+      "runs": "2",
+      "balls": "5",
+      "4s": "0",
+      "6s": "0"
+    },
+    "player": "V Kohli",
+    "stadium": "Queen's Park Oval, Port of Spain, Trinidad",
     "team": {
       "country": "India",
       "total": "203/9 (49.4 Overs, RR: 4.08)"
@@ -542,12 +722,18 @@
   {
     "innings": 2,
     "ball": " 41.3 ",
-    "stadium": "Harare Sports Club",
-    "player": "V Kohli (c)",
     "opposition": {
       "country": "Zimbabwe",
       "total": "228/7 (50 Overs, RR: 4.56)"
     },
+    "player_innings": {
+      "runs": "115",
+      "balls": "108",
+      "4s": "13",
+      "6s": "1"
+    },
+    "player": "V Kohli (c)",
+    "stadium": "Harare Sports Club",
     "team": {
       "country": "India",
       "total": "230/4 (44.5 Overs, RR: 5.13)"
@@ -560,12 +746,18 @@
   {
     "innings": 1,
     "ball": " 6.2 ",
-    "stadium": "Harare Sports Club",
-    "player": "V Kohli (c)",
     "opposition": {
       "country": "Zimbabwe",
       "total": "236/9 (50 Overs, RR: 4.72)"
     },
+    "player_innings": {
+      "runs": "14",
+      "balls": "18",
+      "4s": "2",
+      "6s": "0"
+    },
+    "player": "V Kohli (c)",
+    "stadium": "Harare Sports Club",
     "team": {
       "country": "India",
       "total": "294/8 (50 Overs, RR: 5.88)"
@@ -578,12 +770,18 @@
   {
     "innings": 1,
     "ball": " 7.4 ",
-    "stadium": "Sophia Gardens, Cardiff",
-    "player": "V Kohli",
     "opposition": {
       "country": "England",
       "total": "161 all out (38.1 Overs, RR: 4.21)"
     },
+    "player_innings": {
+      "runs": "0",
+      "balls": "3",
+      "4s": "0",
+      "6s": "0"
+    },
+    "player": "V Kohli",
+    "stadium": "Sophia Gardens, Cardiff",
     "team": {
       "country": "India",
       "total": "304/6 (50 Overs, RR: 6.08)"
@@ -596,12 +794,18 @@
   {
     "innings": 2,
     "ball": " 25.3 ",
-    "stadium": "Trent Bridge, Nottingham",
-    "player": "V Kohli",
     "opposition": {
       "country": "England",
       "total": "227 all out (50 Overs, RR: 4.54)"
     },
+    "player_innings": {
+      "runs": "40",
+      "balls": "50",
+      "4s": "2",
+      "6s": "1"
+    },
+    "player": "V Kohli",
+    "stadium": "Trent Bridge, Nottingham",
     "team": {
       "country": "India",
       "total": "228/4 (43 Overs, RR: 5.30)"
@@ -614,12 +818,18 @@
   {
     "innings": 2,
     "ball": " 6.6 ",
-    "stadium": "Headingley, Leeds",
-    "player": "V Kohli",
     "opposition": {
       "country": "England",
       "total": "294/7 (50 Overs, RR: 5.88)"
     },
+    "player_innings": {
+      "runs": "13",
+      "balls": "21",
+      "4s": "2",
+      "6s": "0"
+    },
+    "player": "V Kohli",
+    "stadium": "Headingley, Leeds",
     "team": {
       "country": "India",
       "total": "253 all out (48.4 Overs, RR: 5.19)"
@@ -632,12 +842,18 @@
   {
     "innings": 2,
     "ball": " 17.2 ",
-    "stadium": "Shere Bangla National Stadium, Mirpur, Dhaka",
-    "player": "V Kohli",
     "opposition": {
       "country": "Bangladesh",
       "total": "307 all out (49.4 Overs, RR: 6.18)"
     },
+    "player_innings": {
+      "runs": "1",
+      "balls": "4",
+      "4s": "0",
+      "6s": "0"
+    },
+    "player": "V Kohli",
+    "stadium": "Shere Bangla National Stadium, Mirpur, Dhaka",
     "team": {
       "country": "India",
       "total": "228 all out (46 Overs, RR: 4.95)"
@@ -650,12 +866,18 @@
   {
     "innings": 1,
     "ball": " 12.3 ",
-    "stadium": "Shere Bangla National Stadium, Mirpur, Dhaka",
-    "player": "V Kohli",
     "opposition": {
       "country": "Bangladesh",
       "total": "200/4 (38 Overs, RR: 5.26)"
     },
+    "player_innings": {
+      "runs": "23",
+      "balls": "27",
+      "4s": "3",
+      "6s": "1"
+    },
+    "player": "V Kohli",
+    "stadium": "Shere Bangla National Stadium, Mirpur, Dhaka",
     "team": {
       "country": "India",
       "total": "200 all out (45 Overs, RR: 4.44)"
@@ -668,12 +890,18 @@
   {
     "innings": 1,
     "ball": " 19.5 ",
-    "stadium": "Shere Bangla National Stadium, Mirpur, Dhaka",
-    "player": "V Kohli",
     "opposition": {
       "country": "Bangladesh",
       "total": "240 all out (47 Overs, RR: 5.10)"
     },
+    "player_innings": {
+      "runs": "25",
+      "balls": "35",
+      "4s": "1",
+      "6s": "0"
+    },
+    "player": "V Kohli",
+    "stadium": "Shere Bangla National Stadium, Mirpur, Dhaka",
     "team": {
       "country": "India",
       "total": "317/6 (50 Overs, RR: 6.34)"
@@ -686,12 +914,18 @@
   {
     "innings": 1,
     "ball": " 41.2 ",
-    "stadium": "Queen's Park Oval, Port of Spain, Trinidad",
-    "player": "V Kohli (c)",
     "opposition": {
       "country": "West Indies",
       "total": "205/6 (43 Overs, RR: 4.76)"
     },
+    "player_innings": {
+      "runs": "87",
+      "balls": "66",
+      "4s": "4",
+      "6s": "4"
+    },
+    "player": "V Kohli (c)",
+    "stadium": "Queen's Park Oval, Port of Spain, Trinidad",
     "team": {
       "country": "India",
       "total": "310/5 (43 Overs, RR: 7.20)"
@@ -704,12 +938,18 @@
   {
     "innings": 1,
     "ball": " 9.3 ",
-    "stadium": "Sir Vivian Richards Stadium, North Sound, Antigua",
-    "player": "V Kohli (c)",
     "opposition": {
       "country": "West Indies",
       "total": "158 all out (38.1 Overs, RR: 4.13)"
     },
+    "player_innings": {
+      "runs": "11",
+      "balls": "22",
+      "4s": "2",
+      "6s": "0"
+    },
+    "player": "V Kohli (c)",
+    "stadium": "Sir Vivian Richards Stadium, North Sound, Antigua",
     "team": {
       "country": "India",
       "total": "251/4 (50 Overs, RR: 5.02)"
@@ -722,12 +962,18 @@
   {
     "innings": 2,
     "ball": " 5.6 ",
-    "stadium": "Sir Vivian Richards Stadium, North Sound, Antigua",
-    "player": "V Kohli (c)",
     "opposition": {
       "country": "West Indies",
       "total": "189/9 (50 Overs, RR: 3.78)"
     },
+    "player_innings": {
+      "runs": "3",
+      "balls": "12",
+      "4s": "0",
+      "6s": "0"
+    },
+    "player": "V Kohli (c)",
+    "stadium": "Sir Vivian Richards Stadium, North Sound, Antigua",
     "team": {
       "country": "India",
       "total": "178 all out (49.4 Overs, RR: 3.58)"
@@ -740,12 +986,18 @@
   {
     "innings": 2,
     "ball": " 17.3 ",
-    "stadium": "Pallekele International Cricket Stadium",
-    "player": "V Kohli (c)",
     "opposition": {
       "country": "Sri Lanka",
       "total": "236/8 (50 Overs, RR: 4.72)"
     },
+    "player_innings": {
+      "runs": "4",
+      "balls": "2",
+      "4s": "1",
+      "6s": "0"
+    },
+    "player": "V Kohli (c)",
+    "stadium": "Pallekele International Cricket Stadium",
     "team": {
       "country": "India",
       "total": "231/7 (44.2 Overs, RR: 5.21)"
@@ -758,12 +1010,18 @@
   {
     "innings": 2,
     "ball": " 5.1 ",
-    "stadium": "Pallekele International Cricket Stadium",
-    "player": "V Kohli (c)",
     "opposition": {
       "country": "Sri Lanka",
       "total": "217/9 (50 Overs, RR: 4.34)"
     },
+    "player_innings": {
+      "runs": "3",
+      "balls": "11",
+      "4s": "0",
+      "6s": "0"
+    },
+    "player": "V Kohli (c)",
+    "stadium": "Pallekele International Cricket Stadium",
     "team": {
       "country": "India",
       "total": "218/4 (45.1 Overs, RR: 4.82)"
@@ -776,12 +1034,18 @@
   {
     "innings": 1,
     "ball": " 29.3 ",
-    "stadium": "R.Premadasa Stadium, Khettarama, Colombo",
-    "player": "V Kohli (c)",
     "opposition": {
       "country": "Sri Lanka",
       "total": "207 all out (42.4 Overs, RR: 4.85)"
     },
+    "player_innings": {
+      "runs": "131",
+      "balls": "96",
+      "4s": "17",
+      "6s": "2"
+    },
+    "player": "V Kohli (c)",
+    "stadium": "R.Premadasa Stadium, Khettarama, Colombo",
     "team": {
       "country": "India",
       "total": "375/5 (50 Overs, RR: 7.50)"

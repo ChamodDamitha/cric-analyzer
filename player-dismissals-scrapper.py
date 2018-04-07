@@ -19,18 +19,22 @@ def scrapeMatch(player, country, url, heading):
 
     wayOut = ""
     player_name = player
+    numbers = 0
     i = 0
     for scorecard in scorecards:
         for row in scorecard.find_all(class_='flex-row'):
             if row.find(class_='wrap batsmen'):
                 player_name = Preprocess.preprocess(
-                        row.find(class_='wrap batsmen').find(class_='cell batsmen').find('a').text)
+                    row.find(class_='wrap batsmen').find(class_='cell batsmen').find('a').text)
                 if player in player_name:
                     wayOut = row.find(class_='wrap batsmen').find(class_='cell commentary').text
                     if "not out" not in wayOut:
                         wayOut = Preprocess.preprocess(
                             row.find(class_='wrap batsmen').find(class_='cell commentary') \
                                 .find('a').text)
+                        number_headings_temp = scorecard.find(class_='wrap header').find_all(class_='cell runs')
+                        number_headings = [Preprocess.preprocess(x.text) for x in number_headings_temp]
+                        numbers = row.find(class_='wrap batsmen').find_all(class_='cell runs')
                         player_dismissal = row.find(class_='content')
                     isBreak = True
                     break
@@ -39,9 +43,19 @@ def scrapeMatch(player, country, url, heading):
         i += 1
     if player_dismissal != 0:
         dismissal['player'] = player_name
+        dismissal['player_innings'] = {}
+        dismissal['player_innings']['runs'] = Preprocess.preprocess(
+            numbers[number_headings.index("R")].text)
+        dismissal['player_innings']['balls'] = Preprocess.preprocess(
+            numbers[number_headings.index("B")].text)
+        dismissal['player_innings']['4s'] = Preprocess.preprocess(
+            numbers[number_headings.index("4s")].text)
+        dismissal['player_innings']['6s'] = Preprocess.preprocess(
+            numbers[number_headings.index("6s")].text)
+
         # dismissal['venue'] = heading.split("-")[0].split('at')[1].strip()
         dismissal['date'] = heading.split("-")[1].strip()
-        dismissal['stadium'] = Preprocess.preprocess(soup.find(class_ = 'stadium-details')
+        dismissal['stadium'] = Preprocess.preprocess(soup.find(class_='stadium-details')
                                                      .find('span').text)
         dismissal['innings'] = i + 1
         dismissal['team'] = {}
@@ -109,7 +123,7 @@ def scrapeByYear(player, country, year):
             scrapeSeries(player, country, series_url)
 
 
-for i in range(2010, 2019) :
+for i in range(2010, 2019):
     scrapeByYear("Kohli", "India", str(i))
 
 with open('Kohli-odi-dismissals-from-2010-2018.json', 'w') as outfile:
