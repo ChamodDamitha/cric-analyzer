@@ -66,7 +66,7 @@ def scrapeMatch(player, country, url, heading):
         dismissal['ball'] = Preprocess.preprocess(player_dismissal.find_all('span')[0].text)
         dismissal['description'] = Preprocess.preprocess(player_dismissal.text)
 
-        countries = heading.split("-")[0].split(":")[1].split("v")
+        countries = heading.split("-")[0].split(":")[1].split("at")[0].split("v")
         for c in countries:
             if country not in c:
                 dismissal['opposition']['country'] = c.strip()
