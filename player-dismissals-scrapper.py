@@ -92,7 +92,8 @@ def scrapeSeries(player, country, url):
     for match in soup.find_all(class_='potMatchMenuLink'):
         if "Scorecard" in match.text:
             match_url = match.get('href')
-            if country.lower() in match_url:
+            country_name = '-'.join(country.lower().strip().split(" "))
+            if country_name in match_url:
                 scrapeMatch(player, country, match_url,
                             Preprocess.preprocess(match_summaries[i].parent.text))
             i += 1
@@ -124,9 +125,9 @@ def scrapeByYear(player, country, year):
 
 
 for i in range(2010, 2019):
-    scrapeByYear("Kohli", "India", str(i))
+    scrapeByYear("Chandimal", "Sri Lanka", str(i))
 
-with open('Kohli-odi-dismissals-from-2010-2018.json', 'w') as outfile:
+with open('Chandimal-odi-dismissals-from-2010-2018.json', 'w') as outfile:
     json.dump(dismissals, outfile)
 
 # scrapeMatch("Sharma", "India",
