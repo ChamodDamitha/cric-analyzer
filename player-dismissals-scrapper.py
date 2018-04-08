@@ -153,11 +153,16 @@ def scrapeByYear(player, country, year):
             scrapeSeries(player, country, series_url)
 
 
-for i in range(2010, 2019):
-    scrapeByYear("Kohli", "India", str(i))
+players = [('Kohli', 'India'), ('Dhoni', 'India'), ('Sharma', 'India'),
+           ('Chandimal', 'Sri Lanka'), ('Mathews', 'Sri Lanka'), ('Tharanga', 'Sri Lanka'),
+           ('Smith', 'Australia'), ('Warner', 'Australia'), ('Finch', 'Australia')]
 
-with open('Kohli-odi-dismissals-from-2010-2018.json', 'w') as outfile:
-    json.dump(dismissals, outfile)
+for player in players:
+    for i in range(2010, 2019):
+        scrapeByYear(player[0], player[1], str(i))
+
+    with open(player[0] + '-odi-dismissals-from-2010-2018.json', 'w') as outfile:
+        json.dump(dismissals, outfile)
 
 # scrapeMatch("Gambhir", "India",
 #             "http://www.espncricinfo.com/series/12457/scorecard/564784/sri-lanka-vs-india-4th-odi/",
