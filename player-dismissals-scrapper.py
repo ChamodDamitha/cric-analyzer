@@ -85,9 +85,13 @@ def scrapeMatch(player, country, url, heading):
                 dismissal['opposition']['country'] = c.strip()
                 break
 
-        dismissal['opposition']['total'] = Preprocess.preprocess(scorecards[1 - i] \
-                                                                 .find(class_='wrap total') \
-                                                                 .find_all('div')[1].text)
+        if len(scorecards) > 1 :
+            dismissal['opposition']['total'] = Preprocess.preprocess(scorecards[1 - i] \
+                                                                     .find(class_='wrap total') \
+                                                                     .find_all('div')[1].text)
+        else :
+            dismissal['opposition']['total'] = 'DNB'
+
         dismissal['team']['total'] = Preprocess.preprocess(scorecards[i] \
                                                            .find(class_='wrap total') \
                                                            .find_all('div')[1].text)
