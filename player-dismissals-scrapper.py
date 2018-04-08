@@ -92,7 +92,7 @@ def scrapeMatch(player, country, url, heading):
                                                            .find(class_='wrap total') \
                                                            .find_all('div')[1].text)
         dismissal['bowler'] = {}
-        if 'run out' not in wayOut :
+        if 'run out' not in wayOut and 'retired hurt' not in wayOut:
             bowler = None
             temp = wayOut.split(" ")
             for t in temp :
@@ -153,7 +153,7 @@ def scrapeByYear(player, country, year):
             scrapeSeries(player, country, series_url)
 
 
-players = [('Kohli', 'India'), ('Dhoni', 'India'), ('Sharma', 'India'),
+players = [('Sharma', 'India'), ('Kohli', 'India'), ('Dhoni', 'India'),
            ('Chandimal', 'Sri Lanka'), ('Mathews', 'Sri Lanka'), ('Tharanga', 'Sri Lanka'),
            ('Smith', 'Australia'), ('Warner', 'Australia'), ('Finch', 'Australia')]
 
