@@ -1,7 +1,10 @@
 [
   {
     "innings": 2,
-    "ball": " 40.6 ",
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Ravichandran Ashwin"
+    },
     "opposition": {
       "country": "India",
       "total": "268/9 (50 Overs, RR: 5.36)"
@@ -13,6 +16,7 @@
       "6s": "5"
     },
     "player": "LD Chandimal ",
+    "ball": " 40.6 ",
     "stadium": "Harare Sports Club",
     "team": {
       "country": "Sri Lanka",
@@ -25,7 +29,10 @@
   },
   {
     "innings": 1,
-    "ball": " 24.3 ",
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Prosper Utseya"
+    },
     "opposition": {
       "country": "Zimbabwe",
       "total": "240/2 (47.5 Overs, RR: 5.01)"
@@ -37,6 +44,7 @@
       "6s": "0"
     },
     "player": "LD Chandimal ",
+    "ball": " 24.3 ",
     "stadium": "Harare Sports Club",
     "team": {
       "country": "Sri Lanka",
@@ -49,7 +57,7 @@
   },
   {
     "innings": 1,
-    "ball": " 9.1 ",
+    "bowler": {},
     "opposition": {
       "country": "England",
       "total": "240 all out (45.5 Overs, RR: 5.23)"
@@ -61,6 +69,7 @@
       "6s": "0"
     },
     "player": "LD Chandimal",
+    "ball": " 9.1 ",
     "stadium": "Headingley, Leeds",
     "team": {
       "country": "Sri Lanka",
@@ -73,7 +82,10 @@
   },
   {
     "innings": 1,
-    "ball": " 4.1 ",
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "James Anderson"
+    },
     "opposition": {
       "country": "England",
       "total": "171/0 (23.5 Overs, RR: 7.17)"
@@ -85,6 +97,7 @@
       "6s": "0"
     },
     "player": "LD Chandimal",
+    "ball": " 4.1 ",
     "stadium": "Trent Bridge, Nottingham",
     "team": {
       "country": "Sri Lanka",
@@ -97,7 +110,10 @@
   },
   {
     "innings": 2,
-    "ball": " 26.3 ",
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Graeme Swann"
+    },
     "opposition": {
       "country": "England",
       "total": "268/9 (50 Overs, RR: 5.36)"
@@ -109,6 +125,7 @@
       "6s": "2"
     },
     "player": "LD Chandimal",
+    "ball": " 26.3 ",
     "stadium": "Old Trafford, Manchester",
     "team": {
       "country": "Sri Lanka",
@@ -121,7 +138,10 @@
   },
   {
     "innings": 1,
-    "ball": " 37.5 ",
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Preston Mommsen"
+    },
     "opposition": {
       "country": "Scotland",
       "total": "101 all out (32.4 Overs, RR: 3.09)"
@@ -133,6 +153,7 @@
       "6s": "0"
     },
     "player": "LD Chandimal ",
+    "ball": " 37.5 ",
     "stadium": "Grange Cricket Club, Raeburn Place, Edinburgh",
     "team": {
       "country": "Sri Lanka",
@@ -145,7 +166,10 @@
   },
   {
     "innings": 1,
-    "ball": " 19.1 ",
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "Doug Bollinger"
+    },
     "opposition": {
       "country": "Australia",
       "total": "192/3 (38.1 Overs, RR: 5.03)"
@@ -157,6 +181,7 @@
       "6s": "0"
     },
     "player": "LD Chandimal",
+    "ball": " 19.1 ",
     "stadium": "Pallekele International Cricket Stadium",
     "team": {
       "country": "Sri Lanka",
@@ -169,7 +194,10 @@
   },
   {
     "innings": 1,
-    "ball": " 20.2 ",
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "Doug Bollinger"
+    },
     "opposition": {
       "country": "Australia",
       "total": "211/2 (38.2 Overs, RR: 5.50)"
@@ -181,6 +209,7 @@
       "6s": "0"
     },
     "player": "LD Chandimal",
+    "ball": " 20.2 ",
     "stadium": "Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",
     "team": {
       "country": "Sri Lanka",
@@ -193,7 +222,10 @@
   },
   {
     "innings": 1,
-    "ball": " 38.3 ",
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "Doug Bollinger"
+    },
     "opposition": {
       "country": "Australia",
       "total": "208 all out (44.2 Overs, RR: 4.69)"
@@ -205,6 +237,7 @@
       "6s": "0"
     },
     "player": "LD Chandimal",
+    "ball": " 38.3 ",
     "stadium": "Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",
     "team": {
       "country": "Sri Lanka",
@@ -217,7 +250,10 @@
   },
   {
     "innings": 1,
-    "ball": " 8.4 ",
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Umar Gul"
+    },
     "opposition": {
       "country": "Pakistan",
       "total": "135/4 (34.1 Overs, RR: 3.95)"
@@ -229,6 +265,7 @@
       "6s": "0"
     },
     "player": "LD Chandimal",
+    "ball": " 8.4 ",
     "stadium": "Pallekele International Cricket Stadium",
     "team": {
       "country": "Sri Lanka",
@@ -241,7 +278,10 @@
   },
   {
     "innings": 1,
-    "ball": " 30.6 ",
+    "bowler": {
+      "type": "Legbreak googly",
+      "name": "Shahid Afridi"
+    },
     "opposition": {
       "country": "Pakistan",
       "total": "204 all out (46.2 Overs, RR: 4.40)"
@@ -253,6 +293,7 @@
       "6s": "0"
     },
     "player": "LD Chandimal",
+    "ball": " 30.6 ",
     "stadium": "Pallekele International Cricket Stadium",
     "team": {
       "country": "Sri Lanka",
@@ -265,7 +306,10 @@
   },
   {
     "innings": 1,
-    "ball": " 25.3 ",
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Mohammad Hafeez"
+    },
     "opposition": {
       "country": "Pakistan",
       "total": "199 all out (45 Overs, RR: 4.42)"
@@ -277,6 +321,7 @@
       "6s": "0"
     },
     "player": "LD Chandimal",
+    "ball": " 25.3 ",
     "stadium": "R.Premadasa Stadium, Khettarama, Colombo",
     "team": {
       "country": "Sri Lanka",
@@ -289,7 +334,10 @@
   },
   {
     "innings": 2,
-    "ball": " 33.2 ",
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Mohammad Hafeez"
+    },
     "opposition": {
       "country": "Pakistan",
       "total": "247/7 (50 Overs, RR: 4.94)"
@@ -301,6 +349,7 @@
       "6s": "0"
     },
     "player": "LD Chandimal",
+    "ball": " 33.2 ",
     "stadium": "R.Premadasa Stadium, Khettarama, Colombo",
     "team": {
       "country": "Sri Lanka",
@@ -313,7 +362,10 @@
   },
   {
     "innings": 2,
-    "ball": " 25.2 ",
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Umesh Yadav"
+    },
     "opposition": {
       "country": "India",
       "total": "314/6 (50 Overs, RR: 6.28)"
@@ -325,6 +377,7 @@
       "6s": "0"
     },
     "player": "LD Chandimal",
+    "ball": " 25.2 ",
     "stadium": "Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",
     "team": {
       "country": "Sri Lanka",
@@ -337,7 +390,10 @@
   },
   {
     "innings": 1,
-    "ball": " 5.3 ",
+    "bowler": {
+      "type": "Left-arm medium-fast",
+      "name": "Irfan Pathan"
+    },
     "opposition": {
       "country": "India",
       "total": "288/5 (49.4 Overs, RR: 5.79)"
@@ -349,6 +405,7 @@
       "6s": "0"
     },
     "player": "LD Chandimal",
+    "ball": " 5.3 ",
     "stadium": "R.Premadasa Stadium, Khettarama, Colombo",
     "team": {
       "country": "Sri Lanka",
@@ -361,7 +418,10 @@
   },
   {
     "innings": 1,
-    "ball": " 31.4 ",
+    "bowler": {
+      "type": "Legbreak googly",
+      "name": "Manoj Tiwary"
+    },
     "opposition": {
       "country": "India",
       "total": "255/4 (42.2 Overs, RR: 6.02)"
@@ -373,6 +433,7 @@
       "6s": "0"
     },
     "player": "LD Chandimal ",
+    "ball": " 31.4 ",
     "stadium": "R.Premadasa Stadium, Khettarama, Colombo",
     "team": {
       "country": "Sri Lanka",
@@ -385,7 +446,10 @@
   },
   {
     "innings": 2,
-    "ball": " 10.1 ",
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Ashok Dinda"
+    },
     "opposition": {
       "country": "India",
       "total": "294/7 (50 Overs, RR: 5.88)"
@@ -397,6 +461,7 @@
       "6s": "0"
     },
     "player": "LD Chandimal ",
+    "ball": " 10.1 ",
     "stadium": "Pallekele International Cricket Stadium",
     "team": {
       "country": "Sri Lanka",
@@ -409,7 +474,10 @@
   },
   {
     "innings": 1,
-    "ball": " 31.1 ",
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Marlon Samuels"
+    },
     "opposition": {
       "country": "West Indies",
       "total": "209/4 (37.5 Overs, RR: 5.52)"
@@ -421,6 +489,7 @@
       "6s": "1"
     },
     "player": "LD Chandimal",
+    "ball": " 31.1 ",
     "stadium": "Sabina Park, Kingston, Jamaica",
     "team": {
       "country": "Sri Lanka",
@@ -433,7 +502,10 @@
   },
   {
     "innings": 1,
-    "ball": " 6.2 ",
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Kemar Roach"
+    },
     "opposition": {
       "country": "West Indies",
       "total": "190/9 (41 Overs, RR: 4.63)"
@@ -445,6 +517,7 @@
       "6s": "0"
     },
     "player": "LD Chandimal",
+    "ball": " 6.2 ",
     "stadium": "Queen's Park Oval, Port of Spain, Trinidad",
     "team": {
       "country": "Sri Lanka",
@@ -457,7 +530,10 @@
   },
   {
     "innings": 2,
-    "ball": " 15.6 ",
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Ravindra Jadeja"
+    },
     "opposition": {
       "country": "India",
       "total": "119/3 (29 Overs, RR: 4.10)"
@@ -469,6 +545,7 @@
       "6s": "1"
     },
     "player": "LD Chandimal",
+    "ball": " 15.6 ",
     "stadium": "Queen's Park Oval, Port of Spain, Trinidad",
     "team": {
       "country": "Sri Lanka",
@@ -481,7 +558,10 @@
   },
   {
     "innings": 1,
-    "ball": " 42.2 ",
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Ravindra Jadeja"
+    },
     "opposition": {
       "country": "India",
       "total": "203/9 (49.4 Overs, RR: 4.08)"
@@ -493,6 +573,7 @@
       "6s": "0"
     },
     "player": "LD Chandimal",
+    "ball": " 42.2 ",
     "stadium": "Queen's Park Oval, Port of Spain, Trinidad",
     "team": {
       "country": "Sri Lanka",
@@ -505,7 +586,10 @@
   },
   {
     "innings": 1,
-    "ball": " 46.4 ",
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Morne Morkel"
+    },
     "opposition": {
       "country": "South Africa",
       "total": "104/5 (21 Overs, RR: 4.95)"
@@ -517,6 +601,7 @@
       "6s": "0"
     },
     "player": "LD Chandimal (c)",
+    "ball": " 46.4 ",
     "stadium": "R.Premadasa Stadium, Khettarama, Colombo",
     "team": {
       "country": "Sri Lanka",
@@ -529,7 +614,10 @@
   },
   {
     "innings": 2,
-    "ball": " 26.2 ",
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Ryan McLaren"
+    },
     "opposition": {
       "country": "South Africa",
       "total": "223/7 (50 Overs, RR: 4.46)"
@@ -541,6 +629,7 @@
       "6s": "0"
     },
     "player": "LD Chandimal",
+    "ball": " 26.2 ",
     "stadium": "Pallekele International Cricket Stadium",
     "team": {
       "country": "Sri Lanka",
@@ -553,7 +642,10 @@
   },
   {
     "innings": 1,
-    "ball": " 28.2 ",
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Kevin O'Brien"
+    },
     "opposition": {
       "country": "Ireland",
       "total": "140 all out (39.5 Overs, RR: 3.51)"
@@ -565,6 +657,7 @@
       "6s": "0"
     },
     "player": "LD Chandimal ",
+    "ball": " 28.2 ",
     "stadium": "Castle Avenue, Dublin",
     "team": {
       "country": "Sri Lanka",
@@ -577,7 +670,10 @@
   },
   {
     "innings": 2,
-    "ball": " 20.3 ",
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Chris Jordan"
+    },
     "opposition": {
       "country": "England",
       "total": "247/6 (39 Overs, RR: 6.33)"
@@ -589,6 +685,7 @@
       "6s": "0"
     },
     "player": "LD Chandimal",
+    "ball": " 20.3 ",
     "stadium": "Kennington Oval, London",
     "team": {
       "country": "Sri Lanka",
@@ -601,7 +698,10 @@
   },
   {
     "innings": 1,
-    "ball": " 48.3 ",
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "Harry Gurney"
+    },
     "opposition": {
       "country": "England",
       "total": "99 all out (26.1 Overs, RR: 3.78)"
@@ -613,6 +713,7 @@
       "6s": "0"
     },
     "player": "LD Chandimal",
+    "ball": " 48.3 ",
     "stadium": "Riverside Ground, Chester-le-Street",
     "team": {
       "country": "Sri Lanka",
@@ -625,7 +726,10 @@
   },
   {
     "innings": 1,
-    "ball": " 15.4 ",
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Chris Jordan"
+    },
     "opposition": {
       "country": "England",
       "total": "73/0 (12.1 Overs, RR: 6.00)"
@@ -637,6 +741,7 @@
       "6s": "0"
     },
     "player": "LD Chandimal",
+    "ball": " 15.4 ",
     "stadium": "Old Trafford, Manchester",
     "team": {
       "country": "Sri Lanka",
@@ -649,7 +754,10 @@
   },
   {
     "innings": 1,
-    "ball": " 17.4 ",
+    "bowler": {
+      "type": "Left-arm fast",
+      "name": "Mohammad Irfan"
+    },
     "opposition": {
       "country": "Pakistan",
       "total": "277/6 (44.5 Overs, RR: 6.17)"
@@ -661,6 +769,7 @@
       "6s": "0"
     },
     "player": "LD Chandimal",
+    "ball": " 17.4 ",
     "stadium": "Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",
     "team": {
       "country": "Sri Lanka",
@@ -673,7 +782,10 @@
   },
   {
     "innings": 2,
-    "ball": " 26.6 ",
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Imad Wasim"
+    },
     "opposition": {
       "country": "Pakistan",
       "total": "316/4 (50 Overs, RR: 6.32)"
@@ -685,6 +797,7 @@
       "6s": "0"
     },
     "player": "LD Chandimal ",
+    "ball": " 26.6 ",
     "stadium": "R.Premadasa Stadium, Khettarama, Colombo",
     "team": {
       "country": "Sri Lanka",
@@ -697,7 +810,10 @@
   },
   {
     "innings": 1,
-    "ball": " 35.6 ",
+    "bowler": {
+      "type": "Left-arm fast",
+      "name": "Mohammad Irfan"
+    },
     "opposition": {
       "country": "Pakistan",
       "total": "257/3 (40.5 Overs, RR: 6.29)"
@@ -709,6 +825,7 @@
       "6s": "0"
     },
     "player": "LD Chandimal ",
+    "ball": " 35.6 ",
     "stadium": "R.Premadasa Stadium, Khettarama, Colombo",
     "team": {
       "country": "Sri Lanka",
@@ -721,7 +838,10 @@
   },
   {
     "innings": 1,
-    "ball": " 40.5 ",
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "Rahat Ali"
+    },
     "opposition": {
       "country": "Pakistan",
       "total": "203 all out (37.2 Overs, RR: 5.43)"
@@ -733,6 +853,7 @@
       "6s": "1"
     },
     "player": "LD Chandimal ",
+    "ball": " 40.5 ",
     "stadium": "Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",
     "team": {
       "country": "Sri Lanka",
@@ -745,7 +866,10 @@
   },
   {
     "innings": 1,
-    "ball": " 48.3 ",
+    "bowler": {
+      "type": "Right-arm medium",
+      "name": "Barry McCarthy"
+    },
     "opposition": {
       "country": "Ireland",
       "total": "241 all out (45 Overs, RR: 5.35)"
@@ -757,6 +881,7 @@
       "6s": "0"
     },
     "player": "LD Chandimal ",
+    "ball": " 48.3 ",
     "stadium": "The Village, Malahide, Dublin",
     "team": {
       "country": "Sri Lanka",
@@ -769,7 +894,10 @@
   },
   {
     "innings": 1,
-    "ball": " 25.3 ",
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Moeen Ali"
+    },
     "opposition": {
       "country": "England",
       "total": "286/8 (50 Overs, RR: 5.72)"
@@ -781,6 +909,7 @@
       "6s": "0"
     },
     "player": "LD Chandimal ",
+    "ball": " 25.3 ",
     "stadium": "Trent Bridge, Nottingham",
     "team": {
       "country": "Sri Lanka",
@@ -793,7 +922,7 @@
   },
   {
     "innings": 1,
-    "ball": " 39.6 ",
+    "bowler": {},
     "opposition": {
       "country": "England",
       "total": "256/0 (34.1 Overs, RR: 7.49)"
@@ -805,6 +934,7 @@
       "6s": "0"
     },
     "player": "LD Chandimal ",
+    "ball": " 39.6 ",
     "stadium": "Edgbaston, Birmingham",
     "team": {
       "country": "Sri Lanka",
@@ -817,7 +947,10 @@
   },
   {
     "innings": 1,
-    "ball": " 35.5 ",
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Chris Woakes"
+    },
     "opposition": {
       "country": "England",
       "total": "16/1 (4 Overs, RR: 4.00)"
@@ -829,6 +962,7 @@
       "6s": "0"
     },
     "player": "LD Chandimal ",
+    "ball": " 35.5 ",
     "stadium": "County Ground, Bristol",
     "team": {
       "country": "Sri Lanka",
@@ -841,7 +975,10 @@
   },
   {
     "innings": 1,
-    "ball": " 36.4 ",
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "David Willey"
+    },
     "opposition": {
       "country": "England",
       "total": "309/4 (40.1 Overs, RR: 7.69)"
@@ -853,6 +990,7 @@
       "6s": "3"
     },
     "player": "LD Chandimal ",
+    "ball": " 36.4 ",
     "stadium": "Kennington Oval, London",
     "team": {
       "country": "Sri Lanka",
@@ -865,7 +1003,10 @@
   },
   {
     "innings": 2,
-    "ball": " 40.6 ",
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "David Willey"
+    },
     "opposition": {
       "country": "England",
       "total": "324/7 (50 Overs, RR: 6.48)"
@@ -877,6 +1018,7 @@
       "6s": "1"
     },
     "player": "LD Chandimal ",
+    "ball": " 40.6 ",
     "stadium": "Sophia Gardens, Cardiff",
     "team": {
       "country": "Sri Lanka",
@@ -889,31 +1031,10 @@
   },
   {
     "innings": 1,
-    "ball": " 24.1 ",
-    "opposition": {
-      "country": "Australia",
-      "total": "206 all out (47.2 Overs, RR: 4.35)"
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "James Faulkner"
     },
-    "player_innings": {
-      "runs": "48",
-      "balls": "67",
-      "4s": "2",
-      "6s": "1"
-    },
-    "player": "LD Chandimal ",
-    "stadium": "R.Premadasa Stadium, Khettarama, Colombo",
-    "team": {
-      "country": "Sri Lanka",
-      "total": "288 all out (48.5 Overs, RR: 5.89)"
-    },
-    "date": "Aug 24, 2016",
-    "scoreAt": " 137/3 ",
-    "wayOut": "lbw b Zampa",
-    "description": " 24.1  Wade fails to collect the ball and misses the stumping! Chandimal came down the track to work the ball to leg against the turn but missed it completely! Wade missed it too after the ball clipped the top of the back pad and he now insists on using the review for lbw. Smith calls for the review. Replays show the ball is close to the inside edge of the bat as Chandimal tried to flick on the half-volley, but there's no HotSpot. Third umpire now checking for the rest - it's pitched on leg, it's going straight and it's hitting the stumps. Decision overturned and Wade pumps his fist!  137/3 "
-  },
-  {
-    "innings": 1,
-    "ball": " 49.2 ",
     "opposition": {
       "country": "Australia",
       "total": "227/8 (46 Overs, RR: 4.93)"
@@ -925,6 +1046,7 @@
       "6s": "0"
     },
     "player": "LD Chandimal",
+    "ball": " 49.2 ",
     "stadium": "Rangiri Dambulla International Stadium",
     "team": {
       "country": "Sri Lanka",
@@ -937,7 +1059,10 @@
   },
   {
     "innings": 1,
-    "ball": " 8.5 ",
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Scott Boland"
+    },
     "opposition": {
       "country": "Australia",
       "total": "217/4 (31 Overs, RR: 7.00)"
@@ -949,6 +1074,7 @@
       "6s": "0"
     },
     "player": "LD Chandimal ",
+    "ball": " 8.5 ",
     "stadium": "Rangiri Dambulla International Stadium",
     "team": {
       "country": "Sri Lanka",
@@ -961,7 +1087,10 @@
   },
   {
     "innings": 1,
-    "ball": " 15.2 ",
+    "bowler": {
+      "type": "Left-arm fast",
+      "name": "Mitchell Starc"
+    },
     "opposition": {
       "country": "Australia",
       "total": "199/5 (43 Overs, RR: 4.62)"
@@ -973,6 +1102,7 @@
       "6s": "0"
     },
     "player": "LD Chandimal (c)",
+    "ball": " 15.2 ",
     "stadium": "Pallekele International Cricket Stadium",
     "team": {
       "country": "Sri Lanka",
@@ -985,7 +1115,10 @@
   },
   {
     "innings": 1,
-    "ball": " 25.4 ",
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Hardik Pandya"
+    },
     "opposition": {
       "country": "India",
       "total": "218/4 (45.1 Overs, RR: 4.82)"
@@ -997,6 +1130,7 @@
       "6s": "0"
     },
     "player": "LD Chandimal",
+    "ball": " 25.4 ",
     "stadium": "Pallekele International Cricket Stadium",
     "team": {
       "country": "Sri Lanka",

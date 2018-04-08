@@ -5,6 +5,18 @@ from pre_process import Preprocess
 
 dismissals = []
 
+def getBowlerInfo(url) :
+    webpage = urlopen(url).read()
+    soup = BeautifulSoup(webpage, "html5lib")
+    data = {}
+    data['name'] = Preprocess.preprocess(soup.find(class_ = 'ciPlayernametxt').find('h1').text)\
+        .strip()
+    for p in soup.find_all(class_ = 'ciPlayerinformationtxt') :
+        if 'Bowling style' in p.text :
+            data['type'] = Preprocess.preprocess(p.find('span').text)
+            break
+    return data
+
 
 def scrapeMatch(player, country, url, heading):
     print('match : ' + url)
@@ -58,13 +70,14 @@ def scrapeMatch(player, country, url, heading):
         dismissal['stadium'] = Preprocess.preprocess(soup.find(class_='stadium-details')
                                                      .find('span').text)
         dismissal['innings'] = i + 1
+        dismissal['bowler'] = {}
         dismissal['team'] = {}
         dismissal['opposition'] = {}
         dismissal['team']['country'] = country
         dismissal['wayOut'] = wayOut
-        dismissal['scoreAt'] = Preprocess.preprocess(player_dismissal.find_all('span')[1].text)
-        dismissal['ball'] = Preprocess.preprocess(player_dismissal.find_all('span')[0].text)
-        dismissal['description'] = Preprocess.preprocess(player_dismissal.text)
+        dismissal['scoreAt'] = Preprocess.preprocess(player_dismissal.find_all('span')[1].text).strip()
+        dismissal['ball'] = Preprocess.preprocess(player_dismissal.find_all('span')[0].text).strip()
+        dismissal['description'] = Preprocess.preprocess(player_dismissal.text).strip()
 
         countries = heading.split("-")[0].split(":")[1].split("at")[0].split("v")
         for c in countries:
@@ -78,7 +91,23 @@ def scrapeMatch(player, country, url, heading):
         dismissal['team']['total'] = Preprocess.preprocess(scorecards[i] \
                                                            .find(class_='wrap total') \
                                                            .find_all('div')[1].text)
-
+        dismissal['bowler'] = {}
+        if 'run out' not in wayOut :
+            bowler = None
+            temp = wayOut.split(" ")
+            for t in temp :
+                if t.strip() == 'b' :
+                    bowler = temp[temp.index(t) + 1]
+            isBreak = False
+            for bowlerSection in soup.find_all(class_ = 'scorecard-section bowling') :
+                for link in bowlerSection.find_all('a') :
+                    # print(link.text)
+                    if bowler in link.text :
+                        dismissal['bowler'] = getBowlerInfo(link.get('href'))
+                        isBreak = True
+                        break
+                if isBreak :
+                    break
         print(dismissal)
         dismissals.append(dismissal)
 
@@ -125,11 +154,11 @@ def scrapeByYear(player, country, year):
 
 
 for i in range(2010, 2019):
-    scrapeByYear("Chandimal", "Sri Lanka", str(i))
+    scrapeByYear("Kohli", "India", str(i))
 
-with open('Chandimal-odi-dismissals-from-2010-2018.json', 'w') as outfile:
+with open('Kohli-odi-dismissals-from-2010-2018.json', 'w') as outfile:
     json.dump(dismissals, outfile)
 
-# scrapeMatch("Sharma", "India",
+# scrapeMatch("Gambhir", "India",
 #             "http://www.espncricinfo.com/series/12457/scorecard/564784/sri-lanka-vs-india-4th-odi/",
 #             "1sd : Sri Lanka vs India at Colombo - date_sdfs")
