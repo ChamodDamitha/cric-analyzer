@@ -1,0 +1,43 @@
+1) Analyze player dismissals over time to identify patterns
+    - match type - ODI/T20/Test - tour or knockout
+    - bowler type, speed, line and length
+    - match situation
+        - chasing or not
+        - RRR and CRR
+        - Wickets fallen
+    - player innings
+        - runs
+        - SR
+    - venue
+        - home or away
+        - pitch type
+
+2) Predict match outcomes
+    - pitch report
+        - extract details using report
+    - match type - ODI/T20/Test - tour or knockout
+    - teams
+        - rankings (?)
+        - bowlers
+            - types - fast/spin/..
+        - batsman
+            - types - attacking/defensive/...
+        - innings - 1/2/3/4
+        - runs
+        - overs
+        - wickets
+
+3) Analyze Good scores of batsmen and identify strengths
+    - match type - ODI/T20/Test - tour or knockout
+    - bowlers
+        - type
+    - match situation
+        - chasing or not
+        - Wickets fallen at arrival
+    - player innings
+        - runs
+        - SR
+    - venue
+        - home or away
+        - pitch type
+    - scoring areas
