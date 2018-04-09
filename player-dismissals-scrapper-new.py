@@ -167,11 +167,11 @@ def scrapePlayerDismissals(player_name):
             print(dismissal)
             if dismissal: dismissals.append(dismissal)
 
-        with open('-'.join(player_name.split(" ")) + '-odi-dismissals.json', 'w') as outfile:
+        with open('Samples/Dismissals/' + '-'.join(player_name.split(" ")) + '-odi-dismissals.json', 'w') as outfile:
             json.dump(dismissals, outfile)
 
 
-players = ['Kusal Mendis', 'MS Dhoni','Dinesh Chandimal', 'Angelo Mathews', 'Virat Kohli', 'Rohit Sharma']
+players = ['Kusal Mendis', 'MS Dhoni', 'Dinesh Chandimal', 'Angelo Mathews', 'Virat Kohli', 'Rohit Sharma']
 
 for player in players:
     scrapePlayerDismissals(player)

@@ -1,0 +1,5911 @@
+[
+  {
+    "bowler": {},
+    "opposition": {
+      "country": "Bangladesh",
+      "total": "234/8 (50 Overs, RR: 4.68)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "run out"
+    },
+    "player_innings": {
+      "runs": "0",
+      "balls": "1",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "7"
+    },
+    "Stadium": "Chittagong",
+    "team": {
+      "country": "INDIA ",
+      "total": "245/8 (50 Overs, RR: 4.90)"
+    },
+    "date": "23 Dec 2004"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Mashrafe Mortaza"
+    },
+    "opposition": {
+      "country": "Bangladesh",
+      "total": "229/9 (50 Overs, RR: 4.58)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "12",
+      "balls": "11",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "7"
+    },
+    "Stadium": "Dhaka",
+    "team": {
+      "country": "INDIA ",
+      "total": "214 all out (47.5 Overs, RR: 4.47)"
+    },
+    "date": "26 Dec 2004"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Arshad Khan"
+    },
+    "opposition": {
+      "country": "Pakistan",
+      "total": "194 all out (45.2 Overs, RR: 4.27)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "3",
+      "balls": "7",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "7"
+    },
+    "Stadium": "Kochi",
+    "team": {
+      "country": "INDIA ",
+      "total": "281/8 (50 Overs, RR: 5.62)"
+    },
+    "date": "2 Apr 2005"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Mohammad Sami"
+    },
+    "opposition": {
+      "country": "Pakistan",
+      "total": "298 all out (44.1 Overs, RR: 6.74)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "148",
+      "balls": "123",
+      "4s": "15",
+      "6s": "4",
+      "batting_position": "3"
+    },
+    "Stadium": "Visakhapatnam",
+    "team": {
+      "country": "INDIA ",
+      "total": "356/9 (50 Overs, RR: 7.12)"
+    },
+    "date": "5 Apr 2005"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Naved-ul-Hasan"
+    },
+    "opposition": {
+      "country": "Pakistan",
+      "total": "319/9 (50 Overs, RR: 6.38)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "28",
+      "balls": "24",
+      "4s": "5",
+      "6s": "0",
+      "batting_position": "3"
+    },
+    "Stadium": "Jamshedpur",
+    "team": {
+      "country": "INDIA ",
+      "total": "213 all out (41.4 Overs, RR: 5.11)"
+    },
+    "date": "9 Apr 2005"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Shoaib Malik"
+    },
+    "opposition": {
+      "country": "Pakistan",
+      "total": "319/7 (48 Overs, RR: 6.64)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "47",
+      "balls": "64",
+      "4s": "4",
+      "6s": "1",
+      "batting_position": "3"
+    },
+    "Stadium": "Ahmedabad",
+    "team": {
+      "country": "INDIA ",
+      "total": "315/6 (48 Overs, RR: 6.56)"
+    },
+    "date": "12 Apr 2005"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Naved-ul-Hasan"
+    },
+    "opposition": {
+      "country": "Pakistan",
+      "total": "252/5 (42.1 Overs, RR: 5.97)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "11",
+      "balls": "16",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "3"
+    },
+    "Stadium": "Kanpur",
+    "team": {
+      "country": "INDIA ",
+      "total": "249/6 (50 Overs, RR: 4.98)"
+    },
+    "date": "15 Apr 2005"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Arshad Khan"
+    },
+    "opposition": {
+      "country": "Pakistan",
+      "total": "303/8 (50 Overs, RR: 6.06)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "24",
+      "balls": "38",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "3"
+    },
+    "Stadium": "Delhi",
+    "team": {
+      "country": "INDIA ",
+      "total": "144 all out (37 Overs, RR: 3.89)"
+    },
+    "date": "17 Apr 2005"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Dilhara Lokuhettige"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "209/7 (48.2 Overs, RR: 4.32)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "2",
+      "balls": "7",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "player": "MS Dhoni ",
+    "ball": "3.3",
+    "Stadium": "Dambulla",
+    "team": {
+      "country": "INDIA ",
+      "total": "205/9 (50 Overs, RR: 4.10)"
+    },
+    "date": "30 Jul 2005",
+    "scoreAt": "22/2",
+    "description": "3.3  first ODI wicket! pitched up and angling in, Dhoni plays all over it and gets bowled, India in trouble here!  22/2"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Tillakaratne Dilshan"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "221/6 (48 Overs, RR: 4.60)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "20",
+      "balls": "27",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "4"
+    },
+    "Stadium": "Dambulla",
+    "team": {
+      "country": "INDIA ",
+      "total": "220/8 (50 Overs, RR: 4.40)"
+    },
+    "date": "3 Aug 2005"
+  },
+  {
+    "bowler": {
+      "type": "Legbreak",
+      "name": "Upul Chandana"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "281/9 (50 Overs, RR: 5.62)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "player_innings": {
+      "runs": "7",
+      "balls": "11",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "Stadium": "Colombo (RPS)",
+    "team": {
+      "country": "INDIA ",
+      "total": "263/9 (50 Overs, RR: 5.26)"
+    },
+    "date": "9 Aug 2005"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Andre Adams"
+    },
+    "opposition": {
+      "country": "New Zealand",
+      "total": "215 all out (43.1 Overs, RR: 4.98)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "2",
+      "balls": "5",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "7"
+    },
+    "player": "MS Dhoni ",
+    "ball": "11.5",
+    "Stadium": "Bulawayo",
+    "team": {
+      "country": "INDIA ",
+      "total": "164 all out (37.2 Overs, RR: 4.39)"
+    },
+    "date": "26 Aug 2005",
+    "scoreAt": "43/7",
+    "description": "11.5  and the procession continues! short of a good length delivery outside the off stump, Dhoni stays back and slashes at it, ball clips the outside edge and goes straight to the keeper, second wicket for Adams  43/7"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium",
+      "name": "Anthony Ireland"
+    },
+    "opposition": {
+      "country": "Zimbabwe",
+      "total": "65 all out (24.3 Overs, RR: 2.65)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "56",
+      "balls": "46",
+      "4s": "2",
+      "6s": "4",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni ",
+    "ball": "49.3",
+    "Stadium": "Harare",
+    "team": {
+      "country": "INDIA ",
+      "total": "226/6 (50 Overs, RR: 4.52)"
+    },
+    "date": "29 Aug 2005",
+    "scoreAt": "224/5",
+    "description": "49.3  Ireland to Dhoni, OUT (Caught), pitched up, Dhoni tries to hit but straight to long-off fielder  224/5"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium",
+      "name": "Scott Styris"
+    },
+    "opposition": {
+      "country": "New Zealand",
+      "total": "278/4 (48.1 Overs, RR: 5.77)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "player_innings": {
+      "runs": "11",
+      "balls": "16",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "7"
+    },
+    "player": "MS Dhoni ",
+    "ball": "43.5",
+    "Stadium": "Harare",
+    "team": {
+      "country": "INDIA ",
+      "total": "276 all out (49.3 Overs, RR: 5.57)"
+    },
+    "date": "6 Sep 2005",
+    "scoreAt": "230/6",
+    "description": "43.5  Styris to Dhoni, gone! good ball pitched outside off stump, goes for a pull on the front foot, misses it, gets hit on the pad, loud shout, given by Umpire Barbour, Dhoni was unlucky there, the height was the problem.  230/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Dilhara Fernando"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "198 all out (35.4 Overs, RR: 5.55)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "38",
+      "balls": "28",
+      "4s": "3",
+      "6s": "2",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni ",
+    "ball": "47.2",
+    "Stadium": "Nagpur",
+    "team": {
+      "country": "INDIA ",
+      "total": "350/6 (50 Overs, RR: 7.00)"
+    },
+    "date": "25 Oct 2005",
+    "scoreAt": "316/5",
+    "description": "47.2  gone! Dhoni is outdone by a cunning change of pace, ball goes high up towards mid-off, Jayawardene moves across and takes a fantastic diving catch - Fernando gets one to his name  316/5"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "Nuwan Zoysa"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "286/5 (47.4 Overs, RR: 6.00)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "player_innings": {
+      "runs": "0",
+      "balls": "1",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "3"
+    },
+    "Stadium": "Ahmedabad",
+    "team": {
+      "country": "INDIA ",
+      "total": "285/8 (50 Overs, RR: 5.70)"
+    },
+    "date": "6 Nov 2005"
+  },
+  {
+    "bowler": {
+      "type": "Legbreak",
+      "name": "Upul Chandana"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "244/9 (50 Overs, RR: 4.88)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "80",
+      "balls": "73",
+      "4s": "9",
+      "6s": "3",
+      "batting_position": "4"
+    },
+    "Stadium": "Vadodara",
+    "team": {
+      "country": "INDIA ",
+      "total": "245/5 (39.3 Overs, RR: 6.20)"
+    },
+    "date": "12 Nov 2005"
+  },
+  {
+    "bowler": {},
+    "opposition": {
+      "country": "South Africa",
+      "total": "252/5 (48.5 Overs, RR: 5.16)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "run out"
+    },
+    "player_innings": {
+      "runs": "17",
+      "balls": "28",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "8"
+    },
+    "Stadium": "Hyderabad (Deccan)",
+    "team": {
+      "country": "INDIA ",
+      "total": "249/9 (50 Overs, RR: 4.98)"
+    },
+    "date": "16 Nov 2005"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Andrew Hall"
+    },
+    "opposition": {
+      "country": "South Africa",
+      "total": "189/0 (35.5 Overs, RR: 5.27)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "14",
+      "balls": "26",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "8"
+    },
+    "Stadium": "Kolkata",
+    "team": {
+      "country": "INDIA ",
+      "total": "188 all out (45.5 Overs, RR: 4.10)"
+    },
+    "date": "25 Nov 2005"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Charl Langeveldt"
+    },
+    "opposition": {
+      "country": "South Africa",
+      "total": "221/6 (50 Overs, RR: 4.42)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "12",
+      "balls": "26",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "Stadium": "Mumbai",
+    "team": {
+      "country": "INDIA ",
+      "total": "224/5 (47.3 Overs, RR: 4.71)"
+    },
+    "date": "28 Nov 2005"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Mohammad Asif"
+    },
+    "opposition": {
+      "country": "Pakistan",
+      "total": "311/7 (47 Overs, RR: 6.61)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "68",
+      "balls": "53",
+      "4s": "11",
+      "6s": "1",
+      "batting_position": "4"
+    },
+    "player": "MS Dhoni ",
+    "ball": "33.5",
+    "Stadium": "Peshawar",
+    "team": {
+      "country": "INDIA ",
+      "total": "328 all out (49.4 Overs, RR: 6.60)"
+    },
+    "date": "6 Feb 2006",
+    "scoreAt": "225/3",
+    "description": "33.5  OUT! fraction short outside off stump, Dhoni goes back and cuts it away flat in the air to backward point, Shoaib Malik takes a blinder diving to his left, very good catch to give an important breakthrough  225/3"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Liam Plunkett"
+    },
+    "opposition": {
+      "country": "England",
+      "total": "164 all out (38.1 Overs, RR: 4.29)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "20",
+      "balls": "28",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "8"
+    },
+    "player": "MS Dhoni ",
+    "ball": "45.5",
+    "Stadium": "Delhi",
+    "team": {
+      "country": "INDIA ",
+      "total": "203 all out (46.4 Overs, RR: 4.35)"
+    },
+    "date": "28 Mar 2006",
+    "scoreAt": "201/8",
+    "description": "45.5  gone! Short ball outside off and Dhoni can only cut that to Collingwood at backward point, Plunkett gets a wicket and Dhoni's unusual innings comes to an end, India eight down now!  201/8"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Andrew Flintoff"
+    },
+    "opposition": {
+      "country": "England",
+      "total": "226 all out (49.5 Overs, RR: 4.53)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "38",
+      "balls": "55",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "7"
+    },
+    "player": "MS Dhoni ",
+    "ball": "45.4",
+    "Stadium": "Faridabad",
+    "team": {
+      "country": "INDIA ",
+      "total": "230/6 (49 Overs, RR: 4.69)"
+    },
+    "date": "31 Mar 2006",
+    "scoreAt": "210/6",
+    "description": "45.4  gone! good length delivery, cutting in from outside the off stump, Dhoni gets nowhere with a wild swing, ball clips the inside edge and crashes into the stumps, Flintoff strikes, this match is not over yet!  210/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Sajid Mahmood"
+    },
+    "opposition": {
+      "country": "England",
+      "total": "227/5 (42.4 Overs, RR: 5.32)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "96",
+      "balls": "106",
+      "4s": "10",
+      "6s": "3",
+      "batting_position": "2"
+    },
+    "player": "MS Dhoni ",
+    "ball": "38.1",
+    "Stadium": "Jamshedpur",
+    "team": {
+      "country": "INDIA ",
+      "total": "223 all out (48 Overs, RR: 4.64)"
+    },
+    "date": "12 Apr 2006",
+    "scoreAt": "186/6",
+    "description": "38.1  Gone! slower delivery and short on the off stump, Dhoni moves back and looks to turn it away onside, beaten by the slowness and scoops to Solanki to mid-wicket  186/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Shoaib Malik"
+    },
+    "opposition": {
+      "country": "Pakistan",
+      "total": "201/4 (48.3 Overs, RR: 4.14)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "3",
+      "balls": "10",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "7"
+    },
+    "player": "MS Dhoni ",
+    "ball": "41.4",
+    "Stadium": "Abu Dhabi",
+    "team": {
+      "country": "INDIA ",
+      "total": "197 all out (50 Overs, RR: 3.94)"
+    },
+    "date": "18 Apr 2006",
+    "scoreAt": "149/6",
+    "description": "41.4  bowled'm! excellent yoker on the stumps, surprise delivery, Dhoni frantically jams his bat down but the ball sneaks through and crashes into the stumps, what a wicket! - Malik rewarded for some wonderful bowling.   149/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Naved-ul-Hasan"
+    },
+    "opposition": {
+      "country": "Pakistan",
+      "total": "218 all out (45.2 Overs, RR: 4.80)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "59",
+      "balls": "72",
+      "4s": "5",
+      "6s": "0",
+      "batting_position": "3"
+    },
+    "player": "MS Dhoni ",
+    "ball": "45.5",
+    "Stadium": "Abu Dhabi",
+    "team": {
+      "country": "INDIA ",
+      "total": "269/5 (50 Overs, RR: 5.38)"
+    },
+    "date": "19 Apr 2006",
+    "scoreAt": "234/3",
+    "description": "45.5  Rana strikes! another well disguised slower delivery, pitched on middle and off and cutting in, Dhoni is early into the shot and the ball goes past the bat, clips the pad and crashes into the stumps, big wicket!   234/3"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Dwayne Bravo"
+    },
+    "opposition": {
+      "country": "West Indies",
+      "total": "251/6 (45 Overs, RR: 5.57)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "18",
+      "balls": "11",
+      "4s": "2",
+      "6s": "1",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni ",
+    "ball": "42.3",
+    "Stadium": "Kingston",
+    "team": {
+      "country": "INDIA ",
+      "total": "254/5 (44.5 Overs, RR: 5.66)"
+    },
+    "date": "18 May 2006",
+    "scoreAt": "233/5",
+    "description": "42.3  gone! Game on folks! Full-length delivery on the middle stump, Dhoni again takes his left foot just outside the line and whacks it towards long-on. It flew straight to the fielder there. Don't go anywhere!  233/5"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Jerome Taylor"
+    },
+    "opposition": {
+      "country": "West Indies",
+      "total": "198/9 (50 Overs, RR: 3.96)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "2",
+      "balls": "7",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "7"
+    },
+    "player": "MS Dhoni ",
+    "ball": "37.3",
+    "Stadium": "Kingston",
+    "team": {
+      "country": "INDIA ",
+      "total": "197 all out (49.4 Overs, RR: 3.96)"
+    },
+    "date": "20 May 2006",
+    "scoreAt": "130/6",
+    "description": "37.3  and he does it! short of a good length delivery, close to the off stump and cutting in, Dhoni cuts off the back-foot with no real foot-work, ball clips the inside edge and crashes into the woodwork, Taylor pulls out a rabbit and the crowd goes wild - what a wicket!  130/6"
+  },
+  {
+    "bowler": {},
+    "opposition": {
+      "country": "West Indies",
+      "total": "248/6 (49.5 Overs, RR: 4.97)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "run out"
+    },
+    "player_innings": {
+      "runs": "15",
+      "balls": "26",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni ",
+    "ball": "37.1",
+    "Stadium": "Basseterre",
+    "team": {
+      "country": "INDIA ",
+      "total": "245/9 (50 Overs, RR: 4.90)"
+    },
+    "date": "23 May 2006",
+    "scoreAt": "210/4",
+    "description": "37.1  Dhoni drives a full one hard towards Gayle who dives and half stops the ball. The batsmen set off for a quick single. Gayle recovers quickly, scoops up the ball and fires the throw in on the stumps. Dhoni is a bit lax getting back and could be in trouble. Bucknor refers it to the third umpire and after many replays the decision, a close one, is that Dhoni is short of his crease!  210/4"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium",
+      "name": "Wavell Hinds"
+    },
+    "opposition": {
+      "country": "West Indies",
+      "total": "255/6 (50 Overs, RR: 5.10)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "14",
+      "balls": "19",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "3"
+    },
+    "player": "MS Dhoni ",
+    "ball": "6.1",
+    "Stadium": "Port of Spain",
+    "team": {
+      "country": "INDIA ",
+      "total": "236 all out (48 Overs, RR: 4.91)"
+    },
+    "date": "28 May 2006",
+    "scoreAt": "26/2",
+    "description": "6.1  good length delivery outside the off stump, a fairly harmless ball, Dhoni leans back and comes down hard on it, ball clips the inside edge and crashes into the stumps - it's that maan Hinds again!  26/2"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Jerome Taylor"
+    },
+    "opposition": {
+      "country": "West Indies",
+      "total": "141/2 (20 Overs, RR: 7.05)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "2",
+      "balls": "10",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni ",
+    "ball": "40.4",
+    "Stadium": "Kuala Lumpur",
+    "team": {
+      "country": "INDIA ",
+      "total": "309/5 (50 Overs, RR: 6.18)"
+    },
+    "date": "14 Sep 2006",
+    "scoreAt": "227/4",
+    "description": "40.4  and he's bowled! Like the one to Sehwag, this one just shoots under his bat and hits the base of middle and off, he just could not adjust to that one, can't blame him too, India have lost their fourth wicket, Taylor picks up another  227/4"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Corey Collymore"
+    },
+    "opposition": {
+      "country": "West Indies",
+      "total": "146 all out (41 Overs, RR: 3.56)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "18",
+      "balls": "13",
+      "4s": "4",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni ",
+    "ball": "15.2",
+    "Stadium": "Kuala Lumpur",
+    "team": {
+      "country": "INDIA ",
+      "total": "162 all out (39.3 Overs, RR: 4.10)"
+    },
+    "date": "20 Sep 2006",
+    "scoreAt": "69/5",
+    "description": "15.2  The three-fingered celebratory salute is on show! Collymore takes out Dhoni. Full, straight and Dhoni throws his bat at it. But the ball evades the flashing blade and crashes into the stumps. To say that India is in some trouble would be a understatement.  69/5"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Brett Lee"
+    },
+    "opposition": {
+      "country": "Australia",
+      "total": "213 all out (48.1 Overs, RR: 4.42)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "23",
+      "balls": "34",
+      "4s": "0",
+      "6s": "1",
+      "batting_position": "7"
+    },
+    "player": "MS Dhoni ",
+    "ball": "36.2",
+    "Stadium": "Kuala Lumpur",
+    "team": {
+      "country": "INDIA ",
+      "total": "195 all out (43.5 Overs, RR: 4.44)"
+    },
+    "date": "22 Sep 2006",
+    "scoreAt": "158/6",
+    "description": "36.2  caught on the fence! crucial blow that! banged in short outside off stump, Dhoni flat bats it and tries to clear the cover fence, however he doesn't succede and hits it straight to Martyn on the fence  158/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Jamie Dalrymple"
+    },
+    "opposition": {
+      "country": "England",
+      "total": "125 all out (37 Overs, RR: 3.37)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "7",
+      "balls": "22",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni ",
+    "ball": "26.3",
+    "Stadium": "Jaipur",
+    "team": {
+      "country": "INDIA ",
+      "total": "126/6 (29.3 Overs, RR: 4.27)"
+    },
+    "date": "15 Oct 2006",
+    "scoreAt": "119/5",
+    "description": "26.3  that's the end of that! another wild swing and this time the ball goes low towards midwicket, Collingwood dives forward and takes a fantastic low catch, Dhoni gave it everything but failed to get under the ball  119/5"
+  },
+  {
+    "bowler": {},
+    "opposition": {
+      "country": "West Indies",
+      "total": "224/7 (49.4 Overs, RR: 4.51)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "run out"
+    },
+    "player_innings": {
+      "runs": "51",
+      "balls": "65",
+      "4s": "1",
+      "6s": "2",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni ",
+    "ball": "49.5",
+    "Stadium": "Ahmedabad",
+    "team": {
+      "country": "INDIA ",
+      "total": "223/9 (50 Overs, RR: 4.46)"
+    },
+    "date": "26 Oct 2006",
+    "scoreAt": "223/8",
+    "description": "49.5  driven down the ground again and Dhoni again calls for two, this time the throw from the deep is an accurate one, Baugh breaks the stumps at the striker's end and Dhoni is millimetres short  223/8"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "Nathan Bracken"
+    },
+    "opposition": {
+      "country": "Australia",
+      "total": "252/4 (45.4 Overs, RR: 5.51)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "player_innings": {
+      "runs": "28",
+      "balls": "23",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni ",
+    "ball": "49.6",
+    "Stadium": "Mohali",
+    "team": {
+      "country": "INDIA ",
+      "total": "249/8 (50 Overs, RR: 4.98)"
+    },
+    "date": "29 Oct 2006",
+    "scoreAt": "249/8",
+    "description": "49.6  Bowden has given him out!  There was an huge inside-edge. Attempted yorker turns into a low full-toss and Dhoni tries to send it over midwicket, gets an edge onto his pads.  249/8"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Andre Nel"
+    },
+    "opposition": {
+      "country": "South Africa",
+      "total": "248/8 (50 Overs, RR: 4.96)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "14",
+      "balls": "27",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni ",
+    "ball": "22.6",
+    "Stadium": "Durban",
+    "team": {
+      "country": "INDIA ",
+      "total": "91 all out (29.1 Overs, RR: 3.12)"
+    },
+    "date": "22 Nov 2006",
+    "scoreAt": "83/6",
+    "description": "22.6  Nel hammers in another nail - slightly short and cutting in sharply, Dhoni was all set to leave it through to the keeper but the ball kept coming in with the angle, and in the end the ball brushed the glove and went straight to the keeper  83/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Jacques Kallis"
+    },
+    "opposition": {
+      "country": "South Africa",
+      "total": "274/7 (50 Overs, RR: 5.48)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "55",
+      "balls": "48",
+      "4s": "3",
+      "6s": "4",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni ",
+    "ball": "44.1",
+    "Stadium": "Cape Town",
+    "team": {
+      "country": "INDIA ",
+      "total": "168 all out (41.3 Overs, RR: 4.04)"
+    },
+    "date": "26 Nov 2006",
+    "scoreAt": "198/7",
+    "description": "44.1  bowled from round the wicket - punched off the back-foot to the point region  198/7"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Andre Nel"
+    },
+    "opposition": {
+      "country": "South Africa",
+      "total": "243/8 (50 Overs, RR: 4.86)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "26",
+      "balls": "21",
+      "4s": "4",
+      "6s": "1",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni ",
+    "ball": "19.5",
+    "Stadium": "Port Elizabeth",
+    "team": {
+      "country": "INDIA ",
+      "total": "163 all out (38.1 Overs, RR: 4.27)"
+    },
+    "date": "29 Nov 2006",
+    "scoreAt": "82/5",
+    "description": "19.5  Gone..Dhoni falls slashing straight to thirdman. Short of length, outside the offstump, Dhoni hops back and upper-cuts it, ala Sehwag, over the slips and it flies high and straight to Prince.  82/5"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Makhaya Ntini"
+    },
+    "opposition": {
+      "country": "South Africa",
+      "total": "201/1 (31.2 Overs, RR: 6.41)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "44",
+      "balls": "49",
+      "4s": "2",
+      "6s": "2",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni ",
+    "ball": "47.5",
+    "Stadium": "Centurion",
+    "team": {
+      "country": "INDIA ",
+      "total": "200/9 (50 Overs, RR: 4.00)"
+    },
+    "date": "3 Dec 2006",
+    "scoreAt": "183/8",
+    "description": "47.5  Et tu, Nel ! short of a good length delivery on the middle and off stump line - Dhoni swings across the line and the ball steeples towards wide long-on. Nel sprints in from the deep, throws himself full length to his left and takes a two handed blinder.  183/8"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "Ian Bradshaw"
+    },
+    "opposition": {
+      "country": "West Indies",
+      "total": "169 all out (48.2 Overs, RR: 3.49)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "6",
+      "balls": "19",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni ",
+    "ball": "21.2",
+    "Stadium": "Cuttack",
+    "team": {
+      "country": "INDIA ",
+      "total": "189 all out (48.2 Overs, RR: 3.91)"
+    },
+    "date": "24 Jan 2007",
+    "scoreAt": "66/5",
+    "description": "21.2  gone! Another soft dismissal! Wasnt the greatest ball, slow on a full length just on off stump, Dhoni gets half-forward and plays with an angled bat, just closing the face of the bat, and scoops it back off the leading edge to Smith for a simple caught-and-bowled  66/5"
+  },
+  {
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Sanath Jayasuriya"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "257/8 (50 Overs, RR: 5.14)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "48",
+      "balls": "68",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni ",
+    "ball": "49.5",
+    "Stadium": "Rajkot",
+    "team": {
+      "country": "INDIA ",
+      "total": "252/9 (50 Overs, RR: 5.04)"
+    },
+    "date": "11 Feb 2007",
+    "scoreAt": "252/9",
+    "description": "49.5  stunning, simply stunning, Dhoni had room to free his arms and he smashed that  high over cover, Maharoof ran back looking over his head, running at full speed, Upul Tharanga was running in from the fence also at full speed, there was danger of a collision but Maharoof didn't lose focus, he kept his eye on the ball and completed an outstanding catch running backwards and tumbling to the ground, one of the best catches you will see under pressure  252/9"
+  },
+  {
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Mohammad Rafique"
+    },
+    "opposition": {
+      "country": "Bangladesh",
+      "total": "192/5 (48.3 Overs, RR: 3.95)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "0",
+      "balls": "3",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "7"
+    },
+    "player": "MS Dhoni ",
+    "ball": "43.5",
+    "Stadium": "Port of Spain",
+    "team": {
+      "country": "INDIA ",
+      "total": "191 all out (49.3 Overs, RR: 3.85)"
+    },
+    "date": "17 Mar 2007",
+    "scoreAt": "159/7",
+    "description": "43.5  India are in shambles, Dhoni spots a shortish delivery outside off stump, decides to cut and cuts it straight to the waiting hands of Aftab Ahmed at short third man, Bangladesh are delirious in their celebrations  159/7"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Delyone Borden"
+    },
+    "opposition": {
+      "country": "Bermuda",
+      "total": "156 all out (43.1 Overs, RR: 3.61)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "29",
+      "balls": "25",
+      "4s": "2",
+      "6s": "1",
+      "batting_position": "4"
+    },
+    "player": "MS Dhoni ",
+    "ball": "38.2",
+    "Stadium": "Port of Spain",
+    "team": {
+      "country": "INDIA ",
+      "total": "413/5 (50 Overs, RR: 8.26)"
+    },
+    "date": "19 Mar 2007",
+    "scoreAt": "269/4",
+    "description": "38.2  Wow! what a spectacular catch! by Tucker. Dhoni had heaved away, down the ground , Tucker ran across from long-off and was still short of the falling ball when he dived and incredibly held on to the catch. Super effort  and the big wicket of Dhoni falls. He was accelerating the run rate and Bermuda have struck back.  269/4"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Muttiah Muralitharan"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "254/6 (50 Overs, RR: 5.08)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "player_innings": {
+      "runs": "0",
+      "balls": "1",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "7"
+    },
+    "player": "MS Dhoni ",
+    "ball": "28.1",
+    "Stadium": "Port of Spain",
+    "team": {
+      "country": "INDIA ",
+      "total": "185 all out (43.3 Overs, RR: 4.25)"
+    },
+    "date": "23 Mar 2007",
+    "scoreAt": "112/6",
+    "description": "28.1  Dhoni walks for a lbw. It was that plumb. Fab delivery. Landed on the middle stump line and hurried on straight - a stunning toppie, Dhoni had backed to cut and he had no place to hide. Tried to get his bat down in a hurry but the ball rushes on and rams the pad. Dead duck. What a bowler!  112/6"
+  },
+  {
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Mohammad Rafique"
+    },
+    "opposition": {
+      "country": "Bangladesh",
+      "total": "238/9 (49 Overs, RR: 4.85)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "36",
+      "balls": "54",
+      "4s": "4",
+      "6s": "0",
+      "batting_position": "3"
+    },
+    "player": "MS Dhoni ",
+    "ball": "25.5",
+    "Stadium": "Dhaka",
+    "team": {
+      "country": "INDIA ",
+      "total": "284/8 (49 Overs, RR: 5.79)"
+    },
+    "date": "12 May 2007",
+    "scoreAt": "130/2",
+    "description": "25.5  edged and gone! Rafique fires it full and wide, Dhoni makes room and cuts, getting low as sees the ball staying down too, and the under-edge is snapped up brilliantly by Rahim! Dhoni doesnt even wait for the umpire's signal, just shuts up shop and makes for the pavilion  130/2"
+  },
+  {
+    "bowler": {},
+    "opposition": {
+      "country": "Africa XI",
+      "total": "283 all out (47.5 Overs, RR: 5.91)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "run out"
+    },
+    "player_innings": {
+      "runs": "2",
+      "balls": "4",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "7"
+    },
+    "player": "MS Dhoni ",
+    "ball": "43.4",
+    "Stadium": "Bengaluru",
+    "team": {
+      "country": "INDIA ",
+      "total": "317/9 (50 Overs, RR: 6.34)"
+    },
+    "date": "6 Jun 2007",
+    "scoreAt": "279/7",
+    "description": "43.4  short of a good length delivery and Harbhajan defends it down on the leg side, quick single called for but Harbhajan was not interested and Dhoni had to rush back. Fairly wide throw comes in, Odoyo dives across full length but fails to collect the ball cleanly but the ball ricochets on to the stumps and that's the end of Dhoni  279/7"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Albie Morkel"
+    },
+    "opposition": {
+      "country": "Africa XI",
+      "total": "306 all out (49.5 Overs, RR: 6.14)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "33",
+      "balls": "38",
+      "4s": "2",
+      "6s": "2",
+      "batting_position": "4"
+    },
+    "player": "MS Dhoni ",
+    "ball": "23.3",
+    "Stadium": "Chennai",
+    "team": {
+      "country": "INDIA ",
+      "total": "337/7 (50 Overs, RR: 6.74)"
+    },
+    "date": "9 Jun 2007",
+    "scoreAt": "134/3",
+    "description": "23.3  cleaned 'em up! Full in the blockhole, Dhoni shapes up to twirl one through the leg side but the ball shoots under the bat and disturbs the furniture and Albie celebrates his strike  134/3"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Makhaya Ntini"
+    },
+    "opposition": {
+      "country": "South Africa",
+      "total": "226/6 (50 Overs, RR: 4.52)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "0",
+      "balls": "4",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni ",
+    "ball": "32.4",
+    "Stadium": "Belfast",
+    "team": {
+      "country": "INDIA ",
+      "total": "227/4 (49.1 Overs, RR: 4.61)"
+    },
+    "date": "29 Jun 2007",
+    "scoreAt": "142/4",
+    "description": "32.4  cleaned up! Ntini strikes with a full delivery outside off stump, drawing Dhoni forward and producing a false shot, a poor attempt at a drive, the ball sneaks through the big bat-and-pad gap and thuds into the base of off stump  142/4"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Andrew Flintoff"
+    },
+    "opposition": {
+      "country": "England",
+      "total": "288/2 (50 Overs, RR: 5.76)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "19",
+      "balls": "60",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni ",
+    "ball": "30.3",
+    "Stadium": "Southampton",
+    "team": {
+      "country": "INDIA ",
+      "total": "184 all out (50 Overs, RR: 3.68)"
+    },
+    "date": "21 Aug 2007",
+    "scoreAt": "102/5",
+    "description": "30.3  same ball, same shot and Flintoff makes the breakthrough...bouncer gloved through to Prior and India slump further  102/5"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "James Anderson"
+    },
+    "opposition": {
+      "country": "England",
+      "total": "320/8 (50 Overs, RR: 6.40)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "21",
+      "balls": "18",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni ",
+    "ball": "46.6",
+    "Stadium": "Bristol",
+    "team": {
+      "country": "INDIA ",
+      "total": "329/7 (50 Overs, RR: 6.58)"
+    },
+    "date": "24 Aug 2007",
+    "scoreAt": "302/4",
+    "description": "46.6  a slow bouncer does the trick. It was banged in short and it climbed up ever so slowly, Dhoni swivelled, was made to wait before he pulled it uppishly to the right of short-fine leg where Tremlett pulled off a sharp catch  302/4"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "James Anderson"
+    },
+    "opposition": {
+      "country": "England",
+      "total": "281/8 (50 Overs, RR: 5.62)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "13",
+      "balls": "20",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni ",
+    "ball": "38.2",
+    "Stadium": "Birmingham",
+    "team": {
+      "country": "INDIA ",
+      "total": "239 all out (48.1 Overs, RR: 4.96)"
+    },
+    "date": "27 Aug 2007",
+    "scoreAt": "190/5",
+    "description": "38.2  Gone! Short, a bit of width, Dhoni's eyes light up and he gets in really good position to play the cut shot. Once in position Dhoni gives it all he's got, thrashing the ball really hard. But, just like Tendulkar earlier in the day, it's neither kept down nor hit high up and travels to Paul Collingwood at a comfortable catching height, even if at scorching pace. Collingwood latches on to the chance - he's not like to miss these - and the bowling change has worked. Huge wicket for England with India still needing 92  190/5"
+  },
+  {
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Monty Panesar"
+    },
+    "opposition": {
+      "country": "England",
+      "total": "213/7 (48 Overs, RR: 4.43)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "13",
+      "balls": "18",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni ",
+    "ball": "37.4",
+    "Stadium": "Manchester",
+    "team": {
+      "country": "INDIA ",
+      "total": "212 all out (49.4 Overs, RR: 4.26)"
+    },
+    "date": "30 Aug 2007",
+    "scoreAt": "140/5",
+    "description": "37.4  He nags you with the mundane before surprising you with a work of art. Here is another Monty special. From round the stumps, it drifted in, landed on the middle, Dhoni leans forward, tries to guide it to third man region with an open-face of the bat but the ball evades the bat and crashes into the off stump. Monty is over the moon. He does his unique jig.  140/5"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "James Anderson"
+    },
+    "opposition": {
+      "country": "England",
+      "total": "242/8 (39 Overs, RR: 6.20)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "24",
+      "balls": "17",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni ",
+    "ball": "48.4",
+    "Stadium": "Leeds",
+    "team": {
+      "country": "INDIA ",
+      "total": "324/6 (50 Overs, RR: 6.48)"
+    },
+    "date": "2 Sep 2007",
+    "scoreAt": "311/5",
+    "description": "48.4  Edged and taken. That was full and outside the off, Dhoni has a hard dash at that, the ball flies off the outside edge and Matt Prior is equal to the task, diving to the right and hanging on to a sharp catch. Dhoni goes and England get some relief  311/5"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Stuart Broad"
+    },
+    "opposition": {
+      "country": "England",
+      "total": "316/6 (50 Overs, RR: 6.32)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "35",
+      "balls": "37",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni ",
+    "ball": "47.6",
+    "Stadium": "The Oval",
+    "team": {
+      "country": "INDIA ",
+      "total": "317/8 (49.4 Overs, RR: 6.38)"
+    },
+    "date": "5 Sep 2007",
+    "scoreAt": "294/6",
+    "description": "47.6  bowled him - Dhoni shuffling over to off to try to sweep it round, but the ball nutmegged him and appeared to get a thin bobble off the inside of his left pad - I'll confirm after replays  294/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Andrew Flintoff"
+    },
+    "opposition": {
+      "country": "England",
+      "total": "188/3 (36.2 Overs, RR: 5.17)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "50",
+      "balls": "72",
+      "4s": "4",
+      "6s": "1",
+      "batting_position": "7"
+    },
+    "player": "MS Dhoni ",
+    "ball": "47.3",
+    "Stadium": "Lord's",
+    "team": {
+      "country": "INDIA ",
+      "total": "187 all out (47.3 Overs, RR: 3.93)"
+    },
+    "date": "8 Sep 2007",
+    "scoreAt": "187/10",
+    "description": "47.3  good catch in the deep! Dhoni slogs a fullish delivery and mistimes it over the covers and mid-off, the ball's up in the air for some time and Anderson, moving to his left and running around from long-off, watches the ball brilliantly and times his dive to perfection, cupping his hands and holding on to end India's innings at 187  187/10"
+  },
+  {
+    "bowler": {
+      "type": "Slow left-arm chinaman",
+      "name": "Brad Hogg"
+    },
+    "opposition": {
+      "country": "Australia",
+      "total": "306/6 (50 Overs, RR: 6.12)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "58",
+      "balls": "88",
+      "4s": "2",
+      "6s": "2",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "47.3",
+    "Stadium": "Kochi",
+    "team": {
+      "country": "INDIA ",
+      "total": "222 all out (47.3 Overs, RR: 4.67)"
+    },
+    "date": "2 Oct 2007",
+    "scoreAt": "222/10",
+    "description": "47.3  Got 'em! All over. The googly ends it all, Dhoni flashes at one outside off and the top-edge flies to short third man where Brad Hodge dived full length and completed a fine catch  222/10"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Brett Lee"
+    },
+    "opposition": {
+      "country": "Australia",
+      "total": "290/7 (50 Overs, RR: 5.80)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "33",
+      "balls": "37",
+      "4s": "4",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "35.6",
+    "Stadium": "Hyderabad (Deccan)",
+    "team": {
+      "country": "INDIA ",
+      "total": "243 all out (47.4 Overs, RR: 5.09)"
+    },
+    "date": "5 Oct 2007",
+    "scoreAt": "173/5",
+    "description": "35.6  edged and gone! Lee strikes in his return over, landing it on a short length and sucking Dhoni into a leaden-footed flirt outside off stump, the outside-edge snapped up by an all too happy Gilchrist as Australia break a threatening partnership  173/5"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast",
+      "name": "Mitchell Johnson"
+    },
+    "opposition": {
+      "country": "Australia",
+      "total": "149/1 (25.5 Overs, RR: 5.76)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "4",
+      "balls": "7",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "9.2",
+    "Stadium": "Vadodara",
+    "team": {
+      "country": "INDIA ",
+      "total": "148 all out (39.4 Overs, RR: 3.73)"
+    },
+    "date": "11 Oct 2007",
+    "scoreAt": "43/5",
+    "description": "9.2  and the captain goes! Johnson bowls it down the leg side off a short length, angling it away from the right-hander and Dhoni goes for some sort of one-handed nudge off the pads, there's touch and deviation and Gilchrist takes another good catch, this time diving full length to his left and plucking it ... are India in trouble or what?  43/5"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast",
+      "name": "Mitchell Johnson"
+    },
+    "opposition": {
+      "country": "Australia",
+      "total": "317/8 (50 Overs, RR: 6.34)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "26",
+      "balls": "29",
+      "4s": "2",
+      "6s": "1",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "48.4",
+    "Stadium": "Nagpur",
+    "team": {
+      "country": "INDIA ",
+      "total": "299/7 (50 Overs, RR: 5.98)"
+    },
+    "date": "14 Oct 2007",
+    "scoreAt": "290/7",
+    "description": "48.4  and that should be the match for Australia! Dhoni gets under a ball and hits it high in the air, Ponting runs back from mid-on and settles under the steepling catch, the crowds fall silent as the series all but slips away from India's reach  290/7"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "Nathan Bracken"
+    },
+    "opposition": {
+      "country": "Australia",
+      "total": "193 all out (41.3 Overs, RR: 4.65)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "5",
+      "balls": "11",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "17.5",
+    "Stadium": "Mumbai",
+    "team": {
+      "country": "INDIA ",
+      "total": "195/8 (46 Overs, RR: 4.23)"
+    },
+    "date": "17 Oct 2007",
+    "scoreAt": "63/5",
+    "description": "17.5  edged and gone! The thinnest of edges as Dhoni stands rooted to his crease and can't resist fishing at one angled across off stump, a pretty inoccuous delivery but Dhoni's gentle feeler only ended up in Gilchrist's safe gloves .. and thats his 400th catch in one-day cricket as India slip further  63/5"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Shoaib Akhtar"
+    },
+    "opposition": {
+      "country": "Pakistan",
+      "total": "239/7 (50 Overs, RR: 4.78)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "63",
+      "balls": "77",
+      "4s": "8",
+      "6s": "0",
+      "batting_position": "4"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "44.1",
+    "Stadium": "Guwahati",
+    "team": {
+      "country": "INDIA ",
+      "total": "242/5 (47 Overs, RR: 5.14)"
+    },
+    "date": "5 Nov 2007",
+    "scoreAt": "225/5",
+    "description": "44.1  and he strikes straight away! Shoaib pitches one on a good length outside off stump, Dhoni drives away from his body and gets a thick edge through to Akmal who takes the catch this time, it was flying at considerable speed and the light isn't the best so he did well to hold on to it  225/5"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Shoaib Akhtar"
+    },
+    "opposition": {
+      "country": "Pakistan",
+      "total": "322/6 (49.5 Overs, RR: 6.46)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "4",
+      "balls": "10",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "42.1",
+    "Stadium": "Mohali",
+    "team": {
+      "country": "INDIA ",
+      "total": "321/9 (50 Overs, RR: 6.42)"
+    },
+    "date": "8 Nov 2007",
+    "scoreAt": "266/7",
+    "description": "42.1  One more wicket down. India have lost their seventh wicket and are in danger of being bowled out before the 50 overs. It kicked up from short of length, outside off stump, Dhoni went for a cut but was done in by the extra bounce  266/7"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Shoaib Akhtar"
+    },
+    "opposition": {
+      "country": "Pakistan",
+      "total": "248 all out (47.2 Overs, RR: 5.23)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "49",
+      "balls": "52",
+      "4s": "4",
+      "6s": "2",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "43.1",
+    "Stadium": "Kanpur",
+    "team": {
+      "country": "INDIA ",
+      "total": "294/6 (50 Overs, RR: 5.88)"
+    },
+    "date": "11 Nov 2007",
+    "scoreAt": "229/4",
+    "description": "43.1  Cleans him up with a slower one! Full and dipping outside off stump, Dhoni was beaten by the change of pace, was caught at the crease as he tried to drive it through cover but instead, got a fatal inside-edge on to the leg stump.  229/4"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Shoaib Malik"
+    },
+    "opposition": {
+      "country": "Pakistan",
+      "total": "306/6 (50 Overs, RR: 6.12)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "24",
+      "balls": "32",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "7"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "37.4",
+    "Stadium": "Jaipur",
+    "team": {
+      "country": "INDIA ",
+      "total": "275 all out (49.5 Overs, RR: 5.51)"
+    },
+    "date": "18 Nov 2007",
+    "scoreAt": "195/7",
+    "description": "37.4  Gone! And that's a second telling blow. Dhoni comes down the pitch and tries to launch the ball over midwicket. The bat face is closed a bit early and the ball goes off the leading edge and heads straight up in the air. It's a real steepler, swirling about but Nazir settles under the catch and takes it. Big wicket and with that Pakistan should have this game all but wrapped up  195/7"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Brett Lee"
+    },
+    "opposition": {
+      "country": "Australia",
+      "total": "51/3 (7.2 Overs, RR: 6.95)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "37",
+      "balls": "61",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "44.1",
+    "Stadium": "Brisbane",
+    "team": {
+      "country": "INDIA ",
+      "total": "194 all out (45 Overs, RR: 4.31)"
+    },
+    "date": "3 Feb 2008",
+    "scoreAt": "189/8",
+    "description": "44.1  gone, just like that! Dhoni gets across and twirls a full delivery outside off stump straight to Ponting at extra cover, handing Lee his fourth for the evening  189/8"
+  },
+  {
+    "bowler": {},
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "154/2 (19 Overs, RR: 8.10)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "run out"
+    },
+    "player_innings": {
+      "runs": "31",
+      "balls": "26",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "27.4",
+    "Stadium": "Canberra",
+    "team": {
+      "country": "INDIA ",
+      "total": "195/5 (29 Overs, RR: 6.72)"
+    },
+    "date": "12 Feb 2008",
+    "scoreAt": "181/4",
+    "description": "27.4  a very tight run-out decision coming back for the second from the drive to mid-on and given out on the line with the throw back to Sangakkara who crashes the ball on to the stumps in the nick of time  181/4"
+  },
+  {
+    "bowler": {},
+    "opposition": {
+      "country": "Australia",
+      "total": "203/9 (50 Overs, RR: 4.06)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "run out"
+    },
+    "player_innings": {
+      "runs": "37",
+      "balls": "50",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "34.3",
+    "Stadium": "Adelaide",
+    "team": {
+      "country": "INDIA ",
+      "total": "153 all out (41.2 Overs, RR: 3.70)"
+    },
+    "date": "17 Feb 2008",
+    "scoreAt": "134/6",
+    "description": "34.3  ah, a poor call! Impatiently driven into the covers, with too much bottom hand, Dhoni calls for the single but a diving, sliding Rohit is caught just short by a terrific direct hit from Hayden and Dhoni pays for that risky call  134/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Brett Lee"
+    },
+    "opposition": {
+      "country": "Australia",
+      "total": "317/7 (50 Overs, RR: 6.34)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "36",
+      "balls": "66",
+      "4s": "4",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "30.3",
+    "Stadium": "Sydney",
+    "team": {
+      "country": "INDIA ",
+      "total": "299 all out (49.1 Overs, RR: 6.08)"
+    },
+    "date": "24 Feb 2008",
+    "scoreAt": "149/5",
+    "description": "30.3  an outside edge, and gone! Good bowling change from Ponting, Dohnie prodding forward away from the body as Lee cuts in well on a good length  149/5"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "Nathan Bracken"
+    },
+    "opposition": {
+      "country": "Australia",
+      "total": "249 all out (49.4 Overs, RR: 5.01)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "36",
+      "balls": "37",
+      "4s": "2",
+      "6s": "1",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "47.6",
+    "Stadium": "Brisbane",
+    "team": {
+      "country": "INDIA ",
+      "total": "258/9 (50 Overs, RR: 5.16)"
+    },
+    "date": "4 Mar 2008",
+    "scoreAt": "240/7",
+    "description": "47.6  chipped out a full ball from in line with middle, doesn't get enough middle on it and Clarke takes a comfortable catch  240/7"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm medium-fast",
+      "name": "Sohail Tanvir"
+    },
+    "opposition": {
+      "country": "Pakistan",
+      "total": "190 all out (35.4 Overs, RR: 5.32)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "player_innings": {
+      "runs": "24",
+      "balls": "23",
+      "4s": "5",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "41.5",
+    "Stadium": "Dhaka",
+    "team": {
+      "country": "INDIA ",
+      "total": "330/8 (50 Overs, RR: 6.60)"
+    },
+    "date": "10 Jun 2008",
+    "scoreAt": "269/5",
+    "description": "41.5  trapped him in front with a full toss. Dhoni took couple of steps down the track and  tried to swing it across the line, missed, and was hit in front of middle and leg. On the back leg. Was it going down leg, though? Any way it doesn't matter. He is out.  269/5"
+  },
+  {
+    "bowler": {
+      "type": "Legbreak googly",
+      "name": "Shahid Afridi"
+    },
+    "opposition": {
+      "country": "Pakistan",
+      "total": "315/3 (50 Overs, RR: 6.30)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "64",
+      "balls": "59",
+      "4s": "3",
+      "6s": "2",
+      "batting_position": "7"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "48.2",
+    "Stadium": "Dhaka",
+    "team": {
+      "country": "INDIA ",
+      "total": "290 all out (48.2 Overs, RR: 6.00)"
+    },
+    "date": "14 Jun 2008",
+    "scoreAt": "290/10",
+    "description": "48.2  another swing and this time he holes out to sweeper cover. Game over. Pakistan win the series. Malik rushes across and jumps at Afridi. They all converge. Now both teams shake hands with each other. Super win for Pakistan. They rebounded well after a big loss in the earlier game to win when it mattered. The Kitply cup is in the bag.  290/10"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm medium-fast",
+      "name": "Sohail Tanvir"
+    },
+    "opposition": {
+      "country": "Pakistan",
+      "total": "309/2 (45.3 Overs, RR: 6.79)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "76",
+      "balls": "96",
+      "4s": "4",
+      "6s": "0",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "48.4",
+    "Stadium": "Karachi",
+    "team": {
+      "country": "INDIA ",
+      "total": "308/7 (50 Overs, RR: 6.16)"
+    },
+    "date": "2 Jul 2008",
+    "scoreAt": "290/7",
+    "description": "48.4  Fast full toss on the leg side. Dhoni shovels it in the air towards square leg and Sarfraz rushes on, collides with Misbah, coming in from midwicket, but manages to hold on  290/7"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Muttiah Muralitharan"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "308/8 (50 Overs, RR: 6.16)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "67",
+      "balls": "62",
+      "4s": "5",
+      "6s": "1",
+      "batting_position": "4"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "37.6",
+    "Stadium": "Karachi",
+    "team": {
+      "country": "INDIA ",
+      "total": "310/4 (46.5 Overs, RR: 6.61)"
+    },
+    "date": "3 Jul 2008",
+    "scoreAt": "253/4",
+    "description": "37.6  bowled him! Murali pitched the ball outside off stump, it was a quicker one and the ball spun into the right-hander, Dhoni tried to work the ball towards point off the back foot but it was too straight for the shot, he missed and the ball clipped the top of off stump  253/4"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "Chaminda Vaas"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "273 all out (49.5 Overs, RR: 5.47)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "49",
+      "balls": "74",
+      "4s": "4",
+      "6s": "0",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "34.2",
+    "Stadium": "Karachi",
+    "team": {
+      "country": "INDIA ",
+      "total": "173 all out (39.3 Overs, RR: 4.37)"
+    },
+    "date": "6 Jul 2008",
+    "scoreAt": "160/9",
+    "description": "34.2  Sharp catch by Sanga, standing up to the stumps. Full in length outside off stump  and Dhoni went for a extra-cover drive and inside-edged to Sanga who pouched it safely. All the Sri Lankans converge near the centre pitch and are in a huddle of a joy. The game is all but over. Sri Lanka will win another Asia Cup.  160/9"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Ajantha Mendis"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "147/2 (34.5 Overs, RR: 4.22)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "6",
+      "balls": "28",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "27.2",
+    "Stadium": "Dambulla",
+    "team": {
+      "country": "INDIA ",
+      "total": "146 all out (46 Overs, RR: 3.17)"
+    },
+    "date": "18 Aug 2008",
+    "scoreAt": "87/6",
+    "description": "27.2  caught!! Dhoni moves back and tries to cut a ball that's much too close to off stump, it turned ever so slightly away from the right-hander as well, the outside edge flies quickly to Jayawardene who takes a sharp catch at first slip  87/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Dilhara Fernando"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "142 all out (38.3 Overs, RR: 3.68)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "39",
+      "balls": "54",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "35.5",
+    "Stadium": "Dambulla",
+    "team": {
+      "country": "INDIA ",
+      "total": "143/7 (39.4 Overs, RR: 3.60)"
+    },
+    "date": "20 Aug 2008",
+    "scoreAt": "135/6",
+    "description": "35.5  Cleaned him up with a fuller length delivery that shaped in. It came in from the full length, from the off stump line, Dhoni went for the drive and edges it to his stumps. Good innings from the captain.  135/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Ajantha Mendis"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "204 all out (49 Overs, RR: 4.16)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "76",
+      "balls": "80",
+      "4s": "8",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "48.3",
+    "Stadium": "Colombo (RPS)",
+    "team": {
+      "country": "INDIA ",
+      "total": "237/9 (50 Overs, RR: 4.74)"
+    },
+    "date": "24 Aug 2008",
+    "scoreAt": "229/8",
+    "description": "48.3  Mendis' day has rapidly got better! He bowls a full and straight ball, Dhoni charges down the track and tries to hit him over the off side, he doesn't get any elevation and hits the ball flat and low towards Jayawardene who tumbles forward while taking the catch at cover  229/8"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "Thilan Thushara"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "212 all out (46.3 Overs, RR: 4.55)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "71",
+      "balls": "80",
+      "4s": "4",
+      "6s": "0",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "42.4",
+    "Stadium": "Colombo (RPS)",
+    "team": {
+      "country": "INDIA ",
+      "total": "258 all out (49.4 Overs, RR: 5.19)"
+    },
+    "date": "27 Aug 2008",
+    "scoreAt": "232/5",
+    "description": "42.4  Jayasuriya takes a very good catch at covers to end the captain's knock. It was full and well outside off, Dhoni crouched on a bent knee, reached out to drive and Jayasuriya timed his lunge to his left well and pouched it safely. Two new batsmen at the crease  232/5"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Dilhara Fernando"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "227/6 (50 Overs, RR: 4.54)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "1",
+      "balls": "7",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "19.3",
+    "Stadium": "Colombo (RPS)",
+    "team": {
+      "country": "INDIA ",
+      "total": "103 all out (26.3 Overs, RR: 3.88)"
+    },
+    "date": "29 Aug 2008",
+    "scoreAt": "85/6",
+    "description": "19.3  bowled him! That's the end of Dhoni! They are dancing in the stands! Fernando bowled one full and fast, swinging into the right-hander, Dhoni hardly moved his feet as he tried to play across the line, the ball slipped through the gap between bat and pad and crashed into the stumps  85/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Steve Harmison"
+    },
+    "opposition": {
+      "country": "England",
+      "total": "229 all out (37.4 Overs, RR: 6.07)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "39",
+      "balls": "32",
+      "4s": "3",
+      "6s": "1",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "47.1",
+    "Stadium": "Rajkot",
+    "team": {
+      "country": "INDIA ",
+      "total": "387/5 (50 Overs, RR: 7.74)"
+    },
+    "date": "14 Nov 2008",
+    "scoreAt": "352/5",
+    "description": "47.1  cleaned up. Full, straight, on the middle, Dhoni shapes to whip it across the line, misses and the middle stump is knocked back.  352/5"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium",
+      "name": "Paul Collingwood"
+    },
+    "opposition": {
+      "country": "England",
+      "total": "238 all out (47 Overs, RR: 5.06)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "15",
+      "balls": "26",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "38.6",
+    "Stadium": "Indore",
+    "team": {
+      "country": "INDIA ",
+      "total": "292/9 (50 Overs, RR: 5.84)"
+    },
+    "date": "17 Nov 2008",
+    "scoreAt": "206/5",
+    "description": "38.6  temporary respite for England, Dhoni tries to improvise by glancing to third man with very little room outside the off stump, the offcutter nips back in and shaves the off stump  206/5"
+  },
+  {
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Samit Patel"
+    },
+    "opposition": {
+      "country": "England",
+      "total": "178/8 (22 Overs, RR: 8.09)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "9",
+      "balls": "5",
+      "4s": "0",
+      "6s": "1",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "21.5",
+    "Stadium": "Bengaluru",
+    "team": {
+      "country": "INDIA ",
+      "total": "166/4 (22 Overs, RR: 7.54)"
+    },
+    "date": "23 Nov 2008",
+    "scoreAt": "160/4",
+    "description": "21.5  timber! Patel gets a wicket with his fifth delivery, a full and flat yorker which hits the base of leg stump after Dhoni backs away and plays another of those whips to leg, thats just reward for whats been an excellent final over, a great way to keep these two batsmen quite at the death  160/4"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Graeme Swann"
+    },
+    "opposition": {
+      "country": "England",
+      "total": "270/4 (50 Overs, RR: 5.40)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "player_innings": {
+      "runs": "50",
+      "balls": "61",
+      "4s": "5",
+      "6s": "0",
+      "batting_position": "4"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "40.6",
+    "Stadium": "Cuttack",
+    "team": {
+      "country": "INDIA ",
+      "total": "273/4 (43.4 Overs, RR: 6.25)"
+    },
+    "date": "26 Nov 2008",
+    "scoreAt": "250/4",
+    "description": "40.6  Dhoni's gone, trapped lbw, dances down the track, and looks to hoick him over midwicket, misses the ball completely, rapped on the pads, and the umpire gives it  250/4"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Farveez Maharoof"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "241 all out (49.2 Overs, RR: 4.88)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "23",
+      "balls": "35",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "44.3",
+    "Stadium": "Colombo (RPS)",
+    "team": {
+      "country": "INDIA ",
+      "total": "256/9 (50 Overs, RR: 5.12)"
+    },
+    "date": "31 Jan 2009",
+    "scoreAt": "223/7",
+    "description": "44.3  Dhoni walks!! That was bowled outside leg stump and Dhoni tried to glance it down fine, got a faint tickle to the keeper which the umpire failed to spot. Dhoni, though, set off for the pavilion immediately and Brian Jerling gave the nod seeing him go  223/7"
+  },
+  {
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Sanath Jayasuriya"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "265 all out (48 Overs, RR: 5.52)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "94",
+      "balls": "96",
+      "4s": "4",
+      "6s": "2",
+      "batting_position": "3"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "33.3",
+    "Stadium": "Colombo (RPS)",
+    "team": {
+      "country": "INDIA ",
+      "total": "332/5 (50 Overs, RR: 6.64)"
+    },
+    "date": "5 Feb 2009",
+    "scoreAt": "202/2",
+    "description": "33.3  gone! finally! Dhoni had made up his mind to go after Jayasuriya, came down the track to smash it over long-on, got a thick outside edge and Dilhara Fernando took a couple of steps backwards at point to take a well judged one-handed catch  202/2"
+  },
+  {
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Sanath Jayasuriya"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "320/8 (50 Overs, RR: 6.40)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "53",
+      "balls": "58",
+      "4s": "1",
+      "6s": "2",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "36.1",
+    "Stadium": "Colombo (RPS)",
+    "team": {
+      "country": "INDIA ",
+      "total": "252 all out (48.5 Overs, RR: 5.16)"
+    },
+    "date": "8 Feb 2009",
+    "scoreAt": "193/7",
+    "description": "36.1  Dhoni tries to take Jayasuriya downtown but he fails to get the elevation, he gives him he charge and lands it down Kulasekara's throat at long-on  193/7"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Kyle Mills"
+    },
+    "opposition": {
+      "country": "New Zealand",
+      "total": "334 all out (45.1 Overs, RR: 7.39)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "68",
+      "balls": "58",
+      "4s": "5",
+      "6s": "2",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "48.4",
+    "Stadium": "Christchurch",
+    "team": {
+      "country": "INDIA ",
+      "total": "392/4 (50 Overs, RR: 7.84)"
+    },
+    "date": "8 Mar 2009",
+    "scoreAt": "382/4",
+    "description": "48.4  Dhoni goes after an excellent cameo, short on middle, tries to pull it away over deep square leg, gets the top edge and McGlashan runs back to take a well judged catch on the second attempt  382/4"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium",
+      "name": "Jesse Ryder"
+    },
+    "opposition": {
+      "country": "New Zealand",
+      "total": "151/2 (23.2 Overs, RR: 6.47)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "9",
+      "balls": "21",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "24.2",
+    "Stadium": "Auckland",
+    "team": {
+      "country": "INDIA ",
+      "total": "149 all out (36.3 Overs, RR: 4.08)"
+    },
+    "date": "14 Mar 2009",
+    "scoreAt": "110/5",
+    "description": "24.2  And Jesse Ryder has got rid of the Indian captain. As he has done through this little knock, Dhoni moved down the wicket and towards off stump. As he has done all through, Ryder kept his calm and got the ball to cut in from outside off. Dhoni went for the on-the-up push-drive but got a thick inside edge. Good persistent bowling gets the result.  110/5"
+  },
+  {
+    "bowler": {},
+    "opposition": {
+      "country": "West Indies",
+      "total": "319 all out (48.1 Overs, RR: 6.62)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "run out"
+    },
+    "player_innings": {
+      "runs": "41",
+      "balls": "46",
+      "4s": "2",
+      "6s": "1",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "46.2",
+    "Stadium": "Kingston",
+    "team": {
+      "country": "INDIA ",
+      "total": "339/6 (50 Overs, RR: 6.78)"
+    },
+    "date": "26 Jun 2009",
+    "scoreAt": "298/6",
+    "description": "46.2  Dhoni falls, attempting to steal a leg bye. It moved past the hurried prod and rolled towards Ramdin. Dhoni rushed across but is caught short of the crease by direct hit from Ramdin  298/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Jerome Taylor"
+    },
+    "opposition": {
+      "country": "West Indies",
+      "total": "192/2 (34.1 Overs, RR: 5.61)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "95",
+      "balls": "130",
+      "4s": "6",
+      "6s": "2",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "48.2",
+    "Stadium": "Kingston",
+    "team": {
+      "country": "INDIA ",
+      "total": "188 all out (48.2 Overs, RR: 3.88)"
+    },
+    "date": "28 Jun 2009",
+    "scoreAt": "188/10",
+    "description": "48.2  he moves outside leg as he charges out but Taylor slips in a slower one. Dhoni tries to lunge across to cut but misses it. The boy on the burning deck falls finally. What a fine captain's knock it has been.  188/10"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium",
+      "name": "Angelo Mathews"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "307/6 (50 Overs, RR: 6.14)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "8",
+      "balls": "18",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "26.1",
+    "Stadium": "Colombo (RPS)",
+    "team": {
+      "country": "INDIA ",
+      "total": "168 all out (37.2 Overs, RR: 4.50)"
+    },
+    "date": "12 Sep 2009",
+    "scoreAt": "129/6",
+    "description": "26.1  The off stump has taken another beating. Angelooooo!  Another delivery that cut back in a bit, Dhoni tried to force it through the off side and got a fatal inside edge  129/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Lasith Malinga"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "273 all out (46.4 Overs, RR: 5.85)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "56",
+      "balls": "62",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "3"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "36.3",
+    "Stadium": "Colombo (RPS)",
+    "team": {
+      "country": "INDIA ",
+      "total": "319/5 (50 Overs, RR: 6.38)"
+    },
+    "date": "14 Sep 2009",
+    "scoreAt": "205/2",
+    "description": "36.3  is late into the pull shot, this short delivery climbs into him and cramps him fast, the top edge lobs to midwicket - good hand played by Dhoni  205/2"
+  },
+  {
+    "bowler": {
+      "type": "Legbreak googly",
+      "name": "Shahid Afridi"
+    },
+    "opposition": {
+      "country": "Pakistan",
+      "total": "302/9 (50 Overs, RR: 6.04)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "player_innings": {
+      "runs": "3",
+      "balls": "9",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "23.5",
+    "Stadium": "Centurion",
+    "team": {
+      "country": "INDIA ",
+      "total": "248 all out (44.5 Overs, RR: 5.53)"
+    },
+    "date": "26 Sep 2009",
+    "scoreAt": "133/4",
+    "description": "23.5  Afridi nails his man this time. He had a huge shout for lbw few balls before but Dhoni survived that. Dhoni again skipped down the track and yet again, missed the wristy dab to the on side. The ball  turned towards the middle stump and hit him low on the pad. Taufel sends Dhoni on his way. Two quick wickets and Pakistan move ahead in the contest. That's plumb. It would have taken out the middle  133/4"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Shane Watson"
+    },
+    "opposition": {
+      "country": "Australia",
+      "total": "292/8 (50 Overs, RR: 5.84)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "34",
+      "balls": "46",
+      "4s": "4",
+      "6s": "0",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "37.2",
+    "Stadium": "Vadodara",
+    "team": {
+      "country": "INDIA ",
+      "total": "288/8 (50 Overs, RR: 5.76)"
+    },
+    "date": "25 Oct 2009",
+    "scoreAt": "186/6",
+    "description": "37.2  And Australia on the ascendancy here. Dhoni charged out for the big shot but mistimed it straight to mid-on. Lee throws the ball up in the air and Dhoni crashes his bat onto the ground. Joy and sorrow collide.  186/6"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast",
+      "name": "Mitchell Johnson"
+    },
+    "opposition": {
+      "country": "Australia",
+      "total": "255 all out (48.3 Overs, RR: 5.25)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "124",
+      "balls": "107",
+      "4s": "9",
+      "6s": "3",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "49.3",
+    "Stadium": "Nagpur",
+    "team": {
+      "country": "INDIA ",
+      "total": "354/7 (50 Overs, RR: 7.08)"
+    },
+    "date": "28 Oct 2009",
+    "scoreAt": "352/5",
+    "description": "49.3  Dhoni falls after a superbly paced knock. It was a full delivery on the off stump line, he tried to whip it across the line but edged it to right of Paine who takes a tumbling catch. Dhoni gets a standing ovation from the crowd. He started off ,dealing in singles, before he turned violent in the end  352/5"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "Doug Bollinger"
+    },
+    "opposition": {
+      "country": "Australia",
+      "total": "250 all out (49.2 Overs, RR: 5.06)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "26",
+      "balls": "46",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "31.2",
+    "Stadium": "Mohali",
+    "team": {
+      "country": "INDIA ",
+      "total": "226 all out (46.4 Overs, RR: 4.84)"
+    },
+    "date": "2 Nov 2009",
+    "scoreAt": "145/5",
+    "description": "31.2  Gone! It was the strangler down the leg side. It bounced outside leg and Dhoni tried to glance it but got a thin feather through to the keeper. And he walked. How vital is this?  145/5"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Clint McKay"
+    },
+    "opposition": {
+      "country": "Australia",
+      "total": "350/4 (50 Overs, RR: 7.00)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "6",
+      "balls": "15",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "23.3",
+    "Stadium": "Hyderabad (Deccan)",
+    "team": {
+      "country": "INDIA ",
+      "total": "347 all out (49.4 Overs, RR: 6.98)"
+    },
+    "date": "5 Nov 2009",
+    "scoreAt": "162/4",
+    "description": "23.3  What a catch by Voges. Superb interception at point. It was short and wide, asking to be hit , and Dhoni carved it low to right of backward point where Voges makes a stunning diving catch. Tendulkar stands alone.  162/4"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "Doug Bollinger"
+    },
+    "opposition": {
+      "country": "Australia",
+      "total": "172/4 (41.5 Overs, RR: 4.11)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "player_innings": {
+      "runs": "24",
+      "balls": "77",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "30.1",
+    "Stadium": "Guwahati",
+    "team": {
+      "country": "INDIA ",
+      "total": "170 all out (48 Overs, RR: 3.54)"
+    },
+    "date": "8 Nov 2009",
+    "scoreAt": "75/6",
+    "description": "30.1  and he strikes first ball! Dhoni is not happy! This is pitched within stumps, and there is no swing, hence missing the off stump, if not by much. Dhoni is not pleased with the call, but he was gone earlier, caught behind to the same bowler, but was not given  75/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Dilhara Fernando"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "411/8 (50 Overs, RR: 8.22)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "72",
+      "balls": "53",
+      "4s": "7",
+      "6s": "3",
+      "batting_position": "3"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "36.1",
+    "Stadium": "Rajkot",
+    "team": {
+      "country": "INDIA ",
+      "total": "414/7 (50 Overs, RR: 8.28)"
+    },
+    "date": "15 Dec 2009",
+    "scoreAt": "311/3",
+    "description": "36.1  slower ball does it again, and the batting Powerplay has done it again for the fielding side. This slower delivery seemed fairly obvious from behind, but that;s not the case when you are batting, and Dhoni is drawn into a forward shot and is too late in taking the bottom hand off, the ball lobs to cover, and Sri Lanka now have a chance to save many records from falling  311/3"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Suraj Randiv"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "302/7 (49.1 Overs, RR: 6.14)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "107",
+      "balls": "111",
+      "4s": "8",
+      "6s": "2",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "49.3",
+    "Stadium": "Nagpur",
+    "team": {
+      "country": "INDIA ",
+      "total": "301/7 (50 Overs, RR: 6.02)"
+    },
+    "date": "18 Dec 2009",
+    "scoreAt": "300/6",
+    "description": "49.3  A tired looking Dhoni holes out to deep midwicket. He went down the track and heaved it straight to Dilshan. The crowd are up on their feet to applaud the Indian captain.  300/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Thisara Perera"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "283/5 (48 Overs, RR: 5.89)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "37",
+      "balls": "70",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "31.2",
+    "Stadium": "Dhaka",
+    "team": {
+      "country": "INDIA ",
+      "total": "279/9 (50 Overs, RR: 5.58)"
+    },
+    "date": "5 Jan 2010",
+    "scoreAt": "170/4",
+    "description": "31.2  he has got him this time, the partnership stays at 99. Slightly loose shot, sees a short delivery, throws his bat at it, gets a thick outside edge - perhaps because it's too close to him - and Sangakkara takes a good diving catch to his right. What a first wicket for Perera  170/4"
+  },
+  {
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Shakib Al Hasan"
+    },
+    "opposition": {
+      "country": "Bangladesh",
+      "total": "247/6 (50 Overs, RR: 4.94)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "32",
+      "balls": "35",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "36.1",
+    "Stadium": "Dhaka",
+    "team": {
+      "country": "INDIA ",
+      "total": "249/4 (43 Overs, RR: 5.79)"
+    },
+    "date": "11 Jan 2010",
+    "scoreAt": "201/4",
+    "description": "36.1  soft dismissal for Dhoni, he chips down the track to try and slam him over the infield but doesn't get the desired elevation, ends up chipping it to Kayes at mid-on  201/4"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Nuwan Kulasekara"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "249/6 (48.3 Overs, RR: 5.13)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "14",
+      "balls": "19",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "8.5",
+    "Stadium": "Dhaka",
+    "team": {
+      "country": "INDIA ",
+      "total": "245 all out (48.2 Overs, RR: 5.06)"
+    },
+    "date": "13 Jan 2010",
+    "scoreAt": "47/4",
+    "description": "8.5  edged and taken! Dhoni cannot contain himself, again going for a drive to the off but this time he doesn't get to the pitch of a ball just fractionally held back on length and twirls a little nick to Sangakkara who takes it low to his left  47/4"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Jacques Kallis"
+    },
+    "opposition": {
+      "country": "South Africa",
+      "total": "297 all out (50 Overs, RR: 5.94)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "26",
+      "balls": "29",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "4"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "23.1",
+    "Stadium": "Jaipur",
+    "team": {
+      "country": "INDIA ",
+      "total": "298/9 (50 Overs, RR: 5.96)"
+    },
+    "date": "21 Feb 2010",
+    "scoreAt": "138/4",
+    "description": "23.1  Dhoni is gone! that is a big breakthrough, a short of length ball outside off, Dhoni seemed to be into his shot a touch early, his drive lobs towards mid-off where Albie pouches it low  138/4"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Dale Steyn"
+    },
+    "opposition": {
+      "country": "South Africa",
+      "total": "365/2 (50 Overs, RR: 7.30)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "9",
+      "balls": "7",
+      "4s": "0",
+      "6s": "1",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "27.2",
+    "Stadium": "Ahmedabad",
+    "team": {
+      "country": "INDIA ",
+      "total": "275 all out (44.3 Overs, RR: 6.17)"
+    },
+    "date": "27 Feb 2010",
+    "scoreAt": "156/4",
+    "description": "27.2  what a superb effort from Boucher! looks to whip this to on side, gets a big edge and Boucher dives full length to his right to pull this off one-handed  156/4"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Shoaib Akhtar"
+    },
+    "opposition": {
+      "country": "Pakistan",
+      "total": "267 all out (49.3 Overs, RR: 5.39)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "56",
+      "balls": "71",
+      "4s": "2",
+      "6s": "1",
+      "batting_position": "4"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "42.2",
+    "Stadium": "Dambulla",
+    "team": {
+      "country": "INDIA ",
+      "total": "271/7 (49.5 Overs, RR: 5.43)"
+    },
+    "date": "19 Jun 2010",
+    "scoreAt": "210/5",
+    "description": "42.2  would you believe it? what a move to bring Malik on. Full toss down the leg side, going for a wide, Dhoni tries the fine sweep, it hits the angular part of the back of the bat, and goes onto the stumps. Oh what intuition, what dismissal, Dhoni can't believe it. Game. Is. On  210/5"
+  },
+  {
+    "bowler": {},
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "211/3 (37.3 Overs, RR: 5.62)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "run out"
+    },
+    "player_innings": {
+      "runs": "41",
+      "balls": "53",
+      "4s": "6",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "37.6",
+    "Stadium": "Dambulla",
+    "team": {
+      "country": "INDIA ",
+      "total": "209 all out (42.3 Overs, RR: 4.91)"
+    },
+    "date": "22 Jun 2010",
+    "scoreAt": "189/5",
+    "description": "37.6  wicket against the run of play, and a huge one! Dhoni is run out. Tapped with soft hands straight to point, and Rohit calls Dhoni across for a tight single.. he hares down to the non-striker's end but is beaten easily by Kapugedera, swooping in from point and letting rip an arrow-throw to the non-striker's end.  189/5"
+  },
+  {
+    "bowler": {
+      "type": "Legbreak",
+      "name": "Thilina Kandamby"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "187 all out (44.4 Overs, RR: 4.18)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "38",
+      "balls": "50",
+      "4s": "2",
+      "6s": "1",
+      "batting_position": "4"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "32.2",
+    "Stadium": "Dambulla",
+    "team": {
+      "country": "INDIA ",
+      "total": "268/6 (50 Overs, RR: 5.36)"
+    },
+    "date": "24 Jun 2010",
+    "scoreAt": "167/4",
+    "description": "32.2  Kandamby is on a roll. Not a great ball again but he gets another wicket! It was short, it was wide and Dhoni reaches out to cut it towards backward point where Kulasekara dives forward to take a good catch.  167/4"
+  },
+  {
+    "bowler": {},
+    "opposition": {
+      "country": "New Zealand",
+      "total": "288 all out (48.5 Overs, RR: 5.89)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "run out"
+    },
+    "player_innings": {
+      "runs": "2",
+      "balls": "9",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "13.5",
+    "Stadium": "Dambulla",
+    "team": {
+      "country": "INDIA ",
+      "total": "88 all out (29.3 Overs, RR: 2.98)"
+    },
+    "date": "10 Aug 2010",
+    "scoreAt": "53/5",
+    "description": "13.5  Dhoni is run out and he walks. His scratchy innings comes to an end. This one was jabbed close to the off side and he wants a single. His partner doesn't. Yuvraj took couple of steps down the track and froze. And Dhoni tries to turn back. Too late. Tuffey had already screamed past him, swooped on the ball and flicked a direct hit. Gone!  53/5"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Thisara Perera"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "104/2 (15.1 Overs, RR: 6.85)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "10",
+      "balls": "16",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "21.6",
+    "Stadium": "Dambulla",
+    "team": {
+      "country": "INDIA ",
+      "total": "103 all out (33.4 Overs, RR: 3.05)"
+    },
+    "date": "22 Aug 2010",
+    "scoreAt": "71/5",
+    "description": "21.6  no need for an umpire here! not the smartest shot Dhoni has played either. Sanga goes back to standing back, and immediately Dhoni goes for a walk down the pitch, and looks to turn this to leg from way outside off. the ball holds its line enough to get the edge, and Sanga holds it safely. Dhoni walks  71/5"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Nathan McCullum"
+    },
+    "opposition": {
+      "country": "New Zealand",
+      "total": "118 all out (30.1 Overs, RR: 3.91)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "38",
+      "balls": "75",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "38.3",
+    "Stadium": "Dambulla",
+    "team": {
+      "country": "INDIA ",
+      "total": "223 all out (46.3 Overs, RR: 4.79)"
+    },
+    "date": "25 Aug 2010",
+    "scoreAt": "199/6",
+    "description": "38.3  Nathan takes out Dhoni. It was a flighted delivery outside off that didn't turn in. Dhoni lunged out for the square drive and edged it behind!  Hopkins caught it on the rebound. It had popped out but he crouched quickly to take it again  199/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Suraj Randiv"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "299/8 (50 Overs, RR: 5.98)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "67",
+      "balls": "100",
+      "4s": "5",
+      "6s": "1",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "46.5",
+    "Stadium": "Dambulla",
+    "team": {
+      "country": "INDIA ",
+      "total": "225 all out (46.5 Overs, RR: 4.80)"
+    },
+    "date": "28 Aug 2010",
+    "scoreAt": "225/10",
+    "description": "46.5  And that's it. Sri Lanka have completed a crushing win. Fine spirited performance from Sri Lanka.  The end came when the Indian captain Dhoni went down the track for the big hit but ended up dragging it to his stumps. Randiv roared. Sanga, Mahela, Randiv enveloped each other with a hug. The rest of the team-mates converged.  225/10"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "John Hastings"
+    },
+    "opposition": {
+      "country": "Australia",
+      "total": "289/3 (50 Overs, RR: 5.78)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "0",
+      "balls": "1",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "43.6",
+    "Stadium": "Visakhapatnam",
+    "team": {
+      "country": "INDIA ",
+      "total": "292/5 (48.5 Overs, RR: 5.97)"
+    },
+    "date": "20 Oct 2010",
+    "scoreAt": "257/5",
+    "description": "43.6  Hastings takes two in this over, sends the off stump out of the round, kept a little low and nipped back in from a touch outside off, didn't bring his bat down in time as he attempted a cut and out went the off stump  257/5"
+  },
+  {
+    "bowler": {},
+    "opposition": {
+      "country": "South Africa",
+      "total": "289/9 (50 Overs, RR: 5.78)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "run out"
+    },
+    "player_innings": {
+      "runs": "25",
+      "balls": "35",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "22.5",
+    "Stadium": "Durban",
+    "team": {
+      "country": "INDIA ",
+      "total": "154 all out (35.4 Overs, RR: 4.31)"
+    },
+    "date": "12 Jan 2011",
+    "scoreAt": "95/5",
+    "description": "22.5  oh, well. Dhoni has been Kallised. Or Laxmaned. It's amazing how many times this has happened in this series. Kohli times a straight drive perfectly, and Parnell just about gets a finger on it before it crashes into the stumps at the bowler's end. Kallis was stunned. Laxman was shocked. Dhoni just walks back without showing emotion.  95/5"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "Lonwabo Tsotsobe"
+    },
+    "opposition": {
+      "country": "South Africa",
+      "total": "189 all out (43 Overs, RR: 4.39)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "38",
+      "balls": "61",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "43.1",
+    "Stadium": "Johannesburg",
+    "team": {
+      "country": "INDIA ",
+      "total": "190 all out (47.2 Overs, RR: 4.01)"
+    },
+    "date": "15 Jan 2011",
+    "scoreAt": "172/6",
+    "description": "43.1  Castled! What a night Tsotsobe is having. It was a very full delivery outside off, Dhoni tried to whip it away but the ball took the inside edge and crashed into the furniture. 4-19 for Tsotsobe!  172/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Johan Botha"
+    },
+    "opposition": {
+      "country": "South Africa",
+      "total": "220 all out (49.2 Overs, RR: 4.45)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "5",
+      "balls": "12",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "19.5",
+    "Stadium": "Cape Town",
+    "team": {
+      "country": "INDIA ",
+      "total": "223/8 (48.2 Overs, RR: 4.61)"
+    },
+    "date": "18 Jan 2011",
+    "scoreAt": "69/4",
+    "description": "19.5  India are slipping here, short outside off, turned in, Dhoni sensed a chance, rocked back to cut it past point, got an edge and AB fumbled it on the first attempt only to recover and clasp it in the second, South Africa hold the edge now. How will Yusuf and Raina respond?  69/4"
+  },
+  {
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Robin Peterson"
+    },
+    "opposition": {
+      "country": "South Africa",
+      "total": "265/7 (50 Overs, RR: 5.30)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "2",
+      "balls": "8",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "28.4",
+    "Stadium": "Port Elizabeth",
+    "team": {
+      "country": "INDIA ",
+      "total": "142/6 (32.5 Overs, RR: 4.32)"
+    },
+    "date": "21 Jan 2011",
+    "scoreAt": "123/5",
+    "description": "28.4  Soft dismissal! It was a delivery outside off that stopped a touch on Dhoni who ended up checking his intended punch shot , and pushed the ball straight to short extra cover! Gone! He trudges back to the hut.  123/5"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Morne Morkel"
+    },
+    "opposition": {
+      "country": "South Africa",
+      "total": "250/9 (46 Overs, RR: 5.43)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "5",
+      "balls": "10",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "4"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "8.3",
+    "Stadium": "Centurion",
+    "team": {
+      "country": "INDIA ",
+      "total": "234 all out (40.2 Overs, RR: 5.80)"
+    },
+    "date": "23 Jan 2011",
+    "scoreAt": "45/3",
+    "description": "8.3  India have lost a huge wicket. The scorecard will say edged and caught at slip, but this was not an outside edge in the true sense of the word. It was short, fractionally outside off and Dhoni went for the cut. He was a little late on the shot, and it wasn't wide enough for the cut. Plus it bounced more than he anticipated. Hence the edge, it was dying on first slip who took it well. India are reeling here.  45/3"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Tim Bresnan"
+    },
+    "opposition": {
+      "country": "England",
+      "total": "338/8 (50 Overs, RR: 6.76)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "31",
+      "balls": "25",
+      "4s": "3",
+      "6s": "1",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "46.1",
+    "Stadium": "Bengaluru",
+    "team": {
+      "country": "INDIA ",
+      "total": "338 all out (49.5 Overs, RR: 6.78)"
+    },
+    "date": "27 Feb 2011",
+    "scoreAt": "305/5",
+    "description": "46.1  Dhoni falls now! Two in two for England. Shortish ball that Dhoni swung hard at but straight to Luke Wright at deep midwicket.  305/5"
+  },
+  {
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "George Dockrell"
+    },
+    "opposition": {
+      "country": "Ireland",
+      "total": "207 all out (47.5 Overs, RR: 4.32)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "player_innings": {
+      "runs": "34",
+      "balls": "50",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "40.1",
+    "Stadium": "Bengaluru",
+    "team": {
+      "country": "INDIA ",
+      "total": "210/5 (46 Overs, RR: 4.56)"
+    },
+    "date": "6 Mar 2011",
+    "scoreAt": "167/5",
+    "description": "40.1  is there still a twist? Dhoni has been given out lbw by Rod Tucker, Dhoni had taken a big stride forward and was hit on the back leg, that pitched on middle and off, and was going on to hit middle and leg, there's no inside-edge either, by the time the review upheld the decision to give him out, Dhoni was nearly back in the pavilion, a day to cherish for Dockrell, getting two of the biggest names in the game, first Sachin and now Dhoni  167/5"
+  },
+  {
+    "bowler": {
+      "type": "Legbreak",
+      "name": "Devendra Bishoo"
+    },
+    "opposition": {
+      "country": "West Indies",
+      "total": "188 all out (43 Overs, RR: 4.37)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "stumped"
+    },
+    "player_innings": {
+      "runs": "22",
+      "balls": "30",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "41.4",
+    "Stadium": "Chennai",
+    "team": {
+      "country": "INDIA ",
+      "total": "268 all out (49.1 Overs, RR: 5.45)"
+    },
+    "date": "20 Mar 2011",
+    "scoreAt": "218/4",
+    "description": "41.4  Lovely leg break from Bishoo! Supah delivery.  It was flighted on a length on the middle and leg, Dhoni went down the track but was beaten in the flight and went on to complete that big lofted hit. No luck. The ball dipped, turned and bounced over the stumps. Thomas collected it and quietly removed the bails. The stumper is stumped.  218/4"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Brett Lee"
+    },
+    "opposition": {
+      "country": "Australia",
+      "total": "260/6 (50 Overs, RR: 5.20)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "7",
+      "balls": "8",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "37.3",
+    "Stadium": "Ahmedabad",
+    "team": {
+      "country": "INDIA ",
+      "total": "261/5 (47.4 Overs, RR: 5.47)"
+    },
+    "date": "24 Mar 2011",
+    "scoreAt": "187/5",
+    "description": "37.3  Dhoni has perished. He's not been in great form, and clearly that's affecting his thinking. After the last two balls, you'd have expected better than a wild airy cut to a short ball. That was again pacy from Lee, got it to bounce extra and Dhoni had no control on the cut. Seemed like he wanted to hit it right through Clarke at point. Pup keeps his cool and holds a blinder as the ball buzzes away to his right. India are throwing this away.  187/5"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast",
+      "name": "Wahab Riaz"
+    },
+    "opposition": {
+      "country": "Pakistan",
+      "total": "231 all out (49.5 Overs, RR: 4.63)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "player_innings": {
+      "runs": "25",
+      "balls": "42",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "41.4",
+    "Stadium": "Mohali",
+    "team": {
+      "country": "INDIA ",
+      "total": "260/9 (50 Overs, RR: 5.20)"
+    },
+    "date": "30 Mar 2011",
+    "scoreAt": "205/6",
+    "description": "41.4  well, that's one way to take the faulty catching out of the equation! Dhoni is rapped on the pad as he shuffles to off, huge appeal and Taufel has given him out! Dhoni wants a review though ... but it's not going to help, three reds as it pitches and hits him in line, definitely hitting the stumps and that's gone. India's hopes of making a defendable total are beginning to evaporate here  205/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Tim Bresnan"
+    },
+    "opposition": {
+      "country": "England",
+      "total": "27/2 (7.2 Overs, RR: 3.68)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "33",
+      "balls": "36",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "7"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "49.3",
+    "Stadium": "Chester-le-Street",
+    "team": {
+      "country": "INDIA ",
+      "total": "274/7 (50 Overs, RR: 5.48)"
+    },
+    "date": "3 Sep 2011",
+    "scoreAt": "272/6",
+    "description": "49.3  big swing from Dhoni results in a thin edge through to the keeper...a curious innings by the captain who never really got going, but he always had to be aware of a fairly long tail  272/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Tim Bresnan"
+    },
+    "opposition": {
+      "country": "England",
+      "total": "188/3 (22.1 Overs, RR: 8.48)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "6",
+      "balls": "5",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "20.3",
+    "Stadium": "Southampton",
+    "team": {
+      "country": "INDIA ",
+      "total": "187/8 (23 Overs, RR: 8.13)"
+    },
+    "date": "6 Sep 2011",
+    "scoreAt": "164/5",
+    "description": "20.3  Helicopter. Crash-lands in Bell's lap. This is inches short of yorker, Dhoni tries the trademark whiplash flick, is too close to the pitch of it, ends up skying it to long-on  164/5"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Tim Bresnan"
+    },
+    "opposition": {
+      "country": "England",
+      "total": "218/7 (41.5 Overs, RR: 5.21)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "69",
+      "balls": "103",
+      "4s": "5",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "44.1",
+    "Stadium": "The Oval",
+    "team": {
+      "country": "INDIA ",
+      "total": "234/7 (50 Overs, RR: 4.68)"
+    },
+    "date": "9 Sep 2011",
+    "scoreAt": "170/6",
+    "description": "44.1  caught! It's a low full toss and Dhoni's attempt at hitting through midwicket ends up in a scoop over the bowler's head. Cook runs to his right from mid-on and takes a simple catch. Dhoni looked restricted in his movement in these last few overs  170/6"
+  },
+  {
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Xavier Doherty"
+    },
+    "opposition": {
+      "country": "Australia",
+      "total": "216/5 (32 Overs, RR: 6.75)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "29",
+      "balls": "38",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "25.2",
+    "Stadium": "Melbourne",
+    "team": {
+      "country": "INDIA ",
+      "total": "151 all out (29.4 Overs, RR: 5.08)"
+    },
+    "date": "5 Feb 2012",
+    "scoreAt": "128/9",
+    "description": "25.2  Dhoni has holed out to long off, he has been swinging full deliveries hard from the crease, he got hold of this one alright, it flew off the middle high towards Warner, who timed his leap superbly to hold on to it  128/9"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Dhammika Prasad"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "233/8 (50 Overs, RR: 4.66)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "4",
+      "balls": "5",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "33.4",
+    "Stadium": "Perth",
+    "team": {
+      "country": "INDIA ",
+      "total": "234/6 (46.4 Overs, RR: 5.01)"
+    },
+    "date": "8 Feb 2012",
+    "scoreAt": "167/5",
+    "description": "33.4  Dhoni done in by the short ball now, he was not in a good position to play the pull, but still went for it, the ball looped over Malinga at wide mid on, and he took a good catch running back  167/5"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Ben Hilfenhaus"
+    },
+    "opposition": {
+      "country": "Australia",
+      "total": "288/5 (50 Overs, RR: 5.76)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "56",
+      "balls": "84",
+      "4s": "2",
+      "6s": "1",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "37.2",
+    "Stadium": "Brisbane",
+    "team": {
+      "country": "INDIA ",
+      "total": "178 all out (43.3 Overs, RR: 4.09)"
+    },
+    "date": "19 Feb 2012",
+    "scoreAt": "149/7",
+    "description": "37.2  now even 230 looks like a mirage for India, short delivery again and on the body, Dhoni tries to pull that in front of square on the on side, ends up finding Christian at midwicket, it appeared like a slower ball  149/7"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Ben Hilfenhaus"
+    },
+    "opposition": {
+      "country": "Australia",
+      "total": "252/9 (50 Overs, RR: 5.04)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "player_innings": {
+      "runs": "14",
+      "balls": "49",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "32.5",
+    "Stadium": "Sydney",
+    "team": {
+      "country": "INDIA ",
+      "total": "165 all out (39.3 Overs, RR: 4.17)"
+    },
+    "date": "26 Feb 2012",
+    "scoreAt": "126/7",
+    "description": "32.5  Dhoni's gone, this time Mr. Cool's tactics haven't worked. He hasn't lasted long enough to make up for a slow start, and boy was the start slow.. Hilfenhaus slipped a quick length ball straight past Dhoni, who was trapped on the crease as he looked to work to leg. He misses the shot and it struck plumb in front.  126/7"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Thisara Perera"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "293/9 (50 Overs, RR: 5.86)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "35",
+      "balls": "29",
+      "4s": "3",
+      "6s": "1",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "49.2",
+    "Stadium": "Hambantota",
+    "team": {
+      "country": "INDIA ",
+      "total": "314/6 (50 Overs, RR: 6.28)"
+    },
+    "date": "21 Jul 2012",
+    "scoreAt": "307/6",
+    "description": "49.2  he's played that shot well this innings and he struck that one hard too, but the whiplash fails to clear long-off this time, Thirimanne, standing there, moves back a few steps and takes it over his head  307/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium",
+      "name": "Angelo Mathews"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "139/1 (19.5 Overs, RR: 7.00)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "11",
+      "balls": "16",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "14.1",
+    "Stadium": "Hambantota",
+    "team": {
+      "country": "INDIA ",
+      "total": "138 all out (33.3 Overs, RR: 4.11)"
+    },
+    "date": "24 Jul 2012",
+    "scoreAt": "60/5",
+    "description": "14.1  Dhoni walks! A bit too close to cut, Mathews cramps him up for room, attempts to bash that past point and Sangakkara catches the edge, no doubts about that one  60/5"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Lasith Malinga"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "286/5 (50 Overs, RR: 5.72)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "31",
+      "balls": "49",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "4"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "35.1",
+    "Stadium": "Colombo (RPS)",
+    "team": {
+      "country": "INDIA ",
+      "total": "288/5 (49.4 Overs, RR: 5.79)"
+    },
+    "date": "28 Jul 2012",
+    "scoreAt": "180/3",
+    "description": "35.1  and what a comeback, one of those deadly yorkers that confound batsmen so often, Dhoni looked to squeeze that one out but can't get bat in the way, crashes into the stumps, once again Sri Lanka strikes just when a partnership seemed to be calmly guiding India's chase.  180/3"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Lasith Malinga"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "274 all out (45.4 Overs, RR: 6.00)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "58",
+      "balls": "38",
+      "4s": "8",
+      "6s": "1",
+      "batting_position": "7"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "48.5",
+    "Stadium": "Pallekele",
+    "team": {
+      "country": "INDIA ",
+      "total": "294/7 (50 Overs, RR: 5.88)"
+    },
+    "date": "4 Aug 2012",
+    "scoreAt": "290/7",
+    "description": "48.5  Wicket no. 200 for Malinga in ODIs, short outside off, Dhoni went for the pull, got a nick and Chandimal took it in front of his face  290/7"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Umar Gul"
+    },
+    "opposition": {
+      "country": "Pakistan",
+      "total": "157 all out (48.5 Overs, RR: 3.21)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "36",
+      "balls": "55",
+      "4s": "1",
+      "6s": "3",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "34.4",
+    "Stadium": "Delhi",
+    "team": {
+      "country": "INDIA ",
+      "total": "167 all out (43.4 Overs, RR: 3.82)"
+    },
+    "date": "6 Jan 2013",
+    "scoreAt": "131/7",
+    "description": "34.4  caught at point! short and not much room, Dhoni goes for the aerial cut but it goes straight to the hands of Umar Akmal at point. Dhoni falls for the first time in this series and that wicket could be the difference between a 200-run total to a 150 one now.  131/7"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Jade Dernbach"
+    },
+    "opposition": {
+      "country": "England",
+      "total": "325/4 (50 Overs, RR: 6.50)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "32",
+      "balls": "25",
+      "4s": "0",
+      "6s": "4",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "44.2",
+    "Stadium": "Rajkot",
+    "team": {
+      "country": "INDIA ",
+      "total": "316/9 (50 Overs, RR: 6.32)"
+    },
+    "date": "11 Jan 2013",
+    "scoreAt": "271/6",
+    "description": "44.2  Dernbach, all those leg side gifts may be forgiven, for you have come up with a slower full delivery outside off, that Dhoni has scooped up straight to long off  271/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Jade Dernbach"
+    },
+    "opposition": {
+      "country": "England",
+      "total": "158 all out (36 Overs, RR: 4.38)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "72",
+      "balls": "66",
+      "4s": "7",
+      "6s": "2",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "49.2",
+    "Stadium": "Kochi",
+    "team": {
+      "country": "INDIA ",
+      "total": "285/6 (50 Overs, RR: 5.70)"
+    },
+    "date": "15 Jan 2013",
+    "scoreAt": "270/6",
+    "description": "49.2  Dhoni goes, finally, after one more fighting, counter-attacking, masterly ODI innings, taken at sweeper cover right at the edge of the rope  270/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Jade Dernbach"
+    },
+    "opposition": {
+      "country": "England",
+      "total": "257/7 (50 Overs, RR: 5.14)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "19",
+      "balls": "21",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "39.1",
+    "Stadium": "Mohali",
+    "team": {
+      "country": "INDIA ",
+      "total": "258/5 (47.3 Overs, RR: 5.43)"
+    },
+    "date": "23 Jan 2013",
+    "scoreAt": "213/5",
+    "description": "39.1  caught at backward point! the luck has changed for Dernbach and could be this wicket that turns the game! It was short, it was wide, it was asking to be hit and Dhoni smashes it straight to the backward point fielder to add some spice to the game.  213/5"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Steven Finn"
+    },
+    "opposition": {
+      "country": "England",
+      "total": "227/3 (47.2 Overs, RR: 4.79)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "player_innings": {
+      "runs": "15",
+      "balls": "23",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "21.1",
+    "Stadium": "Dharamsala",
+    "team": {
+      "country": "INDIA ",
+      "total": "226 all out (49.4 Overs, RR: 4.55)"
+    },
+    "date": "27 Jan 2013",
+    "scoreAt": "79/5",
+    "description": "21.1  Cook's plan to bring back Finn has made impact immediately. It was length ball angling in to Dhoni and the batsman had walked across, as he has been doing, to play that towards the leg side. But Finn is quick and he beats Dhoni's attempted flick, hits him in front of middle..  79/5"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "Lonwabo Tsotsobe"
+    },
+    "opposition": {
+      "country": "South Africa",
+      "total": "305 all out (50 Overs, RR: 6.10)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "27",
+      "balls": "26",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "46.2",
+    "Stadium": "Cardiff",
+    "team": {
+      "country": "INDIA ",
+      "total": "331/7 (50 Overs, RR: 6.62)"
+    },
+    "date": "6 Jun 2013",
+    "scoreAt": "291/6",
+    "description": "46.2  Dhoni's cracked this length delivery straight to long on, South Africa strike again  291/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium",
+      "name": "Ravi Bopara"
+    },
+    "opposition": {
+      "country": "England",
+      "total": "124/8 (20 Overs, RR: 6.20)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "0",
+      "balls": "4",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "12.6",
+    "Stadium": "Birmingham",
+    "team": {
+      "country": "INDIA ",
+      "total": "129/7 (20 Overs, RR: 6.45)"
+    },
+    "date": "23 Jun 2013",
+    "scoreAt": "66/5",
+    "description": "12.6  back of a length outside off, uppercuts it and finds third man! What a wicket, huge blow for England. Dhoni tried to force it away wide of third man but it got big on him and just shaped back a little, Dhoni still got it off the meat of the bat but couldn't control it and Tredwell came to his right to take a simple chance in the end  66/5"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Tino Best"
+    },
+    "opposition": {
+      "country": "West Indies",
+      "total": "230/9 (47.4 Overs, RR: 4.82)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "27",
+      "balls": "35",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "46.1",
+    "Stadium": "Kingston",
+    "team": {
+      "country": "INDIA ",
+      "total": "229/7 (50 Overs, RR: 4.58)"
+    },
+    "date": "30 Jun 2013",
+    "scoreAt": "197/6",
+    "description": "46.1  Best takes out Dhoni, 141.6 kph inswinging full delivery, Dhoni tries to smoke it down the ground, misses, and loses his leg stump, Tino is pumped up, even more, that is  197/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Clint McKay"
+    },
+    "opposition": {
+      "country": "Australia",
+      "total": "304/8 (50 Overs, RR: 6.08)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "19",
+      "balls": "22",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "40.4",
+    "Stadium": "Pune",
+    "team": {
+      "country": "INDIA ",
+      "total": "232 all out (49.4 Overs, RR: 4.67)"
+    },
+    "date": "13 Oct 2013",
+    "scoreAt": "196/7",
+    "description": "40.4  126 kph, and that just may be the final death knell as Dhoni plays inside of a delivery shaping in and gets his off stump knocked back. The wicket all of India would have prayed to stay intact.. With 109 off 56 balls, looks like Australia's record of beating India after posting 300 or more will continue for another day  196/7"
+  },
+  {
+    "bowler": {},
+    "opposition": {
+      "country": "Australia",
+      "total": "326 all out (45.1 Overs, RR: 7.21)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "run out"
+    },
+    "player_innings": {
+      "runs": "62",
+      "balls": "38",
+      "4s": "7",
+      "6s": "2",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "49.6",
+    "Stadium": "Bengaluru",
+    "team": {
+      "country": "INDIA ",
+      "total": "383/6 (50 Overs, RR: 7.66)"
+    },
+    "date": "2 Nov 2013",
+    "scoreAt": "383/6",
+    "description": "49.6  full delivery on the pads and he flicks it to deep square leg and Dhoni calls for a couple, but there is none there.. He is out of the last ball to end the madness that has prevailed in the last few overs..  383/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Dale Steyn"
+    },
+    "opposition": {
+      "country": "South Africa",
+      "total": "358/4 (50 Overs, RR: 7.16)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "65",
+      "balls": "71",
+      "4s": "8",
+      "6s": "1",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "40.2",
+    "Stadium": "Johannesburg",
+    "team": {
+      "country": "INDIA ",
+      "total": "217 all out (41 Overs, RR: 5.29)"
+    },
+    "date": "5 Dec 2013",
+    "scoreAt": "217/9",
+    "description": "40.2  chops it on! This was a length ball which Dhoni looked to force away to the off side, inside edge and the ball bounces once before pegging back the leg stump, his lone vigil ends  217/9"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Vernon Philander"
+    },
+    "opposition": {
+      "country": "South Africa",
+      "total": "280/6 (49 Overs, RR: 5.71)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "19",
+      "balls": "31",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "19.5",
+    "Stadium": "Durban",
+    "team": {
+      "country": "INDIA ",
+      "total": "146 all out (35.1 Overs, RR: 4.15)"
+    },
+    "date": "8 Dec 2013",
+    "scoreAt": "74/5",
+    "description": "19.5  great catch from QDK! It was just outside off, Dhoni didn't move much and pushed at it and managed a thick outside edge. It was probably going past the keeper and de Kock leapt to his right to take the low catch  74/5"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "Mitchell McClenaghan"
+    },
+    "opposition": {
+      "country": "New Zealand",
+      "total": "292/7 (50 Overs, RR: 5.84)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "40",
+      "balls": "46",
+      "4s": "2",
+      "6s": "2",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "42.3",
+    "Stadium": "Napier",
+    "team": {
+      "country": "INDIA ",
+      "total": "268 all out (48.4 Overs, RR: 5.50)"
+    },
+    "date": "19 Jan 2014",
+    "scoreAt": "224/5",
+    "description": "42.3  and Mitchell strikes for New Zealand as he fires in a bouncer which Dhoni seems to be late on as he gets an edge on it before the ball loops over to Ronchi, who takes a good low catch. Dhoni walks off straightaway, and New Zealand's spirits are lifted in turn  224/5"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm medium-fast",
+      "name": "Corey Anderson"
+    },
+    "opposition": {
+      "country": "New Zealand",
+      "total": "271/7 (42 Overs, RR: 6.45)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "56",
+      "balls": "44",
+      "4s": "7",
+      "6s": "1",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "39.1",
+    "Stadium": "Hamilton",
+    "team": {
+      "country": "INDIA ",
+      "total": "277/9 (41.3 Overs, RR: 6.67)"
+    },
+    "date": "22 Jan 2014",
+    "scoreAt": "257/6",
+    "description": "39.1  and Dhoni tries his luck one more time, but it ceases to come to fruition as he miscues this lofted shot off Anderson, with the ball travelling behind to backward point, where Williamson was able to get under the steepler, and more importantly, hold onto the chance. Ends a spirited innings from the Indian captain  257/6"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm medium-fast",
+      "name": "Corey Anderson"
+    },
+    "opposition": {
+      "country": "New Zealand",
+      "total": "314 all out (50 Overs, RR: 6.28)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "50",
+      "balls": "60",
+      "4s": "2",
+      "6s": "3",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "35.4",
+    "Stadium": "Auckland",
+    "team": {
+      "country": "INDIA ",
+      "total": "314/9 (50 Overs, RR: 6.28)"
+    },
+    "date": "25 Jan 2014",
+    "scoreAt": "184/6",
+    "description": "35.4  and Southee takes a blinder of a catch at deep square leg as Dhoni is enticed into a pull shot which he has smashed towards that direction, with Southee getting to it before kneeling down and sticking his right hand out to pluck this. Sensational catch to get rid of the Indian captain, and suddenly India's hopes feel dashed  184/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Kane Williamson"
+    },
+    "opposition": {
+      "country": "New Zealand",
+      "total": "303/5 (50 Overs, RR: 6.06)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "47",
+      "balls": "72",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "44.1",
+    "Stadium": "Wellington",
+    "team": {
+      "country": "INDIA ",
+      "total": "216 all out (49.4 Overs, RR: 4.34)"
+    },
+    "date": "31 Jan 2014",
+    "scoreAt": "181/8",
+    "description": "44.1  Williamson has another as Dhoni charges him and lofts straight down long-off's throat. Got a little too close to that to get enough elevation as this was fired in full on off stump. Big smiles in the New Zealand huddle  181/8"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Chris Woakes"
+    },
+    "opposition": {
+      "country": "England",
+      "total": "161 all out (38.1 Overs, RR: 4.21)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "52",
+      "balls": "51",
+      "4s": "6",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "48.3",
+    "Stadium": "Cardiff",
+    "team": {
+      "country": "INDIA ",
+      "total": "304/6 (50 Overs, RR: 6.08)"
+    },
+    "date": "27 Aug 2014",
+    "scoreAt": "288/6",
+    "description": "48.3  slower ball, 68mph, Woakes has given that a few goes and now it pays off, Dhoni swinging wildly to leg and being bowled. Woakes rightly pleased with that delivery, deceived the batsman and he got it on target, taking out leg stump  288/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Steven Finn"
+    },
+    "opposition": {
+      "country": "England",
+      "total": "294/7 (50 Overs, RR: 5.88)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "29",
+      "balls": "42",
+      "4s": "1",
+      "6s": "1",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "36.5",
+    "Stadium": "Leeds",
+    "team": {
+      "country": "INDIA ",
+      "total": "253 all out (48.4 Overs, RR: 5.19)"
+    },
+    "date": "5 Sep 2014",
+    "scoreAt": "173/6",
+    "description": "36.5  he gives it away! Short and wide, should have either been left as it would have been a wide, or should have been slapped over the infield... Dhoni is disappointed though as he toe-ends this straight into the hands of the cover fielder. He had to reach out for that and couldn't control it.. Good low catch by the fielder, but Finn knows this was a gift for him..  173/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Darren Sammy"
+    },
+    "opposition": {
+      "country": "West Indies",
+      "total": "321/6 (50 Overs, RR: 6.42)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "8",
+      "balls": "21",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "25.1",
+    "Stadium": "Kochi",
+    "team": {
+      "country": "INDIA ",
+      "total": "197 all out (41 Overs, RR: 4.80)"
+    },
+    "date": "8 Oct 2014",
+    "scoreAt": "114/5",
+    "description": "25.1  middle stump is knocked back! Thats why people cry for yorkers in this format. It wasn't the perfect one though, more a fuller ball. But it was angled in at Dhoni. He had to quickly adjust from looking to flick to blocking the ball. But isn't able to, plays around it and is bowled. Sammy wheels away in celebration  114/5"
+  },
+  {
+    "bowler": {},
+    "opposition": {
+      "country": "West Indies",
+      "total": "271 all out (48.1 Overs, RR: 5.62)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "run out"
+    },
+    "player_innings": {
+      "runs": "6",
+      "balls": "5",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "46.3",
+    "Stadium": "Dharamsala",
+    "team": {
+      "country": "INDIA ",
+      "total": "330/6 (50 Overs, RR: 6.60)"
+    },
+    "date": "17 Oct 2014",
+    "scoreAt": "290/4",
+    "description": "46.3  this is not sloppy! Pollard takes down the stumps with a flat throw from long-on and Dhoni could be in trouble.. Yes.. this is brilliant work from the fielder now. It was driven firmly straight down the ground and Pollard had to quickly move to his left.  290/4"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast",
+      "name": "Mitchell Starc"
+    },
+    "opposition": {
+      "country": "Australia",
+      "total": "269/6 (49 Overs, RR: 5.48)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "19",
+      "balls": "31",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "44.2",
+    "Stadium": "Melbourne",
+    "team": {
+      "country": "INDIA ",
+      "total": "267/8 (50 Overs, RR: 5.34)"
+    },
+    "date": "18 Jan 2015",
+    "scoreAt": "237/5",
+    "description": "44.2  his penultimate over of the match and he secures a huge strike for Australia. The offcutter has very little room but Dhoni wants to slice it. Gets a thick inside edge and it crashes into the stumps  237/5"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Steven Finn"
+    },
+    "opposition": {
+      "country": "England",
+      "total": "156/1 (27.3 Overs, RR: 5.67)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "34",
+      "balls": "61",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "36.1",
+    "Stadium": "Brisbane",
+    "team": {
+      "country": "INDIA ",
+      "total": "153 all out (39.3 Overs, RR: 3.87)"
+    },
+    "date": "20 Jan 2015",
+    "scoreAt": "137/6",
+    "description": "36.1  gets his man! Finn has four now. Dhoni couldn't add on after that chance. It's a slower bounce on the leg stump line, Dhoni goes for the hook but feathers it to the keeper  137/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "James Anderson"
+    },
+    "opposition": {
+      "country": "England",
+      "total": "201/7 (46.5 Overs, RR: 4.29)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "player_innings": {
+      "runs": "17",
+      "balls": "32",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "42.6",
+    "Stadium": "Perth",
+    "team": {
+      "country": "INDIA ",
+      "total": "200 all out (48.1 Overs, RR: 4.15)"
+    },
+    "date": "30 Jan 2015",
+    "scoreAt": "164/7",
+    "description": "42.6  that keeps low by Perth standards and he's given lbw! Dhoni went back and across for the back of length delivery that was angling in, he was in the air on the back foot, expecting some bounce, but that hit him below the knee roll and was caught in front of off and middle  164/7"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Sohail Khan"
+    },
+    "opposition": {
+      "country": "Pakistan",
+      "total": "224 all out (47 Overs, RR: 4.76)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "18",
+      "balls": "13",
+      "4s": "1",
+      "6s": "1",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "49.1",
+    "Stadium": "Adelaide",
+    "team": {
+      "country": "INDIA ",
+      "total": "300/7 (50 Overs, RR: 6.00)"
+    },
+    "date": "15 Feb 2015",
+    "scoreAt": "296/6",
+    "description": "49.1  and Dhoni has failed to finish again. This is reaching proportions of concern. Short ball. Beaten for pace. Late into the pull. Top-edges this for an easy catch for mid-off  296/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Morne Morkel"
+    },
+    "opposition": {
+      "country": "South Africa",
+      "total": "177 all out (40.2 Overs, RR: 4.38)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "18",
+      "balls": "11",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "48.5",
+    "Stadium": "Melbourne",
+    "team": {
+      "country": "INDIA ",
+      "total": "307/7 (50 Overs, RR: 6.14)"
+    },
+    "date": "22 Feb 2015",
+    "scoreAt": "302/7",
+    "description": "48.5  got him! Morkel bangs it in halfway and Dhoni shuffles across to hook, only manages a top-edge through to the keeper  302/7"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Taskin Ahmed"
+    },
+    "opposition": {
+      "country": "Bangladesh",
+      "total": "193 all out (45 Overs, RR: 4.28)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "6",
+      "balls": "11",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "48.6",
+    "Stadium": "Melbourne",
+    "team": {
+      "country": "INDIA ",
+      "total": "302/6 (50 Overs, RR: 6.04)"
+    },
+    "date": "19 Mar 2015",
+    "scoreAt": "296/6",
+    "description": "48.6  looking for quick runs with a thwack through the leg side to this shortish length, but ends up getting a leading edge high over towards the cover point region, with the fielder getting under it rather comfortably in the end  296/6"
+  },
+  {
+    "bowler": {},
+    "opposition": {
+      "country": "Australia",
+      "total": "328/7 (50 Overs, RR: 6.56)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "run out"
+    },
+    "player_innings": {
+      "runs": "65",
+      "balls": "65",
+      "4s": "3",
+      "6s": "2",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "44.3",
+    "Stadium": "Sydney",
+    "team": {
+      "country": "INDIA ",
+      "total": "233 all out (46.5 Overs, RR: 4.97)"
+    },
+    "date": "26 Mar 2015",
+    "scoreAt": "231/7",
+    "description": "44.3  gone, Dhoni is run out by a direct hit from Maxwell, that's all, folks! Dhoni heads straight off, head bowed, nothing even India's supernatural finisher could do about this. He'd worked the singles hard, flicked this off his legs to midwicket and let probability have a go - Maxwell only had one stump to aim at but he dead-eyed it, Dhoni didn't even bother to dive, he was that far out  231/7"
+  },
+  {
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Shakib Al Hasan"
+    },
+    "opposition": {
+      "country": "Bangladesh",
+      "total": "307 all out (49.4 Overs, RR: 6.18)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "5",
+      "balls": "7",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "25.3",
+    "Stadium": "Dhaka",
+    "team": {
+      "country": "INDIA ",
+      "total": "228 all out (46 Overs, RR: 4.95)"
+    },
+    "date": "18 Jun 2015",
+    "scoreAt": "128/5",
+    "description": "25.3  lovely sharp catch, and Mushfiq gets in Dhoni's face. This is not a pleasant match, but Bangladesh are playing superbly. There is a previous to this aggressive celebration. Not long ago Dhoni collided with a debutant to send him off the field. Now Shakib draws the edge, quite a thick one as the ball dips and then turns away. Mushfiq takes a lovely catch, letting the ball turn and deflect and taking it almost behind his body, and then screams in Dhoni's face  128/5"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "Mustafizur Rahman"
+    },
+    "opposition": {
+      "country": "Bangladesh",
+      "total": "200/4 (38 Overs, RR: 5.26)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "47",
+      "balls": "75",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "4"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "39.3",
+    "Stadium": "Dhaka",
+    "team": {
+      "country": "INDIA ",
+      "total": "200 all out (45 Overs, RR: 4.44)"
+    },
+    "date": "21 Jun 2015",
+    "scoreAt": "174/6",
+    "description": "39.3  huge wicket. Dhoni has been delaying that final push because wickets have been falling, and now he himself falls. The lethal cutter of Mustafizur again. Dhoni hasn't picked it, and he is early into the shot. Ends up jabbing at a length ball, and the ball lobs to short cover  174/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Mashrafe Mortaza"
+    },
+    "opposition": {
+      "country": "Bangladesh",
+      "total": "240 all out (47 Overs, RR: 5.10)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "69",
+      "balls": "77",
+      "4s": "6",
+      "6s": "1",
+      "batting_position": "4"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "45.2",
+    "Stadium": "Dhaka",
+    "team": {
+      "country": "INDIA ",
+      "total": "317/6 (50 Overs, RR: 6.34)"
+    },
+    "date": "24 Jun 2015",
+    "scoreAt": "268/5",
+    "description": "45.2  Mustafizur is everywhere. This time he takes a superb catch off a legcutter. Think this is the first time Mortaza has bowled the slower legcutter today. Dhoni has been picking the offcutter well, but this one he doesn't and gets a massive leading edge that flies towards deep midwicket. Mustafizur comes in from the rope and dives forward to take this inches form the ground  268/5"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Kagiso Rabada"
+    },
+    "opposition": {
+      "country": "South Africa",
+      "total": "303/5 (50 Overs, RR: 6.06)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "31",
+      "balls": "30",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "49.4",
+    "Stadium": "Kanpur",
+    "team": {
+      "country": "INDIA ",
+      "total": "298/7 (50 Overs, RR: 5.96)"
+    },
+    "date": "11 Oct 2015",
+    "scoreAt": "297/6",
+    "description": "49.4  Dhoni has been caught and bowled! This is an innings that will be discussed for a while now. He's charged the young fast bowler and aimed a slog across the line, he top edged the ball high in the air and Rabada calls for it coolly and takes the catch. Dhoni fails to see India through, they need seven off two balls.  297/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Morne Morkel"
+    },
+    "opposition": {
+      "country": "South Africa",
+      "total": "270/7 (50 Overs, RR: 5.40)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "47",
+      "balls": "61",
+      "4s": "5",
+      "6s": "0",
+      "batting_position": "4"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "41.5",
+    "Stadium": "Rajkot",
+    "team": {
+      "country": "INDIA ",
+      "total": "252/6 (50 Overs, RR: 5.04)"
+    },
+    "date": "18 Oct 2015",
+    "scoreAt": "193/3",
+    "description": "41.5  gone! What a wicket, huge huge stuff. Short ball outside off, Dhoni looks to dab that over short third man but the ball lobs up to Steyn at short third man. takes an easy catch and this match gets interesting  193/3"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Dale Steyn"
+    },
+    "opposition": {
+      "country": "South Africa",
+      "total": "264/9 (50 Overs, RR: 5.28)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "15",
+      "balls": "16",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "49.5",
+    "Stadium": "Chennai",
+    "team": {
+      "country": "INDIA ",
+      "total": "299/8 (50 Overs, RR: 5.98)"
+    },
+    "date": "22 Oct 2015",
+    "scoreAt": "299/7",
+    "description": "49.5  makes room for the short ball, flays it down the ground and finds mid off. Excellent over this is from Steyn  299/7"
+  },
+  {
+    "bowler": {
+      "type": "Legbreak googly",
+      "name": "Imran Tahir"
+    },
+    "opposition": {
+      "country": "South Africa",
+      "total": "438/4 (50 Overs, RR: 8.76)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "27",
+      "balls": "29",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "34.2",
+    "Stadium": "Mumbai",
+    "team": {
+      "country": "INDIA ",
+      "total": "224 all out (36 Overs, RR: 6.22)"
+    },
+    "date": "25 Oct 2015",
+    "scoreAt": "219/9",
+    "description": "34.2  got 'im! the Tahir googly is too good for Dhoni, he was charging down the pitch, but doesn't expect the ball to spin in, it slips past the inside edge and on to the stumps, this game is heading for a quick close now  219/9"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "James Faulkner"
+    },
+    "opposition": {
+      "country": "Australia",
+      "total": "310/5 (49.2 Overs, RR: 6.28)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "18",
+      "balls": "13",
+      "4s": "1",
+      "6s": "1",
+      "batting_position": "4"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "48.2",
+    "Stadium": "Perth",
+    "team": {
+      "country": "INDIA ",
+      "total": "309/3 (50 Overs, RR: 6.18)"
+    },
+    "date": "12 Jan 2016",
+    "scoreAt": "286/3",
+    "description": "48.2  this is a superb catch from the debutant! Dhoni rocked back to the short ball and pulled hard, hitting the ball out of the middle. The ball was flying quickly to Boland's right and was nearly past him when he stuck out his right hand and grabbed it  286/3"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Scott Boland"
+    },
+    "opposition": {
+      "country": "Australia",
+      "total": "309/3 (49 Overs, RR: 6.30)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "11",
+      "balls": "10",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "45.6",
+    "Stadium": "Brisbane",
+    "team": {
+      "country": "INDIA ",
+      "total": "308/8 (50 Overs, RR: 6.16)"
+    },
+    "date": "15 Jan 2016",
+    "scoreAt": "276/4",
+    "description": "45.6  gone. Dhoni's iffy innings ends. Slower ball, but in the slot. Dhoni belts it with a lot of power but straight down the throat of long-on. Maxwell settles under it and takes a sitter. India stuttering again  276/4"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "John Hastings"
+    },
+    "opposition": {
+      "country": "Australia",
+      "total": "296/7 (48.5 Overs, RR: 6.06)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "23",
+      "balls": "9",
+      "4s": "2",
+      "6s": "2",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "48.5",
+    "Stadium": "Melbourne",
+    "team": {
+      "country": "INDIA ",
+      "total": "295/6 (50 Overs, RR: 5.90)"
+    },
+    "date": "17 Jan 2016",
+    "scoreAt": "288/6",
+    "description": "48.5  four, six, and out! Dhoni spanks it, Maxi takes it, he feels the heat. Wrings his hands. Dhoni danced out again, Hastings banged it onto the middle of the pitch at 140ks. Pulled to deep midwicket, where Maxi hangs onto the catch  288/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "John Hastings"
+    },
+    "opposition": {
+      "country": "Australia",
+      "total": "348/8 (50 Overs, RR: 6.96)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "0",
+      "balls": "3",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "4"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "37.6",
+    "Stadium": "Canberra",
+    "team": {
+      "country": "INDIA ",
+      "total": "323 all out (49.2 Overs, RR: 6.54)"
+    },
+    "date": "20 Jan 2016",
+    "scoreAt": "277/3",
+    "description": "37.6  Dhoni goes now. The crowd goes wild. Legcutter outside off, Dhoni comes down to try and manufacture a shot. He pokes at it and gets a thin outside edge which is gratefully accepted by Wade. Australia not out of it, just yet.  277/3"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium",
+      "name": "Mitchell Marsh"
+    },
+    "opposition": {
+      "country": "Australia",
+      "total": "330/7 (50 Overs, RR: 6.60)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "34",
+      "balls": "42",
+      "4s": "1",
+      "6s": "1",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "49.2",
+    "Stadium": "Sydney",
+    "team": {
+      "country": "INDIA ",
+      "total": "331/4 (49.4 Overs, RR: 6.66)"
+    },
+    "date": "23 Jan 2016",
+    "scoreAt": "325/4",
+    "description": "49.2  full and wide and Dhoni goes after it and holes out, Warner takes a simple catch running in from long-off. They cross over, however, and Pandey will be on strike  325/4"
+  },
+  {
+    "bowler": {},
+    "opposition": {
+      "country": "New Zealand",
+      "total": "190 all out (43.5 Overs, RR: 4.33)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "run out"
+    },
+    "player_innings": {
+      "runs": "21",
+      "balls": "24",
+      "4s": "1",
+      "6s": "1",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "28.4",
+    "Stadium": "Dharamsala",
+    "team": {
+      "country": "INDIA ",
+      "total": "194/4 (33.1 Overs, RR: 5.84)"
+    },
+    "date": "16 Oct 2016",
+    "scoreAt": "162/4",
+    "description": "28.4  MS is run-out. Total breakdown in communication between the pair. Tossed up outside off, Dhoni comes down and misses his flick. The ball ricochets away towards cover off the pad. MS looks at Kohli, Kohli thinks and thinks and thinks. In the meantime, Dhoni is waiting in the middle of the pitch for conformation. Gets a negative response from Kohli, but way too late, especially because Guptill is quick to the ball. Lobs the ball back to the keeper with Dhoni stranded mid-pitch. Kohli is distraught with his decision.  162/4"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Tim Southee"
+    },
+    "opposition": {
+      "country": "New Zealand",
+      "total": "242/9 (50 Overs, RR: 4.84)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "39",
+      "balls": "65",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "39.3",
+    "Stadium": "Delhi",
+    "team": {
+      "country": "INDIA ",
+      "total": "236 all out (49.3 Overs, RR: 4.76)"
+    },
+    "date": "20 Oct 2016",
+    "scoreAt": "172/6",
+    "description": "39.3  that is a sensational catch, a little like how Shane Bond caught Cameron White in New Zealand many years ago! Dhoni pushed at the ball a bit too early and it came right back down the pitch, in the air but it was dying as it approached the bowler. Southee was moving towards his left in the follow through but he stopped and dived to his right to scoop the ball with one hand inches before it was going to bounce. So Dhoni will not take this game deep, someone else has to try and finish it for India. New Zealand edge ahead in this tense chase.  172/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Matt Henry"
+    },
+    "opposition": {
+      "country": "New Zealand",
+      "total": "285 all out (49.4 Overs, RR: 5.73)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "80",
+      "balls": "91",
+      "4s": "6",
+      "6s": "3",
+      "batting_position": "4"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "35.5",
+    "Stadium": "Mohali",
+    "team": {
+      "country": "INDIA ",
+      "total": "289/3 (48.2 Overs, RR: 5.97)"
+    },
+    "date": "23 Oct 2016",
+    "scoreAt": "192/3",
+    "description": "35.5  he's struck! With that back of a length ball that New Zealand like. And it is precisely for this reason that they like it - some hold onto the dry pitch and if a batsman is driving on the up, there is every chance he could be caught. That's why they have a short cover in the 36th over. Dhoni was left reaching for the ball, mistimes the shot and Taylor takes the catch  192/3"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium",
+      "name": "James Neesham"
+    },
+    "opposition": {
+      "country": "New Zealand",
+      "total": "260/7 (50 Overs, RR: 5.20)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "11",
+      "balls": "31",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "4"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "29.2",
+    "Stadium": "Ranchi",
+    "team": {
+      "country": "INDIA ",
+      "total": "241 all out (48.4 Overs, RR: 4.95)"
+    },
+    "date": "26 Oct 2016",
+    "scoreAt": "135/4",
+    "description": "29.2  gets through. Massive wicket. Dhoni falls. The crowd goes silent. Just a straight delivery on leg. Seam-up, Dhoni doesn't move his feet, drives at the ball but the ball finds a way through the bat and pad gap to clatter into leg stump. A big play from Neesham. May have got that to seam back in just enough.  135/4"
+  },
+  {
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Mitchell Santner"
+    },
+    "opposition": {
+      "country": "New Zealand",
+      "total": "79 all out (23.1 Overs, RR: 3.41)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "player_innings": {
+      "runs": "41",
+      "balls": "59",
+      "4s": "4",
+      "6s": "1",
+      "batting_position": "4"
+    },
+    "player": "MS Dhoni (c) ",
+    "ball": "37.3",
+    "Stadium": "Visakhapatnam",
+    "team": {
+      "country": "INDIA ",
+      "total": "269/6 (50 Overs, RR: 5.38)"
+    },
+    "date": "29 Oct 2016",
+    "scoreAt": "190/3",
+    "description": "37.3  pinned in front! Went for the sweep, but he has chosen a bad ball to do so. It was too straight. Slow as well, which meant he was finished with the shot by the time it hit his front pad. And worse, it straightened after angling in, pitching on middle. Fairly easy decision for Nandan, on his ODI debut as an umpire.  190/3"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Jake Ball"
+    },
+    "opposition": {
+      "country": "England",
+      "total": "350/7 (50 Overs, RR: 7.00)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "6",
+      "balls": "6",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni ",
+    "ball": "11.5",
+    "Stadium": "Pune",
+    "team": {
+      "country": "INDIA ",
+      "total": "356/7 (48.1 Overs, RR: 7.39)"
+    },
+    "date": "15 Jan 2017",
+    "scoreAt": "63/4",
+    "description": "11.5  and Ball gets him with the ball short of a length and that cramps him up. Dhoni premeditates, walks down the wicket, has nowhere to go as Ball pitches short, and the top edge lobs up for a catch at midwicket. There is a morgue-like silence at the ground  63/4"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Liam Plunkett"
+    },
+    "opposition": {
+      "country": "England",
+      "total": "366/8 (50 Overs, RR: 7.32)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "134",
+      "balls": "122",
+      "4s": "10",
+      "6s": "6",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni ",
+    "ball": "47.6",
+    "Stadium": "Cuttack",
+    "team": {
+      "country": "INDIA ",
+      "total": "381/6 (50 Overs, RR: 7.62)"
+    },
+    "date": "19 Jan 2017",
+    "scoreAt": "358/6",
+    "description": "47.6  full-toss on the leg stump, Dhoni picks it up and swipes it into the hands of Willey at deep square leg. Dhoni wrings his hands in pain, did not get the desired power behind that hit. Nevertheless, Dhoni walks back to a rousing reception  358/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Jake Ball"
+    },
+    "opposition": {
+      "country": "England",
+      "total": "321/8 (50 Overs, RR: 6.42)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "25",
+      "balls": "36",
+      "4s": "1",
+      "6s": "1",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni ",
+    "ball": "31.4",
+    "Stadium": "Kolkata",
+    "team": {
+      "country": "INDIA ",
+      "total": "316/9 (50 Overs, RR: 6.32)"
+    },
+    "date": "22 Jan 2017",
+    "scoreAt": "173/5",
+    "description": "31.4  edged and taken by Buttler, another sharp catch, well above his shoulder to his right. Ball has had a fine night, coming back after putting Kohli down earlier. This one's on a good length, outside off, draws the big shot from Dhoni and a little extra bounce takes the top edge through to the wicketkeeper. Odd sort of shot from Dhoni, considering there is so much time left in the game, driving away from the body when all innings he hid on the back foot  173/5"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Thisara Perera"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "322/3 (48.4 Overs, RR: 6.61)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "63",
+      "balls": "52",
+      "4s": "7",
+      "6s": "2",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni ",
+    "ball": "49.2",
+    "Stadium": "The Oval",
+    "team": {
+      "country": "INDIA ",
+      "total": "321/6 (50 Overs, RR: 6.42)"
+    },
+    "date": "8 Jun 2017",
+    "scoreAt": "307/6",
+    "description": "49.2  taken on the boundary. Full and wide again from Perera, slightly predictable, but it isn't quite in Dhoni's swinging arc. He has to manufacture his own power and does, but doesn't get good timing. Skews off the outside half and lands in long-off's hands. Important runs saved these could be  307/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Hasan Ali"
+    },
+    "opposition": {
+      "country": "Pakistan",
+      "total": "338/4 (50 Overs, RR: 6.76)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "4",
+      "balls": "16",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni ",
+    "ball": "13.3",
+    "Stadium": "The Oval",
+    "team": {
+      "country": "INDIA ",
+      "total": "158 all out (30.3 Overs, RR: 5.18)"
+    },
+    "date": "18 Jun 2017",
+    "scoreAt": "54/5",
+    "description": "13.3  taken by the deep square leg fielder. Dhoni's gone! The leg trap, the short ball trap was set and it's been sprung! There's a quick check for the no-ball. And Hasan's fine. He is better than fine after bowling this short ball, rising up towards Dhoni's ribs, cramping him on middle and leg. The batsman swings hard, and he's a good puller, Dhoni. This time though, he top edges to Imad, running in and diving foward. Hasan pulls out his trademark celebration, the pretend smoke bomb onto the pitch and as the smoke clears he is there, arms spread wide, looking like a proper hero.  54/5"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Kesrick Williams"
+    },
+    "opposition": {
+      "country": "West Indies",
+      "total": "189/9 (50 Overs, RR: 3.78)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "54",
+      "balls": "114",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni ",
+    "ball": "48.6",
+    "Stadium": "North Sound",
+    "team": {
+      "country": "INDIA ",
+      "total": "178 all out (49.4 Overs, RR: 3.58)"
+    },
+    "date": "2 Jul 2017",
+    "scoreAt": "176/8",
+    "description": "48.6  full outside off, too full for Dhoni to get the elevation he wants, and he's hit it straight to long-on. Cleared his front leg, swung hard, and hit it flat and too close to Joseph, who moved a couple of steps to his right to take a waist-high catch  176/8"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "James Faulkner"
+    },
+    "opposition": {
+      "country": "Australia",
+      "total": "137/9 (21 Overs, RR: 6.52)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "79",
+      "balls": "88",
+      "4s": "4",
+      "6s": "2",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni ",
+    "ball": "49.4",
+    "Stadium": "Chennai",
+    "team": {
+      "country": "INDIA ",
+      "total": "281/7 (50 Overs, RR: 5.62)"
+    },
+    "date": "17 Sep 2017",
+    "scoreAt": "277/7",
+    "description": "49.4  Dhoni forays down the track again... this time holes out to long-off. Faulkner's front foot is fine. Faulker pulled his length back, seeing Dhoni step out, on off stump. Dhoni gets it high on the bat and splices it to Warner for a head-high catch  277/7"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Kane Richardson"
+    },
+    "opposition": {
+      "country": "Australia",
+      "total": "202 all out (43.1 Overs, RR: 4.67)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "5",
+      "balls": "10",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni ",
+    "ball": "39.1",
+    "Stadium": "Kolkata",
+    "team": {
+      "country": "INDIA ",
+      "total": "252 all out (50 Overs, RR: 5.04)"
+    },
+    "date": "21 Sep 2017",
+    "scoreAt": "204/6",
+    "description": "39.1  an absolutely humongous wicket, not just because of who it is, but also because that could make a 25-run difference to the total. Full outside off, may have come off the surface slower than usual, and Dhoni drives too early. The ball goes up and Smith dives forward to take a good catch.  204/6"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Kane Richardson"
+    },
+    "opposition": {
+      "country": "Australia",
+      "total": "334/5 (50 Overs, RR: 6.68)"
+    },
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "player_innings": {
+      "runs": "13",
+      "balls": "10",
+      "4s": "1",
+      "6s": "1",
+      "batting_position": "7"
+    },
+    "player": "MS Dhoni ",
+    "ball": "47.5",
+    "Stadium": "Bengaluru",
+    "team": {
+      "country": "INDIA ",
+      "total": "313/8 (50 Overs, RR: 6.26)"
+    },
+    "date": "28 Sep 2017",
+    "scoreAt": "301/7",
+    "description": "47.5  bowled him! He's really not got to grips with Richardson's slower one, and he's dragged this on. Was on the cards, given how much he was hitting across these balls. Back of a length, closer to off stump this time. Goes for the big swipe over the leg side, only manages an inside-edge onto his stumps  301/7"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "Trent Boult"
+    },
+    "opposition": {
+      "country": "New Zealand",
+      "total": "284/4 (49 Overs, RR: 5.79)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "25",
+      "balls": "42",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni ",
+    "ball": "40.6",
+    "Stadium": "Mumbai",
+    "team": {
+      "country": "INDIA ",
+      "total": "280/8 (50 Overs, RR: 5.60)"
+    },
+    "date": "22 Oct 2017",
+    "scoreAt": "201/5",
+    "description": "40.6  soft! Guptill may have not picked the ball, but he takes it anyway. It's a shortish, wide delivery outside off, was there to be cut and Dhoni goes after it. Guptill is standing very close, at point, and seeing Dhoni's backlift, he would have anticipated a fierce cut, but it was a gentle push and that lack of pace almost did him in. But he takes the catch somehow, anyhow.  201/5"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Adam Milne"
+    },
+    "opposition": {
+      "country": "New Zealand",
+      "total": "331/7 (50 Overs, RR: 6.62)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "25",
+      "balls": "17",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "5"
+    },
+    "player": "MS Dhoni ",
+    "ball": "49.1",
+    "Stadium": "Kanpur",
+    "team": {
+      "country": "INDIA ",
+      "total": "337/6 (50 Overs, RR: 6.74)"
+    },
+    "date": "29 Oct 2017",
+    "scoreAt": "331/5",
+    "description": "49.1  caught at short third man. Milne joins his team-mates in taking all the pace off the ball. It's actually a legbreak, which Dhoni flat-bats, gets an outside edge and skews it to Munro  331/5"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Thisara Perera"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "114/3 (20.4 Overs, RR: 5.51)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "65",
+      "balls": "87",
+      "4s": "10",
+      "6s": "2",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni ",
+    "ball": "38.2",
+    "Stadium": "Dharamsala",
+    "team": {
+      "country": "INDIA ",
+      "total": "112 all out (38.2 Overs, RR: 2.92)"
+    },
+    "date": "10 Dec 2017",
+    "scoreAt": "112/10",
+    "description": "38.2  length ball outside off, and it's all over. Goes for the big hit, has to reach out, and ends up slicing it straight to the sweeper on the cover boundary. I think he wanted to hit it over mid-off  112/10"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Thisara Perera"
+    },
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "251/8 (50 Overs, RR: 5.02)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "player_innings": {
+      "runs": "7",
+      "balls": "5",
+      "4s": "0",
+      "6s": "1",
+      "batting_position": "4"
+    },
+    "player": "MS Dhoni ",
+    "ball": "47.3",
+    "Stadium": "Mohali",
+    "team": {
+      "country": "INDIA ",
+      "total": "392/4 (50 Overs, RR: 7.84)"
+    },
+    "date": "13 Dec 2017",
+    "scoreAt": "354/3",
+    "description": "47.3  Dhoni has been pinned in front by Thisara's slower legcutter. 102ks, Dhoni goes for a biiiiiig leg-side slog. He does not spot the change-up and is far too early into the shot. Hit on the back pad in line with middle  354/3"
+  },
+  {
+    "bowler": {
+      "type": "Legbreak googly",
+      "name": "Imran Tahir"
+    },
+    "opposition": {
+      "country": "South Africa",
+      "total": "179 all out (40 Overs, RR: 4.47)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "10",
+      "balls": "22",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "player": "MS Dhoni ",
+    "ball": "41.3",
+    "Stadium": "Cape Town",
+    "team": {
+      "country": "INDIA ",
+      "total": "303/6 (50 Overs, RR: 6.06)"
+    },
+    "date": "7 Feb 2018",
+    "scoreAt": "228/5",
+    "description": "41.3  Dhoni picks out long-on, 10 off 22. A proper struggle. Some flight from Tahir, Dhoni comes down, doesn't get to the pitch but goes through with the stroke anyway. It doesn't have great timing so it's easily taken at long-on.  228/5"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Lungi Ngidi"
+    },
+    "opposition": {
+      "country": "South Africa",
+      "total": "201 all out (42.2 Overs, RR: 4.74)"
+    },
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "player_innings": {
+      "runs": "13",
+      "balls": "17",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "7"
+    },
+    "player": "MS Dhoni ",
+    "ball": "48.2",
+    "Stadium": "Port Elizabeth",
+    "team": {
+      "country": "INDIA ",
+      "total": "274/7 (50 Overs, RR: 5.48)"
+    },
+    "date": "13 Feb 2018",
+    "scoreAt": "265/7",
+    "description": "48.2  taken at mid-off, and Ngidi is over the moon! He's taken out his IPL captain. The short delivery, off-pace as well, cramps the batsman for room. Dhoni still goes for a slash, gets it high on the bat and as a result the ball skews straighter than he wants it to. Markram runs to his left, puts in a full-length dive and takes another special catch  265/7"
+  }
+]
