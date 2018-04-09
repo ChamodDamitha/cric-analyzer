@@ -1,6 +1,7 @@
 1) Analyze player dismissals over time to identify patterns
     - match type - ODI/T20/Test - tour or knockout
     - bowler type, speed, line and length
+    - shot played
     - match situation
         - chasing or not
         - RRR and CRR
