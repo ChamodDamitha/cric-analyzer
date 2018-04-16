@@ -184,7 +184,20 @@ def scrapePlayerDismissals(player_name):
             json.dump(dismissals, outfile)
 
 
-players = ['Upul Tharanga', 'Kusal Mendis', 'MS Dhoni', 'Dinesh Chandimal', 'Angelo Mathews', 'Virat Kohli', 'Rohit Sharma']
+players = ['Martin Guptil',
+           'Kane Williamson',
+           'Brendon McCullum',
+           'Jos Buttler',
+           'Shikhar Dhawan',
+           'Tamim Iqbal',
+           'Ross Taylor',
+           'Upul Tharanga',
+           'Kusal Mendis',
+           'MS Dhoni',
+           'Dinesh Chandimal',
+           'Angelo Mathews',
+           'Virat Kohli',
+           'Rohit Sharma']
 
 for player in players:
     scrapePlayerDismissals(player)
