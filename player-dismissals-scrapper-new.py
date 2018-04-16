@@ -65,6 +65,9 @@ def scrapeMatch(dismissal, url):
         dismissal['bowler'] = {}
         dismissal['scoreAt'] = Preprocess.preprocess(player_dismissal.find_all('span')[1].text).strip()
         dismissal['ball'] = Preprocess.preprocess(player_dismissal.find_all('span')[0].text).strip()
+
+        for s in player_dismissal.find_all('span') :
+            s.decompose()
         dismissal['description'] = Preprocess.preprocess(player_dismissal.text).strip()
 
     if len(scorecards) > 1:
