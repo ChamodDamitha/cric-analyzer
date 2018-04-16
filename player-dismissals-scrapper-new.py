@@ -17,7 +17,7 @@ def getBowlerInfo(url):
     return data
 
 
-def scrapeMatch(dismissal, player, url):
+def scrapeMatch(dismissal, url):
     print('match : ' + url)
     webpage = urlopen(url).read()
     soup = BeautifulSoup(webpage, "html5lib")
@@ -29,7 +29,7 @@ def scrapeMatch(dismissal, player, url):
     isBreak = False
 
     wayOut = ""
-    player_name = player
+    player_name = dismissal['batsman']['name']
 
     i = 0
     for scorecard in scorecards:
@@ -39,7 +39,8 @@ def scrapeMatch(dismissal, player, url):
                     row.find(class_='wrap batsmen').find(class_='cell batsmen').find('a').text)
                 nameMatch = False
 
-                if len(player.split(" ")) > 1: n = player.split(" ")[-1]
+                if len(dismissal['batsman']['name'].split(" ")) > 1:
+                    n = dismissal['batsman']['name'].split(" ")[-1]
                 for n2 in player_name.split(" "):
                     if n in n2:
                         nameMatch = True
@@ -61,7 +62,6 @@ def scrapeMatch(dismissal, player, url):
             break
         i += 1
     if player_dismissal != None:
-        dismissal['player'] = player_name
         dismissal['bowler'] = {}
         dismissal['scoreAt'] = Preprocess.preprocess(player_dismissal.find_all('span')[1].text).strip()
         dismissal['ball'] = Preprocess.preprocess(player_dismissal.find_all('span')[0].text).strip()
@@ -103,7 +103,6 @@ def scrapePlayerDismissals(player_name):
                       'search='
                       + ('+'.join(player_name.split(' '))) +
                       ';template=analysis').read()
-
     soup = BeautifulSoup(webpage, "html5lib")
 
     player_link = None
@@ -115,8 +114,21 @@ def scrapePlayerDismissals(player_name):
         player_country = Preprocess.preprocess(
             player_link.parent.parent.find_all('td')[1].text
         )
-        player_url = player_link.get('href').split(';')[0]
 
+        soup_batsman = BeautifulSoup(urlopen("http://stats.espncricinfo.com" + player_link.get('href')),
+                                    "html5lib").find(class_ = 'ciPhotoContainer')
+
+        batsman = {}
+        batsman['name'] = player_name
+        for p in soup_batsman.find_all('p') :
+            if 'right-hand bat' in p.text :
+                batsman['batting-hand'] = 'right'
+                break
+            elif 'left-hand bat' in p.text :
+                batsman['batting-hand'] = 'left'
+                break
+
+        player_url = player_link.get('href').split(';')[0]
         innings_url = 'http://stats.espncricinfo.com' + player_url + \
                       ';filter=advanced;orderby=start;outs=1;' \
                       'template=results;type=batting;view=innings'
@@ -133,6 +145,7 @@ def scrapePlayerDismissals(player_name):
 
         for row in innings_table.find('tbody').find_all('tr'):
             dismissal = {}
+            dismissal['batsman'] = batsman
             dismissal['player_innings'] = {}
             dismissal['dismissal'] = {}
             dismissal['opposition'] = {}
@@ -162,7 +175,7 @@ def scrapePlayerDismissals(player_name):
                     dismissal['date'] = Preprocess.preprocess(data.text).strip()
                 elif i == 14:
                     scorecard_url = "http://www.espncricinfo.com" + data.find('a').get('href')
-                    dismissal = scrapeMatch(dismissal, player_name, scorecard_url)
+                    dismissal = scrapeMatch(dismissal, scorecard_url)
                 i += 1
             print(dismissal)
             if dismissal: dismissals.append(dismissal)
@@ -171,7 +184,7 @@ def scrapePlayerDismissals(player_name):
             json.dump(dismissals, outfile)
 
 
-players = ['Kusal Mendis', 'MS Dhoni', 'Dinesh Chandimal', 'Angelo Mathews', 'Virat Kohli', 'Rohit Sharma']
+players = ['Upul Tharanga', 'Kusal Mendis', 'MS Dhoni', 'Dinesh Chandimal', 'Angelo Mathews', 'Virat Kohli', 'Rohit Sharma']
 
 for player in players:
     scrapePlayerDismissals(player)
