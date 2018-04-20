@@ -189,26 +189,23 @@ def scrapePlayerDismissals(player_name):
         with open('Samples/Dismissals/' + '-'.join(player_name.split(" ")) + '-odi-dismissals.json', 'w') as outfile:
             json.dump(dismissals, outfile)
 
+AUS_players = ['Aaron Finch', 'David Warner', 'James Faulkner', 'Matthew Wade',
+               'Steven Smith', 'Shaun Marsh']
+ENG_players = ['Jos Buttler', 'Eoin Morgan', 'Ben Stokes', 'Jason Roy', 'Chris Woakes',
+               'Alex Hales', 'Joe Root']
+SL_players = ['Thisara Perera', 'Upul Tharanga', 'Dinesh Chandimal', 'Angelo Mathews',
+              'Lahiru Thirimanne', 'Kusal Mendis', 'Kusal Perera']
+IND_players = ['Shikhar Dhawan', 'Dinesh Karthik', 'MS Dhoni', 'Ravindra Jadeja',
+               'Virat Kohli', 'Ajinkya Rahane', 'RG Sharma', 'Yuvraj Singh']
+SA_players = ['AB de Villiers', 'Hashim Amla', 'Quinton de Kock', 'Jean-Paul Duminy',
+              'Faf du Plessis', 'David Miller']
+NZ_players = ['Kane Williamson', 'Corey Anderson', 'Martin Guptil', 'Tom Latham',
+              'Luke Ronchi', 'Ross Taylor']
 
-players = ['Ross Taylor',
-           'Upul Tharanga',
-           'Kusal Mendis',
-           'MS Dhoni',
-           'Dinesh Chandimal',
-           'Angelo Mathews',
-           'Virat Kohli',
-           'Rohit Sharma']
-
-# 'Martin Guptil',
-# 'Kane Williamson',
-# 'Brendon McCullum',
-# 'Jos Buttler',
-# 'Shikhar Dhawan',
-# 'Tamim Iqbal',
+players = AUS_players + ENG_players + SL_players + IND_players + SA_players + NZ_players
 
 for player in players:
     scrapePlayerDismissals(player)
-
 
 # dismissal = {
 #     "bowler": {},
