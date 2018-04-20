@@ -1,6 +1,6 @@
 import pandas as pd
 from keras.models import Sequential
-from keras.layers import Dense
+from keras.layers import Dense, Dropout
 import matplotlib.pyplot as plt
 from keras.callbacks import TensorBoard, ReduceLROnPlateau, ModelCheckpoint, EarlyStopping
 
@@ -30,8 +30,10 @@ print(test_y.shape)
 # create the NN model
 model = Sequential()
 model.add(Dense(8, input_dim=train_X.shape[1], activation='relu'))
+model.add(Dropout(0.25))
 model.add(Dense(3, activation='relu'))
-model.add(Dense(5, activation='relu'))
+model.add(Dropout(0.25))
+model.add(Dense(7, activation='relu'))
 model.add(Dense(train_y.shape[1], activation='softmax'))
 #
 # compile model
