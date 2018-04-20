@@ -1,1 +1,2395 @@
-[{"bowler": {"type": "Slow left-arm orthodox", "name": "Ravindra Jadeja"}, "Stadium": "Mohali", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "14", "balls": "9", "4s": "1", "6s": "1", "batting_position": "7"}, "ball": "48.3", "opposition": {"country": "India", "total": "258/5 (47.3 Overs, RR: 5.43)"}, "team": {"country": "ENG ", "total": "257/7 (50 Overs, RR: 5.14)"}, "date": "23 Jan 2013", "scoreAt": "241/6", "description": "caught at point! Third time unlucky. He makes room again, but instead of following him, the bowler fires it wide outside off. Buttler had to stretch to get to the ball and in the end, he manages a tame top-edge to the fielder at point"}, {"bowler": {"type": "Left-arm fast-medium", "name": "Mitchell McClenaghan"}, "Stadium": "Hamilton", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "21", "balls": "13", "4s": "0", "6s": "2", "batting_position": "6"}, "ball": "43.3", "opposition": {"country": "New Zealand", "total": "259/7 (48.5 Overs, RR: 5.30)"}, "team": {"country": "ENG ", "total": "258 all out (49.3 Overs, RR: 5.21)"}, "date": "17 Feb 2013", "scoreAt": "220/5", "description": "oh Buttler goes to a lame full toss of all deliveries, could have done anything with it but ends up toeing it to cover"}, {"bowler": {"type": "Right-arm medium-fast", "name": "Tim Southee"}, "Stadium": "Auckland", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "3", "balls": "4", "4s": "0", "6s": "0", "batting_position": "6"}, "ball": "33.2", "opposition": {"country": "New Zealand", "total": "185 all out (43.5 Overs, RR: 4.22)"}, "team": {"country": "ENG ", "total": "186/5 (37.3 Overs, RR: 4.96)"}, "date": "23 Feb 2013", "scoreAt": "171/5", "description": "another one down! Short again, this time Buttler has a crack at it but is late on the shot, it hits the splice and loops towards leg slip, where BJ Watling takes a diving catch, another excellent bit of work. That's three wickets for Southee but the dismissal was all about Watling scampering in like a golden retriever in pursuit of a stick to throw himself at full length under the ball"}, {"bowler": {"type": "Right-arm offbreak", "name": "Kane Williamson"}, "Stadium": "Lord's", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "14", "balls": "25", "4s": "1", "6s": "0", "batting_position": "6"}, "ball": "38.2", "opposition": {"country": "New Zealand", "total": "231/5 (46.5 Overs, RR: 4.93)"}, "team": {"country": "ENG ", "total": "227/9 (50 Overs, RR: 4.54)"}, "date": "31 May 2013", "scoreAt": "159/6", "description": "flatter delivery, Buttler tries to take it on, another reverse sweep and it loops straight to point! Frustration claims Buttler, who couldn't have picked out the man any better. Another wheel comes off the battlewagon"}, {"bowler": {"type": "Left-arm fast-medium", "name": "Mitchell McClenaghan"}, "Stadium": "Southampton", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "2", "balls": "3", "4s": "0", "6s": "0", "batting_position": "6"}, "ball": "30.1", "opposition": {"country": "New Zealand", "total": "359/3 (50 Overs, RR: 7.18)"}, "team": {"country": "ENG ", "total": "273 all out (44.1 Overs, RR: 6.18)"}, "date": "2 Jun 2013", "scoreAt": "169/5", "description": "and this might seal the deal, driven on the up and taken at short extra cover Buttler driving from just outside off without getting his foot right across to the pitch, chipping it in the air and Guptill, third time lucky, dives forward and takes the chance with two hands"}, {"bowler": {"type": "Left-arm fast-medium", "name": "James Faulkner"}, "Stadium": "Birmingham", "team_innings": "1", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "1", "balls": "2", "4s": "0", "6s": "0", "batting_position": "7"}, "ball": "43.1", "opposition": {"country": "Australia", "total": "221/9 (50 Overs, RR: 4.42)"}, "team": {"country": "ENG ", "total": "269/6 (50 Overs, RR: 5.38)"}, "date": "8 Jun 2013", "scoreAt": "213/6", "description": "and Buttler's gone second ball, edging on to his stumps! Good areas from Faulkner, not quite wide or full enough for the drive and Buttler played away from his body, not much footwork, the ball cannoning back into his standing leg and then on to middle stump - the gunpowder has exploded in England's face!"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Nuwan Kulasekara"}, "Stadium": "The Oval", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "0", "balls": "2", "4s": "0", "6s": "0", "batting_position": "6"}, "ball": "46.2", "opposition": {"country": "Sri Lanka", "total": "297/3 (47.1 Overs, RR: 6.29)"}, "team": {"country": "ENG ", "total": "293/7 (50 Overs, RR: 5.86)"}, "date": "13 Jun 2013", "scoreAt": "249/6", "description": "driven at outside off stump, thin edge and taken by Sangakkara a good low catch going down to his left, Buttler walked and a second ball duck is a second failure in this competition. It wasn't right there to drive and Buttler got a little tickle on it trying to force into the covers"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Kyle Mills"}, "Stadium": "Cardiff", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "14", "balls": "9", "4s": "2", "6s": "0", "batting_position": "6"}, "ball": "21.3", "opposition": {"country": "New Zealand", "total": "159/8 (24 Overs, RR: 6.62)"}, "team": {"country": "ENG ", "total": "169 all out (23.3 Overs, RR: 7.19)"}, "date": "16 Jun 2013", "scoreAt": "159/6", "description": "length ball, slower, 69mph, slapped to long off, McNath again! And he holds on just inside the boundary, Buttler got it low on the bat and it was so badly mistimed, presented a simple chance for the fielder, tried to clear the front leg but just didn't get it at all right"}, {"bowler": {"type": "Slow left-arm orthodox", "name": "Ravindra Jadeja"}, "Stadium": "Birmingham", "team_innings": "2", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "0", "balls": "1", "4s": "0", "6s": "0", "batting_position": "7"}, "ball": "18.2", "opposition": {"country": "India", "total": "129/7 (20 Overs, RR: 6.45)"}, "team": {"country": "ENG ", "total": "124/8 (20 Overs, RR: 6.20)"}, "date": "23 Jun 2013", "scoreAt": "112/7", "description": "there you go...floated up on middle stump, he has a huge heave, is nowhere near it and gets his middle stump hit. Not Buttler's finest hour"}, {"bowler": {"type": "Legbreak", "name": "Fawad Ahmed"}, "Stadium": "Manchester", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "75", "balls": "65", "4s": "5", "6s": "3", "batting_position": "7"}, "ball": "43.2", "opposition": {"country": "Australia", "total": "315/7 (50 Overs, RR: 6.30)"}, "team": {"country": "ENG ", "total": "227 all out (44.2 Overs, RR: 5.12)"}, "date": "8 Sep 2013", "scoreAt": "216/9", "description": "goes again but this is straight up, Johnson goes back from mid-on a few yards and takes a comfortable catch. He's thumped a few nicely today Buttler but that was a total miscue that went a long way up off a top edge, trying again to swing away a ball floated up on the stumps. Good solid catch from Johnson"}, {"bowler": {"type": "Left-arm fast-medium", "name": "James Faulkner"}, "Stadium": "Southampton", "team_innings": "2", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "42", "balls": "37", "4s": "4", "6s": "0", "batting_position": "7"}, "ball": "38.1", "opposition": {"country": "Australia", "total": "298 all out (49.1 Overs, RR: 6.06)"}, "team": {"country": "ENG ", "total": "249 all out (48 Overs, RR: 5.18)"}, "date": "16 Sep 2013", "scoreAt": "195/6", "description": "full and straight through him stumps parted and a killer blow for England, think Buttler just played around one, done by the angle perhaps. It was around the wicket from Faulkner, angled in to the stumps and Buttler tried to swing it down the ground and missed, is that England's last chance walking off?"}, {"bowler": {"type": "Right-arm fast", "name": "Nathan Coulter-Nile"}, "Stadium": "Brisbane", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "49", "balls": "36", "4s": "3", "6s": "1", "batting_position": "7"}, "ball": "48.3", "opposition": {"country": "Australia", "total": "301/9 (49.3 Overs, RR: 6.08)"}, "team": {"country": "ENG ", "total": "300/8 (50 Overs, RR: 6.00)"}, "date": "17 Jan 2014", "scoreAt": "295/6", "description": "Buttler skies this one and Clarke runs in from mid-on, appears at first to misjudge it and has to dive forward a bit but does indeed complete the catch, so Coulter-Nile gets the wicket he missed earlier, and England lose their sixth wicket, but Buttler has done a fine job"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Daniel Christian"}, "Stadium": "Sydney", "team_innings": "1", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "4", "balls": "8", "4s": "0", "6s": "0", "batting_position": "7"}, "ball": "43.2", "opposition": {"country": "Australia", "total": "244/3 (40 Overs, RR: 6.10)"}, "team": {"country": "ENG ", "total": "243/9 (50 Overs, RR: 4.86)"}, "date": "19 Jan 2014", "scoreAt": "195/7", "description": "massive wicket! That could kill off any late charge. Lack of pace doing for Buttler. It was outside off stump, around 105kph, Buttler tries to force through the off side and gets a big inside edge into the stumps"}, {"bowler": {"type": "Left-arm fast-medium", "name": "James Faulkner"}, "Stadium": "Perth", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "71", "balls": "43", "4s": "6", "6s": "4", "batting_position": "7"}, "ball": "49.4", "opposition": {"country": "Australia", "total": "259 all out (47.4 Overs, RR: 5.43)"}, "team": {"country": "ENG ", "total": "316/8 (50 Overs, RR: 6.32)"}, "date": "24 Jan 2014", "scoreAt": "312/7", "description": "Buttler's entertaining innings comes to an end, he's swung hard outside off and this slices off the top edge and flies away towards third man where Johnson comes in and takes the catch"}, {"bowler": {"type": "Right-arm fast", "name": "Nathan Coulter-Nile"}, "Stadium": "Adelaide", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "5", "balls": "9", "4s": "0", "6s": "0", "batting_position": "7"}, "ball": "42.3", "opposition": {"country": "Australia", "total": "217/9 (50 Overs, RR: 4.34)"}, "team": {"country": "ENG ", "total": "212 all out (49.4 Overs, RR: 4.26)"}, "date": "26 Jan 2014", "scoreAt": "174/6", "description": "Buttler is gone now! England are digging themselves into a hole here! A shortish ball from Coulter-Nile gets Buttler's eyes lighting up and he goes for the pull, it comes out of the middle of the bat but not with enough elevation and McKay at deep midwicket takes the catch"}, {"bowler": {"type": "Right-arm medium-fast", "name": "Dwayne Bravo"}, "Stadium": "North Sound", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "12", "balls": "17", "4s": "1", "6s": "0", "batting_position": "6"}, "ball": "42.6", "opposition": {"country": "West Indies", "total": "269/6 (50 Overs, RR: 5.38)"}, "team": {"country": "ENG ", "total": "254/6 (50 Overs, RR: 5.08)"}, "date": "28 Feb 2014", "scoreAt": "211/6", "description": "that really changes things! West Indies favourites now. Buttler trying to clear the off side, it was a slower ball, rolls his fingers across it, there's no timing in the shot and it lobs to mid-off"}, {"bowler": {"type": "Right-arm medium-fast", "name": "Dwayne Bravo"}, "Stadium": "North Sound", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "0", "balls": "1", "4s": "0", "6s": "0", "batting_position": "6"}, "ball": "21.2", "opposition": {"country": "West Indies", "total": "159 all out (44.2 Overs, RR: 3.58)"}, "team": {"country": "ENG ", "total": "163/7 (44.5 Overs, RR: 3.63)"}, "date": "2 Mar 2014", "scoreAt": "81/5", "description": "short first ball, well-directed right at the body, Buttler goes to avoid it but can't get his hands inside the line in time and gets a feather through to Ramdin and now this really is game on. Buttler got into a position to ride the bounce and try and drop it down, then saw it rising steeply and tried to get inside the line and failed, the ball brushing the glove through to Ramdin, West Indies are cock-a-hoop"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Ravi Rampaul"}, "Stadium": "North Sound", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "99", "balls": "84", "4s": "7", "6s": "4", "batting_position": "6"}, "ball": "49.3", "opposition": {"country": "West Indies", "total": "278 all out (47.4 Overs, RR: 5.83)"}, "team": {"country": "ENG ", "total": "303/6 (50 Overs, RR: 6.06)"}, "date": "5 Mar 2014", "scoreAt": "300/6", "description": "another slower ball - and Buttler has chipped it straight up into the air, he's out for 99! Holy moly, what a way to go, one short of his maiden ODI century... Rampaul followed him down the leg side, took the pace off and Buttler got a leading edge trying to hit through midwicket, the bowler made no mistake underneath it. Off slopes Jos Buttler, thorougly dejected, despite a superb knock"}, {"bowler": {"type": "Right-arm medium-fast", "name": "Josh Davey"}, "Stadium": "Aberdeen", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "9", "balls": "5", "4s": "1", "6s": "0", "batting_position": "4"}, "ball": "17.4", "opposition": {"country": "Scotland", "total": "133/9 (20 Overs, RR: 6.65)"}, "team": {"country": "ENG ", "total": "167/6 (20 Overs, RR: 8.35)"}, "date": "9 May 2014", "scoreAt": "136/3", "description": "another fantastic catch! This looked like six for Buttler, he picked up a length delivery towards deep midwicket but Taylor timed his jump to perfection and then was still able to make sure he didn't step over the boundary"}, {"bowler": {"type": "Right-arm medium", "name": "Angelo Mathews"}, "Stadium": "Chester-le-Street", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "4", "balls": "6", "4s": "1", "6s": "0", "batting_position": "7"}, "ball": "17.1", "opposition": {"country": "Sri Lanka", "total": "256/8 (50 Overs, RR: 5.12)"}, "team": {"country": "ENG ", "total": "99 all out (26.1 Overs, RR: 3.78)"}, "date": "25 May 2014", "scoreAt": "55/6", "description": "Oh geez, what's happened there? That one looks like it stopped on Buttler, but Mathews does do that sometimes. It's a fairly average ball otherwise, and Buttler will be annoyed by that. It's short of a length, about a foot outside off. The batsman looks to drag it to leg, but is fooled by the lack of pace. In the end, all he does is bunt it up gently in the air to the off side, where Senanayake at short cover dives to his side and snaffles it."}, {"bowler": {}, "Stadium": "Lord's", "team_innings": "2", "dismissal": {"wayOut": "run out"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "121", "balls": "74", "4s": "11", "6s": "4", "batting_position": "7"}, "ball": "49.4", "opposition": {"country": "Sri Lanka", "total": "300/9 (50 Overs, RR: 6.00)"}, "team": {"country": "ENG ", "total": "293/8 (50 Overs, RR: 5.86)"}, "date": "31 May 2014", "scoreAt": "292/8", "description": "superb yorker, dug out but only a yard or two off the strip, Malinga fetches it and Buttler is stranded! Buttler is run out after making a quite sensational hundred but it won't be enough for England... Malinga knows his way around squeaky bum time, that's for sure, he fired this in full and then was smart enough to collect and finish the job with Buttler indecisive and Tredwell already alongside him"}, {"bowler": {"type": "Slow left-arm orthodox", "name": "Ravindra Jadeja"}, "Stadium": "Cardiff", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "2", "balls": "9", "4s": "0", "6s": "0", "batting_position": "6"}, "ball": "22.4", "opposition": {"country": "India", "total": "304/6 (50 Overs, RR: 6.08)"}, "team": {"country": "ENG ", "total": "161 all out (38.1 Overs, RR: 4.21)"}, "date": "27 Aug 2014", "scoreAt": "85/5", "description": "played at firmly on off stump and pops up a catch to extra cover! Oh dear England are sliding away quickly here, Jadeja again! Buttler playing forward on off stump, the ball gripped a little and spun away, taking the outer half of the bat and firm press Buttler applied sent the simplest of chances to Kohli"}, {"bowler": {"type": "Right-arm offbreak", "name": "Ravichandran Ashwin"}, "Stadium": "Nottingham", "team_innings": "1", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "42", "balls": "58", "4s": "3", "6s": "0", "batting_position": "6"}, "ball": "47.2", "opposition": {"country": "India", "total": "228/4 (43 Overs, RR: 5.30)"}, "team": {"country": "ENG ", "total": "227 all out (50 Overs, RR: 4.54)"}, "date": "30 Aug 2014", "scoreAt": "202/8", "description": "nice comeback! Ashwin adjusts his line, onto off stump, Buttler comes down the pitch aiming to heave it over the leg side but lost his shape on the shot, turned into a bit of a wild mow, the ball spun and struck off stump"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Mohammed Shami"}, "Stadium": "Birmingham", "team_innings": "1", "dismissal": {"wayOut": "lbw"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "11", "balls": "24", "4s": "0", "6s": "0", "batting_position": "6"}, "ball": "39.3", "opposition": {"country": "India", "total": "212/1 (30.3 Overs, RR: 6.95)"}, "team": {"country": "ENG ", "total": "206 all out (49.3 Overs, RR: 4.16)"}, "date": "2 Sep 2014", "scoreAt": "164/6", "description": "he's done it! Shami does the trick. Massive blow. It was a length delivery, just nips back off the seam, takes Buttler above the knee roll. Paul Reiffel gives the decision. Hawk Eye says it was going over, by a fair distance"}, {"bowler": {}, "Stadium": "Leeds", "team_innings": "1", "dismissal": {"wayOut": "run out"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "49", "balls": "40", "4s": "5", "6s": "2", "batting_position": "6"}, "ball": "42.3", "opposition": {"country": "India", "total": "253 all out (48.4 Overs, RR: 5.19)"}, "team": {"country": "ENG ", "total": "294/7 (50 Overs, RR: 5.88)"}, "date": "5 Sep 2014", "scoreAt": "225/5", "description": "tries to reverse sweep and hit on the pads, big appeal, not given... but Buttler has wandered blindly off down the pitch and is run out by a mile! The impact was probably outside off stump, the ball only bobbled a yard or two wide of Dhoni but for reasons unknown Buttler decided there was a run to be taken. Dhoni nonchalantly reached to his right, picked up the ball and broke the stumps, Buttler shot down short of his fifty"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Dhammika Prasad"}, "Stadium": "Colombo (RPS)", "team_innings": "2", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "21", "balls": "21", "4s": "1", "6s": "1", "batting_position": "6"}, "ball": "23.4", "opposition": {"country": "Sri Lanka", "total": "317/6 (50 Overs, RR: 6.34)"}, "team": {"country": "ENG ", "total": "292 all out (47.1 Overs, RR: 6.19)"}, "date": "26 Nov 2014", "scoreAt": "159/5", "description": "back on a decent length, Buttler props forward and gets an inside edge which bounces and then cannons leg stump! Very bad time for England to lose another wicket. Buttler was trying to sort of angle this away but it came back on him a little and the inside edge found the outside edge of leg stump"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Dhammika Prasad"}, "Stadium": "Colombo (RPS)", "team_innings": "1", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "7", "balls": "14", "4s": "0", "6s": "0", "batting_position": "7"}, "ball": "31.4", "opposition": {"country": "Sri Lanka", "total": "186/2 (34.2 Overs, RR: 5.41)"}, "team": {"country": "ENG ", "total": "185 all out (43 Overs, RR: 4.30)"}, "date": "29 Nov 2014", "scoreAt": "132/6", "description": "well, Buttler won't be targetting Prasad. He's fallen to him for the second time in two innings. And in very similar manner, getting an inside edge on a length delivery which cannons into the stumps"}, {"bowler": {"type": "Slow left-arm orthodox", "name": "Rangana Herath"}, "Stadium": "Colombo (RPS)", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "15", "balls": "22", "4s": "0", "6s": "1", "batting_position": "7"}, "ball": "42.4", "opposition": {"country": "Sri Lanka", "total": "267/4 (49.4 Overs, RR: 5.37)"}, "team": {"country": "ENG ", "total": "265 all out (50 Overs, RR: 5.30)"}, "date": "7 Dec 2014", "scoreAt": "203/6", "description": "down the wicket, goes in the air down the ground and picks out long-on. No where near enough club on that, bit of an inside edge and it was a straightforward chance to Jaywardene running a few yards to his left. A big wicket for Sri Lanka who have kept things very quiet since the batting Powerplay"}, {"bowler": {}, "Stadium": "Pallekele", "team_innings": "2", "dismissal": {"wayOut": "run out"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "22", "balls": "26", "4s": "2", "6s": "0", "batting_position": "7"}, "ball": "24.4", "opposition": {"country": "Sri Lanka", "total": "292/7 (50 Overs, RR: 5.84)"}, "team": {"country": "ENG ", "total": "202 all out (41.3 Overs, RR: 4.86)"}, "date": "13 Dec 2014", "scoreAt": "123/6", "description": "brilliant fielding! Buttler dropped the ball into the off side, he wanted the run but Root sent him back fairly quickly. Thirimanne swooped from cover and produced a direct hit almost with a back-handed throw as he still in a diving motion"}, {"bowler": {"type": "Legbreak", "name": "Seekkuge Prasanna"}, "Stadium": "Colombo (RPS)", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "23", "balls": "23", "4s": "2", "6s": "0", "batting_position": "7"}, "ball": "27.3", "opposition": {"country": "Sri Lanka", "total": "302/6 (50 Overs, RR: 6.04)"}, "team": {"country": "ENG ", "total": "215 all out (45.5 Overs, RR: 4.69)"}, "date": "16 Dec 2014", "scoreAt": "126/6", "description": "picked him out! Just as Buttler was getting going. Tried to clear the off side but the bat just turned in his hand and the ball sliced in the air to deep cover"}, {"bowler": {}, "Stadium": "Hobart", "team_innings": "1", "dismissal": {"wayOut": "run out"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "25", "balls": "24", "4s": "2", "6s": "0", "batting_position": "6"}, "ball": "49.5", "opposition": {"country": "Australia", "total": "304/7 (49.5 Overs, RR: 6.10)"}, "team": {"country": "ENG ", "total": "303/8 (50 Overs, RR: 6.06)"}, "date": "23 Jan 2015", "scoreAt": "303/7", "description": "another, and it's a run out this time. Length ball, swinging away from off stump. Woakes swings and misses and they try to sneak a bye. Haddin's throw knocks back middle stump, and Buttler is short of his crease despite putting in the dive"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Mohammed Shami"}, "Stadium": "Perth", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "67", "balls": "78", "4s": "7", "6s": "0", "batting_position": "7"}, "ball": "45.2", "opposition": {"country": "India", "total": "200 all out (48.1 Overs, RR: 4.15)"}, "team": {"country": "ENG ", "total": "201/7 (46.5 Overs, RR: 4.29)"}, "date": "30 Jan 2015", "scoreAt": "193/7", "description": "bit full outside off and he lofts it with a drive straight to Rayudu at deep cover! The runs had dried up in the last two overs, he went for the big shot and gave an easy catch to the fielder"}, {"bowler": {"type": "Right-arm offbreak", "name": "Glenn Maxwell"}, "Stadium": "Perth", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "17", "balls": "22", "4s": "3", "6s": "0", "batting_position": "7"}, "ball": "24.1", "opposition": {"country": "Australia", "total": "278/8 (50 Overs, RR: 5.56)"}, "team": {"country": "ENG ", "total": "166 all out (39.1 Overs, RR: 4.23)"}, "date": "1 Feb 2015", "scoreAt": "98/6", "description": "Maxwell not only hits reverse sweeps, he also gets batsmen on the shot, Pat Cummins the substitute at short third man, throws himself forward to take it low, helps that he is quite tall, of course"}, {"bowler": {"type": "Right-arm medium", "name": "Mitchell Marsh"}, "Stadium": "Melbourne", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "10", "balls": "12", "4s": "1", "6s": "0", "batting_position": "7"}, "ball": "21.2", "opposition": {"country": "Australia", "total": "342/9 (50 Overs, RR: 6.84)"}, "team": {"country": "ENG ", "total": "231 all out (41.5 Overs, RR: 5.52)"}, "date": "14 Feb 2015", "scoreAt": "92/6", "description": "Marsh has five, but this wicket is all Smith's! What a stunner at short cover! Forget Superman, just look at this guy leaping to his left and sticking out both hands that grapples a full-blooded bludgeon!"}, {"bowler": {"type": "Right-arm medium-fast", "name": "Tim Southee"}, "Stadium": "Wellington", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "3", "balls": "7", "4s": "0", "6s": "0", "batting_position": "7"}, "ball": "28.1", "opposition": {"country": "New Zealand", "total": "125/2 (12.2 Overs, RR: 10.13)"}, "team": {"country": "ENG ", "total": "123 all out (33.2 Overs, RR: 3.69)"}, "date": "20 Feb 2015", "scoreAt": "108/6", "description": "lovely outswing bowling. Southee has a four-for. This is on a length, not too wide, you can't keep leaving them alone all day long in ODIs. Buttler pushes at it, Southee gets enough movement away to take the edge and England are six down"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Iain Wardlaw"}, "Stadium": "Christchurch", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "24", "balls": "14", "4s": "4", "6s": "0", "batting_position": "7"}, "ball": "48.4", "opposition": {"country": "Scotland", "total": "184 all out (42.2 Overs, RR: 4.34)"}, "team": {"country": "ENG ", "total": "303/8 (50 Overs, RR: 6.06)"}, "date": "23 Feb 2015", "scoreAt": "297/6", "description": "smashed straight into the hands of long off! He moved away to the leg side, the bowler pushes it wide outside off, which means Buttler doesn't get it off the meat of the bat. He could have gone over cover with that but chose to go straight"}, {"bowler": {"type": "Right-arm fast", "name": "Taskin Ahmed"}, "Stadium": "Adelaide", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "65", "balls": "52", "4s": "6", "6s": "1", "batting_position": "7"}, "ball": "45.5", "opposition": {"country": "Bangladesh", "total": "275/7 (50 Overs, RR: 5.50)"}, "team": {"country": "ENG ", "total": "260 all out (48.3 Overs, RR: 5.36)"}, "date": "9 Mar 2015", "scoreAt": "238/7", "description": "Taskin might just well be the toast of Dhaka tonight as he induces an outside edge to this attempted dab from Jos, who looked in two minds as to whether to go back or forward to this slightly back of a length outside his off stump. Met with wild jubilation from the Adelaide crowd as Bangladesh now go just ahead on the cards"}, {"bowler": {"type": "Left-arm fast-medium", "name": "Mitchell McClenaghan"}, "Stadium": "Birmingham", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "129", "balls": "77", "4s": "13", "6s": "5", "batting_position": "6"}, "ball": "47.3", "opposition": {"country": "New Zealand", "total": "198 all out (31.1 Overs, RR: 6.35)"}, "team": {"country": "ENG ", "total": "408/9 (50 Overs, RR: 8.16)"}, "date": "9 Jun 2015", "scoreAt": "379/7", "description": "back of a length, Buttler whacks it leg side but doesn't get this at all and chips a catch to square leg who takes it well tumbling back. Having to reach outside off and above his head here, couldn't control the stroke at all and got a top edge that looped to the fielder. What an innings from Buttler, very very special"}, {"bowler": {"type": "Left-arm fast-medium", "name": "Trent Boult"}, "Stadium": "The Oval", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "41", "balls": "38", "4s": "4", "6s": "1", "batting_position": "6"}, "ball": "32.1", "opposition": {"country": "New Zealand", "total": "398/5 (50 Overs, RR: 7.96)"}, "team": {"country": "ENG ", "total": "365/9 (46 Overs, RR: 7.93)"}, "date": "12 Jun 2015", "scoreAt": "259/5", "description": "there's the breakthrough for New Zealand! And it's that man Boult. Wasn't a great delivery, short of a length and angled across Buttler who went for the cut and got a thin toe end low to Ronchi"}, {"bowler": {"type": "Right-arm medium-fast", "name": "Tim Southee"}, "Stadium": "Southampton", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "13", "balls": "10", "4s": "2", "6s": "0", "batting_position": "6"}, "ball": "36.2", "opposition": {"country": "New Zealand", "total": "306/7 (49 Overs, RR: 6.24)"}, "team": {"country": "ENG ", "total": "302 all out (45.2 Overs, RR: 6.66)"}, "date": "14 Jun 2015", "scoreAt": "227/5", "description": "edged! Southee gets one with a short, wide delivery which Buttler chases and gets a thin edge to the keeper...bowler can't say he planned for that, but New Zealand won't care"}, {"bowler": {"type": "Right-arm fast", "name": "Nathan Coulter-Nile"}, "Stadium": "Southampton", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "4", "balls": "10", "4s": "0", "6s": "0", "batting_position": "6"}, "ball": "36.1", "opposition": {"country": "Australia", "total": "305/6 (50 Overs, RR: 6.10)"}, "team": {"country": "ENG ", "total": "246 all out (45.3 Overs, RR: 5.40)"}, "date": "3 Sep 2015", "scoreAt": "194/6", "description": "but he's gone now! England falling away. Full outside off, Buttler goes for the drive and just picks out mid-off inside the circle. That was loose from Buttler, needed to at least take a moment to assess after Morgan's departure"}, {"bowler": {"type": "Right-arm offbreak", "name": "Glenn Maxwell"}, "Stadium": "Lord's", "team_innings": "2", "dismissal": {"wayOut": "lbw"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "0", "balls": "3", "4s": "0", "6s": "0", "batting_position": "6"}, "ball": "26.2", "opposition": {"country": "Australia", "total": "309/7 (49 Overs, RR: 6.30)"}, "team": {"country": "ENG ", "total": "245 all out (42.3 Overs, RR: 5.76)"}, "date": "5 Sep 2015", "scoreAt": "142/5", "description": "an appeal for lbw, Tim Robinson does not budge. Australia want a review. Maxi's front foot is fine. Flighted on middle, with a hint of turn. He misses the defensive push, is beaten on the inside edge and is rapped on the front pad. The ball pitched in line, impact in line, it would have hit the top of middle. Buttler is sent packing for a three-ball duck.."}, {"bowler": {}, "Stadium": "Abu Dhabi", "team_innings": "1", "dismissal": {"wayOut": "run out"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "1", "balls": "2", "4s": "0", "6s": "0", "batting_position": "6"}, "ball": "30.6", "opposition": {"country": "Pakistan", "total": "217/4 (43.4 Overs, RR: 4.96)"}, "team": {"country": "ENG ", "total": "216 all out (49.4 Overs, RR: 4.34)"}, "date": "11 Nov 2015", "scoreAt": "148/5", "description": "round the wicket, tip and run, it's a suicide single to midwicket and even without a direct hit, there's plenty time for the keeper to whip off the bails! Dreadful cock-up in the calling and Buttler's desperate tour takes another nosedive"}, {"bowler": {"type": "Left-arm fast", "name": "Wahab Riaz"}, "Stadium": "Abu Dhabi", "team_innings": "1", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "11", "balls": "10", "4s": "1", "6s": "0", "batting_position": "5"}, "ball": "47.5", "opposition": {"country": "Pakistan", "total": "188 all out (45.5 Overs, RR: 4.10)"}, "team": {"country": "ENG ", "total": "283/5 (50 Overs, RR: 5.66)"}, "date": "13 Nov 2015", "scoreAt": "270/4", "description": "he has another! Pakistan's superb finish continues. Buttler is bowled off the pads as he gives himself some room outside leg stump. A slower delivery this time"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Farhaan Behardien"}, "Stadium": "Bloemfontein", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "105", "balls": "76", "4s": "11", "6s": "5", "batting_position": "4"}, "ball": "42.2", "opposition": {"country": "South Africa", "total": "250/5 (33.3 Overs, RR: 7.46)"}, "team": {"country": "ENG ", "total": "399/9 (50 Overs, RR: 7.98)"}, "date": "3 Feb 2016", "scoreAt": "317/5", "description": "got him, picks out AB in the covers! Buttler was trying to manufacture a big fat swipe over the infield, the ball wasn't quite full enough to drive and de Villiers clings on above his head... Buttler's fun is over, but England's may not be"}, {"bowler": {"type": "Right-arm fast", "name": "Kagiso Rabada"}, "Stadium": "Centurion", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "0", "balls": "1", "4s": "0", "6s": "0", "batting_position": "4"}, "ball": "26.5", "opposition": {"country": "South Africa", "total": "319/3 (46.2 Overs, RR: 6.88)"}, "team": {"country": "ENG ", "total": "318/8 (50 Overs, RR: 6.36)"}, "date": "9 Feb 2016", "scoreAt": "162/3", "description": "turned off the hip, and Buttler falls first ball! A brilliant take by Duminy at leg gully, scooped low as it flew hard"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Kyle Abbott"}, "Stadium": "Johannesburg", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "1", "balls": "6", "4s": "0", "6s": "0", "batting_position": "6"}, "ball": "22.2", "opposition": {"country": "South Africa", "total": "266/9 (47.2 Overs, RR: 5.61)"}, "team": {"country": "ENG ", "total": "262 all out (47.5 Overs, RR: 5.47)"}, "date": "12 Feb 2016", "scoreAt": "100/5", "description": "shot, attacking the lid with sharp lift and aggression, Buttler pulls loosely, a flimsy top-edge, ricochets off the helmet, and that is a massive, massive punch to England's collective kidneys!"}, {"bowler": {"type": "Right-arm fast", "name": "Kagiso Rabada"}, "Stadium": "Cape Town", "team_innings": "1", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "0", "balls": "1", "4s": "0", "6s": "0", "batting_position": "6"}, "ball": "27.6", "opposition": {"country": "South Africa", "total": "237/5 (44 Overs, RR: 5.38)"}, "team": {"country": "ENG ", "total": "236 all out (45 Overs, RR: 5.24)"}, "date": "14 Feb 2016", "scoreAt": "156/5", "description": "straight through him, stumps on the ground! What a sight that is... Buttler gets his second duck in three innings - a second first-baller, in fact, since the previous delivery was a wide - and England's position slips from promising to precarious. Wonderful delivery from Rabada, although there was a big gap for the ball to veer back through, clipped the inside edge and then uprooted leg stump. Pow!"}, {"bowler": {"type": "Legbreak", "name": "Seekkuge Prasanna"}, "Stadium": "Nottingham", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "93", "balls": "99", "4s": "6", "6s": "1", "batting_position": "6"}, "ball": "42.3", "opposition": {"country": "Sri Lanka", "total": "286/9 (50 Overs, RR: 5.72)"}, "team": {"country": "ENG ", "total": "286/8 (50 Overs, RR: 5.72)"}, "date": "21 Jun 2016", "scoreAt": "220/7", "description": "what a catch! Buttler dragged the ball from outside off, aiming for the six over long-on, where Shanaka had to time his leap to perfection, and mind where he landed afterwards, to pull off a potential gamebreaker, He had just long enough to contemplate the enormity of that moment, too ..."}, {"bowler": {"type": "Left-arm medium-fast", "name": "Chaminda Bandara"}, "Stadium": "Cardiff", "team_innings": "1", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "70", "balls": "45", "4s": "7", "6s": "1", "batting_position": "6"}, "ball": "47.1", "opposition": {"country": "Sri Lanka", "total": "202 all out (42.4 Overs, RR: 4.73)"}, "team": {"country": "ENG ", "total": "324/7 (50 Overs, RR: 6.48)"}, "date": "2 Jul 2016", "scoreAt": "291/5", "description": "well bowled, gets the yorker right into the blockhole, and beats an ambitious wipe. Well bowled Bandara, his first ODI wicket and good reward for perseverence in adversity"}, {"bowler": {}, "Stadium": "Lord's", "team_innings": "2", "dismissal": {"wayOut": "run out"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "4", "balls": "5", "4s": "0", "6s": "0", "batting_position": "6"}, "ball": "40.1", "opposition": {"country": "Pakistan", "total": "251 all out (49.5 Overs, RR: 5.03)"}, "team": {"country": "ENG ", "total": "255/6 (47.3 Overs, RR: 5.36)"}, "date": "27 Aug 2016", "scoreAt": "219/5", "description": "blow me down, Buttler has been run out by a direct hit from backward point! A tap-and-go from Root, and a sharp pick-up-and-shy from Yasir Shah. He was inches short, but I'm not sure he fully sensed the danger"}, {"bowler": {"type": "Slow left-arm orthodox", "name": "Shakib Al Hasan"}, "Stadium": "Dhaka", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "63", "balls": "38", "4s": "3", "6s": "4", "batting_position": "6"}, "ball": "49.4", "opposition": {"country": "Bangladesh", "total": "288 all out (47.5 Overs, RR: 6.02)"}, "team": {"country": "ENG ", "total": "309/8 (50 Overs, RR: 6.18)"}, "date": "7 Oct 2016", "scoreAt": "308/7", "description": "that's a huge full toss but it brings the wicket, Buttler gets it on the cue end of the bat and it ends down at long-off. They check for the height, but there's no issue there"}, {"bowler": {"type": "Right-arm fast", "name": "Taskin Ahmed"}, "Stadium": "Dhaka", "team_innings": "2", "dismissal": {"wayOut": "lbw"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "57", "balls": "57", "4s": "7", "6s": "0", "batting_position": "6"}, "ball": "27.1", "opposition": {"country": "Bangladesh", "total": "238/8 (50 Overs, RR: 4.76)"}, "team": {"country": "ENG ", "total": "204 all out (44.4 Overs, RR: 4.56)"}, "date": "9 Oct 2016", "scoreAt": "123/7", "description": "that could be the match! Huge appeal for lbw as Buttler moves across his crease and misses his flick. Not given on the field. They call for the review. Such a key wicket. Well, this is very close. Think it hit him in line. He's down the pitch a bit. He's not hit it. Three reds, he's gone!"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Mashrafe Mortaza"}, "Stadium": "Chittagong", "team_innings": "2", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "25", "balls": "26", "4s": "3", "6s": "0", "batting_position": "6"}, "ball": "40.4", "opposition": {"country": "Bangladesh", "total": "277/6 (50 Overs, RR: 5.54)"}, "team": {"country": "ENG ", "total": "278/6 (47.5 Overs, RR: 5.81)"}, "date": "12 Oct 2016", "scoreAt": "227/5", "description": "short, slow, and Buttler has chopped on! That was nothing more than a long-hop outside off, but it got up more than Buttler was expecting, and he has given Bangladesh a glimmer!"}, {"bowler": {"type": "Right-arm medium-fast", "name": "Hardik Pandya"}, "Stadium": "Pune", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "31", "balls": "36", "4s": "1", "6s": "2", "batting_position": "5"}, "ball": "37.5", "opposition": {"country": "India", "total": "356/7 (48.1 Overs, RR: 7.39)"}, "team": {"country": "ENG ", "total": "350/7 (50 Overs, RR: 7.00)"}, "date": "15 Jan 2017", "scoreAt": "220/4", "description": "and Pandya sticks to his guns well enough. He has been bowling with mid-on and mid-off up, and has not given them even one drive ball. Buttler looks to manufacture one to a ball just short of a length, and doesn;t get enough of bat to it. Caught overhead at mid-off by Dhawan. India strike again with England looking to run away from them"}, {"bowler": {"type": "Right-arm offbreak", "name": "Ravichandran Ashwin"}, "Stadium": "Cuttack", "team_innings": "2", "dismissal": {"wayOut": "stumped"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "10", "balls": "9", "4s": "1", "6s": "0", "batting_position": "6"}, "ball": "31.2", "opposition": {"country": "India", "total": "381/6 (50 Overs, RR: 7.62)"}, "team": {"country": "ENG ", "total": "366/8 (50 Overs, RR: 7.32)"}, "date": "19 Jan 2017", "scoreAt": "206/5", "description": "Buttler shows his ace early and advances down the track. Ashwin is wary of it as he fires it short and quick - 93.2ks- down the leg side; leg-side wide it is. Buttler, having ventured a long way down the track, is beaten lavishly. Dhoni, the cool cat, collects it and flips the bails off although the ball got caught in the webbing"}, {"bowler": {"type": "Right-arm medium-fast", "name": "Hardik Pandya"}, "Stadium": "Kolkata", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "11", "balls": "15", "4s": "1", "6s": "0", "batting_position": "5"}, "ball": "37.6", "opposition": {"country": "India", "total": "316/9 (50 Overs, RR: 6.32)"}, "team": {"country": "ENG ", "total": "321/8 (50 Overs, RR: 6.42)"}, "date": "22 Jan 2017", "scoreAt": "212/4", "description": "no timing at all in his on-the-up drive. It's a fuller, wider delivery. Innocuous really. Buttler goes through with his shot taking on a well-populated offside field and picks out the man at cover"}, {"bowler": {"type": "Right-arm offbreak", "name": "Ashley Nurse"}, "Stadium": "North Sound", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "14", "balls": "19", "4s": "0", "6s": "0", "batting_position": "5"}, "ball": "25.6", "opposition": {"country": "West Indies", "total": "251 all out (47.2 Overs, RR: 5.30)"}, "team": {"country": "ENG ", "total": "296/6 (50 Overs, RR: 5.92)"}, "date": "3 Mar 2017", "scoreAt": "129/4", "description": "edged, and that's a brilliant snaffle at slip from Carter! Genuine turn from a good length, Buttler was drawn into the stroke, and Carter pounced low in one hand to claim a crucial scalp!"}, {"bowler": {"type": "Legbreak", "name": "Devendra Bishoo"}, "Stadium": "North Sound", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "0", "balls": "7", "4s": "0", "6s": "0", "batting_position": "6"}, "ball": "23.2", "opposition": {"country": "West Indies", "total": "225 all out (47.5 Overs, RR: 4.70)"}, "team": {"country": "ENG ", "total": "226/6 (48.2 Overs, RR: 4.67)"}, "date": "5 Mar 2017", "scoreAt": "117/5", "description": "goes back to cut, this time the edge is held, a juggling catch from Hope! England are having a confirmed attack of the vapours now, Buttler back in the hutch without scoring... He hung the bat out rather limply, again Bishoo got the ball to grip and lift and kiss the top edge, nearly escaped the gloves but Hope managed to cling on!"}, {"bowler": {"type": "Right-arm medium-fast", "name": "Jason Holder"}, "Stadium": "Bridgetown", "team_innings": "1", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "7", "balls": "5", "4s": "0", "6s": "1", "batting_position": "4"}, "ball": "37.4", "opposition": {"country": "West Indies", "total": "142 all out (39.2 Overs, RR: 3.61)"}, "team": {"country": "ENG ", "total": "328 all out (50 Overs, RR: 6.56)"}, "date": "9 Mar 2017", "scoreAt": "232/3", "description": "smashes the stumps! Full and straight, Buttler attempted the ramp once more, but got no bat in the way, and was too far across his crease to preserve his timbers"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Chris Morris"}, "Stadium": "Leeds", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "7", "balls": "7", "4s": "1", "6s": "0", "batting_position": "6"}, "ball": "34.1", "opposition": {"country": "South Africa", "total": "267 all out (45 Overs, RR: 5.93)"}, "team": {"country": "ENG ", "total": "339/6 (50 Overs, RR: 6.78)"}, "date": "24 May 2017", "scoreAt": "198/5", "description": "got him! At leg gully. De Villiers will love that. Angled into the pads, Buttler obliges by flicking it in the air and it's smartly grabbed around the corner by Miller. Perhaps it was planned for the shorter ball, but they'll take it any way it comes"}, {"bowler": {"type": "Right-arm fast", "name": "Kagiso Rabada"}, "Stadium": "Lord's", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "4", "balls": "4", "4s": "1", "6s": "0", "batting_position": "6"}, "ball": "4.5", "opposition": {"country": "South Africa", "total": "156/3 (28.5 Overs, RR: 5.41)"}, "team": {"country": "ENG ", "total": "153 all out (31.1 Overs, RR: 4.90)"}, "date": "29 May 2017", "scoreAt": "20/5", "description": "throws the bat, thick-edged to second... England are five down! Superb catch from Faf du Plessis, that went very quickly as Buttler attempted to thrash it through the covers. Not quite as quickly as England are subsiding, but still"}, {"bowler": {"type": "Left-arm fast", "name": "Junaid Khan"}, "Stadium": "Cardiff", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "4", "balls": "7", "4s": "0", "6s": "0", "batting_position": "6"}, "ball": "34.1", "opposition": {"country": "Pakistan", "total": "215/2 (37.1 Overs, RR: 5.78)"}, "team": {"country": "ENG ", "total": "211 all out (49.5 Overs, RR: 4.23)"}, "date": "14 Jun 2017", "scoreAt": "148/5", "description": "edged, and gone! Oh my! Nibbled away from back of a length, Buttler was tentative outside off, and Sarfraz gathers low behind the stumps! England are officially in a pickle. And Pakistan are brawling!"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Miguel Cummins"}, "Stadium": "Bristol", "team_innings": "1", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "2", "balls": "4", "4s": "0", "6s": "0", "batting_position": "6"}, "ball": "32.3", "opposition": {"country": "West Indies", "total": "245 all out (39.1 Overs, RR: 6.25)"}, "team": {"country": "ENG ", "total": "369/9 (50 Overs, RR: 7.38)"}, "date": "24 Sep 2017", "scoreAt": "210/5", "description": "bowled him, that's a beauty! No Buttler bash today, Cummins tickles the off bail with a lovely ball that nips fractionally away of the seam to beat his defensive push. Lovely bowling"}, {"bowler": {"type": "Right-arm medium", "name": "Marcus Stoinis"}, "Stadium": "Melbourne", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "4", "balls": "10", "4s": "0", "6s": "0", "batting_position": "6"}, "ball": "47.5", "opposition": {"country": "Australia", "total": "304/8 (50 Overs, RR: 6.08)"}, "team": {"country": "ENG ", "total": "308/5 (48.5 Overs, RR: 6.30)"}, "date": "14 Jan 2018", "scoreAt": "302/5", "description": "launched into the leg side for the winning runs ... but no! It's a top-edge to deep midwicket!"}, {"bowler": {"type": "Left-arm fast", "name": "Mitchell Starc"}, "Stadium": "Brisbane", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "42", "balls": "32", "4s": "5", "6s": "0", "batting_position": "6"}, "ball": "37.1", "opposition": {"country": "Australia", "total": "270/9 (50 Overs, RR: 5.40)"}, "team": {"country": "ENG ", "total": "274/6 (44.2 Overs, RR: 6.18)"}, "date": "19 Jan 2018", "scoreAt": "225/5", "description": "edged and gone! Through to the keeper, easy as pie. That's a superb ball in any circumstance. Angled in, nipping away, drawing the thin edge. A glimmer"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Josh Hazlewood"}, "Stadium": "Adelaide", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "0", "balls": "2", "4s": "0", "6s": "0", "batting_position": "6"}, "ball": "6.2", "opposition": {"country": "Australia", "total": "197/7 (37 Overs, RR: 5.32)"}, "team": {"country": "ENG ", "total": "196 all out (44.5 Overs, RR: 4.37)"}, "date": "26 Jan 2018", "scoreAt": "8/5", "description": "zips off a length, grazes the outside edge! ENGLAND ARE 8 FOR 5!!! (Or 5 for 8, if you're that sort...) Brilliant ball from Hazlewood, not too much fault with the batsman here: perfect length, seaming a fraction as Buttler felt for it in defence, flicks the bat and Paine swallows another!"}, {"bowler": {"type": "Right-arm medium-fast", "name": "Andrew Tye"}, "Stadium": "Perth", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "21", "balls": "25", "4s": "1", "6s": "1", "batting_position": "6"}, "ball": "34.6", "opposition": {"country": "Australia", "total": "247 all out (48.2 Overs, RR: 5.11)"}, "team": {"country": "ENG ", "total": "259 all out (47.4 Overs, RR: 5.43)"}, "date": "28 Jan 2018", "scoreAt": "192/5", "description": "full, and Buttler holes out to mid-off! That's a critical breakthrough for Australia, Warner back-pedals to complete the catch, and once again, Tye's slower ball draws out the miscue from a well-set batsman"}, {"bowler": {}, "Stadium": "Hamilton", "team_innings": "1", "dismissal": {"wayOut": "run out"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "79", "balls": "65", "4s": "5", "6s": "5", "batting_position": "6"}, "ball": "49.5", "opposition": {"country": "New Zealand", "total": "287/7 (49.2 Overs, RR: 5.81)"}, "team": {"country": "ENG ", "total": "284/8 (50 Overs, RR: 5.68)"}, "date": "25 Feb 2018", "scoreAt": "284/8", "description": "yorker on off stump, Willey plonks it back down the pitch, Buttler is racing down to re-take strike. Southee reaches to his right, grabs the ball with one hand, and runs it to the stumps. Super innings from the finisher. Even with New Zealand bossing the last 10 overs, he's taken England to a strong total"}, {"bowler": {"type": "Legbreak", "name": "Ish Sodhi"}, "Stadium": "Wellington", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "29", "balls": "23", "4s": "3", "6s": "1", "batting_position": "6"}, "ball": "42.5", "opposition": {"country": "New Zealand", "total": "230/8 (50 Overs, RR: 4.60)"}, "team": {"country": "ENG ", "total": "234 all out (50 Overs, RR: 4.68)"}, "date": "3 Mar 2018", "scoreAt": "184/6", "description": "dragged out of the crease and beaten by big turn! They go upstairs for the stumping, but Buttler has already given himself out. Well flighted, big bite, and the keeper grabs well to smash the bails. In fact, he's been given out caught behind. His foot was actually behind the line"}, {"bowler": {"type": "Legbreak", "name": "Ish Sodhi"}, "Stadium": "Dunedin", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Jos Buttler"}, "player_innings": {"runs": "0", "balls": "2", "4s": "0", "6s": "0", "batting_position": "4"}, "ball": "38.2", "opposition": {"country": "New Zealand", "total": "339/5 (49.3 Overs, RR: 6.84)"}, "team": {"country": "ENG ", "total": "335/9 (50 Overs, RR: 6.70)"}, "date": "7 Mar 2018", "scoreAt": "267/3", "description": "taken! Sodhi's got a wicket off the second ball of his spell again. Drops it short of a length just outside off. It sticks in the pitch as it turns away and Buttler's attempted back foot punch is a a weak chip in the end. So weak that Sodhi requires a forward lunge to get to it. He does well"}]
+[
+  {
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Ravindra Jadeja"
+    },
+    "Stadium": "Mohali",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "14",
+      "balls": "9",
+      "4s": "1",
+      "6s": "1",
+      "batting_position": "7"
+    },
+    "ball": "48.3",
+    "opposition": {
+      "country": "India",
+      "total": "258/5 (47.3 Overs, RR: 5.43)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "257/7 (50 Overs, RR: 5.14)"
+    },
+    "date": "23 Jan 2013",
+    "scoreAt": "241/6",
+    "description": "caught at point! Third time unlucky. He makes room again, but instead of following him, the bowler fires it wide outside off. Buttler had to stretch to get to the ball and in the end, he manages a tame top-edge to the fielder at point"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "Mitchell McClenaghan"
+    },
+    "Stadium": "Hamilton",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "21",
+      "balls": "13",
+      "4s": "0",
+      "6s": "2",
+      "batting_position": "6"
+    },
+    "ball": "43.3",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "259/7 (48.5 Overs, RR: 5.30)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "258 all out (49.3 Overs, RR: 5.21)"
+    },
+    "date": "17 Feb 2013",
+    "scoreAt": "220/5",
+    "description": "oh Buttler goes to a lame full toss of all deliveries, could have done anything with it but ends up toeing it to cover"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Tim Southee"
+    },
+    "Stadium": "Auckland",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "3",
+      "balls": "4",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "ball": "33.2",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "185 all out (43.5 Overs, RR: 4.22)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "186/5 (37.3 Overs, RR: 4.96)"
+    },
+    "date": "23 Feb 2013",
+    "scoreAt": "171/5",
+    "description": "another one down! Short again, this time Buttler has a crack at it but is late on the shot, it hits the splice and loops towards leg slip, where BJ Watling takes a diving catch, another excellent bit of work. That's three wickets for Southee but the dismissal was all about Watling scampering in like a golden retriever in pursuit of a stick to throw himself at full length under the ball"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Kane Williamson"
+    },
+    "Stadium": "Lord's",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "14",
+      "balls": "25",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "ball": "38.2",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "231/5 (46.5 Overs, RR: 4.93)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "227/9 (50 Overs, RR: 4.54)"
+    },
+    "date": "31 May 2013",
+    "scoreAt": "159/6",
+    "description": "flatter delivery, Buttler tries to take it on, another reverse sweep and it loops straight to point! Frustration claims Buttler, who couldn't have picked out the man any better. Another wheel comes off the battlewagon"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "Mitchell McClenaghan"
+    },
+    "Stadium": "Southampton",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "2",
+      "balls": "3",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "ball": "30.1",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "359/3 (50 Overs, RR: 7.18)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "273 all out (44.1 Overs, RR: 6.18)"
+    },
+    "date": "2 Jun 2013",
+    "scoreAt": "169/5",
+    "description": "and this might seal the deal, driven on the up and taken at short extra cover Buttler driving from just outside off without getting his foot right across to the pitch, chipping it in the air and Guptill, third time lucky, dives forward and takes the chance with two hands"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "James Faulkner"
+    },
+    "Stadium": "Birmingham",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "1",
+      "balls": "2",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "7"
+    },
+    "ball": "43.1",
+    "opposition": {
+      "country": "Australia",
+      "total": "221/9 (50 Overs, RR: 4.42)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "269/6 (50 Overs, RR: 5.38)"
+    },
+    "date": "8 Jun 2013",
+    "scoreAt": "213/6",
+    "description": "and Buttler's gone second ball, edging on to his stumps! Good areas from Faulkner, not quite wide or full enough for the drive and Buttler played away from his body, not much footwork, the ball cannoning back into his standing leg and then on to middle stump - the gunpowder has exploded in England's face!"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Nuwan Kulasekara"
+    },
+    "Stadium": "The Oval",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "0",
+      "balls": "2",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "ball": "46.2",
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "297/3 (47.1 Overs, RR: 6.29)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "293/7 (50 Overs, RR: 5.86)"
+    },
+    "date": "13 Jun 2013",
+    "scoreAt": "249/6",
+    "description": "driven at outside off stump, thin edge and taken by Sangakkara a good low catch going down to his left, Buttler walked and a second ball duck is a second failure in this competition. It wasn't right there to drive and Buttler got a little tickle on it trying to force into the covers"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Kyle Mills"
+    },
+    "Stadium": "Cardiff",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "14",
+      "balls": "9",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "ball": "21.3",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "159/8 (24 Overs, RR: 6.62)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "169 all out (23.3 Overs, RR: 7.19)"
+    },
+    "date": "16 Jun 2013",
+    "scoreAt": "159/6",
+    "description": "length ball, slower, 69mph, slapped to long off, McNath again! And he holds on just inside the boundary, Buttler got it low on the bat and it was so badly mistimed, presented a simple chance for the fielder, tried to clear the front leg but just didn't get it at all right"
+  },
+  {
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Ravindra Jadeja"
+    },
+    "Stadium": "Birmingham",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "0",
+      "balls": "1",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "7"
+    },
+    "ball": "18.2",
+    "opposition": {
+      "country": "India",
+      "total": "129/7 (20 Overs, RR: 6.45)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "124/8 (20 Overs, RR: 6.20)"
+    },
+    "date": "23 Jun 2013",
+    "scoreAt": "112/7",
+    "description": "there you go...floated up on middle stump, he has a huge heave, is nowhere near it and gets his middle stump hit. Not Buttler's finest hour"
+  },
+  {
+    "bowler": {
+      "type": "Legbreak",
+      "name": "Fawad Ahmed"
+    },
+    "Stadium": "Manchester",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "75",
+      "balls": "65",
+      "4s": "5",
+      "6s": "3",
+      "batting_position": "7"
+    },
+    "ball": "43.2",
+    "opposition": {
+      "country": "Australia",
+      "total": "315/7 (50 Overs, RR: 6.30)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "227 all out (44.2 Overs, RR: 5.12)"
+    },
+    "date": "8 Sep 2013",
+    "scoreAt": "216/9",
+    "description": "goes again but this is straight up, Johnson goes back from mid-on a few yards and takes a comfortable catch. He's thumped a few nicely today Buttler but that was a total miscue that went a long way up off a top edge, trying again to swing away a ball floated up on the stumps. Good solid catch from Johnson"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "James Faulkner"
+    },
+    "Stadium": "Southampton",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "42",
+      "balls": "37",
+      "4s": "4",
+      "6s": "0",
+      "batting_position": "7"
+    },
+    "ball": "38.1",
+    "opposition": {
+      "country": "Australia",
+      "total": "298 all out (49.1 Overs, RR: 6.06)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "249 all out (48 Overs, RR: 5.18)"
+    },
+    "date": "16 Sep 2013",
+    "scoreAt": "195/6",
+    "description": "full and straight through him stumps parted and a killer blow for England, think Buttler just played around one, done by the angle perhaps. It was around the wicket from Faulkner, angled in to the stumps and Buttler tried to swing it down the ground and missed, is that England's last chance walking off?"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Nathan Coulter-Nile"
+    },
+    "Stadium": "Brisbane",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "49",
+      "balls": "36",
+      "4s": "3",
+      "6s": "1",
+      "batting_position": "7"
+    },
+    "ball": "48.3",
+    "opposition": {
+      "country": "Australia",
+      "total": "301/9 (49.3 Overs, RR: 6.08)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "300/8 (50 Overs, RR: 6.00)"
+    },
+    "date": "17 Jan 2014",
+    "scoreAt": "295/6",
+    "description": "Buttler skies this one and Clarke runs in from mid-on, appears at first to misjudge it and has to dive forward a bit but does indeed complete the catch, so Coulter-Nile gets the wicket he missed earlier, and England lose their sixth wicket, but Buttler has done a fine job"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Daniel Christian"
+    },
+    "Stadium": "Sydney",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "4",
+      "balls": "8",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "7"
+    },
+    "ball": "43.2",
+    "opposition": {
+      "country": "Australia",
+      "total": "244/3 (40 Overs, RR: 6.10)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "243/9 (50 Overs, RR: 4.86)"
+    },
+    "date": "19 Jan 2014",
+    "scoreAt": "195/7",
+    "description": "massive wicket! That could kill off any late charge. Lack of pace doing for Buttler. It was outside off stump, around 105kph, Buttler tries to force through the off side and gets a big inside edge into the stumps"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "James Faulkner"
+    },
+    "Stadium": "Perth",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "71",
+      "balls": "43",
+      "4s": "6",
+      "6s": "4",
+      "batting_position": "7"
+    },
+    "ball": "49.4",
+    "opposition": {
+      "country": "Australia",
+      "total": "259 all out (47.4 Overs, RR: 5.43)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "316/8 (50 Overs, RR: 6.32)"
+    },
+    "date": "24 Jan 2014",
+    "scoreAt": "312/7",
+    "description": "Buttler's entertaining innings comes to an end, he's swung hard outside off and this slices off the top edge and flies away towards third man where Johnson comes in and takes the catch"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Nathan Coulter-Nile"
+    },
+    "Stadium": "Adelaide",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "5",
+      "balls": "9",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "7"
+    },
+    "ball": "42.3",
+    "opposition": {
+      "country": "Australia",
+      "total": "217/9 (50 Overs, RR: 4.34)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "212 all out (49.4 Overs, RR: 4.26)"
+    },
+    "date": "26 Jan 2014",
+    "scoreAt": "174/6",
+    "description": "Buttler is gone now! England are digging themselves into a hole here! A shortish ball from Coulter-Nile gets Buttler's eyes lighting up and he goes for the pull, it comes out of the middle of the bat but not with enough elevation and McKay at deep midwicket takes the catch"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Dwayne Bravo"
+    },
+    "Stadium": "North Sound",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "12",
+      "balls": "17",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "ball": "42.6",
+    "opposition": {
+      "country": "West Indies",
+      "total": "269/6 (50 Overs, RR: 5.38)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "254/6 (50 Overs, RR: 5.08)"
+    },
+    "date": "28 Feb 2014",
+    "scoreAt": "211/6",
+    "description": "that really changes things! West Indies favourites now. Buttler trying to clear the off side, it was a slower ball, rolls his fingers across it, there's no timing in the shot and it lobs to mid-off"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Dwayne Bravo"
+    },
+    "Stadium": "North Sound",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "0",
+      "balls": "1",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "ball": "21.2",
+    "opposition": {
+      "country": "West Indies",
+      "total": "159 all out (44.2 Overs, RR: 3.58)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "163/7 (44.5 Overs, RR: 3.63)"
+    },
+    "date": "2 Mar 2014",
+    "scoreAt": "81/5",
+    "description": "short first ball, well-directed right at the body, Buttler goes to avoid it but can't get his hands inside the line in time and gets a feather through to Ramdin and now this really is game on. Buttler got into a position to ride the bounce and try and drop it down, then saw it rising steeply and tried to get inside the line and failed, the ball brushing the glove through to Ramdin, West Indies are cock-a-hoop"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Ravi Rampaul"
+    },
+    "Stadium": "North Sound",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "99",
+      "balls": "84",
+      "4s": "7",
+      "6s": "4",
+      "batting_position": "6"
+    },
+    "ball": "49.3",
+    "opposition": {
+      "country": "West Indies",
+      "total": "278 all out (47.4 Overs, RR: 5.83)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "303/6 (50 Overs, RR: 6.06)"
+    },
+    "date": "5 Mar 2014",
+    "scoreAt": "300/6",
+    "description": "another slower ball - and Buttler has chipped it straight up into the air, he's out for 99! Holy moly, what a way to go, one short of his maiden ODI century... Rampaul followed him down the leg side, took the pace off and Buttler got a leading edge trying to hit through midwicket, the bowler made no mistake underneath it. Off slopes Jos Buttler, thorougly dejected, despite a superb knock"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Josh Davey"
+    },
+    "Stadium": "Aberdeen",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "9",
+      "balls": "5",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "4"
+    },
+    "ball": "17.4",
+    "opposition": {
+      "country": "Scotland",
+      "total": "133/9 (20 Overs, RR: 6.65)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "167/6 (20 Overs, RR: 8.35)"
+    },
+    "date": "9 May 2014",
+    "scoreAt": "136/3",
+    "description": "another fantastic catch! This looked like six for Buttler, he picked up a length delivery towards deep midwicket but Taylor timed his jump to perfection and then was still able to make sure he didn't step over the boundary"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium",
+      "name": "Angelo Mathews"
+    },
+    "Stadium": "Chester-le-Street",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "4",
+      "balls": "6",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "7"
+    },
+    "ball": "17.1",
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "256/8 (50 Overs, RR: 5.12)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "99 all out (26.1 Overs, RR: 3.78)"
+    },
+    "date": "25 May 2014",
+    "scoreAt": "55/6",
+    "description": "Oh geez, what's happened there? That one looks like it stopped on Buttler, but Mathews does do that sometimes. It's a fairly average ball otherwise, and Buttler will be annoyed by that. It's short of a length, about a foot outside off. The batsman looks to drag it to leg, but is fooled by the lack of pace. In the end, all he does is bunt it up gently in the air to the off side, where Senanayake at short cover dives to his side and snaffles it."
+  },
+  {
+    "bowler": {},
+    "Stadium": "Lord's",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "run out"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "121",
+      "balls": "74",
+      "4s": "11",
+      "6s": "4",
+      "batting_position": "7"
+    },
+    "ball": "49.4",
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "300/9 (50 Overs, RR: 6.00)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "293/8 (50 Overs, RR: 5.86)"
+    },
+    "date": "31 May 2014",
+    "scoreAt": "292/8",
+    "description": "superb yorker, dug out but only a yard or two off the strip, Malinga fetches it and Buttler is stranded! Buttler is run out after making a quite sensational hundred but it won't be enough for England... Malinga knows his way around squeaky bum time, that's for sure, he fired this in full and then was smart enough to collect and finish the job with Buttler indecisive and Tredwell already alongside him"
+  },
+  {
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Ravindra Jadeja"
+    },
+    "Stadium": "Cardiff",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "2",
+      "balls": "9",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "ball": "22.4",
+    "opposition": {
+      "country": "India",
+      "total": "304/6 (50 Overs, RR: 6.08)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "161 all out (38.1 Overs, RR: 4.21)"
+    },
+    "date": "27 Aug 2014",
+    "scoreAt": "85/5",
+    "description": "played at firmly on off stump and pops up a catch to extra cover! Oh dear England are sliding away quickly here, Jadeja again! Buttler playing forward on off stump, the ball gripped a little and spun away, taking the outer half of the bat and firm press Buttler applied sent the simplest of chances to Kohli"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Ravichandran Ashwin"
+    },
+    "Stadium": "Nottingham",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "42",
+      "balls": "58",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "ball": "47.2",
+    "opposition": {
+      "country": "India",
+      "total": "228/4 (43 Overs, RR: 5.30)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "227 all out (50 Overs, RR: 4.54)"
+    },
+    "date": "30 Aug 2014",
+    "scoreAt": "202/8",
+    "description": "nice comeback! Ashwin adjusts his line, onto off stump, Buttler comes down the pitch aiming to heave it over the leg side but lost his shape on the shot, turned into a bit of a wild mow, the ball spun and struck off stump"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Mohammed Shami"
+    },
+    "Stadium": "Birmingham",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "11",
+      "balls": "24",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "ball": "39.3",
+    "opposition": {
+      "country": "India",
+      "total": "212/1 (30.3 Overs, RR: 6.95)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "206 all out (49.3 Overs, RR: 4.16)"
+    },
+    "date": "2 Sep 2014",
+    "scoreAt": "164/6",
+    "description": "he's done it! Shami does the trick. Massive blow. It was a length delivery, just nips back off the seam, takes Buttler above the knee roll. Paul Reiffel gives the decision. Hawk Eye says it was going over, by a fair distance"
+  },
+  {
+    "bowler": {},
+    "Stadium": "Leeds",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "run out"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "49",
+      "balls": "40",
+      "4s": "5",
+      "6s": "2",
+      "batting_position": "6"
+    },
+    "ball": "42.3",
+    "opposition": {
+      "country": "India",
+      "total": "253 all out (48.4 Overs, RR: 5.19)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "294/7 (50 Overs, RR: 5.88)"
+    },
+    "date": "5 Sep 2014",
+    "scoreAt": "225/5",
+    "description": "tries to reverse sweep and hit on the pads, big appeal, not given... but Buttler has wandered blindly off down the pitch and is run out by a mile! The impact was probably outside off stump, the ball only bobbled a yard or two wide of Dhoni but for reasons unknown Buttler decided there was a run to be taken. Dhoni nonchalantly reached to his right, picked up the ball and broke the stumps, Buttler shot down short of his fifty"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Dhammika Prasad"
+    },
+    "Stadium": "Colombo (RPS)",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "21",
+      "balls": "21",
+      "4s": "1",
+      "6s": "1",
+      "batting_position": "6"
+    },
+    "ball": "23.4",
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "317/6 (50 Overs, RR: 6.34)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "292 all out (47.1 Overs, RR: 6.19)"
+    },
+    "date": "26 Nov 2014",
+    "scoreAt": "159/5",
+    "description": "back on a decent length, Buttler props forward and gets an inside edge which bounces and then cannons leg stump! Very bad time for England to lose another wicket. Buttler was trying to sort of angle this away but it came back on him a little and the inside edge found the outside edge of leg stump"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Dhammika Prasad"
+    },
+    "Stadium": "Colombo (RPS)",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "7",
+      "balls": "14",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "7"
+    },
+    "ball": "31.4",
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "186/2 (34.2 Overs, RR: 5.41)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "185 all out (43 Overs, RR: 4.30)"
+    },
+    "date": "29 Nov 2014",
+    "scoreAt": "132/6",
+    "description": "well, Buttler won't be targetting Prasad. He's fallen to him for the second time in two innings. And in very similar manner, getting an inside edge on a length delivery which cannons into the stumps"
+  },
+  {
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Rangana Herath"
+    },
+    "Stadium": "Colombo (RPS)",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "15",
+      "balls": "22",
+      "4s": "0",
+      "6s": "1",
+      "batting_position": "7"
+    },
+    "ball": "42.4",
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "267/4 (49.4 Overs, RR: 5.37)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "265 all out (50 Overs, RR: 5.30)"
+    },
+    "date": "7 Dec 2014",
+    "scoreAt": "203/6",
+    "description": "down the wicket, goes in the air down the ground and picks out long-on. No where near enough club on that, bit of an inside edge and it was a straightforward chance to Jaywardene running a few yards to his left. A big wicket for Sri Lanka who have kept things very quiet since the batting Powerplay"
+  },
+  {
+    "bowler": {},
+    "Stadium": "Pallekele",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "run out"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "22",
+      "balls": "26",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "7"
+    },
+    "ball": "24.4",
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "292/7 (50 Overs, RR: 5.84)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "202 all out (41.3 Overs, RR: 4.86)"
+    },
+    "date": "13 Dec 2014",
+    "scoreAt": "123/6",
+    "description": "brilliant fielding! Buttler dropped the ball into the off side, he wanted the run but Root sent him back fairly quickly. Thirimanne swooped from cover and produced a direct hit almost with a back-handed throw as he still in a diving motion"
+  },
+  {
+    "bowler": {
+      "type": "Legbreak",
+      "name": "Seekkuge Prasanna"
+    },
+    "Stadium": "Colombo (RPS)",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "23",
+      "balls": "23",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "7"
+    },
+    "ball": "27.3",
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "302/6 (50 Overs, RR: 6.04)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "215 all out (45.5 Overs, RR: 4.69)"
+    },
+    "date": "16 Dec 2014",
+    "scoreAt": "126/6",
+    "description": "picked him out! Just as Buttler was getting going. Tried to clear the off side but the bat just turned in his hand and the ball sliced in the air to deep cover"
+  },
+  {
+    "bowler": {},
+    "Stadium": "Hobart",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "run out"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "25",
+      "balls": "24",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "ball": "49.5",
+    "opposition": {
+      "country": "Australia",
+      "total": "304/7 (49.5 Overs, RR: 6.10)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "303/8 (50 Overs, RR: 6.06)"
+    },
+    "date": "23 Jan 2015",
+    "scoreAt": "303/7",
+    "description": "another, and it's a run out this time. Length ball, swinging away from off stump. Woakes swings and misses and they try to sneak a bye. Haddin's throw knocks back middle stump, and Buttler is short of his crease despite putting in the dive"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Mohammed Shami"
+    },
+    "Stadium": "Perth",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "67",
+      "balls": "78",
+      "4s": "7",
+      "6s": "0",
+      "batting_position": "7"
+    },
+    "ball": "45.2",
+    "opposition": {
+      "country": "India",
+      "total": "200 all out (48.1 Overs, RR: 4.15)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "201/7 (46.5 Overs, RR: 4.29)"
+    },
+    "date": "30 Jan 2015",
+    "scoreAt": "193/7",
+    "description": "bit full outside off and he lofts it with a drive straight to Rayudu at deep cover! The runs had dried up in the last two overs, he went for the big shot and gave an easy catch to the fielder"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Glenn Maxwell"
+    },
+    "Stadium": "Perth",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "17",
+      "balls": "22",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "7"
+    },
+    "ball": "24.1",
+    "opposition": {
+      "country": "Australia",
+      "total": "278/8 (50 Overs, RR: 5.56)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "166 all out (39.1 Overs, RR: 4.23)"
+    },
+    "date": "1 Feb 2015",
+    "scoreAt": "98/6",
+    "description": "Maxwell not only hits reverse sweeps, he also gets batsmen on the shot, Pat Cummins the substitute at short third man, throws himself forward to take it low, helps that he is quite tall, of course"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium",
+      "name": "Mitchell Marsh"
+    },
+    "Stadium": "Melbourne",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "10",
+      "balls": "12",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "7"
+    },
+    "ball": "21.2",
+    "opposition": {
+      "country": "Australia",
+      "total": "342/9 (50 Overs, RR: 6.84)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "231 all out (41.5 Overs, RR: 5.52)"
+    },
+    "date": "14 Feb 2015",
+    "scoreAt": "92/6",
+    "description": "Marsh has five, but this wicket is all Smith's! What a stunner at short cover! Forget Superman, just look at this guy leaping to his left and sticking out both hands that grapples a full-blooded bludgeon!"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Tim Southee"
+    },
+    "Stadium": "Wellington",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "3",
+      "balls": "7",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "7"
+    },
+    "ball": "28.1",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "125/2 (12.2 Overs, RR: 10.13)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "123 all out (33.2 Overs, RR: 3.69)"
+    },
+    "date": "20 Feb 2015",
+    "scoreAt": "108/6",
+    "description": "lovely outswing bowling. Southee has a four-for. This is on a length, not too wide, you can't keep leaving them alone all day long in ODIs. Buttler pushes at it, Southee gets enough movement away to take the edge and England are six down"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Iain Wardlaw"
+    },
+    "Stadium": "Christchurch",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "24",
+      "balls": "14",
+      "4s": "4",
+      "6s": "0",
+      "batting_position": "7"
+    },
+    "ball": "48.4",
+    "opposition": {
+      "country": "Scotland",
+      "total": "184 all out (42.2 Overs, RR: 4.34)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "303/8 (50 Overs, RR: 6.06)"
+    },
+    "date": "23 Feb 2015",
+    "scoreAt": "297/6",
+    "description": "smashed straight into the hands of long off! He moved away to the leg side, the bowler pushes it wide outside off, which means Buttler doesn't get it off the meat of the bat. He could have gone over cover with that but chose to go straight"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Taskin Ahmed"
+    },
+    "Stadium": "Adelaide",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "65",
+      "balls": "52",
+      "4s": "6",
+      "6s": "1",
+      "batting_position": "7"
+    },
+    "ball": "45.5",
+    "opposition": {
+      "country": "Bangladesh",
+      "total": "275/7 (50 Overs, RR: 5.50)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "260 all out (48.3 Overs, RR: 5.36)"
+    },
+    "date": "9 Mar 2015",
+    "scoreAt": "238/7",
+    "description": "Taskin might just well be the toast of Dhaka tonight as he induces an outside edge to this attempted dab from Jos, who looked in two minds as to whether to go back or forward to this slightly back of a length outside his off stump. Met with wild jubilation from the Adelaide crowd as Bangladesh now go just ahead on the cards"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "Mitchell McClenaghan"
+    },
+    "Stadium": "Birmingham",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "129",
+      "balls": "77",
+      "4s": "13",
+      "6s": "5",
+      "batting_position": "6"
+    },
+    "ball": "47.3",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "198 all out (31.1 Overs, RR: 6.35)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "408/9 (50 Overs, RR: 8.16)"
+    },
+    "date": "9 Jun 2015",
+    "scoreAt": "379/7",
+    "description": "back of a length, Buttler whacks it leg side but doesn't get this at all and chips a catch to square leg who takes it well tumbling back. Having to reach outside off and above his head here, couldn't control the stroke at all and got a top edge that looped to the fielder. What an innings from Buttler, very very special"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "Trent Boult"
+    },
+    "Stadium": "The Oval",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "41",
+      "balls": "38",
+      "4s": "4",
+      "6s": "1",
+      "batting_position": "6"
+    },
+    "ball": "32.1",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "398/5 (50 Overs, RR: 7.96)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "365/9 (46 Overs, RR: 7.93)"
+    },
+    "date": "12 Jun 2015",
+    "scoreAt": "259/5",
+    "description": "there's the breakthrough for New Zealand! And it's that man Boult. Wasn't a great delivery, short of a length and angled across Buttler who went for the cut and got a thin toe end low to Ronchi"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Tim Southee"
+    },
+    "Stadium": "Southampton",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "13",
+      "balls": "10",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "ball": "36.2",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "306/7 (49 Overs, RR: 6.24)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "302 all out (45.2 Overs, RR: 6.66)"
+    },
+    "date": "14 Jun 2015",
+    "scoreAt": "227/5",
+    "description": "edged! Southee gets one with a short, wide delivery which Buttler chases and gets a thin edge to the keeper...bowler can't say he planned for that, but New Zealand won't care"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Nathan Coulter-Nile"
+    },
+    "Stadium": "Southampton",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "4",
+      "balls": "10",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "ball": "36.1",
+    "opposition": {
+      "country": "Australia",
+      "total": "305/6 (50 Overs, RR: 6.10)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "246 all out (45.3 Overs, RR: 5.40)"
+    },
+    "date": "3 Sep 2015",
+    "scoreAt": "194/6",
+    "description": "but he's gone now! England falling away. Full outside off, Buttler goes for the drive and just picks out mid-off inside the circle. That was loose from Buttler, needed to at least take a moment to assess after Morgan's departure"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Glenn Maxwell"
+    },
+    "Stadium": "Lord's",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "0",
+      "balls": "3",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "ball": "26.2",
+    "opposition": {
+      "country": "Australia",
+      "total": "309/7 (49 Overs, RR: 6.30)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "245 all out (42.3 Overs, RR: 5.76)"
+    },
+    "date": "5 Sep 2015",
+    "scoreAt": "142/5",
+    "description": "an appeal for lbw, Tim Robinson does not budge. Australia want a review. Maxi's front foot is fine. Flighted on middle, with a hint of turn. He misses the defensive push, is beaten on the inside edge and is rapped on the front pad. The ball pitched in line, impact in line, it would have hit the top of middle. Buttler is sent packing for a three-ball duck.."
+  },
+  {
+    "bowler": {},
+    "Stadium": "Abu Dhabi",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "run out"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "1",
+      "balls": "2",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "ball": "30.6",
+    "opposition": {
+      "country": "Pakistan",
+      "total": "217/4 (43.4 Overs, RR: 4.96)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "216 all out (49.4 Overs, RR: 4.34)"
+    },
+    "date": "11 Nov 2015",
+    "scoreAt": "148/5",
+    "description": "round the wicket, tip and run, it's a suicide single to midwicket and even without a direct hit, there's plenty time for the keeper to whip off the bails! Dreadful cock-up in the calling and Buttler's desperate tour takes another nosedive"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast",
+      "name": "Wahab Riaz"
+    },
+    "Stadium": "Abu Dhabi",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "11",
+      "balls": "10",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "5"
+    },
+    "ball": "47.5",
+    "opposition": {
+      "country": "Pakistan",
+      "total": "188 all out (45.5 Overs, RR: 4.10)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "283/5 (50 Overs, RR: 5.66)"
+    },
+    "date": "13 Nov 2015",
+    "scoreAt": "270/4",
+    "description": "he has another! Pakistan's superb finish continues. Buttler is bowled off the pads as he gives himself some room outside leg stump. A slower delivery this time"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Farhaan Behardien"
+    },
+    "Stadium": "Bloemfontein",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "105",
+      "balls": "76",
+      "4s": "11",
+      "6s": "5",
+      "batting_position": "4"
+    },
+    "ball": "42.2",
+    "opposition": {
+      "country": "South Africa",
+      "total": "250/5 (33.3 Overs, RR: 7.46)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "399/9 (50 Overs, RR: 7.98)"
+    },
+    "date": "3 Feb 2016",
+    "scoreAt": "317/5",
+    "description": "got him, picks out AB in the covers! Buttler was trying to manufacture a big fat swipe over the infield, the ball wasn't quite full enough to drive and de Villiers clings on above his head... Buttler's fun is over, but England's may not be"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Kagiso Rabada"
+    },
+    "Stadium": "Centurion",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "0",
+      "balls": "1",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "4"
+    },
+    "ball": "26.5",
+    "opposition": {
+      "country": "South Africa",
+      "total": "319/3 (46.2 Overs, RR: 6.88)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "318/8 (50 Overs, RR: 6.36)"
+    },
+    "date": "9 Feb 2016",
+    "scoreAt": "162/3",
+    "description": "turned off the hip, and Buttler falls first ball! A brilliant take by Duminy at leg gully, scooped low as it flew hard"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Kyle Abbott"
+    },
+    "Stadium": "Johannesburg",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "1",
+      "balls": "6",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "ball": "22.2",
+    "opposition": {
+      "country": "South Africa",
+      "total": "266/9 (47.2 Overs, RR: 5.61)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "262 all out (47.5 Overs, RR: 5.47)"
+    },
+    "date": "12 Feb 2016",
+    "scoreAt": "100/5",
+    "description": "shot, attacking the lid with sharp lift and aggression, Buttler pulls loosely, a flimsy top-edge, ricochets off the helmet, and that is a massive, massive punch to England's collective kidneys!"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Kagiso Rabada"
+    },
+    "Stadium": "Cape Town",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "0",
+      "balls": "1",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "ball": "27.6",
+    "opposition": {
+      "country": "South Africa",
+      "total": "237/5 (44 Overs, RR: 5.38)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "236 all out (45 Overs, RR: 5.24)"
+    },
+    "date": "14 Feb 2016",
+    "scoreAt": "156/5",
+    "description": "straight through him, stumps on the ground! What a sight that is... Buttler gets his second duck in three innings - a second first-baller, in fact, since the previous delivery was a wide - and England's position slips from promising to precarious. Wonderful delivery from Rabada, although there was a big gap for the ball to veer back through, clipped the inside edge and then uprooted leg stump. Pow!"
+  },
+  {
+    "bowler": {
+      "type": "Legbreak",
+      "name": "Seekkuge Prasanna"
+    },
+    "Stadium": "Nottingham",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "93",
+      "balls": "99",
+      "4s": "6",
+      "6s": "1",
+      "batting_position": "6"
+    },
+    "ball": "42.3",
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "286/9 (50 Overs, RR: 5.72)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "286/8 (50 Overs, RR: 5.72)"
+    },
+    "date": "21 Jun 2016",
+    "scoreAt": "220/7",
+    "description": "what a catch! Buttler dragged the ball from outside off, aiming for the six over long-on, where Shanaka had to time his leap to perfection, and mind where he landed afterwards, to pull off a potential gamebreaker, He had just long enough to contemplate the enormity of that moment, too ..."
+  },
+  {
+    "bowler": {
+      "type": "Left-arm medium-fast",
+      "name": "Chaminda Bandara"
+    },
+    "Stadium": "Cardiff",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "70",
+      "balls": "45",
+      "4s": "7",
+      "6s": "1",
+      "batting_position": "6"
+    },
+    "ball": "47.1",
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "202 all out (42.4 Overs, RR: 4.73)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "324/7 (50 Overs, RR: 6.48)"
+    },
+    "date": "2 Jul 2016",
+    "scoreAt": "291/5",
+    "description": "well bowled, gets the yorker right into the blockhole, and beats an ambitious wipe. Well bowled Bandara, his first ODI wicket and good reward for perseverence in adversity"
+  },
+  {
+    "bowler": {},
+    "Stadium": "Lord's",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "run out"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "4",
+      "balls": "5",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "ball": "40.1",
+    "opposition": {
+      "country": "Pakistan",
+      "total": "251 all out (49.5 Overs, RR: 5.03)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "255/6 (47.3 Overs, RR: 5.36)"
+    },
+    "date": "27 Aug 2016",
+    "scoreAt": "219/5",
+    "description": "blow me down, Buttler has been run out by a direct hit from backward point! A tap-and-go from Root, and a sharp pick-up-and-shy from Yasir Shah. He was inches short, but I'm not sure he fully sensed the danger"
+  },
+  {
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Shakib Al Hasan"
+    },
+    "Stadium": "Dhaka",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "63",
+      "balls": "38",
+      "4s": "3",
+      "6s": "4",
+      "batting_position": "6"
+    },
+    "ball": "49.4",
+    "opposition": {
+      "country": "Bangladesh",
+      "total": "288 all out (47.5 Overs, RR: 6.02)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "309/8 (50 Overs, RR: 6.18)"
+    },
+    "date": "7 Oct 2016",
+    "scoreAt": "308/7",
+    "description": "that's a huge full toss but it brings the wicket, Buttler gets it on the cue end of the bat and it ends down at long-off. They check for the height, but there's no issue there"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Taskin Ahmed"
+    },
+    "Stadium": "Dhaka",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "57",
+      "balls": "57",
+      "4s": "7",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "ball": "27.1",
+    "opposition": {
+      "country": "Bangladesh",
+      "total": "238/8 (50 Overs, RR: 4.76)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "204 all out (44.4 Overs, RR: 4.56)"
+    },
+    "date": "9 Oct 2016",
+    "scoreAt": "123/7",
+    "description": "that could be the match! Huge appeal for lbw as Buttler moves across his crease and misses his flick. Not given on the field. They call for the review. Such a key wicket. Well, this is very close. Think it hit him in line. He's down the pitch a bit. He's not hit it. Three reds, he's gone!"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Mashrafe Mortaza"
+    },
+    "Stadium": "Chittagong",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "25",
+      "balls": "26",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "ball": "40.4",
+    "opposition": {
+      "country": "Bangladesh",
+      "total": "277/6 (50 Overs, RR: 5.54)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "278/6 (47.5 Overs, RR: 5.81)"
+    },
+    "date": "12 Oct 2016",
+    "scoreAt": "227/5",
+    "description": "short, slow, and Buttler has chopped on! That was nothing more than a long-hop outside off, but it got up more than Buttler was expecting, and he has given Bangladesh a glimmer!"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Hardik Pandya"
+    },
+    "Stadium": "Pune",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "31",
+      "balls": "36",
+      "4s": "1",
+      "6s": "2",
+      "batting_position": "5"
+    },
+    "ball": "37.5",
+    "opposition": {
+      "country": "India",
+      "total": "356/7 (48.1 Overs, RR: 7.39)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "350/7 (50 Overs, RR: 7.00)"
+    },
+    "date": "15 Jan 2017",
+    "scoreAt": "220/4",
+    "description": "and Pandya sticks to his guns well enough. He has been bowling with mid-on and mid-off up, and has not given them even one drive ball. Buttler looks to manufacture one to a ball just short of a length, and doesn;t get enough of bat to it. Caught overhead at mid-off by Dhawan. India strike again with England looking to run away from them"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Ravichandran Ashwin"
+    },
+    "Stadium": "Cuttack",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "stumped"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "10",
+      "balls": "9",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "ball": "31.2",
+    "opposition": {
+      "country": "India",
+      "total": "381/6 (50 Overs, RR: 7.62)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "366/8 (50 Overs, RR: 7.32)"
+    },
+    "date": "19 Jan 2017",
+    "scoreAt": "206/5",
+    "description": "Buttler shows his ace early and advances down the track. Ashwin is wary of it as he fires it short and quick - 93.2ks- down the leg side; leg-side wide it is. Buttler, having ventured a long way down the track, is beaten lavishly. Dhoni, the cool cat, collects it and flips the bails off although the ball got caught in the webbing"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Hardik Pandya"
+    },
+    "Stadium": "Kolkata",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "11",
+      "balls": "15",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "5"
+    },
+    "ball": "37.6",
+    "opposition": {
+      "country": "India",
+      "total": "316/9 (50 Overs, RR: 6.32)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "321/8 (50 Overs, RR: 6.42)"
+    },
+    "date": "22 Jan 2017",
+    "scoreAt": "212/4",
+    "description": "no timing at all in his on-the-up drive. It's a fuller, wider delivery. Innocuous really. Buttler goes through with his shot taking on a well-populated offside field and picks out the man at cover"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Ashley Nurse"
+    },
+    "Stadium": "North Sound",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "14",
+      "balls": "19",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "5"
+    },
+    "ball": "25.6",
+    "opposition": {
+      "country": "West Indies",
+      "total": "251 all out (47.2 Overs, RR: 5.30)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "296/6 (50 Overs, RR: 5.92)"
+    },
+    "date": "3 Mar 2017",
+    "scoreAt": "129/4",
+    "description": "edged, and that's a brilliant snaffle at slip from Carter! Genuine turn from a good length, Buttler was drawn into the stroke, and Carter pounced low in one hand to claim a crucial scalp!"
+  },
+  {
+    "bowler": {
+      "type": "Legbreak",
+      "name": "Devendra Bishoo"
+    },
+    "Stadium": "North Sound",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "0",
+      "balls": "7",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "ball": "23.2",
+    "opposition": {
+      "country": "West Indies",
+      "total": "225 all out (47.5 Overs, RR: 4.70)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "226/6 (48.2 Overs, RR: 4.67)"
+    },
+    "date": "5 Mar 2017",
+    "scoreAt": "117/5",
+    "description": "goes back to cut, this time the edge is held, a juggling catch from Hope! England are having a confirmed attack of the vapours now, Buttler back in the hutch without scoring... He hung the bat out rather limply, again Bishoo got the ball to grip and lift and kiss the top edge, nearly escaped the gloves but Hope managed to cling on!"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Jason Holder"
+    },
+    "Stadium": "Bridgetown",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "7",
+      "balls": "5",
+      "4s": "0",
+      "6s": "1",
+      "batting_position": "4"
+    },
+    "ball": "37.4",
+    "opposition": {
+      "country": "West Indies",
+      "total": "142 all out (39.2 Overs, RR: 3.61)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "328 all out (50 Overs, RR: 6.56)"
+    },
+    "date": "9 Mar 2017",
+    "scoreAt": "232/3",
+    "description": "smashes the stumps! Full and straight, Buttler attempted the ramp once more, but got no bat in the way, and was too far across his crease to preserve his timbers"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Chris Morris"
+    },
+    "Stadium": "Leeds",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "7",
+      "balls": "7",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "ball": "34.1",
+    "opposition": {
+      "country": "South Africa",
+      "total": "267 all out (45 Overs, RR: 5.93)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "339/6 (50 Overs, RR: 6.78)"
+    },
+    "date": "24 May 2017",
+    "scoreAt": "198/5",
+    "description": "got him! At leg gully. De Villiers will love that. Angled into the pads, Buttler obliges by flicking it in the air and it's smartly grabbed around the corner by Miller. Perhaps it was planned for the shorter ball, but they'll take it any way it comes"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Kagiso Rabada"
+    },
+    "Stadium": "Lord's",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "4",
+      "balls": "4",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "ball": "4.5",
+    "opposition": {
+      "country": "South Africa",
+      "total": "156/3 (28.5 Overs, RR: 5.41)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "153 all out (31.1 Overs, RR: 4.90)"
+    },
+    "date": "29 May 2017",
+    "scoreAt": "20/5",
+    "description": "throws the bat, thick-edged to second... England are five down! Superb catch from Faf du Plessis, that went very quickly as Buttler attempted to thrash it through the covers. Not quite as quickly as England are subsiding, but still"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast",
+      "name": "Junaid Khan"
+    },
+    "Stadium": "Cardiff",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "4",
+      "balls": "7",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "ball": "34.1",
+    "opposition": {
+      "country": "Pakistan",
+      "total": "215/2 (37.1 Overs, RR: 5.78)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "211 all out (49.5 Overs, RR: 4.23)"
+    },
+    "date": "14 Jun 2017",
+    "scoreAt": "148/5",
+    "description": "edged, and gone! Oh my! Nibbled away from back of a length, Buttler was tentative outside off, and Sarfraz gathers low behind the stumps! England are officially in a pickle. And Pakistan are brawling!"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Miguel Cummins"
+    },
+    "Stadium": "Bristol",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "2",
+      "balls": "4",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "ball": "32.3",
+    "opposition": {
+      "country": "West Indies",
+      "total": "245 all out (39.1 Overs, RR: 6.25)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "369/9 (50 Overs, RR: 7.38)"
+    },
+    "date": "24 Sep 2017",
+    "scoreAt": "210/5",
+    "description": "bowled him, that's a beauty! No Buttler bash today, Cummins tickles the off bail with a lovely ball that nips fractionally away of the seam to beat his defensive push. Lovely bowling"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium",
+      "name": "Marcus Stoinis"
+    },
+    "Stadium": "Melbourne",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "4",
+      "balls": "10",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "ball": "47.5",
+    "opposition": {
+      "country": "Australia",
+      "total": "304/8 (50 Overs, RR: 6.08)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "308/5 (48.5 Overs, RR: 6.30)"
+    },
+    "date": "14 Jan 2018",
+    "scoreAt": "302/5",
+    "description": "launched into the leg side for the winning runs ... but no! It's a top-edge to deep midwicket!"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast",
+      "name": "Mitchell Starc"
+    },
+    "Stadium": "Brisbane",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "42",
+      "balls": "32",
+      "4s": "5",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "ball": "37.1",
+    "opposition": {
+      "country": "Australia",
+      "total": "270/9 (50 Overs, RR: 5.40)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "274/6 (44.2 Overs, RR: 6.18)"
+    },
+    "date": "19 Jan 2018",
+    "scoreAt": "225/5",
+    "description": "edged and gone! Through to the keeper, easy as pie. That's a superb ball in any circumstance. Angled in, nipping away, drawing the thin edge. A glimmer"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Josh Hazlewood"
+    },
+    "Stadium": "Adelaide",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "0",
+      "balls": "2",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "ball": "6.2",
+    "opposition": {
+      "country": "Australia",
+      "total": "197/7 (37 Overs, RR: 5.32)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "196 all out (44.5 Overs, RR: 4.37)"
+    },
+    "date": "26 Jan 2018",
+    "scoreAt": "8/5",
+    "description": "zips off a length, grazes the outside edge! ENGLAND ARE 8 FOR 5!!! (Or 5 for 8, if you're that sort...) Brilliant ball from Hazlewood, not too much fault with the batsman here: perfect length, seaming a fraction as Buttler felt for it in defence, flicks the bat and Paine swallows another!"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Andrew Tye"
+    },
+    "Stadium": "Perth",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "21",
+      "balls": "25",
+      "4s": "1",
+      "6s": "1",
+      "batting_position": "6"
+    },
+    "ball": "34.6",
+    "opposition": {
+      "country": "Australia",
+      "total": "247 all out (48.2 Overs, RR: 5.11)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "259 all out (47.4 Overs, RR: 5.43)"
+    },
+    "date": "28 Jan 2018",
+    "scoreAt": "192/5",
+    "description": "full, and Buttler holes out to mid-off! That's a critical breakthrough for Australia, Warner back-pedals to complete the catch, and once again, Tye's slower ball draws out the miscue from a well-set batsman"
+  },
+  {
+    "bowler": {},
+    "Stadium": "Hamilton",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "run out"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "79",
+      "balls": "65",
+      "4s": "5",
+      "6s": "5",
+      "batting_position": "6"
+    },
+    "ball": "49.5",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "287/7 (49.2 Overs, RR: 5.81)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "284/8 (50 Overs, RR: 5.68)"
+    },
+    "date": "25 Feb 2018",
+    "scoreAt": "284/8",
+    "description": "yorker on off stump, Willey plonks it back down the pitch, Buttler is racing down to re-take strike. Southee reaches to his right, grabs the ball with one hand, and runs it to the stumps. Super innings from the finisher. Even with New Zealand bossing the last 10 overs, he's taken England to a strong total"
+  },
+  {
+    "bowler": {
+      "type": "Legbreak",
+      "name": "Ish Sodhi"
+    },
+    "Stadium": "Wellington",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "29",
+      "balls": "23",
+      "4s": "3",
+      "6s": "1",
+      "batting_position": "6"
+    },
+    "ball": "42.5",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "230/8 (50 Overs, RR: 4.60)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "234 all out (50 Overs, RR: 4.68)"
+    },
+    "date": "3 Mar 2018",
+    "scoreAt": "184/6",
+    "description": "dragged out of the crease and beaten by big turn! They go upstairs for the stumping, but Buttler has already given himself out. Well flighted, big bite, and the keeper grabs well to smash the bails. In fact, he's been given out caught behind. His foot was actually behind the line"
+  },
+  {
+    "bowler": {
+      "type": "Legbreak",
+      "name": "Ish Sodhi"
+    },
+    "Stadium": "Dunedin",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Jos Buttler"
+    },
+    "player_innings": {
+      "runs": "0",
+      "balls": "2",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "4"
+    },
+    "ball": "38.2",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "339/5 (49.3 Overs, RR: 6.84)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "335/9 (50 Overs, RR: 6.70)"
+    },
+    "date": "7 Mar 2018",
+    "scoreAt": "267/3",
+    "description": "taken! Sodhi's got a wicket off the second ball of his spell again. Drops it short of a length just outside off. It sticks in the pitch as it turns away and Buttler's attempted back foot punch is a a weak chip in the end. So weak that Sodhi requires a forward lunge to get to it. He does well"
+  }
+]
