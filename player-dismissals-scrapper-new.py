@@ -88,14 +88,15 @@ def scrapeMatch(dismissal, url):
             if t.strip() == 'b':
                 bowler = temp[temp.index(t) + 1]
         isBreak = False
-        for bowlerSection in soup.find_all(class_='scorecard-section bowling'):
-            for link in bowlerSection.find_all('a'):
-                if bowler in link.text:
-                    dismissal['bowler'] = getBowlerInfo(link.get('href'))
-                    isBreak = True
+        if bowler is not None :
+            for bowlerSection in soup.find_all(class_='scorecard-section bowling'):
+                for link in bowlerSection.find_all('a'):
+                    if bowler in link.text:
+                        dismissal['bowler'] = getBowlerInfo(link.get('href'))
+                        isBreak = True
+                        break
+                if isBreak:
                     break
-            if isBreak:
-                break
     return dismissal
 
 
@@ -187,13 +188,7 @@ def scrapePlayerDismissals(player_name):
             json.dump(dismissals, outfile)
 
 
-players = ['Martin Guptil',
-           'Kane Williamson',
-           'Brendon McCullum',
-           'Jos Buttler',
-           'Shikhar Dhawan',
-           'Tamim Iqbal',
-           'Ross Taylor',
+players = ['Ross Taylor',
            'Upul Tharanga',
            'Kusal Mendis',
            'MS Dhoni',
@@ -202,14 +197,43 @@ players = ['Martin Guptil',
            'Virat Kohli',
            'Rohit Sharma']
 
+# 'Martin Guptil',
+# 'Kane Williamson',
+# 'Brendon McCullum',
+# 'Jos Buttler',
+# 'Shikhar Dhawan',
+# 'Tamim Iqbal',
+
 for player in players:
     scrapePlayerDismissals(player)
 
 
-# dismissal = {}
-# dismissal['player_innings'] = {}
-# dismissal['dismissal'] = {}
-# dismissal['opposition'] = {}
-# dismissal['team'] = {}
-# dismissal['team']['country'] = "India"
-# scrapeMatch(dismissal, 'MS Dhoni', 'http://www.espncricinfo.com/ci/engine/match/1119499.html')
+# dismissal = {
+#     "bowler": {},
+#     "Stadium": "Rawalpindi",
+#     "team_innings": "1",
+#     "dismissal": {
+#       "wayOut": "run out"
+#     },
+#     "batsman": {
+#       "batting-hand": "right",
+#       "name": "Brendon McCullum"
+#     },
+#     "player_innings": {
+#       "runs": "10",
+#       "balls": "18",
+#       "4s": "1",
+#       "6s": "0",
+#       "batting_position": "7"
+#     },
+#     "opposition": {
+#       "country": "Pakistan",
+#       "total": "184/3 (41.2 Overs, RR: 4.45)"
+#     },
+#     "team": {
+#       "country": "NZ ",
+#       "total": "183 all out (47.5 Overs, RR: 3.82)"
+#     },
+#     "date": "5 Dec 2003"
+#   }
+# scrapeMatch(dismissal, 'http://www.espncricinfo.com/ci/engine/match/527015.html')
