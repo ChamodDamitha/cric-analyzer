@@ -1,13 +1,69 @@
 batting-hand,bowler_type,innings,way_out,batsman_runs,batsman_balls,batsman_4s,batsman_6s,batting_position,dismissed_ball,wickets_fallen,runs_scored
+left,Right-arm medium-fast,1,caught,0,1,0,0,6,38.2,4,253
+left,Right-arm fast-medium,1,caught,7,12,1,0,7,17.1,5,70
+left,Right-arm offbreak,2,lbw,5,13,0,0,7,39.5,6,201
+left,Left-arm fast-medium,1,caught,57,103,6,0,7,44.1,7,149
+left,Left-arm fast-medium,1,caught,39,34,3,1,7,49.2,8,275
+left,Right-arm offbreak,1,lbw,38,64,0,0,7,34.2,5,166
+left,Right-arm fast-medium,1,caught,22,20,1,0,8,45.5,7,274
+left,Left-arm fast-medium,2,caught,36,35,2,1,8,44.3,9,275
+left,Right-arm medium-fast,1,caught,51,72,3,2,6,49.2,8,190
+left,Right-arm offbreak,2,bowled,6,9,0,0,7,45.1,5,219
+left,Right-arm fast-medium,1,lbw,0,1,0,0,7,38.1,5,189
+left,Right-arm offbreak,2,caught,20,44,2,0,7,28.2,8,84
+left,Right-arm medium-fast,1,caught,0,9,0,0,7,25.2,5,77
+left,Right-arm medium-fast,1,caught,17,26,3,0,7,39.2,6,199
+left,Right-arm fast-medium,1,caught,78,89,10,0,7,49.2,6,229
+left,Right-arm fast-medium,1,caught,0,1,0,0,7,49.1,5,288
+left,Slow left-arm orthodox,1,caught,21,21,2,0,7,43.4,5,206
+left,Right-arm medium-fast,2,caught,38,62,3,0,7,28.3,5,142
+left,Right-arm fast,1,caught,10,10,0,0,4,43.2,2,341
+left,Right-arm fast-medium,2,caught,19,25,0,0,7,22.3,5,114
+left,Slow left-arm orthodox,2,caught,12,8,0,0,7,48.4,5,257
+left,Right-arm medium-fast,2,caught,3,10,0,0,7,43.3,5,184
+left,Left-arm fast,2,caught,18,35,1,0,7,30.4,5,114
+left,Right-arm fast-medium,2,bowled,17,21,1,0,6,37.4,5,191
+left,Right-arm fast-medium,2,caught,8,17,1,0,7,26.3,5,104
+left,Right-arm offbreak,2,caught,13,23,0,0,8,39.2,6,131
+left,Right-arm offbreak,1,caught,27,39,0,2,8,43.4,9,167
+left,Right-arm fast-medium,2,bowled,7,9,0,0,7,44.5,6,273
+left,Right-arm offbreak,1,caught,39,65,1,2,7,38.4,5,157
+left,Right-arm fast,1,bowled,15,20,2,0,7,48.4,6,212
+left,Slow left-arm orthodox,2,lbw,5,14,0,0,7,37.1,5,152
+left,Slow left-arm orthodox,1,caught,15,22,1,0,7,49.1,7,271
+left,Left-arm fast-medium,2,caught,11,18,1,0,7,39.3,5,192
+left,Left-arm fast,1,caught,2,4,0,0,7,31.3,5,154
+left,Right-arm fast-medium,1,bowled,10,20,0,0,7,46.3,5,240
+left,Right-arm fast-medium,2,bowled,29,30,6,0,7,29.5,5,158
+left,Left-arm fast-medium,2,caught,26,34,1,1,7,33.2,7,145
+left,Left-arm fast-medium,2,caught,0,3,0,0,7,42.6,5,224
+left,Left-arm medium-fast,2,bowled,12,8,0,1,7,39.4,6,259
+left,Right-arm fast-medium,2,caught,5,6,1,0,8,41.5,6,174
+left,Right-arm fast-medium,2,bowled,87,68,9,2,7,48.4,9,253
+left,Right-arm fast,1,bowled,6,16,0,0,7,45.1,5,219
+left,Right-arm medium-fast,1,caught,2,2,0,0,6,47.2,4,300
+left,Right-arm fast-medium,1,caught,5,9,0,0,8,43.2,7,164
+left,Left-arm fast,1,bowled,3,5,0,0,6,48.6,4,296
+left,Right-arm fast,2,caught,13,23,2,0,7,29.3,5,134
+left,Left-arm fast-medium,2,caught,32,42,2,0,7,38.2,7,195
+left,Left-arm fast-medium,1,bowled,19,26,1,0,7,43.6,8,196
+left,Right-arm fast-medium,2,caught,13,15,2,0,8,44.1,6,318
+left,Right-arm fast-medium,2,caught,10,6,2,0,8,46.5,6,291
+left,Left-arm fast,2,caught,15,26,0,0,8,27.3,7,156
+left,Right-arm medium-fast,2,caught,11,11,1,0,8,47.3,6,173
 left,Right-arm medium,1,bowled,60,80,8,0,1,27.1,1,127
+left,Slow left-arm orthodox,1,stumped,105,110,9,0,1,37.2,2,194
 left,Right-arm fast-medium,2,bowled,9,13,1,0,2,4.1,0,24
 left,Right-arm fast-medium,1,caught,21,27,4,0,3,10.4,2,51
 left,Right-arm fast-medium,1,caught,17,42,1,0,1,14.5,3,41
+left,Right-arm fast-medium,1,caught,103,125,14,0,1,37.1,3,169
 left,Left-arm medium,2,caught,9,12,1,0,1,2.3,0,16
 left,Right-arm fast-medium,1,caught,11,16,1,0,1,6.4,0,44
 left,Right-arm fast,2,bowled,2,2,0,0,1,0.2,0,2
 left,Right-arm medium-fast,1,caught,16,18,2,0,1,5.3,0,33
+left,Right-arm fast-medium,1,caught,31,66,2,0,2,23.3,1,96
 left,Right-arm fast-medium,1,caught,0,5,0,0,1,0.5,0,0
+left,Right-arm fast-medium,1,lbw,19,37,3,0,1,9.1,2,34
 left,Right-arm fast-medium,1,caught,23,43,2,0,1,12.6,0,57
 left,Right-arm fast-medium,1,caught,120,156,14,0,1,48.4,8,248
 left,Right-arm fast-medium,1,caught,17,30,2,0,1,8.6,0,34
@@ -43,6 +99,8 @@ left,Right-arm medium,1,caught,40,37,6,0,1,12.2,1,73
 left,Right-arm fast-medium,1,caught,10,22,1,0,3,9.3,2,45
 left,Right-arm fast-medium,1,caught,57,104,7,0,1,36.2,3,150
 left,Right-arm medium-fast,2,caught,28,25,5,0,1,7.2,0,43
+left,Left-arm medium-fast,1,lbw,14,19,3,0,1,4.4,1,29
+left,Right-arm fast-medium,1,caught,40,63,2,0,1,17.6,1,95
 left,Left-arm fast-medium,2,caught,8,7,1,0,1,1.2,0,9
 left,Left-arm fast-medium,1,bowled,15,21,1,0,1,5.5,0,22
 left,Left-arm fast-medium,1,caught,4,14,1,0,1,3.6,0,7
@@ -50,10 +108,13 @@ left,Left-arm fast-medium,2,caught,10,18,1,0,1,5.1,1,18
 left,Right-arm medium-fast,1,bowled,10,31,1,0,1,10.4,2,40
 left,Right-arm medium-fast,1,caught,40,82,5,0,1,22.3,1,78
 left,Right-arm fast-medium,1,caught,29,35,4,0,2,8.4,1,41
+left,Right-arm fast-medium,1,bowled,6,22,1,0,1,6.6,1,8
+left,Right-arm offbreak,1,lbw,43,56,6,0,1,20.2,4,97
 left,Right-arm fast-medium,1,lbw,0,3,0,0,1,0.3,0,0
 left,Right-arm medium-fast,2,caught,2,16,0,0,1,5.1,1,4
 left,Right-arm fast-medium,1,caught,17,44,1,0,1,11.4,1,45
 left,Left-arm fast,2,caught,10,16,1,0,1,4.4,0,23
+left,Right-arm offbreak,2,lbw,76,96,9,0,1,33.3,0,202
 left,Right-arm medium,2,caught,80,89,8,1,1,32.2,5,166
 left,Left-arm fast,2,caught,0,3,0,0,1,0.3,0,0
 left,Right-arm offbreak,2,stumped,67,60,3,4,1,23.6,0,188
@@ -66,6 +127,7 @@ left,Right-arm offbreak,2,caught,30,48,4,0,1,15.4,1,77
 left,Right-arm medium,1,caught,0,4,0,0,1,0.4,0,0
 left,Left-arm medium-fast,2,caught,0,3,0,0,1,0.3,0,0
 left,Right-arm offbreak,2,caught,27,38,4,1,1,14.5,1,81
+left,Legbreak googly,1,caught,69,97,5,0,1,35.3,3,181
 left,Right-arm fast,1,caught,11,16,2,0,1,6.3,0,31
 left,Right-arm offbreak,1,caught,54,73,5,1,1,26.2,1,155
 left,Left-arm fast-medium,2,caught,38,46,6,0,1,13.5,1,80
@@ -89,6 +151,7 @@ left,Left-arm fast,2,caught,0,4,0,0,1,0.4,0,4
 left,Right-arm offbreak,1,caught,25,56,2,0,1,17.6,2,66
 left,Legbreak googly,1,caught,77,120,8,0,1,41.2,3,179
 left,Right-arm fast-medium,2,bowled,4,2,1,0,1,0.2,0,5
+left,Right-arm medium-fast,2,caught,16,13,3,0,1,3.3,0,18
 left,Left-arm medium-fast,1,caught,3,10,0,0,1,3.3,0,13
 left,Right-arm fast,2,caught,0,2,0,0,1,0.2,0,0
 left,Right-arm fast,1,caught,66,85,6,1,1,28.3,2,105
@@ -133,10 +196,12 @@ left,Right-arm offbreak,2,caught,28,53,3,0,1,16.2,2,84
 left,Left-arm fast-medium,2,caught,4,5,0,0,8,45.2,7,307
 left,Left-arm fast,1,stumped,20,27,2,0,4,23.4,2,111
 left,Left-arm fast-medium,2,bowled,28,36,3,0,3,18.3,1,140
+left,Legbreak googly,2,stumped,16,21,2,0,4,15.3,2,82
 left,Right-arm fast-medium,1,caught,7,6,1,0,8,49.2,6,297
 left,Right-arm fast,1,caught,3,4,0,0,7,34.4,5,197
 left,Right-arm fast-medium,1,bowled,40,33,2,1,7,48.6,8,242
 left,Legbreak,2,bowled,0,1,0,0,6,21.2,4,106
+left,Right-arm offbreak,1,caught,15,25,0,0,5,26.5,4,129
 left,Right-arm offbreak,2,caught,12,45,0,0,5,21.5,4,64
 left,Right-arm medium-fast,1,caught,26,19,3,0,6,49.6,6,330
 left,Legbreak googly,1,caught,6,16,0,0,5,29.2,4,102
@@ -163,6 +228,95 @@ left,Right-arm fast-medium,2,caught,11,17,2,0,2,5.4,0,46
 left,Right-arm fast-medium,2,caught,25,35,3,0,2,9.4,1,43
 left,Right-arm fast-medium,2,bowled,17,34,2,0,2,9.1,0,33
 left,Left-arm fast-medium,1,bowled,56,99,5,0,2,35.3,3,158
+left,Right-arm fast,1,caught,5,7,1,0,2,4.1,0,17
+left,Right-arm fast,1,bowled,69,60,6,2,2,18.5,0,114
+left,Right-arm fast,1,caught,1,7,0,0,2,1.5,0,9
+left,Right-arm fast-medium,1,caught,7,18,0,0,2,8.5,1,23
+left,Right-arm fast-medium,1,caught,2,11,0,0,1,2.4,0,4
+left,Right-arm medium-fast,1,caught,0,5,0,0,2,1,0,2
+left,Right-arm fast,2,caught,74,97,6,0,1,31.3,3,133
+left,Right-arm medium,1,bowled,6,14,0,0,2,5.1,0,15
+left,Right-arm medium,1,bowled,34,29,4,1,1,8.5,2,50
+left,Right-arm fast,1,caught,13,21,2,0,1,4.6,0,21
+left,Left-arm medium-fast,1,caught,43,46,5,1,2,12.6,0,70
+left,Right-arm fast-medium,1,caught,7,13,0,0,2,6.4,1,27
+left,Slow left-arm orthodox,1,caught,68,66,7,0,1,20.6,3,107
+left,Right-arm fast,2,caught,6,6,1,0,2,2.5,0,16
+left,Right-arm fast-medium,1,bowled,163,157,13,2,1,49.6,5,321
+left,Right-arm fast,1,caught,100,140,4,1,2,45.5,2,240
+left,Right-arm fast-medium,1,caught,48,45,5,1,2,13.6,0,75
+left,Right-arm fast,1,bowled,13,20,1,0,2,6.2,0,19
+left,Right-arm medium-fast,1,caught,37,51,6,0,2,14.2,2,58
+left,Right-arm medium-fast,2,caught,1,4,0,0,2,1.1,0,3
+left,Right-arm fast-medium,2,caught,56,61,6,1,2,20.2,2,102
+left,Right-arm fast-medium,1,caught,10,20,2,0,2,4.1,0,15
+left,Right-arm fast-medium,1,lbw,2,19,0,0,2,5.1,0,6
+left,Right-arm offbreak,1,lbw,32,32,4,1,2,10.4,0,43
+left,Right-arm offbreak,1,lbw,24,68,2,0,2,19.5,1,74
+left,Slow left-arm orthodox,2,caught,21,33,3,1,1,8.5,0,44
+left,Right-arm medium,1,caught,4,11,0,0,1,2.1,0,4
+left,Right-arm medium-fast,1,lbw,60,73,6,0,1,28.6,4,125
+left,Right-arm offbreak,1,bowled,10,18,1,0,2,6.4,0,31
+left,Right-arm fast-medium,2,caught,9,21,1,0,1,5.5,0,17
+left,Right-arm offbreak,2,caught,65,72,5,1,2,27.5,0,163
+left,Right-arm fast-medium,2,caught,18,14,2,0,1,5.5,1,32
+left,Right-arm fast-medium,2,caught,71,70,7,2,2,20.2,1,121
+left,Legbreak googly,1,caught,43,63,5,0,2,18.1,1,86
+left,Slow left-arm orthodox,2,caught,29,27,5,0,1,13.1,2,72
+left,Legbreak googly,1,caught,56,63,6,1,2,21.4,1,102
+left,Right-arm fast-medium,1,caught,46,49,1,3,1,14.2,0,94
+left,Right-arm fast,1,caught,0,5,0,0,1,0.5,0,1
+left,Right-arm fast-medium,1,caught,53,50,6,2,2,19.6,0,118
+left,Right-arm fast-medium,2,lbw,4,8,0,0,2,3.2,0,8
+left,Left-arm medium-fast,2,caught,21,16,3,1,1,4.5,0,37
+left,Right-arm fast-medium,2,caught,127,115,18,0,1,38.4,5,227
+left,Right-arm fast-medium,2,caught,24,22,3,0,2,9.1,0,51
+left,Right-arm fast-medium,1,caught,12,18,2,0,2,6.1,1,33
+left,Right-arm fast-medium,1,bowled,22,18,3,0,1,7.3,0,57
+left,Right-arm medium-fast,1,lbw,34,42,2,1,2,13.1,2,80
+left,Left-arm fast-medium,1,caught,178,133,19,5,1,37.3,1,274
+left,Right-arm fast,1,caught,9,12,1,0,2,4.2,0,19
+left,Left-arm fast,2,caught,24,23,3,0,1,8.3,1,49
+left,Right-arm fast-medium,1,caught,12,7,1,1,2,3.1,0,15
+left,Right-arm fast-medium,2,caught,45,46,7,0,1,12.2,1,63
+left,Right-arm fast-medium,1,caught,84,80,7,3,2,27.4,1,165
+left,Legbreak,1,caught,59,67,6,0,2,26.2,1,133
+left,Left-arm medium,2,caught,5,10,1,0,2,4.4,1,21
+left,Right-arm fast-medium,1,bowled,93,92,12,1,1,29.3,0,187
+left,Right-arm fast-medium,1,caught,122,113,9,3,2,38.5,4,235
+left,Left-arm fast-medium,2,lbw,12,11,2,0,2,6.4,2,39
+left,Right-arm fast-medium,2,caught,16,14,3,0,2,4.6,0,39
+left,Left-arm medium-fast,2,lbw,1,5,0,0,1,1.4,0,1
+left,Left-arm medium-fast,1,caught,109,120,11,2,1,34.1,1,184
+left,Right-arm medium-fast,2,caught,8,17,0,0,1,7.2,0,40
+left,Right-arm medium-fast,2,caught,1,4,0,0,1,1.1,0,3
+left,Right-arm medium,2,caught,10,12,1,0,1,4.5,0,31
+left,Slow left-arm orthodox,2,bowled,19,16,3,0,1,7.1,2,97
+left,Right-arm offbreak,2,caught,106,126,9,0,1,40.6,4,189
+left,Right-arm fast-medium,2,caught,48,30,5,2,2,8.4,0,73
+left,Left-arm medium-fast,1,caught,40,36,5,1,1,9.3,0,64
+left,Right-arm offbreak,2,caught,50,56,7,1,2,20.5,4,114
+left,Legbreak googly,1,caught,117,107,13,2,1,34.5,1,234
+left,Right-arm fast-medium,1,bowled,6,5,1,0,2,2.1,1,9
+left,Right-arm fast,1,bowled,24,29,4,0,1,9.6,1,47
+left,Right-arm fast-medium,1,caught,119,115,14,1,1,36.1,1,213
+left,Left-arm fast,1,bowled,7,18,1,0,1,4.3,0,13
+left,Left-arm fast,1,caught,16,22,1,0,2,5.5,0,31
+left,Left-arm fast,2,caught,35,38,5,0,1,8.6,0,44
+left,Right-arm medium-fast,1,caught,130,119,11,2,2,35.3,1,212
+left,Left-arm fast,1,caught,179,128,19,5,1,41.3,0,284
+left,Left-arm fast-medium,2,caught,18,16,1,1,1,5.1,0,27
+left,Right-arm fast,1,caught,21,25,4,0,1,7.2,0,40
+left,Slow left-arm chinaman,2,caught,25,28,2,0,1,7.6,3,35
+left,Right-arm medium,2,caught,1,9,0,0,2,4.5,1,9
+left,Right-arm medium-fast,1,bowled,42,44,4,1,1,13.3,0,70
+left,Right-arm offbreak,1,caught,124,119,12,4,2,34.6,0,231
+left,Slow left-arm orthodox,1,caught,53,62,5,0,1,22.2,2,112
+left,Right-arm fast,1,caught,2,5,0,0,2,1.5,0,10
+left,Right-arm offbreak,1,caught,35,40,5,0,1,11.4,0,68
+left,Right-arm fast-medium,2,caught,8,10,2,0,2,3.5,0,24
+left,Right-arm fast-medium,2,caught,13,11,2,0,1,4.4,0,25
+left,Right-arm fast-medium,2,bowled,15,11,2,0,1,3.2,0,24
 right,Right-arm fast-medium,1,lbw,12,22,1,0,2,7.5,1,23
 right,Left-arm fast-medium,2,caught,37,67,6,0,2,19.4,3,75
 right,Left-arm fast-medium,1,bowled,54,66,7,0,1,17.3,2,81
@@ -181,6 +335,7 @@ right,Right-arm fast,2,caught,57,71,4,1,3,27.6,4,157
 right,Right-arm offbreak,2,caught,82,92,4,0,3,37.4,2,201
 right,Right-arm offbreak,1,caught,18,29,1,0,3,24.6,2,86
 right,Left-arm fast-medium,1,caught,68,95,5,0,3,34.2,3,171
+right,Slow left-arm orthodox,2,stumped,11,22,0,0,3,14.4,1,80
 right,Right-arm offbreak,2,bowled,18,27,1,0,3,17.4,1,82
 right,Right-arm fast-medium,1,caught,10,14,1,0,3,14.3,1,75
 right,Right-arm fast,1,caught,28,34,4,0,3,18.2,1,100
@@ -446,6 +601,327 @@ right,Left-arm fast,2,caught,0,1,0,0,2,1.1,0,6
 right,Left-arm fast-medium,1,bowled,44,29,5,3,2,10.5,0,79
 right,Right-arm fast-medium,1,bowled,28,12,2,3,2,4.2,0,35
 right,Right-arm medium,1,caught,47,27,6,3,2,9.3,0,84
+right,Left-arm fast-medium,1,caught,0,1,0,0,1,0.1,0,0
+right,Right-arm offbreak,2,caught,39,37,6,0,1,12.3,0,85
+right,Right-arm medium-fast,1,bowled,9,17,1,0,1,6.2,1,34
+right,Right-arm fast-medium,2,caught,38,35,5,1,1,12.5,1,111
+right,Right-arm medium,2,caught,12,20,1,0,1,8.1,4,45
+right,Right-arm offbreak,2,caught,67,64,11,0,1,17.5,1,112
+right,Right-arm fast,2,caught,31,32,6,0,1,11.4,1,68
+right,Slow left-arm orthodox,1,caught,63,45,9,0,1,14.6,1,86
+right,Right-arm fast,2,caught,36,33,7,0,1,10.1,1,73
+right,Left-arm fast,1,lbw,4,4,1,0,1,0.4,0,4
+right,Left-arm fast,1,bowled,0,2,0,0,1,0.2,0,0
+right,Left-arm fast,1,caught,54,57,8,0,1,17.3,0,102
+right,Left-arm fast,2,caught,7,6,1,0,1,2.2,0,12
+right,Legbreak googly,1,caught,102,117,8,1,1,35.3,1,194
+right,Right-arm fast,1,caught,48,30,8,1,1,7.4,0,68
+right,Right-arm fast-medium,2,bowled,14,13,3,0,1,2.6,0,20
+right,Right-arm fast,1,caught,6,16,1,0,1,5.3,0,18
+right,Legbreak googly,1,lbw,8,15,0,0,1,4.6,0,15
+right,Right-arm medium,2,lbw,3,10,0,0,1,1.4,0,3
+right,Right-arm fast-medium,2,bowled,162,118,13,3,1,37.5,3,281
+right,Right-arm fast-medium,1,caught,34,34,4,0,1,11.3,0,67
+right,Left-arm fast,2,caught,65,56,6,1,1,18.4,1,116
+right,Left-arm fast,2,bowled,0,2,0,0,1,0.2,0,0
+right,Right-arm medium-fast,1,caught,15,19,3,0,1,5.2,0,33
+right,Left-arm fast,2,caught,14,11,3,0,1,2.5,0,15
+right,Left-arm fast,1,caught,87,89,8,2,1,27.3,3,164
+right,Slow left-arm orthodox,1,caught,41,40,5,1,1,11.2,1,61
+right,Right-arm fast-medium,2,lbw,13,21,0,0,1,7.5,2,24
+right,Slow left-arm orthodox,1,stumped,73,61,12,0,1,18.3,1,108
+right,Slow left-arm orthodox,2,bowled,82,73,9,2,1,26.1,2,170
+right,Slow left-arm orthodox,1,bowled,65,56,10,1,1,19.4,1,110
+right,Right-arm fast-medium,1,lbw,13,22,2,0,1,5.3,0,23
+right,Right-arm offbreak,2,caught,52,48,7,1,1,14.6,1,87
+right,Right-arm fast-medium,1,caught,17,19,2,0,1,5.5,0,27
+right,Right-arm medium-fast,2,caught,0,5,0,0,1,0.4,0,1
+right,Right-arm medium,1,caught,20,33,3,0,1,12.4,1,60
+right,Left-arm medium-fast,1,caught,1,6,0,0,1,1.2,0,3
+right,Right-arm fast,1,bowled,8,16,1,0,1,4.1,0,12
+right,Right-arm fast,1,caught,4,5,1,0,1,0.5,0,4
+right,Right-arm fast-medium,2,caught,1,8,0,0,1,2.3,0,6
+right,Right-arm fast,1,bowled,13,23,2,0,1,7.6,0,37
+right,Left-arm fast,2,lbw,4,2,1,0,1,0.2,0,4
+right,Right-arm fast-medium,2,caught,84,66,11,2,1,17.4,0,126
+right,Right-arm fast-medium,2,lbw,96,70,11,1,1,21.2,0,156
+right,Left-arm fast,2,caught,180,151,16,5,1,42.3,2,281
+right,Left-arm fast,2,caught,2,4,0,0,1,0.4,0,2
+right,Right-arm fast,1,caught,19,24,4,0,1,6.6,0,38
+right,Right-arm fast-medium,1,caught,0,2,0,0,1,0.2,0,0
+right,Right-arm medium-fast,1,caught,49,46,7,1,1,11.3,0,71
+right,Slow left-arm orthodox,1,bowled,49,66,5,1,1,18.6,1,89
+right,Left-arm fast-medium,2,caught,8,13,2,0,1,3.3,0,15
+right,Left-arm fast-medium,1,caught,15,26,2,0,1,7.6,0,25
+right,Legbreak,1,caught,42,41,5,2,1,10.2,0,77
+right,Right-arm fast-medium,1,caught,40,44,6,0,2,15.6,0,82
+right,Right-arm offbreak,1,caught,54,47,5,1,2,18.5,3,143
+right,Right-arm fast-medium,1,caught,0,3,0,0,2,0.4,0,1
+right,Right-arm fast-medium,1,lbw,38,53,5,1,2,13.3,0,65
+right,Right-arm fast-medium,1,caught,26,47,3,0,2,12.1,0,52
+right,Right-arm offbreak,1,stumped,15,41,0,0,2,11.4,1,52
+right,Right-arm medium-fast,2,caught,14,15,1,1,2,6.5,1,29
+right,Right-arm fast-medium,2,caught,91,104,6,0,2,37.5,2,212
+right,Right-arm fast-medium,2,caught,20,37,1,0,2,13.5,2,46
+right,Right-arm medium-fast,1,caught,42,61,6,0,1,18.4,2,80
+right,Right-arm fast,1,lbw,0,1,0,0,2,0.2,0,1
+right,Right-arm medium-fast,1,lbw,9,17,1,0,2,5.1,0,29
+right,Left-arm fast,1,caught,4,11,1,0,2,4.3,0,19
+right,Right-arm offbreak,2,caught,47,57,6,0,1,16.4,0,96
+right,Right-arm fast-medium,1,bowled,4,14,0,0,1,4.3,1,18
+right,Right-arm fast-medium,2,bowled,0,4,0,0,2,2.5,0,11
+right,Right-arm offbreak,2,bowled,50,66,4,1,3,27.2,2,126
+right,Right-arm fast,2,caught,8,17,1,0,4,8.4,3,34
+right,Left-arm medium-fast,2,caught,7,13,0,0,4,20.6,2,84
+right,Left-arm fast-medium,2,caught,36,42,4,0,4,23.4,2,127
+right,Left-arm medium-fast,2,caught,3,14,0,0,4,17.4,3,79
+right,Right-arm fast-medium,1,caught,3,8,0,0,3,8.2,1,22
+right,Right-arm fast-medium,2,lbw,2,10,0,0,4,13.2,2,30
+right,Right-arm offbreak,2,caught,73,83,7,1,4,47.3,3,272
+right,Right-arm offbreak,1,caught,22,27,1,0,4,35.1,2,175
+right,Right-arm offbreak,1,caught,23,50,3,0,4,23.2,3,103
+right,Right-arm fast-medium,2,lbw,56,66,5,0,1,23.3,0,121
+right,Right-arm fast-medium,2,caught,64,70,5,2,2,22.1,2,135
+right,Right-arm fast-medium,1,lbw,0,1,0,0,2,0.2,0,1
+right,Right-arm medium-fast,1,caught,3,18,0,0,2,5.2,1,8
+right,Right-arm offbreak,1,stumped,41,47,4,0,4,23.5,2,110
+right,Right-arm fast-medium,2,caught,45,56,6,1,1,17.5,1,85
+right,Left-arm fast-medium,2,caught,106,100,10,4,1,28.4,0,183
+right,Right-arm fast-medium,2,caught,0,3,0,0,1,0.3,0,0
+right,Right-arm medium-fast,1,caught,12,28,1,0,1,12.5,1,50
+right,Slow left-arm orthodox,1,lbw,68,79,7,0,1,26.4,1,142
+right,Right-arm offbreak,1,caught,111,108,13,2,1,37.5,1,247
+right,Right-arm fast-medium,2,caught,8,19,1,0,1,6.3,0,18
+right,Right-arm medium-fast,2,caught,31,47,5,0,1,11.6,0,62
+right,Right-arm medium,1,lbw,28,24,6,0,1,7.5,0,40
+right,Right-arm medium,2,bowled,2,10,0,0,1,2.4,0,6
+right,Right-arm fast-medium,1,caught,12,22,2,0,3,7.2,1,33
+right,Right-arm fast-medium,1,caught,33,40,1,1,1,14.3,1,57
+right,Right-arm fast-medium,1,caught,73,101,3,1,1,35.3,4,136
+right,Right-arm fast-medium,1,bowled,0,1,0,0,7,49.2,6,296
+right,Right-arm fast,1,lbw,79,60,7,3,4,45.6,4,278
+right,Right-arm fast,2,caught,14,34,2,0,4,17.5,3,78
+right,Right-arm fast,1,caught,19,37,1,0,4,27.6,2,115
+right,Left-arm fast,2,caught,44,68,2,0,4,36.2,4,178
+right,Left-arm fast-medium,2,caught,9,25,1,0,4,22.6,3,115
+right,Right-arm fast-medium,1,caught,34,49,5,0,1,17.2,1,60
+right,Right-arm medium,1,caught,63,83,7,0,1,25.6,0,112
+right,Right-arm medium-fast,1,caught,15,22,1,0,1,5.5,0,25
+right,Right-arm fast-medium,2,caught,60,82,5,0,3,33.4,1,191
+right,Legbreak googly,1,bowled,51,63,6,0,3,22.4,3,102
+right,Right-arm fast,2,caught,4,7,0,0,6,45.2,5,216
+right,Right-arm fast,1,caught,45,53,4,0,4,26.1,2,139
+right,Right-arm fast,2,caught,87,58,9,3,4,26.2,4,185
+right,Left-arm fast-medium,1,caught,89,80,6,1,4,48.3,4,298
+right,Right-arm fast-medium,1,caught,50,55,4,1,4,44.2,2,243
+right,Right-arm fast-medium,2,caught,2,3,0,0,7,41.5,5,294
+right,Right-arm medium,2,caught,33,34,4,2,2,12.1,1,62
+right,Right-arm medium-fast,2,caught,28,49,3,0,2,18.4,2,72
+right,Right-arm fast-medium,2,caught,5,10,1,0,2,2.5,0,13
+right,Right-arm medium,2,lbw,57,70,5,1,1,27.2,2,128
+right,Right-arm medium,1,caught,20,39,3,0,1,9.2,0,40
+right,Left-arm fast-medium,2,bowled,1,6,0,0,1,1.4,0,13
+right,Right-arm fast-medium,1,caught,62,78,8,0,1,24.6,0,132
+right,Right-arm fast-medium,1,bowled,103,104,10,2,1,33.6,1,211
+right,Right-arm fast-medium,1,caught,72,112,4,1,1,42.2,3,170
+right,Legbreak,2,caught,60,91,7,0,1,30.5,3,101
+right,Legbreak,2,lbw,39,51,5,0,1,18.5,1,84
+right,Right-arm fast,2,caught,5,17,0,0,2,4.4,0,17
+right,Right-arm fast,1,caught,5,15,0,0,1,3.3,0,11
+right,Right-arm fast,2,lbw,70,76,9,0,1,23.3,1,147
+right,Right-arm fast-medium,2,caught,53,66,6,1,1,18.2,0,106
+right,Right-arm fast,2,lbw,61,74,7,0,1,22.3,0,124
+right,Right-arm fast-medium,2,caught,79,86,5,2,4,42.4,2,256
+right,Right-arm offbreak,1,caught,11,13,0,0,4,27.4,2,160
+right,Right-arm fast,1,caught,8,15,1,0,4,36.3,3,210
+left,Right-arm medium,1,caught,21,27,4,0,3,9.5,1,43
+left,Right-arm fast,2,lbw,2,5,0,0,3,5.3,1,15
+left,Right-arm fast-medium,1,caught,18,34,0,1,3,15.3,1,61
+left,Right-arm fast-medium,1,caught,28,50,4,0,3,19.5,2,63
+left,Right-arm fast-medium,2,caught,15,37,2,0,3,12.5,2,35
+left,Right-arm fast-medium,1,caught,0,9,0,0,3,4.3,3,12
+left,Right-arm fast-medium,1,caught,0,1,0,0,4,7.6,2,28
+left,Right-arm fast-medium,1,bowled,35,55,1,1,3,26,3,81
+left,Right-arm fast-medium,2,caught,4,8,0,0,3,11.5,1,47
+left,Right-arm fast-medium,2,caught,12,14,2,0,3,10.5,1,48
+left,Right-arm medium, Right-arm offbreak,2,bowled,60,56,3,4,3,26.2,1,174
+left,Right-arm fast,1,caught,43,57,1,1,6,42.3,6,183
+left,Left-arm fast-medium,1,stumped,13,26,1,0,6,39.3,4,174
+left,Left-arm fast-medium,1,caught,58,41,4,3,6,47.3,7,272
+left,Left-arm fast-medium,2,caught,23,28,2,0,6,23.2,4,100
+left,Right-arm fast,2,caught,2,10,0,0,6,31.4,4,141
+left,Right-arm fast,1,caught,67,34,4,5,5,49.2,7,320
+left,Right-arm fast,1,caught,9,40,1,0,5,18.2,3,50
+left,Right-arm fast-medium,1,caught,9,27,0,0,5,20.2,5,101
+left,Right-arm offbreak,2,caught,0,4,0,0,6,26.5,4,150
+left,Right-arm offbreak,2,caught,33,40,4,0,5,36.1,3,184
+left,Right-arm fast-medium,1,caught,36,29,4,1,5,48.3,4,257
+left,Left-arm fast-medium,2,caught,52,64,3,0,5,40.2,5,211
+left,Legbreak googly,2,caught,27,35,2,1,5,41.4,3,185
+left,Right-arm fast,2,caught,47,56,1,3,5,28.2,4,140
+left,Right-arm medium,2,caught,9,18,1,0,5,15.5,3,72
+left,Right-arm fast-medium,1,caught,1,2,0,0,6,44.5,4,280
+left,Legbreak googly,1,caught,13,11,2,0,5,33.1,3,205
+left,Right-arm fast-medium,2,caught,16,18,1,0,5,45.4,4,260
+left,Right-arm fast-medium,2,caught,61,74,6,0,5,38.1,5,201
+left,Right-arm fast,2,caught,28,35,2,0,6,43.3,7,211
+left,Legbreak googly,1,caught,8,12,1,0,6,32.5,4,186
+left,Right-arm fast-medium,2,caught,21,31,1,1,6,34.6,5,140
+left,Right-arm offbreak,1,caught,30,41,2,0,5,24.4,3,118
+left,Right-arm offbreak,1,caught,24,31,1,0,6,41.1,5,227
+left,Legbreak googly,2,caught,2,4,0,0,6,22.5,4,98
+left,Right-arm fast-medium,1,caught,21,13,3,0,6,48.5,4,319
+left,Right-arm offbreak,1,caught,63,72,8,0,5,38.4,3,162
+left,Legbreak,1,caught,7,13,0,0,5,27.2,4,134
+left,Right-arm fast,1,caught,50,55,4,0,5,42.6,3,186
+left,Right-arm fast-medium,1,caught,45,35,6,0,5,25.1,4,175
+left,Right-arm offbreak,2,stumped,52,40,3,2,5,36.3,4,201
+left,Legbreak,1,lbw,4,7,1,0,5,21.3,3,85
+left,Right-arm offbreak,1,stumped,57,60,2,0,5,36.4,3,213
+left,Right-arm offbreak,1,caught,59,65,6,1,4,30.2,2,136
+left,Right-arm offbreak,1,lbw,2,8,0,0,5,39.3,3,196
+left,Right-arm offbreak,2,lbw,15,16,1,0,4,15.4,2,68
+left,Right-arm offbreak,1,bowled,21,25,2,0,5,34.6,3,187
+left,Right-arm offbreak,2,caught,27,48,1,0,5,33.4,5,159
+left,Slow left-arm orthodox,2,caught,73,67,7,2,5,37.5,3,172
+left,Right-arm offbreak,1,caught,0,2,0,0,5,19.5,3,82
+left,Right-arm medium-fast,1,caught,41,38,4,2,4,41.6,2,248
+left,Right-arm medium,2,caught,0,2,0,0,5,14.4,3,73
+left,Right-arm offbreak,1,caught,10,30,1,0,5,23.4,3,97
+left,Right-arm offbreak,1,caught,3,6,0,0,4,33.6,2,138
+left,Right-arm fast-medium,1,caught,1,4,0,0,5,40.1,3,190
+left,Right-arm fast-medium,2,caught,39,24,5,2,5,32.3,3,168
+left,Left-arm fast-medium,1,caught,6,9,1,0,5,29.2,4,126
+left,Right-arm medium,2,caught,21,23,2,0,5,29.2,3,166
+left,Right-arm fast-medium,1,bowled,8,12,0,0,5,42.5,4,212
+left,Right-arm fast,1,lbw,13,10,1,0,5,45.4,4,249
+left,Slow left-arm orthodox,1,lbw,15,15,0,1,5,19.4,4,143
+left,Right-arm fast-medium,2,caught,33,30,3,1,5,17.3,4,110
+left,Right-arm fast-medium,2,caught,54,69,4,0,5,33.4,5,154
+left,Right-arm fast-medium,2,bowled,53,92,7,0,5,30.5,3,112
+left,Slow left-arm orthodox,2,stumped,30,39,3,0,4,25.1,4,103
+left,Right-arm offbreak,1,caught,50,47,5,1,5,31.4,3,145
+left,Left-arm fast-medium,1,caught,106,99,4,6,5,49.1,7,297
+left,Right-arm fast-medium,1,caught,54,58,4,2,5,41.3,5,186
+left,Left-arm fast-medium,1,caught,33,33,3,1,5,47.3,5,287
+left,Left-arm fast-medium,2,caught,39,40,3,1,5,35.4,3,154
+left,Right-arm offbreak,1,bowled,1,3,0,0,5,23.1,3,116
+left,Right-arm fast-medium,1,caught,31,23,3,1,3,18.1,3,140
+left,Right-arm offbreak,1,bowled,3,3,0,0,4,21.2,2,104
+left,Right-arm fast-medium,2,caught,40,58,3,2,5,25.2,8,95
+left,Right-arm offbreak,2,stumped,12,17,0,0,5,28.2,4,111
+left,Right-arm medium,1,caught,17,27,0,1,5,30.5,4,142
+left,Right-arm offbreak,2,caught,28,45,3,0,5,29.5,5,119
+left,Right-arm offbreak,1,caught,10,18,0,0,5,27.6,3,120
+left,Slow left-arm orthodox,1,caught,32,58,3,0,5,28.2,3,103
+left,Right-arm offbreak,1,stumped,14,34,1,0,5,28.6,3,117
+left,Right-arm offbreak,2,bowled,1,3,0,0,5,18.5,3,124
+left,Right-arm medium-fast,1,caught,17,29,1,0,5,19.3,3,75
+left,Right-arm medium,2,caught,1,4,0,0,6,23.1,4,152
+left,Right-arm offbreak,1,caught,62,47,4,3,6,49.6,9,265
+left,Right-arm offbreak,2,caught,5,5,1,0,6,48.6,4,238
+left,Right-arm fast-medium,2,caught,0,1,0,0,6,17.3,4,84
+left,Right-arm offbreak,2,lbw,4,14,0,0,6,19.1,4,78
+left,Left-arm fast,1,caught,121,136,11,3,5,47.4,8,234
+left,Right-arm fast-medium,1,caught,0,1,0,0,5,41.4,3,254
+left,Right-arm medium,2,caught,2,13,0,0,5,17.6,3,54
+left,Left-arm fast,2,bowled,0,1,0,0,5,10.4,3,46
+left,Right-arm medium,2,caught,0,6,0,0,5,17.6,4,73
+left,Slow left-arm orthodox,1,caught,17,41,1,0,5,25.6,3,104
+left,Right-arm medium-fast,1,caught,46,42,4,2,5,49.1,6,300
+left,Right-arm medium-fast,1,caught,27,47,2,1,5,34.3,3,161
+left,Right-arm fast,2,caught,0,3,0,0,5,26.4,3,121
+left,Left-arm fast-medium,1,lbw,50,46,1,3,4,22.5,2,171
+left,Left-arm fast-medium,2,caught,88,47,6,6,4,35.2,5,274
+left,Right-arm offbreak,1,bowled,71,82,4,2,4,32.6,3,194
+left,Right-arm medium-fast,2,caught,113,82,12,5,4,39.1,2,309
+left,Slow left-arm orthodox,2,caught,0,1,0,0,4,3.2,2,20
+left,Right-arm fast-medium,2,caught,38,46,4,0,4,35.5,4,194
+left,Right-arm fast,2,caught,85,87,4,4,4,42.3,9,245
+left,Right-arm offbreak,1,caught,62,56,7,1,4,33.1,2,205
+left,Right-arm fast,2,caught,92,92,8,2,4,39.4,4,238
+left,Right-arm offbreak,1,caught,76,96,11,0,4,30.3,3,147
+left,Left-arm fast,1,caught,29,29,1,1,4,48.5,4,274
+left,Legbreak,1,stumped,14,13,2,0,5,40.2,3,227
+left,Legbreak googly,1,caught,23,21,3,1,5,34.4,3,256
+left,Right-arm fast,2,caught,29,28,1,2,4,34.3,2,169
+left,Right-arm medium-fast,1,caught,8,24,0,0,5,33.6,3,187
+left,Legbreak googly,1,caught,2,3,0,0,4,19.4,2,95
+left,Right-arm medium-fast,1,caught,2,10,0,0,4,16.5,2,85
+left,Right-arm fast-medium,2,caught,43,49,7,0,4,15.6,4,72
+left,Right-arm fast-medium,2,caught,22,27,0,1,4,29.6,2,221
+left,Right-arm offbreak,1,caught,20,18,2,1,4,24.1,2,137
+left,Slow left-arm orthodox,2,bowled,68,80,9,0,4,30.2,2,147
+left,Right-arm fast-medium,2,caught,11,24,1,0,4,14.3,3,72
+left,Slow left-arm orthodox,1,caught,10,17,2,0,4,14.3,2,92
+left,Right-arm medium-fast,1,caught,28,26,2,1,4,26.6,2,157
+left,Right-arm medium-fast,1,caught,43,44,2,3,4,33.4,2,194
+left,Right-arm offbreak,2,lbw,7,14,0,0,4,20.1,2,108
+left,Right-arm offbreak,1,bowled,11,13,0,1,5,41.1,3,249
+left,Right-arm medium-fast,2,caught,10,12,2,0,4,15.3,2,99
+left,Right-arm medium,1,caught,76,79,5,2,4,38.1,3,213
+left,Right-arm fast-medium,1,caught,107,93,7,5,4,47.4,5,315
+left,Right-arm fast,1,caught,45,64,4,0,4,32.5,3,175
+left,Left-arm medium-fast,1,caught,8,13,1,0,4,3.6,2,15
+left,Left-arm medium-fast,1,caught,13,12,2,0,4,24.3,2,134
+left,Right-arm medium-fast,1,caught,33,53,4,0,4,31.4,3,141
+left,Right-arm fast-medium,2,caught,10,11,1,0,4,27.1,2,175
+left,Right-arm medium-fast,1,caught,0,1,0,0,4,11.2,2,74
+left,Right-arm fast-medium,2,caught,19,17,3,0,4,25.6,3,177
+left,Right-arm fast,2,caught,1,4,0,0,5,44.4,3,288
+left,Left-arm fast,2,bowled,21,27,2,1,5,27.1,3,157
+left,Right-arm fast-medium,1,caught,41,50,2,1,5,34.6,4,172
+left,Right-arm fast,1,caught,33,61,1,0,5,21.3,5,61
+left,Right-arm medium,1,caught,3,10,0,0,5,28.3,3,157
+left,Legbreak,1,caught,8,9,0,1,4,21.4,2,104
+left,Right-arm medium-fast,2,caught,62,63,6,3,4,30.3,3,174
+left,Right-arm medium-fast,1,bowled,48,71,3,1,4,35.6,3,139
+left,Left-arm fast-medium,1,caught,5,6,1,0,5,39.4,3,274
+left,Legbreak,2,caught,8,7,1,0,4,26.4,2,192
+left,Right-arm medium-fast,1,caught,81,97,7,1,1,30.4,3,140
+left,Right-arm fast-medium,1,caught,12,22,1,0,1,5.1,1,19
+left,Right-arm fast-medium,1,caught,16,34,2,0,1,11.4,1,56
+left,Right-arm fast,1,caught,49,57,7,0,1,19.2,1,129
+left,Slow left-arm orthodox,1,bowled,76,105,4,0,1,35.6,2,161
+left,Right-arm fast-medium,1,bowled,30,36,4,0,1,8.1,0,41
+left,Right-arm medium-fast,1,caught,79,97,4,1,1,37.1,3,174
+left,Right-arm offbreak,1,caught,78,103,9,0,1,32.5,2,166
+left,Right-arm offbreak,1,stumped,43,63,4,0,1,22.5,1,144
+left,Right-arm fast,1,caught,13,9,3,0,1,2.5,1,17
+left,Left-arm fast-medium,2,caught,5,11,1,0,1,1.5,0,10
+left,Right-arm fast-medium,1,caught,15,28,2,0,1,6.3,0,20
+left,Slow left-arm orthodox,2,stumped,21,21,1,1,7,36.5,5,180
+left,Left-arm medium-fast,1,lbw,5,23,0,0,2,7.4,0,24
+left,Left-arm medium-fast,1,caught,112,112,8,2,2,42.5,2,270
+left,Right-arm medium-fast,2,lbw,6,14,1,0,2,4.3,0,24
+left,Right-arm fast-medium,2,caught,15,24,2,0,2,8.4,1,37
+left,Legbreak googly,1,caught,41,60,4,0,2,23.3,1,114
+left,Right-arm fast-medium,2,caught,25,37,3,0,1,11.4,1,54
+left,Right-arm medium,1,caught,20,34,3,0,2,10.3,0,50
+left,Right-arm offbreak,1,caught,59,50,4,3,5,44.5,4,213
+left,Left-arm medium-fast,1,bowled,0,11,0,0,1,3.5,0,11
+left,Right-arm offbreak,1,caught,31,53,0,0,6,35.2,4,155
+left,Right-arm medium-fast,1,caught,110,114,8,2,6,48.2,9,230
+left,Right-arm fast-medium,2,lbw,6,12,1,0,3,4.3,1,27
+left,Right-arm fast-medium,2,caught,1,6,0,0,3,6.5,1,33
+left,Right-arm medium,1,caught,16,30,0,0,3,19.1,2,96
+left,Legbreak,2,caught,70,80,11,1,2,26.1,2,123
+left,Right-arm fast-medium,1,bowled,2,6,0,0,2,1.6,0,4
+left,Right-arm offbreak,2,bowled,30,55,2,0,5,34.1,4,156
+left,Right-arm medium-fast,1,caught,40,58,4,0,4,24.1,3,82
+left,Right-arm fast-medium,1,caught,151,151,16,5,2,47.5,1,347
+left,Right-arm fast-medium,1,caught,0,4,0,0,1,0.4,0,0
+left,Right-arm fast-medium,1,caught,25,40,5,0,2,12.5,2,51
+left,Right-arm offbreak,2,bowled,55,69,7,0,3,21.4,3,114
+left,Right-arm medium-fast,2,caught,15,17,2,0,1,6.5,0,46
+left,Right-arm fast-medium,1,caught,36,52,3,0,2,19.4,3,64
+left,Right-arm fast-medium,2,caught,45,48,6,0,2,16.1,1,92
+left,Right-arm fast-medium,2,caught,71,84,5,0,2,29.5,1,166
+left,Right-arm fast-medium,2,caught,62,73,6,0,1,29.6,3,167
+left,Right-arm fast-medium,2,caught,5,8,1,0,1,1.5,0,10
+left,Right-arm medium,2,caught,1,8,0,0,3,8.5,2,44
+left,Slow left-arm orthodox,2,stumped,16,21,3,0,3,11.2,3,48
+right,Right-arm offbreak,2,caught,0,2,0,0,5,15.6,3,68
 right,Slow left-arm orthodox,1,caught,14,9,1,1,7,48.3,5,241
 right,Left-arm fast-medium,1,caught,21,13,0,2,6,43.3,4,220
 right,Right-arm medium-fast,2,caught,3,4,0,0,6,33.2,4,171
@@ -473,6 +949,7 @@ right,Right-arm fast-medium,2,bowled,21,21,1,1,6,23.4,4,159
 right,Right-arm fast-medium,1,bowled,7,14,0,0,7,31.4,5,132
 right,Slow left-arm orthodox,1,caught,15,22,0,1,7,42.4,5,203
 right,Legbreak,2,caught,23,23,2,0,7,27.3,5,126
+right,Left-arm fast-medium,1,caught,28,60,0,0,7,34.4,5,136
 right,Right-arm fast-medium,2,caught,67,78,7,0,7,45.2,6,193
 right,Right-arm offbreak,2,caught,17,22,3,0,7,24.1,5,98
 right,Right-arm medium,2,caught,10,12,1,0,7,21.2,5,92
@@ -510,6 +987,206 @@ right,Right-arm fast-medium,1,caught,0,2,0,0,6,6.2,4,8
 right,Right-arm medium-fast,1,caught,21,25,1,1,6,34.6,4,192
 right,Legbreak,1,caught,29,23,3,1,6,42.5,5,184
 right,Legbreak,1,caught,0,2,0,0,4,38.2,2,267
+left,Left-arm fast,2,caught,14,30,1,0,6,31.1,4,108
+left,Right-arm offbreak,2,caught,42,36,5,1,1,12.1,0,106
+left,Right-arm offbreak,1,caught,56,66,5,1,1,21.1,0,116
+left,Right-arm fast-medium,1,caught,0,1,0,0,1,0.1,0,0
+left,Right-arm fast-medium,2,caught,6,11,1,0,1,2.2,0,10
+left,Left-arm fast,1,lbw,4,3,1,0,1,0.3,0,8
+left,Right-arm medium,1,caught,4,8,1,0,1,2.4,0,6
+left,Right-arm offbreak,1,stumped,2,4,0,0,6,39.5,4,176
+left,Right-arm fast,1,caught,9,16,2,0,2,4.2,0,13
+left,Right-arm offbreak,2,lbw,64,68,5,1,1,22.4,1,113
+left,Right-arm fast-medium,2,caught,7,13,0,0,1,3.1,0,17
+left,Right-arm fast-medium,1,caught,8,8,1,0,1,1.4,0,15
+left,Right-arm offbreak,2,lbw,47,41,3,4,1,12.2,0,75
+left,Right-arm fast,1,lbw,20,18,2,1,1,5.1,1,28
+left,Right-arm fast,1,caught,8,7,2,0,1,1.5,0,9
+left,Right-arm fast,2,bowled,106,124,6,5,1,39.2,2,198
+left,Right-arm fast-medium,1,caught,14,26,3,0,1,7.3,0,28
+left,Right-arm offbreak,2,caught,64,81,4,2,1,26.5,1,134
+left,Right-arm fast-medium,1,bowled,33,49,4,1,1,15.1,1,50
+left,Right-arm medium-fast,2,caught,0,2,0,0,1,0.2,0,0
+left,Right-arm offbreak,2,stumped,42,37,6,1,1,10.1,0,56
+left,Right-arm fast-medium,1,caught,0,4,0,0,1,0.4,0,0
+left,Left-arm fast-medium,1,caught,19,15,2,1,2,5.1,0,26
+left,Right-arm fast-medium,2,lbw,19,29,2,0,2,10.5,2,62
+left,Right-arm fast-medium,2,caught,34,33,6,0,1,7.6,0,50
+left,Right-arm fast-medium,1,caught,7,9,1,0,1,3.4,0,26
+left,Left-arm medium-fast,2,caught,37,25,4,2,1,5.3,0,57
+left,Right-arm fast-medium,1,lbw,0,6,0,0,1,0.6,0,4
+left,Right-arm fast-medium,1,caught,4,6,1,0,1,0.6,0,5
+left,Right-arm fast-medium,2,caught,0,3,0,0,1,0.3,0,0
+left,Right-arm fast-medium,2,caught,9,10,1,0,2,4.1,0,27
+left,Right-arm fast-medium,1,caught,0,4,0,0,2,1.5,0,6
+left,Right-arm offbreak,2,caught,31,41,3,0,2,14.1,1,69
+left,Right-arm fast-medium,1,caught,0,2,0,0,2,0.3,0,3
+left,Left-arm medium,1,caught,24,13,2,2,6,40.4,4,289
+left,Right-arm fast-medium,1,caught,3,10,0,0,1,1.4,0,3
+left,Left-arm fast,1,caught,26,35,4,0,1,8.3,0,44
+left,Left-arm fast,2,caught,68,25,13,2,1,8.2,0,92
+left,Right-arm medium-fast,2,caught,20,18,3,0,1,7.5,1,42
+left,Left-arm fast,1,caught,0,2,0,0,1,0.2,0,0
+left,Right-arm fast-medium,2,caught,99,92,6,4,1,30.2,1,196
+left,Right-arm fast-medium,2,caught,50,47,2,2,1,18.3,2,103
+left,Right-arm medium,1,caught,32,38,4,0,1,9.1,1,47
+left,Right-arm fast-medium,1,caught,135,128,16,2,1,42,2,309
+left,Left-arm fast-medium,1,caught,24,23,4,0,1,7.2,1,50
+left,Right-arm fast,1,caught,9,25,0,0,1,8.2,1,32
+left,Left-arm fast-medium,2,lbw,6,15,0,0,1,3.6,0,9
+left,Left-arm fast,1,bowled,1,2,0,0,1,0.4,0,3
+left,Left-arm fast-medium,1,lbw,54,53,5,1,7,45.6,5,261
+left,Left-arm fast,1,bowled,11,20,1,0,7,35.5,5,154
+left,Legbreak googly,1,caught,6,14,0,0,7,32.3,4,130
+left,Right-arm offbreak,1,lbw,14,27,2,0,6,30.6,5,145
+left,Right-arm medium,2,caught,21,27,4,0,2,10.2,0,56
+left,Right-arm fast-medium,1,bowled,7,7,1,0,2,2.4,0,18
+left,Left-arm fast-medium,2,caught,14,13,2,0,2,6.1,2,42
+left,Right-arm offbreak,2,caught,80,83,8,2,1,24.6,2,132
+left,Right-arm offbreak,2,bowled,1,3,0,0,1,2.1,0,2
+left,Right-arm fast-medium,2,caught,49,57,4,1,1,21.5,1,103
+right,Right-arm fast-medium,1,caught,41,53,3,0,7,45.5,5,202
+right,Right-arm fast-medium,1,lbw,20,21,1,0,7,45.4,8,211
+right,Right-arm fast-medium,1,caught,15,13,1,0,7,49.1,5,263
+right,Right-arm medium-fast,1,caught,12,15,1,0,7,40.2,5,178
+right,Right-arm offbreak,2,stumped,33,37,1,0,7,34.5,7,189
+right,Right-arm fast-medium,2,caught,5,4,1,0,4,39.5,2,220
+right,Right-arm medium-fast,2,caught,26,37,2,1,7,35.6,5,163
+right,Right-arm fast-medium,1,caught,11,4,1,1,7,49.1,5,254
+right,Legbreak googly,1,bowled,25,32,1,0,7,45.5,8,176
+right,Slow left-arm orthodox,1,bowled,1,3,0,0,7,45.6,5,225
+right,Slow left-arm orthodox,1,caught,5,9,1,0,4,18.6,2,142
+right,Legbreak googly,2,caught,26,39,0,0,5,25.5,1,142
+right,Right-arm medium-fast,2,caught,8,13,0,0,6,32.5,4,147
+right,Right-arm medium,1,caught,21,20,2,0,5,19.1,4,77
+right,Right-arm medium-fast,1,caught,8,11,1,0,5,19.1,3,60
+right,Right-arm fast-medium,2,caught,19,16,2,1,5,31.4,3,174
+right,Right-arm medium-fast,1,bowled,31,19,4,0,6,47.6,6,301
+right,Legbreak googly,1,caught,36,62,2,0,3,29.2,1,131
+right,Left-arm medium-fast,1,caught,10,15,2,0,3,8.5,1,49
+right,Legbreak googly,1,caught,101,118,6,2,3,44.1,5,216
+right,Slow left-arm orthodox,2,caught,12,15,2,0,3,6.5,1,39
+right,Left-arm medium-fast,1,bowled,77,105,3,0,3,45.4,6,199
+right,Right-arm fast,1,caught,10,20,2,0,4,11.3,3,34
+right,Slow left-arm orthodox,2,bowled,104,112,7,0,4,48.5,6,267
+right,Slow left-arm orthodox,2,caught,67,74,6,1,4,43.5,4,264
+right,Right-arm offbreak,2,bowled,37,47,2,1,4,27.6,2,158
+right,Right-arm fast-medium,2,caught,47,52,6,0,4,39.4,2,216
+right,Right-arm offbreak,1,stumped,40,50,5,0,3,17.4,3,60
+right,Right-arm fast-medium,1,bowled,5,9,1,0,4,10.3,2,70
+right,Slow left-arm orthodox,1,caught,4,11,0,0,5,16.3,3,95
+right,Left-arm fast-medium,1,caught,95,98,8,1,3,42.5,2,339
+right,Right-arm offbreak,1,caught,72,88,7,1,3,32.3,3,177
+right,Right-arm fast-medium,2,lbw,65,69,7,0,3,26.4,3,148
+right,Right-arm fast-medium,1,caught,105,93,11,2,3,34.1,1,197
+right,Right-arm medium-fast,1,caught,21,38,1,0,3,35.2,4,190
+right,Legbreak,1,caught,44,54,3,1,3,30.6,2,164
+right,Legbreak,1,caught,70,87,7,0,3,33.3,2,171
+right,Legbreak,2,caught,25,33,3,0,3,15.5,1,75
+right,Left-arm fast-medium,1,lbw,5,12,0,0,3,6.2,1,25
+right,Right-arm fast,2,caught,12,28,1,0,3,9.1,1,31
+right,Left-arm medium,2,caught,149,135,11,2,3,49.1,4,308
+right,Right-arm fast-medium,2,bowled,46,47,4,0,3,40.5,2,244
+right,Slow left-arm orthodox,2,caught,41,45,5,0,3,18.5,1,112
+right,Right-arm fast-medium,1,caught,51,29,4,3,4,45.4,3,298
+right,Right-arm fast-medium,1,caught,28,37,3,0,3,11.5,1,64
+right,Right-arm fast-medium,2,bowled,18,17,3,0,3,5.2,1,33
+right,Right-arm fast-medium,2,caught,2,12,0,0,3,19.3,1,133
+right,Legbreak,2,lbw,21,35,1,0,3,18.4,2,94
+right,Right-arm offbreak,2,lbw,6,10,1,0,4,19.2,2,92
+right,Left-arm medium-fast,2,lbw,8,10,0,0,4,7.5,2,21
+right,Right-arm fast-medium,1,caught,74,95,5,2,3,34.1,1,171
+right,Right-arm fast-medium,1,caught,46,59,4,0,3,30.2,3,152
+right,Right-arm offbreak,2,caught,58,92,5,0,3,37.5,3,190
+right,Slow left-arm orthodox,2,caught,30,33,5,0,3,9.2,2,41
+right,Right-arm fast-medium,1,lbw,8,11,2,0,3,12.4,2,90
+right,Right-arm fast,2,caught,14,12,2,0,3,6.1,1,29
+right,Right-arm fast,1,bowled,108,107,9,1,3,46.2,4,325
+right,Slow left-arm chinaman,1,lbw,21,36,2,0,3,14.4,3,49
+right,Legbreak googly,2,bowled,0,2,0,0,3,13.6,1,72
+right,Left-arm fast-medium,1,caught,164,157,14,4,3,47.2,5,302
+right,Right-arm medium-fast,1,caught,72,76,6,1,3,39.1,2,248
+right,Left-arm fast-medium,1,caught,0,7,0,0,3,3.6,1,11
+right,Left-arm fast,1,caught,0,1,0,0,3,4.4,1,13
+right,Slow left-arm orthodox,1,bowled,60,101,2,0,3,42.3,5,193
+right,Right-arm medium-fast,1,lbw,49,48,5,0,3,35.5,2,213
+right,Left-arm fast,1,caught,4,2,1,0,3,41.5,1,288
+right,Right-arm fast,1,caught,56,77,5,0,3,32.1,3,181
+right,Right-arm medium-fast,2,caught,1,5,0,0,3,4.6,1,20
+right,Right-arm medium-fast,2,caught,59,76,8,0,3,29.5,4,138
+right,Slow left-arm chinaman,1,caught,63,71,5,0,3,41.6,2,243
+right,Right-arm fast-medium,1,caught,3,5,0,0,4,37.1,2,236
+right,Right-arm offbreak,1,lbw,16,25,1,0,3,19.3,1,100
+right,Legbreak,1,caught,23,18,3,0,3,10.5,1,58
+right,Right-arm offbreak,1,lbw,18,25,0,1,3,19.4,1,110
+right,Right-arm fast,2,caught,45,66,1,0,4,33.6,3,181
+right,Legbreak,2,caught,4,16,0,0,4,13.5,2,70
+right,Right-arm offbreak,2,stumped,12,23,0,0,4,21.4,2,119
+left,Right-arm medium,1,bowled,67,69,4,2,1,22.6,3,122
+left,Right-arm fast-medium,1,caught,1,5,0,0,2,3.1,0,22
+left,Right-arm medium,1,bowled,16,18,1,0,7,49.2,6,265
+left,Right-arm offbreak,1,caught,45,67,2,1,1,27.4,2,117
+left,Right-arm fast-medium,1,caught,5,7,1,0,1,1.5,0,5
+left,Right-arm fast-medium,1,caught,56,66,2,1,6,39.2,4,201
+left,Right-arm fast-medium,2,lbw,9,12,1,0,1,3.1,1,18
+left,Right-arm fast-medium,1,caught,64,72,4,1,2,23.6,0,136
+left,Right-arm offbreak,1,bowled,14,19,2,0,1,4.2,0,22
+left,Slow left-arm orthodox,1,caught,49,74,3,0,1,24.1,3,123
+left,Right-arm offbreak,1,caught,0,1,0,0,7,43.1,5,162
+left,Right-arm offbreak,1,caught,3,10,0,0,8,37.1,6,136
+left,Right-arm offbreak,1,bowled,2,11,0,0,3,9.6,1,38
+left,Right-arm medium-fast,2,caught,15,36,2,0,7,33.6,5,179
+left,Right-arm fast,1,caught,26,17,1,2,8,49.4,8,279
+left,Right-arm medium-fast,1,caught,6,8,1,0,7,46.5,6,223
+left,Right-arm fast-medium,1,caught,0,1,0,0,7,32.3,5,96
+left,Right-arm offbreak,1,stumped,12,41,0,0,1,14.3,2,49
+left,Right-arm offbreak,1,caught,75,108,2,1,1,34.6,1,168
+left,Legbreak googly,2,caught,10,29,0,0,2,10.6,1,42
+left,Left-arm fast,1,bowled,7,8,1,0,1,1.4,0,8
+left,Slow left-arm orthodox,2,bowled,22,46,1,0,6,35.3,4,159
+left,Right-arm fast,1,caught,8,21,0,0,6,16.5,7,38
+left,Right-arm medium-fast,1,caught,31,53,1,0,6,42.3,7,166
+left,Right-arm fast-medium,1,lbw,23,28,4,0,1,9.6,1,37
+left,Right-arm offbreak,1,caught,16,28,1,0,6,22.6,4,93
+left,Right-arm fast-medium,2,caught,1,4,0,0,7,35.6,5,136
+left,Right-arm offbreak,1,lbw,29,57,3,0,2,18.6,2,74
+left,Right-arm fast-medium,2,caught,31,23,4,1,7,19.1,5,127
+left,Right-arm fast-medium,1,bowled,0,1,0,0,7,46.3,5,283
+left,Right-arm offbreak,1,caught,36,40,3,0,7,42.2,5,209
+left,Right-arm fast-medium,1,caught,0,1,0,0,4,9.5,2,48
+left,Right-arm medium,2,caught,23,42,1,0,3,20.4,1,110
+left,Right-arm fast-medium,1,bowled,31,46,2,0,7,42.5,6,176
+left,Right-arm fast-medium,1,caught,35,40,2,0,7,45.4,6,256
+left,Right-arm fast,1,caught,19,29,2,0,7,34.2,5,125
+left,Left-arm medium-fast,2,caught,52,59,4,1,7,44.2,5,219
+left,Slow left-arm orthodox,2,bowled,3,6,0,0,7,45.1,6,267
+left,Right-arm fast-medium,1,caught,1,2,0,0,8,48.1,5,295
+left,Right-arm fast-medium,2,bowled,42,41,5,0,7,43.6,9,207
+left,Right-arm fast-medium,2,caught,6,10,0,0,7,38.1,5,215
+left,Right-arm fast-medium,1,caught,36,27,2,1,7,47.3,5,320
+left,Left-arm medium-fast,2,caught,37,38,3,2,7,20.1,6,120
+left,Slow left-arm orthodox,2,caught,2,9,0,0,7,32.3,5,197
+left,Right-arm fast,2,caught,17,26,1,0,7,39.6,7,184
+left,Right-arm fast,2,caught,2,11,0,0,7,19.4,5,83
+left,Right-arm fast,1,lbw,24,14,3,0,7,48.6,5,274
+left,Right-arm medium-fast,1,bowled,5,3,1,0,7,48.6,5,257
+left,Slow left-arm chinaman,2,caught,26,34,0,0,4,24.6,2,128
+left,Right-arm medium-fast,2,caught,76,88,3,0,5,39.6,5,182
+left,Right-arm offbreak,2,stumped,42,46,3,0,6,38.1,4,187
+left,Right-arm offbreak,2,caught,3,13,0,0,2,3.2,0,11
+left,Left-arm medium-fast,2,caught,33,33,5,0,7,31.3,6,185
+left,Slow left-arm orthodox,1,lbw,52,58,5,2,7,36.1,8,167
+left,Right-arm fast-medium,2,caught,7,7,0,0,7,42.5,5,248
+left,Right-arm fast-medium,1,bowled,38,22,1,3,7,48.5,6,311
+left,Left-arm fast-medium,1,bowled,11,5,1,1,6,48.5,4,357
+left,Slow left-arm orthodox,1,caught,14,23,0,0,7,45.2,5,226
+left,Right-arm offbreak,1,bowled,35,56,3,0,7,43.4,6,199
+left,Right-arm medium-fast,1,caught,5,6,0,0,6,49.1,4,339
+left,Right-arm medium-fast,1,caught,8,6,1,0,5,46.2,3,336
+left,Legbreak,1,caught,2,3,0,0,7,43.3,5,245
+left,Legbreak googly,2,stumped,9,10,1,0,7,15.2,6,93
+left,Slow left-arm chinaman,2,bowled,2,8,0,0,7,32.2,5,148
+left,Right-arm fast-medium,1,caught,20,18,0,1,7,48.6,6,237
 left,Right-arm fast-medium,2,bowled,0,2,0,0,1,0.2,0,0
 left,Legbreak,2,caught,51,76,3,1,2,25.4,3,104
 left,Right-arm fast-medium,2,caught,3,4,0,0,2,2.1,0,8
@@ -870,6 +1547,185 @@ right,Right-arm fast-medium,2,caught,0,4,0,0,3,6.5,1,47
 right,Right-arm fast-medium,2,caught,19,34,1,0,3,13.4,2,62
 right,Right-arm fast-medium,2,bowled,36,44,4,0,3,23.6,2,110
 right,Right-arm fast-medium,1,caught,28,9,2,3,3,5.6,1,42
+left,Right-arm offbreak,1,caught,3,10,0,0,6,34.3,4,148
+left,Right-arm offbreak,2,bowled,20,31,0,1,5,27.4,4,133
+left,Right-arm offbreak,2,caught,7,11,1,0,6,35.2,4,173
+left,Right-arm fast-medium,2,caught,5,7,0,0,8,35.6,6,167
+left,Right-arm fast-medium,2,bowled,25,29,3,0,8,48.1,6,219
+left,Left-arm fast-medium,2,caught,27,25,2,1,8,46.5,8,240
+left,Left-arm fast-medium,1,bowled,21,20,2,0,7,42.6,5,206
+left,Right-arm fast,1,caught,0,1,0,0,8,48.5,6,296
+left,Slow left-arm orthodox,1,caught,15,39,0,0,3,22.4,2,91
+left,Left-arm fast-medium,1,caught,70,84,6,1,3,35.6,3,206
+left,Right-arm fast-medium,2,caught,0,6,0,0,3,8.3,1,29
+left,Right-arm offbreak,2,bowled,5,7,0,0,5,39.2,3,192
+left,Slow left-arm orthodox,2,caught,4,9,0,0,5,24.3,5,89
+left,Right-arm medium-fast,1,caught,0,1,0,0,3,6.5,1,37
+left,Slow left-arm orthodox,2,caught,23,29,3,0,7,32.4,6,126
+left,Right-arm offbreak,1,caught,2,7,0,0,7,35.4,5,149
+left,Slow left-arm orthodox,2,stumped,16,27,0,0,8,39.5,6,243
+left,Right-arm offbreak,1,caught,6,6,1,0,8,44.6,6,219
+left,Left-arm fast-medium,1,bowled,10,15,1,0,5,28.2,4,195
+left,Left-arm fast-medium,2,caught,28,17,2,1,5,21.4,3,163
+left,Left-arm medium-fast,1,bowled,68,47,7,2,5,43.6,7,298
+left,Left-arm medium-fast,2,caught,17,13,3,0,5,6.3,3,40
+left,Left-arm fast,2,caught,13,23,1,0,5,32.1,3,172
+left,Right-arm offbreak,1,caught,14,20,1,0,5,39.2,3,231
+left,Right-arm medium,2,bowled,41,54,5,0,5,33.3,3,180
+left,Right-arm medium,1,lbw,42,51,6,1,5,19.6,6,85
+left,Right-arm fast-medium,1,bowled,57,38,4,3,6,46.3,5,371
+left,Right-arm fast,2,bowled,0,6,0,0,5,36.4,3,176
+left,Right-arm fast-medium,1,caught,53,37,5,2,6,47.2,6,291
+left,Legbreak googly,1,caught,2,2,0,0,5,19.6,3,97
+left,Right-arm fast,1,bowled,29,32,1,1,5,27.5,3,155
+left,Right-arm medium-fast,2,bowled,42,30,6,1,5,37.5,3,203
+left,Slow left-arm orthodox,2,caught,69,70,6,2,5,34.1,4,175
+left,Right-arm medium-fast,1,caught,75,76,5,3,5,41.4,5,258
+left,Right-arm fast-medium,1,caught,101,100,8,4,5,41.3,4,230
+left,Right-arm fast-medium,2,bowled,0,5,0,0,5,9.4,3,26
+left,Right-arm fast-medium,1,caught,62,40,2,5,6,47.1,5,317
+left,Right-arm offbreak,2,bowled,1,3,0,0,5,27.2,3,173
+left,Legbreak,1,caught,55,61,0,3,6,44.4,4,239
+left,Legbreak,2,caught,1,5,0,0,5,21.5,3,113
+left,Right-arm medium-fast,1,caught,34,20,4,1,6,47.4,7,304
+left,Right-arm fast,1,caught,25,30,0,1,5,32.4,3,190
+left,Slow left-arm orthodox,1,caught,101,79,11,3,5,43.2,4,252
+left,Left-arm fast-medium,1,caught,48,53,4,2,5,37.3,4,210
+left,Right-arm medium-fast,1,caught,34,64,0,0,5,47.4,7,201
+left,Right-arm medium-fast,1,caught,73,63,5,3,5,31.2,3,206
+left,Slow left-arm orthodox,1,caught,12,22,1,0,5,28.2,3,139
+left,Legbreak,1,caught,39,73,2,0,5,40.3,4,168
+left,Legbreak,1,caught,1,3,0,0,6,40.2,4,276
+right,Right-arm fast,2,caught,14,23,2,1,5,16.2,3,44
+right,Right-arm fast-medium,2,caught,17,38,2,0,5,24.1,5,109
+right,Right-arm fast-medium,1,caught,11,15,2,0,6,42.4,4,154
+right,Left-arm fast-medium,1,bowled,63,87,7,0,5,40.2,7,152
+right,Right-arm medium-fast,1,caught,8,17,0,0,7,41.6,6,255
+right,Right-arm fast,2,lbw,31,49,1,0,7,45.4,5,235
+right,Right-arm fast-medium,2,caught,1,9,0,0,4,14.1,1,106
+right,Slow left-arm orthodox,1,lbw,6,4,1,0,7,44.4,5,251
+right,Right-arm fast-medium,1,bowled,19,10,2,1,6,48.3,5,234
+right,Right-arm offbreak,2,caught,14,26,2,0,3,29.3,1,137
+right,Right-arm fast-medium,1,lbw,1,2,0,0,6,47.5,4,310
+right,Right-arm fast-medium,2,caught,0,2,0,0,3,10.5,1,36
+right,Right-arm fast-medium,1,caught,4,22,1,0,3,10.2,1,31
+right,Left-arm fast,2,caught,0,6,0,0,3,3.4,1,8
+right,Right-arm medium-fast,1,caught,67,77,6,1,1,28.4,2,167
+right,Right-arm fast,1,caught,4,5,0,0,1,0.5,0,4
+right,Right-arm fast-medium,2,lbw,4,11,0,0,1,2.3,0,7
+right,Left-arm fast-medium,2,caught,16,23,2,0,1,5.4,0,32
+right,Right-arm fast-medium,2,caught,34,79,4,0,1,27.4,2,104
+right,Left-arm fast-medium,2,caught,48,40,9,0,1,11.3,0,89
+right,Right-arm fast-medium,2,caught,34,39,3,1,1,11.5,0,64
+right,Right-arm fast-medium,1,caught,44,56,5,1,3,18.2,2,116
+right,Left-arm medium-fast,1,caught,79,85,4,3,3,33.2,1,219
+right,Right-arm fast,2,caught,11,11,2,0,1,2.6,0,22
+right,Right-arm offbreak,1,caught,22,39,2,0,1,12.3,2,61
+right,Right-arm offbreak,2,caught,18,26,3,0,1,9.4,1,47
+right,Right-arm offbreak,1,caught,33,47,4,0,1,16.1,0,58
+right,Right-arm medium-fast,1,caught,27,34,5,0,1,9.5,1,41
+right,Slow left-arm orthodox,1,caught,40,43,6,0,2,15.2,2,77
+right,Legbreak,1,caught,66,84,9,0,2,28.1,2,146
+right,Right-arm fast-medium,2,lbw,14,20,2,0,1,7.1,1,39
+right,Right-arm medium,2,caught,10,35,0,0,1,8.5,0,30
+right,Right-arm fast-medium,1,caught,9,25,0,0,1,7.4,1,26
+right,Right-arm fast-medium,1,caught,0,3,0,0,1,0.3,0,0
+right,Right-arm fast,2,caught,0,2,0,0,2,0.6,0,9
+right,Right-arm medium-fast,1,caught,14,15,1,1,4,39.2,3,240
+right,Right-arm offbreak,1,caught,6,11,0,0,4,11.1,2,64
+right,Right-arm offbreak,1,caught,23,56,3,0,4,25.3,2,98
+right,Slow left-arm orthodox,2,stumped,22,41,2,0,5,28.1,4,118
+right,Right-arm fast,1,caught,6,7,1,0,5,35.1,3,168
+right,Slow left-arm orthodox,1,bowled,12,18,0,1,4,26.6,2,111
+right,Slow left-arm orthodox,2,caught,23,37,3,0,4,22.6,2,77
+right,Right-arm offbreak,1,caught,4,3,1,0,6,39.6,4,200
+right,Right-arm offbreak,1,caught,23,46,1,0,6,36.1,4,155
+right,Right-arm fast-medium,2,caught,2,19,0,0,4,12.4,2,47
+right,Right-arm medium-fast,1,caught,37,47,4,0,5,28.4,3,144
+right,Right-arm fast-medium,1,lbw,0,18,0,0,4,8.5,2,8
+right,Slow left-arm orthodox,2,bowled,36,50,3,0,4,30.2,5,132
+right,Right-arm fast-medium,1,caught,39,57,4,0,4,36.4,6,145
+right,Slow left-arm orthodox,2,bowled,31,49,4,0,4,35.4,2,143
+right,Left-arm medium,1,bowled,56,64,4,0,4,44.4,5,222
+right,Right-arm offbreak,1,bowled,30,40,1,0,4,26.4,2,117
+right,Right-arm offbreak,2,caught,28,27,1,0,4,21.4,2,122
+right,Right-arm fast-medium,1,caught,12,17,1,0,4,38.3,3,189
+right,Right-arm fast,1,caught,68,55,5,0,4,45.3,3,249
+right,Left-arm fast-medium,1,caught,38,40,2,1,4,14.2,2,100
+right,Right-arm offbreak,2,bowled,48,71,7,0,4,31.6,2,146
+right,Right-arm offbreak,2,caught,7,9,0,0,4,7.4,2,40
+right,Left-arm fast-medium,2,bowled,3,15,0,0,4,10.2,2,38
+right,Slow left-arm orthodox,1,caught,12,24,1,0,4,13.3,2,52
+right,Right-arm fast-medium,2,caught,0,1,0,0,4,2.3,2,8
+right,Left-arm fast,2,bowled,21,36,0,0,3,15.5,2,64
+right,Right-arm fast-medium,1,lbw,3,23,0,0,3,6.5,1,22
+right,Left-arm fast,1,lbw,2,8,0,0,3,12.5,1,60
+right,Left-arm fast-medium,2,caught,55,86,3,1,4,37.5,4,157
+right,Right-arm offbreak,2,caught,37,48,2,0,4,41.5,4,205
+right,Right-arm medium-fast,2,caught,23,43,2,0,4,21.1,3,81
+right,Right-arm medium-fast,1,caught,107,122,7,0,4,48.3,4,291
+right,Right-arm medium-fast,1,caught,17,6,4,0,6,19.3,4,160
+right,Right-arm fast-medium,1,lbw,45,41,2,1,5,35.3,5,193
+right,Right-arm fast,2,bowled,0,3,0,0,4,5.2,2,27
+right,Right-arm medium,2,caught,43,68,1,0,4,27.2,3,107
+right,Right-arm offbreak,1,caught,10,11,1,0,4,23.2,2,116
+right,Right-arm medium,2,bowled,4,4,1,0,4,13.4,2,63
+right,Slow left-arm orthodox,1,stumped,2,7,0,0,4,22.4,2,97
+right,Right-arm offbreak,1,caught,44,81,2,0,4,32.5,4,114
+right,Right-arm fast-medium,1,caught,113,108,10,3,4,45.2,5,249
+right,Right-arm medium-fast,2,caught,2,8,0,0,4,17.5,2,121
+right,Right-arm medium,1,lbw,42,57,1,0,4,27.1,4,117
+right,Slow left-arm orthodox,1,bowled,36,49,1,1,4,25.3,2,122
+right,Right-arm fast-medium,2,bowled,55,76,4,0,4,33.3,6,169
+right,Legbreak,2,lbw,80,99,5,0,4,40.2,7,192
+right,Right-arm fast,1,caught,5,15,1,0,4,3.4,2,12
+right,Right-arm fast,1,caught,69,70,6,0,4,44.4,4,275
+right,Right-arm medium,2,caught,3,2,0,0,4,13.6,2,44
+right,Left-arm fast-medium,2,lbw,25,37,2,0,4,19.1,4,71
+right,Right-arm medium,2,caught,5,12,0,0,4,13.5,3,66
+right,Right-arm fast,1,caught,46,70,3,0,4,33.2,9,123
+right,Right-arm medium-fast,1,caught,1,3,0,0,4,36.1,3,203
+right,Slow left-arm orthodox,1,lbw,121,108,14,2,4,46.3,5,265
+right,Right-arm fast-medium,2,caught,29,47,2,0,4,35.4,5,163
+right,Left-arm fast-medium,1,caught,104,78,13,2,3,24.3,3,180
+right,Slow left-arm orthodox,2,caught,6,10,0,0,3,15.4,1,100
+right,Slow left-arm orthodox,1,bowled,54,63,6,0,3,25.2,2,139
+right,Slow left-arm orthodox,2,stumped,4,5,1,0,3,3.1,1,20
+right,Right-arm medium-fast,1,lbw,0,7,0,0,3,1.5,1,7
+right,Left-arm fast,1,bowled,63,77,3,0,3,45.2,2,256
+right,Slow left-arm orthodox,2,caught,11,14,1,0,3,5.5,1,27
+right,Legbreak,1,stumped,71,71,3,2,3,36.4,2,201
+right,Right-arm fast-medium,1,bowled,52,58,4,1,3,29.6,2,227
+right,Right-arm fast-medium,2,bowled,38,64,2,0,3,25.5,1,117
+right,Right-arm fast-medium,1,caught,109,124,10,1,3,44.4,7,233
+right,Legbreak googly,1,lbw,27,25,4,0,3,13.5,1,76
+right,Right-arm medium,2,bowled,2,6,0,0,3,5.5,2,17
+right,Right-arm offbreak,2,caught,65,54,9,0,3,21.3,1,167
+right,Right-arm fast-medium,1,bowled,93,106,6,0,3,49.1,5,314
+right,Left-arm fast,2,caught,89,108,5,0,3,44.4,5,240
+right,Left-arm fast,1,caught,85,86,8,0,3,37.6,2,283
+right,Right-arm medium-fast,2,caught,30,26,5,1,3,11.2,2,59
+right,Right-arm medium-fast,1,bowled,9,9,1,0,3,9.1,1,64
+right,Right-arm fast-medium,1,caught,78,95,4,1,3,41.4,4,244
+right,Right-arm offbreak,2,caught,54,55,8,0,3,19.5,1,128
+right,Right-arm fast-medium,1,bowled,4,5,0,0,3,7.2,1,29
+right,Right-arm fast-medium,1,caught,101,108,10,0,3,42.4,4,263
+right,Right-arm medium-fast,1,caught,73,73,8,0,3,35.2,2,200
+right,Right-arm fast-medium,1,caught,37,51,2,0,3,21.4,2,122
+right,Left-arm medium-fast,1,lbw,2,5,0,0,3,1.5,1,7
+right,Left-arm medium-fast,1,bowled,64,65,4,2,3,33.3,3,188
+right,Right-arm fast-medium,2,caught,15,14,2,0,3,5.4,2,35
+right,Legbreak,1,caught,46,56,2,0,3,27.3,2,128
+right,Right-arm fast-medium,2,bowled,54,53,4,0,3,23.4,1,156
+right,Right-arm fast-medium,1,lbw,84,79,7,2,3,34.1,5,217
+right,Right-arm fast-medium,2,caught,14,15,2,0,3,23.2,2,157
+right,Right-arm fast-medium,1,bowled,27,31,1,0,4,22.2,3,107
+right,Right-arm fast,1,caught,0,7,0,0,4,5.3,3,6
+right,Right-arm medium-fast,1,caught,62,68,2,0,4,47.1,8,258
+right,Right-arm medium-fast,1,bowled,71,75,5,1,3,34.4,4,181
+right,Left-arm fast-medium,2,caught,9,18,1,0,3,9.5,1,47
+right,Right-arm fast-medium,1,caught,20,22,3,0,3,13.5,1,53
+right,Right-arm medium-fast,1,caught,102,101,6,2,3,47.1,7,305
 right,Left-arm fast-medium,1,bowled,31,29,7,0,4,11.6,2,59
 right,Left-arm medium-fast,2,caught,0,4,0,0,3,1.4,1,8
 right,Left-arm fast-medium,2,lbw,0,7,0,0,3,4.2,2,17
@@ -1012,10 +1868,97 @@ right,Legbreak,1,lbw,52,64,4,0,4,42.3,3,209
 right,Left-arm medium-fast,2,lbw,1,4,0,0,4,16.2,2,90
 right,Right-arm medium,1,bowled,59,73,3,0,4,44.2,3,232
 right,Legbreak,2,stumped,113,116,12,0,4,45.5,6,244
+right,Right-arm fast,1,caught,12,15,0,0,9,44.5,7,199
+right,Right-arm fast-medium,2,caught,8,25,0,0,8,32.6,7,128
+right,Slow left-arm orthodox,2,lbw,0,3,0,0,8,30.5,6,132
+right,Right-arm fast-medium,1,caught,17,16,3,0,7,48,7,247
+right,Right-arm fast-medium,1,caught,36,53,2,0,7,43.2,6,182
+right,Right-arm offbreak,2,stumped,13,15,0,0,7,35.6,5,212
+right,Slow left-arm orthodox,2,stumped,20,23,0,1,8,35.3,8,143
+right,Right-arm fast-medium,1,caught,15,27,0,0,8,44.6,6,182
+right,Right-arm fast-medium,1,bowled,9,9,2,0,8,47.3,6,265
+right,Slow left-arm orthodox,2,stumped,7,11,1,0,9,42.3,7,259
+right,Right-arm offbreak,1,stumped,15,20,2,0,8,39.5,6,173
+right,Slow left-arm orthodox,1,bowled,6,9,0,0,9,47.3,7,238
+right,Right-arm offbreak,2,caught,41,49,4,0,8,39.5,8,193
+right,Right-arm offbreak,2,bowled,34,37,2,0,8,39.6,6,192
+right,Right-arm offbreak,1,caught,8,13,0,0,8,40.2,6,168
+right,Right-arm offbreak,2,caught,0,1,0,0,8,24.2,6,98
+right,Left-arm fast,2,caught,37,42,2,0,8,35.2,6,184
+right,Right-arm medium-fast,1,bowled,1,2,0,0,8,28.4,6,110
+right,Right-arm medium-fast,1,caught,1,2,0,0,8,49.2,7,300
+right,Right-arm fast,2,caught,0,1,0,0,8,36.2,6,194
+right,Right-arm fast,2,caught,6,12,1,0,8,35.3,6,183
+right,Right-arm fast,1,caught,33,38,3,0,8,41.2,6,203
+right,Right-arm medium-fast,1,caught,0,5,0,0,8,34.5,6,183
+right,Right-arm medium-fast,1,bowled,10,8,1,0,8,43.2,6,270
+right,Right-arm fast,2,caught,7,9,1,0,8,29.1,7,132
+right,Right-arm fast-medium,2,bowled,5,4,1,0,8,44.2,6,304
+right,Right-arm medium-fast,1,caught,13,14,1,0,8,47.3,6,304
+right,Right-arm fast,1,caught,34,34,1,1,8,46.5,6,334
+right,Right-arm medium-fast,1,caught,78,82,4,5,8,42.4,8,180
+right,Left-arm fast-medium,1,caught,11,15,1,0,8,46.6,6,253
+right,Left-arm fast-medium,1,caught,16,15,2,0,8,47.1,6,215
+right,Right-arm medium-fast,1,caught,3,5,0,0,8,43.5,6,288
+right,Slow left-arm orthodox,2,caught,40,63,5,0,2,20.4,3,81
+right,Right-arm offbreak,1,caught,42,55,5,0,2,17.6,0,82
+right,Right-arm medium,1,bowled,6,7,1,0,2,4.1,0,15
+right,Right-arm fast-medium,1,caught,4,9,0,0,2,3.4,0,23
+right,Right-arm medium,2,caught,27,29,2,1,3,21.5,2,144
+right,Right-arm fast-medium,1,caught,0,1,0,0,2,1.1,0,5
+right,Right-arm offbreak,2,caught,7,15,0,0,3,7.2,1,28
+right,Right-arm fast-medium,2,caught,27,34,4,0,3,19.5,1,97
+right,Right-arm fast,2,caught,37,33,3,2,1,13.3,0,83
+right,Left-arm fast-medium,1,caught,20,20,3,0,2,7.2,1,50
+right,Slow left-arm orthodox,2,caught,54,49,6,3,2,15.6,2,100
+right,Left-arm medium-fast,1,caught,23,21,4,0,2,5.6,0,34
+right,Right-arm fast-medium,2,bowled,67,38,7,4,2,10.4,0,100
+right,Slow left-arm orthodox,2,caught,1,3,0,0,2,1.2,0,8
+right,Right-arm medium,2,caught,22,22,3,1,2,11.2,0,70
+right,Right-arm fast,2,caught,18,20,4,0,2,5.5,0,37
+right,Right-arm fast,1,caught,9,31,1,0,2,9.3,0,52
+right,Right-arm fast,2,lbw,0,2,0,0,2,1.2,0,1
+right,Right-arm fast-medium,1,caught,4,12,1,0,2,3.6,1,13
+right,Right-arm medium-fast,1,caught,10,7,1,0,2,3.1,2,14
+right,Right-arm offbreak,1,stumped,109,117,7,3,2,38.5,1,216
+right,Slow left-arm orthodox,2,caught,30,49,2,1,2,20.3,2,87
+right,Left-arm fast,1,caught,22,29,2,0,2,11.1,0,54
+right,Right-arm fast,1,caught,57,47,6,2,2,17.4,1,130
+right,Right-arm fast-medium,2,caught,99,124,8,0,2,41.2,4,202
+right,Right-arm fast,1,caught,65,73,8,0,2,26.2,1,161
+right,Legbreak googly,1,caught,50,56,7,0,2,17.6,1,87
+right,Right-arm fast,1,caught,112,128,14,0,2,43.1,8,223
+right,Right-arm fast-medium,2,caught,4,5,1,0,2,2.5,1,7
+right,Right-arm fast-medium,2,caught,0,1,0,0,2,0.3,0,1
+right,Right-arm fast-medium,2,caught,7,10,1,0,2,4.3,0,27
+right,Slow left-arm orthodox,2,bowled,14,24,2,0,2,8.5,1,35
+right,Right-arm medium-fast,1,lbw,171,122,22,4,2,36.6,1,281
+right,Left-arm fast,2,caught,8,18,2,0,2,6.4,1,36
+right,Left-arm fast,1,caught,23,15,5,0,2,4.5,0,37
+right,Right-arm fast-medium,2,caught,14,12,3,0,2,3.5,0,28
+right,Right-arm fast-medium,1,caught,110,107,9,5,2,36.2,1,219
+right,Right-arm medium-fast,2,caught,55,39,10,0,2,11.3,1,78
+right,Right-arm fast-medium,1,bowled,32,35,6,0,2,10.4,0,49
+right,Right-arm fast-medium,1,caught,61,60,8,1,2,17.1,1,101
+right,Right-arm medium-fast,1,caught,24,28,2,1,2,13.2,1,70
+right,Right-arm fast,1,caught,1,2,0,0,2,4.1,3,15
+right,Legbreak,2,caught,95,86,11,2,2,27.6,1,165
+right,Right-arm fast,1,bowled,56,62,3,2,2,20.6,1,118
+right,Right-arm fast-medium,2,caught,0,4,0,0,2,1.2,1,6
+right,Left-arm medium-fast,1,caught,13,13,2,0,2,5.5,0,34
+right,Right-arm fast,2,caught,19,14,4,0,2,4.2,0,31
+right,Right-arm fast-medium,1,lbw,36,35,5,0,2,10.6,1,73
+right,Right-arm fast,2,caught,4,3,1,0,3,5.5,1,60
+right,Right-arm fast,2,bowled,57,60,7,1,3,19.2,1,119
+right,Right-arm medium,1,caught,1,8,0,0,3,9.4,1,45
+right,Right-arm fast,1,bowled,3,11,0,0,3,3.2,1,4
+right,Right-arm medium,1,caught,35,47,3,1,3,26.1,2,151
+right,Slow left-arm orthodox,2,caught,61,74,9,0,2,23.6,1,177
 right,Right-arm offbreak,2,stumped,111,118,6,5,3,40.6,3,215
 right,Right-arm offbreak,1,caught,6,13,0,0,3,24.3,1,134
 right,Right-arm fast-medium,1,lbw,0,5,0,0,3,4.1,2,11
 right,Right-arm offbreak,2,stumped,54,64,5,2,5,26.3,3,123
+right,Right-arm offbreak,1,caught,24,30,2,0,5,37.5,4,189
 right,Left-arm fast-medium,1,caught,12,13,1,0,5,19.1,4,101
 right,Left-arm fast-medium,1,caught,1,4,0,0,5,20.2,3,77
 right,Left-arm fast-medium,1,caught,4,2,1,0,4,38.3,2,224
@@ -1064,6 +2007,7 @@ right,Left-arm fast,2,bowled,44,57,0,1,4,33.4,3,168
 right,Right-arm offbreak,2,caught,36,53,3,0,5,27.5,4,132
 right,Right-arm fast-medium,1,caught,5,12,1,0,4,7.2,2,36
 right,Right-arm offbreak,1,caught,9,14,0,0,4,12.4,2,63
+right,Right-arm fast,2,caught,64,70,4,0,4,41.1,3,205
 right,Slow left-arm orthodox,2,bowled,0,1,0,0,5,31.2,3,148
 right,Slow left-arm orthodox,1,bowled,26,41,1,0,5,36.5,3,157
 right,Right-arm medium-fast,1,caught,39,61,3,0,4,28.2,3,90
@@ -1218,6 +2162,268 @@ right,Slow left-arm orthodox,2,caught,70,80,10,0,5,37.2,6,190
 right,Slow left-arm chinaman,1,caught,55,98,4,0,5,41.1,4,194
 right,Legbreak googly,1,bowled,17,28,2,0,4,33.5,4,189
 right,Right-arm fast-medium,2,caught,42,64,1,1,4,30.6,3,157
+right,Right-arm medium-fast,1,caught,39,67,3,0,8,44.2,6,198
+right,Right-arm medium-fast,1,bowled,2,3,0,0,8,49.1,6,321
+right,Right-arm offbreak,1,caught,6,12,0,0,8,46.3,6,210
+right,Slow left-arm orthodox,2,caught,17,14,3,0,8,23.6,6,163
+right,Right-arm fast-medium,1,caught,18,11,2,1,8,49.2,6,308
+right,Right-arm fast-medium,1,caught,10,19,0,0,8,48.4,8,294
+right,Right-arm fast-medium,1,caught,27,22,0,2,8,49.2,7,293
+right,Right-arm fast-medium,2,caught,116,73,11,6,7,45.1,9,326
+right,Right-arm fast-medium,2,caught,2,11,0,0,8,41.5,6,230
+right,Right-arm fast-medium,1,caught,27,27,2,0,8,49.3,7,215
+right,Right-arm offbreak,1,caught,0,1,0,0,8,42.3,5,147
+right,Right-arm fast,1,caught,39,37,4,0,8,49.4,8,215
+right,Legbreak googly,1,lbw,11,20,1,0,6,40.3,4,196
+right,Left-arm medium-fast,1,caught,33,42,1,1,8,49.1,8,221
+right,Right-arm fast-medium,2,caught,35,43,4,0,6,37.2,4,216
+right,Right-arm fast,1,bowled,7,6,1,0,5,46.1,3,382
+right,Right-arm fast-medium,1,bowled,21,12,3,1,7,46.3,5,284
+right,Right-arm fast-medium,1,bowled,0,1,0,0,7,48.1,5,319
+right,Right-arm fast-medium,1,bowled,1,3,0,0,8,48.1,6,323
+right,Right-arm fast,2,bowled,36,33,6,0,8,21.1,7,121
+right,Slow left-arm orthodox,2,lbw,13,19,1,0,8,47.2,9,206
+right,Slow left-arm orthodox,2,caught,4,13,0,0,7,42.4,6,206
+right,Left-arm fast-medium,1,caught,13,13,1,0,8,49.3,6,262
+right,Left-arm fast,1,caught,5,12,0,0,8,33.6,6,170
+right,Left-arm fast,1,caught,19,21,2,0,8,48.2,9,220
+right,Right-arm medium-fast,2,bowled,25,49,1,0,8,34.3,6,148
+right,Left-arm fast-medium,2,caught,0,3,0,0,7,32.6,5,174
+left,Left-arm medium-fast,1,caught,31,14,4,1,6,45.1,4,271
+left,Legbreak,1,caught,11,17,2,0,7,18.2,5,84
+left,Slow left-arm orthodox,1,caught,32,23,2,1,7,45.3,5,204
+left,Right-arm fast-medium,1,bowled,8,16,0,0,8,44.2,6,218
+left,Right-arm medium-fast,1,caught,6,8,0,0,8,49.1,6,294
+left,Left-arm fast,2,bowled,0,4,0,0,7,18.3,5,86
+left,Right-arm fast-medium,1,caught,3,7,0,0,9,28.5,7,103
+left,Right-arm medium-fast,1,caught,6,8,0,0,7,45.4,6,239
+left,Right-arm fast,2,bowled,8,6,1,0,8,45.5,6,232
+left,Slow left-arm orthodox,1,caught,3,5,0,0,3,46.3,2,296
+left,Right-arm fast-medium,1,caught,9,17,0,0,8,46.1,6,238
+left,Right-arm offbreak,1,stumped,13,12,0,1,8,49.5,6,233
+left,Right-arm offbreak,2,bowled,4,5,0,0,9,45.5,7,224
+left,Legbreak googly,2,caught,7,11,1,0,8,45.2,9,174
+left,Left-arm medium-fast,1,bowled,25,18,0,1,8,49.4,7,214
+left,Right-arm offbreak,2,caught,2,8,0,0,7,48.6,5,307
+left,Right-arm offbreak,1,stumped,7,12,0,0,6,39.4,4,172
+left,Right-arm offbreak,1,caught,5,9,0,0,7,39.4,5,184
+left,Right-arm offbreak,1,bowled,10,7,1,0,7,48.1,5,265
+left,Right-arm fast-medium,1,caught,5,7,0,0,7,43.3,5,206
+left,Right-arm fast,1,lbw,17,33,1,0,8,27.3,6,81
+left,Right-arm offbreak,1,caught,8,9,1,0,6,46.1,5,214
+left,Left-arm medium-fast,2,caught,44,28,3,1,8,48.2,8,275
+left,Legbreak googly,1,caught,2,3,0,0,8,45.6,6,218
+left,Left-arm medium-fast,2,caught,18,19,2,0,8,42.3,6,252
+left,Right-arm fast-medium,1,caught,11,10,2,0,8,27.5,6,119
+left,Left-arm fast,2,caught,4,8,0,0,8,38.5,7,194
+left,Left-arm fast,2,bowled,7,6,1,0,8,31.1,4,108
+left,Right-arm offbreak,1,bowled,4,8,0,0,4,21.1,0,116
+left,Right-arm fast-medium,1,caught,15,29,2,0,8,0.1,0,0
+left,Right-arm medium,1,caught,0,4,0,0,8,2.4,0,6
+left,Right-arm fast-medium,1,caught,11,14,1,0,8,44.2,6,192
+left,Right-arm fast-medium,2,caught,65,49,5,5,8,27.3,5,81
+left,Right-arm fast-medium,1,caught,8,14,0,0,7,28.4,6,165
+left,Right-arm offbreak,2,caught,6,6,1,0,7,22.4,1,113
+left,Right-arm fast-medium,2,caught,2,6,0,0,9,3.1,0,17
+left,Right-arm fast,1,caught,0,3,0,0,7,1.5,0,9
+left,Right-arm fast-medium,1,caught,6,9,0,0,6,7.3,0,28
+left,Right-arm medium-fast,2,run out,15,23,0,0,8,0.2,0,0
+left,Right-arm offbreak,2,caught,2,6,0,0,8,23.2,7,118
+left,Left-arm fast,1,bowled,13,10,1,1,7,41.2,5,228
+left,Right-arm fast-medium,2,caught,29,27,4,0,8,39.2,9,194
+left,Right-arm fast-medium,1,bowled,10,11,0,1,8,0.6,0,4
+left,Right-arm fast-medium,1,caught,1,4,0,0,8,0.6,0,5
+left,Right-arm fast-medium,2,caught,29,29,1,3,7,0.3,0,0
+left,Slow left-arm orthodox,1,caught,6,5,1,0,7,47.5,5,258
+left,Right-arm fast-medium,1,caught,8,10,0,1,8,1.5,0,6
+left,Right-arm fast-medium,1,caught,27,17,4,1,8,0.3,0,3
+left,Right-arm fast-medium,1,caught,16,10,3,0,7,46.3,5,262
+left,Right-arm fast-medium,1,caught,54,26,7,1,6,49.2,4,299
+left,Left-arm fast-medium,1,caught,0,1,0,0,8,46.5,7,200
+left,Right-arm medium-fast,1,caught,5,6,0,0,7,46.6,6,268
+left,Left-arm fast-medium,2,caught,0,1,0,0,8,39.4,6,234
+left,Left-arm medium-fast,2,lbw,2,4,0,0,8,34.5,6,171
+left,Left-arm medium-fast,1,caught,20,12,1,1,7,45.4,5,253
+left,Left-arm fast,2,caught,8,3,2,0,7,42.2,5,293
+left,Left-arm medium,1,caught,7,11,0,0,7,40.4,4,289
+left,Right-arm fast-medium,1,caught,0,3,0,0,7,1.4,0,3
+left,Left-arm fast,1,caught,1,3,0,0,7,8.3,0,44
+left,Left-arm fast,2,caught,15,22,0,0,9,8.2,0,92
+left,Right-arm medium-fast,2,caught,12,33,0,0,7,7.5,1,42
+left,Right-arm fast,2,caught,15,13,0,1,6,34.2,4,161
+left,Left-arm fast,1,caught,21,14,3,0,8,0.4,0,3
+left,Left-arm fast-medium,1,bowled,12,6,1,1,8,45.6,5,261
+left,Left-arm fast,1,caught,9,10,0,0,8,35.5,5,154
+left,Legbreak googly,1,caught,13,26,2,0,8,32.3,4,130
+left,Left-arm fast-medium,2,caught,55,35,4,2,8,45.1,9,234
+left,Right-arm fast-medium,1,caught,52,40,4,1,7,49.5,8,277
+left,Left-arm fast,1,caught,1,5,0,0,8,34.6,6,167
+left,Right-arm fast-medium,1,bowled,0,5,0,0,8,35.5,6,178
+left,Legbreak,2,caught,21,29,1,1,7,25.6,5,108
+left,Right-arm offbreak,2,caught,7,5,1,0,7,27.2,5,92
+left,Legbreak,1,caught,0,1,0,0,8,24.2,6,99
+left,Legbreak,1,caught,25,29,3,1,8,21.3,7,85
+left,Legbreak googly,2,caught,5,3,1,0,7,30.6,5,166
+left,Legbreak googly,1,lbw,6,6,0,0,7,35.1,5,197
+left,Right-arm offbreak,2,caught,64,37,5,3,7,24.6,2,132
+left,Right-arm offbreak,2,caught,29,14,3,2,7,2.1,0,2
+left,Right-arm fast,1,caught,2,10,0,0,6,38.4,4,163
+left,Right-arm fast-medium,2,caught,22,24,4,0,2,8.3,0,48
+left,Right-arm fast-medium,1,caught,15,21,0,0,7,44.5,7,219
+left,Right-arm fast-medium,2,caught,13,15,0,0,5,34.4,3,194
+left,Slow left-arm orthodox,2,caught,69,63,7,0,5,49.3,7,308
+left,Slow left-arm orthodox,2,bowled,3,6,0,0,6,27.4,4,119
+left,Right-arm offbreak,1,caught,62,62,6,0,5,45.6,4,244
+left,Right-arm fast-medium,2,caught,24,34,1,0,5,36.5,3,202
+left,Right-arm fast-medium,1,bowled,51,59,2,0,5,48.6,8,235
+left,Right-arm offbreak,2,caught,14,30,0,0,5,26.1,4,125
+left,Right-arm fast-medium,2,caught,30,57,1,0,5,26.4,4,113
+left,Right-arm offbreak,2,lbw,29,37,0,1,5,35.5,4,198
+left,Right-arm medium,1,caught,7,18,0,0,5,14.3,3,65
+left,Slow left-arm orthodox,1,stumped,48,73,3,0,5,31.6,3,120
+left,Right-arm offbreak,2,lbw,7,10,0,0,7,38.2,5,191
+left,Right-arm offbreak,1,bowled,47,69,0,0,3,46.6,7,219
+left,Right-arm fast-medium,2,caught,0,8,0,0,4,25.2,2,128
+left,Right-arm medium-fast,1,caught,17,15,3,0,3,5.6,1,33
+left,Left-arm fast,2,caught,7,24,1,0,3,11.1,2,37
+left,Slow left-arm orthodox,2,caught,1,10,0,0,3,14.3,1,62
+left,Left-arm fast,1,caught,57,86,4,0,4,31.3,3,128
+left,Right-arm fast-medium,1,caught,7,31,1,0,4,15.2,1,36
+left,Right-arm fast-medium,1,caught,6,19,1,0,6,35.3,4,151
+left,Right-arm offbreak,1,bowled,23,73,0,0,5,25.5,3,93
+left,Right-arm medium,2,caught,0,3,0,0,5,8.3,3,31
+left,Right-arm fast-medium,1,caught,46,72,4,0,4,37.5,2,171
+left,Right-arm medium-fast,1,caught,17,33,0,0,5,47.3,3,290
+left,Right-arm medium-fast,1,lbw,13,27,0,0,5,35.1,4,143
+left,Slow left-arm orthodox,1,caught,68,93,6,1,3,33.4,1,176
+left,Right-arm offbreak,1,caught,2,6,0,0,6,40.2,4,216
+left,Right-arm fast-medium,1,caught,23,29,4,0,4,24.2,4,144
+left,Legbreak googly,2,caught,10,16,1,0,5,29.4,3,141
+left,Right-arm offbreak,2,caught,18,31,2,0,2,10.1,0,44
+left,Right-arm offbreak,1,bowled,102,110,11,1,2,35.2,2,204
+left,Right-arm offbreak,2,lbw,38,55,4,1,2,17.2,0,80
+left,Left-arm fast-medium,1,bowled,5,16,0,0,2,5.4,0,14
+left,Slow left-arm orthodox,2,caught,33,60,3,0,2,23.1,4,75
+left,Right-arm offbreak,2,bowled,101,108,13,0,2,44.1,4,247
+left,Right-arm medium-fast,1,caught,8,24,0,0,3,8.4,1,25
+left,Right-arm fast-medium,2,lbw,0,5,0,0,1,0.5,0,0
+left,Right-arm fast-medium,1,caught,10,37,0,1,1,8.6,0,33
+left,Right-arm fast-medium,1,caught,7,16,1,0,1,4.5,1,13
+left,Right-arm fast-medium,1,caught,16,14,2,0,6,46.2,4,261
+left,Right-arm medium-fast,2,bowled,15,26,0,0,7,37.1,5,216
+left,Legbreak googly,1,caught,36,49,4,0,4,22.1,2,125
+left,Right-arm offbreak,2,bowled,22,37,1,0,5,24.2,4,151
+left,Right-arm medium,2,caught,59,69,7,1,6,36.2,5,218
+left,Right-arm offbreak,1,caught,52,76,2,1,6,44.6,4,213
+left,Right-arm offbreak,1,lbw,8,19,1,0,6,40.2,4,173
+left,Left-arm fast-medium,1,caught,23,50,1,1,6,39.2,4,155
+left,Left-arm fast-medium,1,bowled,19,31,1,0,6,44.3,4,245
+left,Right-arm medium,2,caught,45,65,3,1,1,18.3,0,93
+left,Left-arm fast-medium,2,caught,29,43,2,0,1,13.3,1,61
+left,Left-arm medium-fast,1,lbw,30,41,4,0,1,14.6,0,71
+left,Left-arm fast-medium,2,bowled,65,60,8,0,1,21.6,1,124
+left,Right-arm fast-medium,2,lbw,0,1,0,0,1,0.1,0,0
+left,Right-arm fast,1,caught,52,78,3,0,1,24.3,0,122
+left,Left-arm fast,2,caught,1,5,0,0,1,1.4,0,5
+left,Right-arm medium-fast,1,caught,4,21,0,0,1,5.3,0,21
+left,Legbreak googly,1,caught,41,48,5,0,4,19.1,2,69
+left,Right-arm medium-fast,1,caught,23,23,2,1,3,16.3,1,82
+left,Left-arm fast-medium,2,caught,4,8,0,0,5,24.2,4,159
+left,Left-arm fast-medium,2,caught,56,67,4,0,3,30.1,5,142
+left,Legbreak googly,1,caught,90,126,5,0,3,41.1,4,186
+left,Left-arm fast-medium,1,caught,30,30,2,0,3,36.1,2,219
+left,Right-arm fast-medium,2,caught,17,20,2,0,3,10.2,1,89
+left,Right-arm medium-fast,2,caught,21,34,3,0,3,15.4,1,95
+left,Right-arm fast-medium,1,lbw,1,19,0,0,3,7.4,2,23
+left,Left-arm fast-medium,1,caught,1,5,0,0,3,6.3,1,29
+left,Right-arm fast-medium,2,bowled,2,3,0,0,3,3.1,1,15
+left,Right-arm fast-medium,1,caught,80,105,5,1,4,39.3,4,159
+left,Right-arm medium-fast,2,caught,18,27,1,1,4,15.6,3,68
+left,Right-arm medium,1,bowled,67,102,3,1,4,38.5,3,185
+left,Left-arm medium-fast,2,lbw,53,74,3,0,4,32.1,6,132
+left,Right-arm offbreak,2,lbw,12,34,0,0,4,22.5,2,70
+left,Right-arm offbreak,1,caught,28,45,0,0,5,42.4,6,162
+left,Slow left-arm orthodox,1,caught,62,94,4,0,4,40.1,8,164
+left,Right-arm medium-fast,1,caught,19,31,3,0,4,14.1,5,49
+left,Right-arm medium,2,bowled,0,3,0,0,3,6.1,1,19
+left,Right-arm offbreak,2,bowled,21,35,1,0,3,15.3,2,62
+right,Right-arm offbreak,1,caught,16,28,0,0,1,10.5,0,53
+right,Right-arm medium,1,caught,4,15,0,0,1,3.3,0,7
+right,Right-arm medium-fast,2,caught,10,6,1,0,2,3.3,0,39
+right,Right-arm medium-fast,1,caught,38,41,5,0,2,15.3,0,89
+right,Right-arm fast,1,caught,1,5,0,0,2,2.4,1,2
+right,Right-arm offbreak,1,caught,148,114,16,7,1,38.2,0,246
+right,Right-arm offbreak,1,caught,45,45,4,1,2,21.5,2,116
+right,Right-arm fast-medium,1,caught,26,32,6,0,2,9.4,1,48
+right,Slow left-arm orthodox,1,caught,72,79,8,3,2,27.1,2,146
+right,Right-arm fast-medium,2,lbw,38,44,6,0,2,16.3,1,82
+right,Right-arm fast-medium,1,bowled,5,10,1,0,1,1.5,0,5
+right,Right-arm offbreak,1,bowled,20,28,3,0,2,11.1,1,45
+right,Right-arm fast-medium,2,lbw,5,5,1,0,1,1.2,0,7
+right,Right-arm fast-medium,2,caught,121,128,12,0,1,39.3,2,237
+right,Right-arm fast-medium,2,caught,0,3,0,0,2,1.3,0,6
+right,Right-arm fast-medium,2,caught,22,20,3,0,1,6.6,0,43
+right,Right-arm medium-fast,2,caught,108,111,8,4,2,35.2,4,189
+right,Right-arm fast-medium,1,bowled,7,16,1,0,1,4.4,0,14
+right,Right-arm offbreak,1,caught,67,79,5,3,1,29.3,1,145
+right,Right-arm medium-fast,1,caught,102,116,9,1,1,39.2,2,229
+right,Right-arm offbreak,1,bowled,11,12,2,0,1,3.1,0,11
+right,Right-arm medium-fast,1,caught,16,36,1,0,1,10.3,0,46
+right,Right-arm fast,1,bowled,54,87,5,0,1,28.1,3,115
+right,Left-arm fast,2,caught,14,12,3,0,2,3.6,0,22
+right,Right-arm medium-fast,1,caught,18,34,3,0,1,10.3,0,48
+right,Right-arm fast-medium,1,caught,35,40,4,1,2,14.4,1,94
+right,Right-arm fast,1,caught,8,14,0,1,2,4.3,1,14
+right,Right-arm fast-medium,1,bowled,109,127,9,3,1,40.2,2,242
+right,Left-arm medium-fast,2,caught,22,37,2,0,1,13.2,2,48
+right,Slow left-arm orthodox,2,caught,76,67,11,0,2,21.5,1,137
+right,Right-arm fast-medium,2,bowled,15,18,3,0,2,6.2,0,33
+right,Right-arm fast-medium,2,caught,96,127,5,2,1,40.1,3,219
+right,Right-arm offbreak,2,bowled,32,32,3,0,1,11.4,0,76
+right,Right-arm fast-medium,1,caught,0,3,0,0,1,0.3,0,0
+right,Right-arm medium-fast,1,bowled,14,7,1,1,1,2.2,0,30
+right,Right-arm fast-medium,1,caught,4,9,0,0,2,2.6,0,14
+right,Legbreak,1,stumped,24,24,3,0,1,8.4,1,41
+right,Left-arm medium,2,caught,20,10,3,1,2,3.6,0,30
+right,Right-arm fast-medium,2,lbw,2,5,0,0,2,2.3,0,15
+right,Right-arm fast-medium,1,caught,81,116,7,1,1,38.2,3,233
+right,Left-arm fast-medium,2,caught,0,5,0,0,2,1.4,0,2
+right,Legbreak,2,caught,53,60,8,0,2,21.4,2,106
+right,Left-arm fast-medium,1,caught,15,27,2,0,2,8.3,2,30
+right,Left-arm medium,2,caught,8,11,1,0,1,2.3,0,9
+right,Slow left-arm orthodox,2,caught,71,81,7,1,1,24.5,0,145
+right,Right-arm fast-medium,2,caught,21,23,3,0,2,7.1,0,48
+right,Right-arm fast-medium,1,caught,107,107,9,2,2,37.3,1,221
+right,Right-arm fast-medium,1,lbw,6,6,1,0,1,0.6,0,6
+right,Right-arm medium-fast,2,lbw,19,30,4,0,2,7.4,0,44
+right,Slow left-arm orthodox,2,caught,72,103,6,3,2,30.3,8,113
+right,Legbreak googly,1,bowled,13,28,2,0,2,9.6,0,48
+right,Right-arm medium-fast,1,caught,0,1,0,0,2,0.4,0,1
+right,Right-arm fast-medium,2,caught,16,11,3,0,2,4.3,0,35
+right,Right-arm medium-fast,1,caught,47,41,6,1,2,12.3,1,69
+right,Slow left-arm orthodox,2,caught,56,46,7,2,2,14.2,1,79
+right,Right-arm medium-fast,2,bowled,4,7,0,0,2,3.3,1,16
+right,Slow left-arm orthodox,2,lbw,30,29,3,1,2,7.3,1,42
+right,Slow left-arm orthodox,2,lbw,55,19,8,3,2,5.3,0,74
+right,Right-arm fast-medium,1,caught,33,28,4,2,2,12.1,1,88
+right,Right-arm fast,2,caught,1,5,0,0,1,1.2,0,3
+right,Legbreak googly,1,caught,53,34,3,4,2,13.1,0,110
+right,Right-arm fast-medium,1,bowled,2,3,0,0,1,0.3,0,2
+right,Legbreak googly,2,bowled,19,40,3,0,2,13.4,0,72
+right,Right-arm fast-medium,1,bowled,0,1,0,0,2,0.3,0,1
+right,Slow left-arm orthodox,1,bowled,19,34,2,0,2,12.2,0,68
+right,Left-arm fast-medium,1,caught,3,8,0,0,2,1.5,0,6
+right,Left-arm fast-medium,2,caught,4,7,0,0,1,3.1,0,9
+right,Right-arm offbreak,2,caught,56,64,5,2,1,20.6,2,119
+right,Right-arm fast,2,caught,8,18,0,0,2,6.3,1,35
+right,Right-arm fast,2,lbw,19,27,3,0,2,7.5,0,45
+right,Right-arm fast-medium,1,caught,68,64,8,0,2,22.5,1,136
+right,Slow left-arm chinaman,1,caught,124,125,12,5,2,37.5,1,224
+right,Right-arm fast-medium,1,caught,94,96,10,3,1,35.5,1,231
+right,Right-arm medium-fast,1,caught,32,36,6,0,2,11.3,0,66
+right,Right-arm offbreak,1,caught,107,119,10,3,1,35.2,3,196
+right,Right-arm fast,1,caught,106,114,9,1,2,40.1,4,213
+right,Legbreak,2,lbw,62,53,3,3,1,20.1,2,113
 left,Right-arm medium-fast,2,caught,51,53,7,2,1,13.2,1,69
 left,Right-arm fast,2,caught,6,7,1,0,1,3.4,1,7
 left,Right-arm medium,2,caught,1,2,0,0,1,1.1,0,6

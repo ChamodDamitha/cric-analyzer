@@ -12,9 +12,11 @@ data = pd.read_csv('Samples/Dismissals/all_dismissals.csv', error_bad_lines=Fals
 predictors = ['batting-hand', 'innings', 'batsman_runs', 'batsman_balls',
               'batsman_4s', 'batsman_6s', 'batting_position', 'dismissed_ball', 'wickets_fallen', 'runs_scored']
 
+targets = ['way_out', 'bowler_type']
+
 X = data[predictors]
+y = data[targets]
 X = pd.get_dummies(X)
-y = data.drop(predictors, axis=1)
 y = pd.get_dummies(y)
 
 from sklearn.model_selection import train_test_split
@@ -25,12 +27,13 @@ print(train_y.shape)
 print(test_X.shape)
 print(test_y.shape)
 
-# create the model
+# create the NN model
 model = Sequential()
 model.add(Dense(8, input_dim=train_X.shape[1], activation='relu'))
-model.add(Dense(10, activation='relu'))
+model.add(Dense(3, activation='relu'))
+model.add(Dense(5, activation='relu'))
 model.add(Dense(train_y.shape[1], activation='softmax'))
-
+#
 # compile model
 earlyStoper = EarlyStopping(monitor='val_loss', min_delta=0, patience=2, verbose=0, mode='auto')
 
@@ -62,3 +65,30 @@ plt.ylabel('loss')
 plt.xlabel('epoch')
 plt.legend(['train', 'test'], loc='upper left')
 plt.show()
+
+# ml moodels
+# train_y_new = []
+# for y in train_y :
+#     strr = '';
+#     for c in y :
+#         strr += str(c);
+#     train_y_new.append(int(strr, 2))
+# train_y = train_y_new
+#
+# test_y_new = []
+# for y in test_y :
+#     strr = '';
+#     for c in y :
+#         strr += str(c);
+#     test_y_new.append(int(strr, 2))
+# test_y = test_y_new
+#
+# from sklearn.metrics import accuracy_score
+# from sklearn.naive_bayes import GaussianNB
+# gnb = GaussianNB()
+#
+# gnb.fit(train_X, train_y_new)
+# pred_y = gnb.predict(test_X)
+# mae = accuracy_score(test_y_new, pred_y)
+#
+# print("Accuracy score : " + str(mae))
