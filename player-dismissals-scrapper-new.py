@@ -97,6 +97,8 @@ def scrapeMatch(dismissal, url):
                         break
                 if isBreak:
                     break
+    else :
+        return False
     return dismissal
 
 
