@@ -1,4 +1,320 @@
 batting-hand, bowler_type, innings, way_out, batsman_runs, batsman_balls, batsman_4s, batsman_6s, batting_position, dismissed_ball, wickets_fallen, runs_scored
+left, Right-arm medium, 1, bowled, 60, 80, 8, 0, 1, 27.1, 1, 127
+left, Right-arm fast-medium, 2, bowled, 9, 13, 1, 0, 2, 4.1, 0, 24
+left, Right-arm fast-medium, 1, caught, 21, 27, 4, 0, 3, 10.4, 2, 51
+left, Right-arm fast-medium, 1, caught, 17, 42, 1, 0, 1, 14.5, 3, 41
+left, Left-arm medium, 2, caught, 9, 12, 1, 0, 1, 2.3, 0, 16
+left, Right-arm fast-medium, 1, caught, 11, 16, 1, 0, 1, 6.4, 0, 44
+left, Right-arm fast, 2, bowled, 2, 2, 0, 0, 1, 0.2, 0, 2
+left, Right-arm medium-fast, 1, caught, 16, 18, 2, 0, 1, 5.3, 0, 33
+left, Right-arm fast-medium, 1, caught, 0, 5, 0, 0, 1, 0.5, 0, 0
+left, Right-arm fast-medium, 1, caught, 23, 43, 2, 0, 1, 12.6, 0, 57
+left, Right-arm fast-medium, 1, caught, 120, 156, 14, 0, 1, 48.4, 8, 248
+left, Right-arm fast-medium, 1, caught, 17, 30, 2, 0, 1, 8.6, 0, 34
+left, Right-arm offbreak, 2, caught, 41, 43, 7, 0, 1, 16.4, 1, 125
+left, Right-arm offbreak, 1, caught, 60, 80, 5, 0, 1, 24.5, 1, 160
+left, Right-arm offbreak, 2, caught, 109, 102, 14, 1, 1, 31.5, 0, 286
+left, Right-arm fast-medium, 1, bowled, 105, 129, 11, 1, 1, 42.5, 3, 244
+left, Right-arm offbreak, 1, bowled, 110, 130, 13, 1, 1, 38.3, 2, 214
+left, Right-arm fast, 2, bowled, 0, 1, 0, 0, 1, 0.1, 0, 0
+left, Right-arm fast-medium, 1, caught, 38, 48, 6, 0, 1, 17.4, 1, 108
+left, Right-arm offbreak, 2, stumped, 56, 77, 9, 0, 1, 26.5, 2, 135
+left, Right-arm fast, 2, caught, 11, 34, 1, 0, 1, 9.1, 1, 21
+left, Left-arm medium, 2, caught, 68, 73, 9, 0, 1, 24.2, 1, 201
+left, Right-arm fast-medium, 1, caught, 23, 29, 3, 0, 1, 11.4, 2, 50
+left, Right-arm fast-medium, 1, caught, 11, 34, 1, 0, 1, 13.5, 3, 55
+left, Right-arm fast-medium, 1, bowled, 22, 50, 2, 0, 1, 17.1, 2, 103
+left, Right-arm medium-fast, 1, bowled, 14, 19, 3, 0, 1, 5.6, 0, 34
+left, Right-arm fast-medium, 1, caught, 11, 16, 2, 0, 1, 5.5, 1, 31
+left, Left-arm fast-medium, 1, lbw, 1, 9, 0, 0, 1, 2.4, 1, 5
+left, Right-arm fast, 1, caught, 30, 47, 2, 1, 1, 11.6, 1, 78
+left, Slow left-arm orthodox, 1, caught, 26, 37, 3, 0, 1, 14.2, 0, 98
+left, Right-arm offbreak, Legbreak googly, 1, lbw, 64, 90, 6, 0, 1, 32.2, 3, 133
+left, Right-arm fast, 1, caught, 12, 13, 2, 0, 1, 3.1, 0, 13
+left, Right-arm fast-medium, 1, bowled, 8, 24, 1, 0, 1, 5.5, 0, 18
+left, Right-arm fast-medium, 1, caught, 62, 103, 2, 0, 1, 34.5, 2, 160
+left, Left-arm medium, 2, caught, 11, 21, 1, 0, 1, 4.4, 0, 30
+left, Left-arm fast-medium, 1, caught, 6, 22, 0, 0, 1, 6.4, 2, 27
+left, Right-arm fast-medium, 2, caught, 0, 7, 0, 0, 1, 0.6, 0, 1
+left, Slow left-arm orthodox, 1, bowled, 73, 74, 9, 1, 1, 25.1, 2, 111
+left, Left-arm fast-medium, 2, caught, 6, 8, 1, 0, 1, 2.1, 0, 7
+left, Legbreak googly, 2, caught, 48, 58, 9, 0, 1, 18.4, 2, 113
+left, Right-arm medium, 1, caught, 40, 37, 6, 0, 1, 12.2, 1, 73
+left, Right-arm fast-medium, 1, caught, 10, 22, 1, 0, 3, 9.3, 2, 45
+left, Right-arm fast-medium, 1, caught, 57, 104, 7, 0, 1, 36.2, 3, 150
+left, Right-arm medium-fast, 2, caught, 28, 25, 5, 0, 1, 7.2, 0, 43
+left, Left-arm fast-medium, 2, caught, 8, 7, 1, 0, 1, 1.2, 0, 9
+left, Left-arm fast-medium, 1, bowled, 15, 21, 1, 0, 1, 5.5, 0, 22
+left, Left-arm fast-medium, 1, caught, 4, 14, 1, 0, 1, 3.6, 0, 7
+left, Left-arm fast-medium, 2, caught, 10, 18, 1, 0, 1, 5.1, 1, 18
+left, Right-arm medium-fast, 1, bowled, 10, 31, 1, 0, 1, 10.4, 2, 40
+left, Right-arm medium-fast, 1, caught, 40, 82, 5, 0, 1, 22.3, 1, 78
+left, Right-arm fast-medium, 1, caught, 29, 35, 4, 0, 2, 8.4, 1, 41
+left, Right-arm fast-medium, 1, lbw, 0, 3, 0, 0, 1, 0.3, 0, 0
+left, Right-arm medium-fast, 2, caught, 2, 16, 0, 0, 1, 5.1, 1, 4
+left, Right-arm fast-medium, 1, caught, 17, 44, 1, 0, 1, 11.4, 1, 45
+left, Left-arm fast, 2, caught, 10, 16, 1, 0, 1, 4.4, 0, 23
+left, Right-arm medium, 2, caught, 80, 89, 8, 1, 1, 32.2, 5, 166
+left, Left-arm fast, 2, caught, 0, 3, 0, 0, 1, 0.3, 0, 0
+left, Right-arm offbreak, 2, stumped, 67, 60, 3, 4, 1, 23.6, 0, 188
+left, Right-arm offbreak, 2, caught, 37, 42, 5, 0, 1, 13.6, 0, 102
+left, Slow left-arm orthodox, 1, bowled, 73, 81, 6, 1, 1, 24.4, 2, 169
+left, Left-arm fast-medium, 1, bowled, 118, 128, 14, 2, 1, 42.1, 3, 234
+left, Left-arm fast-medium, 1, bowled, 0, 1, 0, 0, 1, 0.1, 0, 0
+left, Right-arm fast, 2, caught, 14, 15, 3, 0, 1, 3.5, 0, 35
+left, Right-arm offbreak, 2, caught, 30, 48, 4, 0, 1, 15.4, 1, 77
+left, Right-arm medium, 1, caught, 0, 4, 0, 0, 1, 0.4, 0, 0
+left, Left-arm medium-fast, 2, caught, 0, 3, 0, 0, 1, 0.3, 0, 0
+left, Right-arm offbreak, 2, caught, 27, 38, 4, 1, 1, 14.5, 1, 81
+left, Right-arm fast, 1, caught, 11, 16, 2, 0, 1, 6.3, 0, 31
+left, Right-arm offbreak, 1, caught, 54, 73, 5, 1, 1, 26.2, 1, 155
+left, Left-arm fast-medium, 2, caught, 38, 46, 6, 0, 1, 13.5, 1, 80
+left, Left-arm fast-medium, 2, bowled, 16, 30, 1, 0, 1, 7.6, 1, 31
+left, Right-arm fast-medium, 2, caught, 70, 109, 9, 0, 1, 36.1, 3, 162
+left, Right-arm medium, 1, bowled, 0, 1, 0, 0, 1, 0.1, 0, 0
+left, Right-arm fast-medium, 1, caught, 12, 23, 2, 0, 1, 9.4, 0, 56
+left, Slow left-arm orthodox, 1, caught, 6, 9, 1, 0, 3, 23.4, 1, 132
+left, Right-arm fast-medium, 1, lbw, 28, 53, 3, 0, 1, 13.5, 3, 50
+left, Slow left-arm orthodox, 1, bowled, 39, 52, 5, 0, 1, 19, 1, 92
+left, Right-arm offbreak, 2, caught, 33, 43, 6, 0, 1, 14.2, 0, 76
+left, Right-arm fast, 1, caught, 6, 18, 0, 0, 1, 6.4, 1, 31
+left, Right-arm fast-medium, 1, caught, 133, 141, 17, 0, 1, 44.4, 0, 282
+left, Right-arm medium-fast, 2, caught, 30, 31, 4, 1, 1, 7.2, 0, 40
+left, Left-arm fast-medium, 1, caught, 2, 20, 0, 0, 1, 6.1, 0, 17
+left, Slow left-arm orthodox, 1, bowled, 34, 28, 7, 0, 1, 9.4, 0, 54
+left, Left-arm fast, 1, caught, 13, 30, 2, 0, 1, 10.2, 1, 41
+left, Left-arm fast-medium, 1, caught, 111, 139, 12, 0, 1, 40.3, 3, 230
+left, Right-arm fast, 1, bowled, 8, 22, 1, 0, 1, 6.2, 1, 24
+left, Left-arm fast, 2, caught, 0, 4, 0, 0, 1, 0.4, 0, 4
+left, Right-arm offbreak, 1, caught, 25, 56, 2, 0, 1, 17.6, 2, 66
+left, Legbreak googly, 1, caught, 77, 120, 8, 0, 1, 41.2, 3, 179
+left, Right-arm fast-medium, 2, bowled, 4, 2, 1, 0, 1, 0.2, 0, 5
+left, Left-arm medium-fast, 1, caught, 3, 10, 0, 0, 1, 3.3, 0, 13
+left, Right-arm fast, 2, caught, 0, 2, 0, 0, 1, 0.2, 0, 0
+left, Right-arm fast, 1, caught, 66, 85, 6, 1, 1, 28.3, 2, 105
+left, Slow left-arm orthodox, 1, caught, 58, 65, 5, 2, 1, 18.3, 0, 94
+left, Left-arm fast-medium, 2, caught, 6, 10, 1, 0, 1, 3.1, 0, 17
+left, Left-arm fast-medium, 2, caught, 46, 39, 7, 1, 1, 9.6, 0, 72
+left, Left-arm fast-medium, 1, caught, 4, 11, 0, 0, 1, 2.4, 0, 12
+left, Left-arm fast, 2, caught, 5, 13, 1, 0, 1, 3.3, 0, 11
+left, Right-arm medium, 1, caught, 0, 2, 0, 0, 1, 0.2, 0, 0
+left, Right-arm fast-medium, 2, caught, 60, 67, 3, 0, 6, 45.5, 7, 285
+left, Right-arm fast-medium, 2, caught, 71, 122, 3, 1, 6, 45.6, 7, 204
+left, Left-arm medium-fast, 2, bowled, 17, 16, 2, 0, 7, 41.6, 7, 241
+left, Right-arm offbreak, 1, bowled, 57, 74, 4, 0, 6, 35.3, 4, 161
+left, Right-arm medium-fast, 1, caught, 48, 44, 5, 1, 6, 45.4, 7, 204
+left, Right-arm fast, 1, bowled, 10, 27, 1, 0, 5, 19.2, 5, 56
+left, Left-arm medium-fast, 1, caught, 18, 25, 3, 0, 1, 7.1, 0, 37
+left, Right-arm fast-medium, 1, caught, 4, 8, 1, 0, 1, 2.2, 0, 9
+left, Left-arm medium-fast, 2, bowled, 2, 16, 0, 0, 1, 5.6, 1, 19
+left, Right-arm offbreak, 2, caught, 28, 47, 2, 0, 1, 18.5, 1, 86
+left, Left-arm fast-medium, 1, caught, 8, 20, 1, 0, 1, 4.5, 1, 19
+left, Right-arm offbreak, 1, stumped, 51, 73, 4, 1, 1, 21.1, 1, 102
+left, Left-arm medium-fast, 2, caught, 31, 21, 4, 0, 1, 7.5, 1, 61
+left, Right-arm fast-medium, 2, caught, 6, 11, 1, 0, 1, 4.4, 0, 21
+left, Right-arm medium-fast, 2, caught, 10, 13, 2, 0, 1, 4.5, 0, 30
+left, Right-arm medium-fast, 2, caught, 27, 28, 4, 0, 1, 7.3, 0, 36
+left, Right-arm medium-fast, 1, caught, 60, 94, 8, 0, 1, 28.3, 7, 123
+left, Left-arm fast, 2, caught, 1, 8, 0, 0, 1, 2.6, 0, 8
+left, Right-arm fast-medium, 2, caught, 0, 3, 0, 0, 1, 0.3, 0, 0
+left, Left-arm fast, 2, caught, 12, 15, 2, 0, 6, 15.5, 4, 63
+left, Right-arm medium-fast, 1, caught, 25, 43, 3, 0, 1, 13.1, 0, 62
+left, Right-arm medium-fast, 1, caught, 7, 14, 1, 0, 1, 3.6, 0, 19
+left, Right-arm medium, 2, caught, 6, 11, 1, 0, 1, 2.1, 0, 14
+left, Right-arm medium, 1, caught, 11, 29, 2, 0, 1, 6.6, 0, 27
+left, Right-arm fast, 1, bowled, 43, 64, 7, 0, 1, 20.1, 1, 93
+left, Right-arm fast, 1, caught, 3, 14, 0, 0, 1, 3.3, 0, 7
+left, Left-arm fast-medium, 2, caught, 5, 23, 1, 0, 1, 7.1, 2, 16
+left, Right-arm medium-fast, 1, caught, 24, 52, 3, 0, 2, 17.6, 2, 57
+left, Left-arm fast, 1, caught, 18, 23, 1, 0, 1, 12.3, 1, 55
+left, Left-arm fast, 1, caught, 27, 30, 5, 0, 1, 10.2, 2, 62
+left, Left-arm fast, 2, bowled, 14, 17, 2, 0, 1, 6.6, 0, 46
+left, Right-arm offbreak, 2, caught, 28, 53, 3, 0, 1, 16.2, 2, 84
+left, Left-arm fast-medium, 2, caught, 4, 5, 0, 0, 8, 45.2, 7, 307
+left, Left-arm fast, 1, stumped, 20, 27, 2, 0, 4, 23.4, 2, 111
+left, Left-arm fast-medium, 2, bowled, 28, 36, 3, 0, 3, 18.3, 1, 140
+left, Right-arm fast-medium, 1, caught, 7, 6, 1, 0, 8, 49.2, 6, 297
+left, Right-arm fast, 1, caught, 3, 4, 0, 0, 7, 34.4, 5, 197
+left, Right-arm fast-medium, 1, bowled, 40, 33, 2, 1, 7, 48.6, 8, 242
+left, Legbreak, 2, bowled, 0, 1, 0, 0, 6, 21.2, 4, 106
+left, Right-arm offbreak, 2, caught, 12, 45, 0, 0, 5, 21.5, 4, 64
+left, Right-arm medium-fast, 1, caught, 26, 19, 3, 0, 6, 49.6, 6, 330
+left, Legbreak googly, 1, caught, 6, 16, 0, 0, 5, 29.2, 4, 102
+left, Left-arm medium-fast, 2, caught, 26, 30, 5, 0, 2, 9.1, 1, 52
+left, Right-arm fast, 1, caught, 31, 45, 5, 0, 2, 11.6, 0, 60
+left, Left-arm medium-fast, 2, caught, 119, 90, 11, 7, 2, 29.1, 2, 216
+left, Right-arm fast-medium, 2, caught, 7, 11, 0, 0, 2, 3.2, 0, 25
+left, Right-arm fast, 2, caught, 19, 29, 3, 0, 2, 10.6, 2, 31
+left, Right-arm fast, 1, bowled, 35, 35, 5, 1, 2, 13.4, 1, 87
+left, Legbreak googly, 2, caught, 57, 69, 6, 0, 2, 25.2, 4, 146
+left, Right-arm offbreak, 1, bowled, 22, 20, 2, 1, 4, 43.5, 2, 257
+left, Right-arm offbreak, 1, bowled, 6, 9, 1, 0, 4, 8.2, 2, 31
+left, Right-arm offbreak, 1, caught, 13, 23, 0, 0, 4, 32.2, 3, 166
+left, Right-arm medium-fast, 1, caught, 9, 7, 2, 0, 4, 15.6, 2, 81
+left, Right-arm fast-medium, 1, caught, 48, 34, 9, 0, 2, 9.2, 2, 63
+left, Right-arm offbreak, 2, bowled, 18, 38, 3, 0, 2, 12.6, 2, 55
+left, Legbreak, 1, caught, 61, 80, 5, 0, 2, 27.4, 2, 112
+left, Left-arm medium-fast, 1, bowled, 0, 5, 0, 0, 2, 1.2, 0, 2
+left, Left-arm medium-fast, 1, bowled, 8, 9, 1, 0, 1, 2.3, 2, 8
+left, Right-arm medium-fast, 2, caught, 49, 46, 10, 0, 2, 12.3, 2, 65
+left, Right-arm medium-fast, 2, caught, 7, 14, 1, 0, 2, 3.5, 0, 15
+left, Slow left-arm chinaman, 1, stumped, 95, 82, 12, 3, 2, 27.1, 2, 160
+left, Right-arm fast-medium, 2, caught, 11, 17, 2, 0, 2, 5.4, 0, 46
+left, Right-arm fast-medium, 2, caught, 25, 35, 3, 0, 2, 9.4, 1, 43
+left, Right-arm fast-medium, 2, bowled, 17, 34, 2, 0, 2, 9.1, 0, 33
+left, Left-arm fast-medium, 1, bowled, 56, 99, 5, 0, 2, 35.3, 3, 158
+right, Right-arm fast-medium, 1, lbw, 12, 22, 1, 0, 2, 7.5, 1, 23
+right, Left-arm fast-medium, 2, caught, 37, 67, 6, 0, 2, 19.4, 3, 75
+right, Left-arm fast-medium, 1, bowled, 54, 66, 7, 0, 1, 17.3, 2, 81
+right, Right-arm fast-medium, 2, lbw, 31, 46, 3, 1, 1, 10.3, 1, 45
+right, Legbreak googly, 2, caught, 16, 24, 1, 0, 4, 21.3, 2, 126
+right, Slow left-arm orthodox, 2, caught, 30, 41, 3, 0, 4, 20.4, 2, 103
+right, Left-arm fast-medium, 2, caught, 10, 16, 1, 0, 3, 14.3, 1, 78
+right, Left-arm fast-medium, 1, bowled, 27, 19, 4, 0, 7, 47.2, 6, 386
+right, Right-arm offbreak, 1, lbw, 54, 65, 7, 0, 4, 26.3, 3, 132
+right, Right-arm offbreak, 2, caught, 107, 114, 11, 1, 4, 39.2, 2, 247
+right, Left-arm fast-medium, 1, caught, 9, 12, 1, 0, 3, 6.5, 1, 62
+right, Slow left-arm orthodox, 2, caught, 91, 102, 7, 0, 3, 34.6, 3, 203
+right, Left-arm fast-medium, 1, caught, 2, 8, 0, 0, 3, 1.6, 1, 4
+right, Right-arm medium-fast, 1, caught, 31, 46, 1, 0, 5, 36.2, 4, 204
+right, Right-arm fast, 2, caught, 57, 71, 4, 1, 3, 27.6, 4, 157
+right, Right-arm offbreak, 2, caught, 82, 92, 4, 0, 3, 37.4, 2, 201
+right, Right-arm offbreak, 1, caught, 18, 29, 1, 0, 3, 24.6, 2, 86
+right, Left-arm fast-medium, 1, caught, 68, 95, 5, 0, 3, 34.2, 3, 171
+right, Right-arm offbreak, 2, bowled, 18, 27, 1, 0, 3, 17.4, 1, 82
+right, Right-arm fast-medium, 1, caught, 10, 14, 1, 0, 3, 14.3, 1, 75
+right, Right-arm fast, 1, caught, 28, 34, 4, 0, 3, 18.2, 1, 100
+right, Right-arm fast-medium, 2, caught, 0, 3, 0, 0, 3, 9.6, 1, 31
+right, Right-arm medium-fast, 1, caught, 8, 16, 1, 0, 3, 5.4, 1, 27
+right, Right-arm medium-fast, 2, caught, 37, 57, 5, 0, 3, 21.1, 3, 109
+right, Right-arm fast-medium, 2, caught, 118, 121, 11, 1, 3, 43.2, 3, 256
+right, Left-arm fast-medium, 1, caught, 105, 104, 10, 0, 3, 43.6, 4, 250
+right, Left-arm fast-medium, 2, caught, 64, 73, 8, 0, 3, 36.5, 1, 203
+right, Left-arm fast-medium, 2, caught, 0, 2, 0, 0, 3, 9.6, 1, 68
+right, Slow left-arm orthodox, 2, caught, 2, 8, 0, 0, 3, 3.2, 1, 10
+right, Right-arm fast, 2, caught, 54, 70, 2, 1, 3, 29.3, 5, 128
+right, Right-arm fast, 2, caught, 28, 41, 5, 0, 3, 14.6, 1, 56
+right, Right-arm fast, 2, caught, 2, 6, 0, 0, 3, 6.1, 1, 31
+right, Right-arm medium-fast, 1, bowled, 8, 5, 1, 0, 7, 48.2, 6, 327
+right, Right-arm medium, 2, bowled, 12, 20, 2, 0, 5, 14.3, 3, 99
+right, Slow left-arm orthodox, 1, caught, 1, 3, 0, 0, 7, 43.6, 5, 286
+right, Right-arm fast-medium, 1, bowled, 59, 76, 5, 0, 3, 32.2, 2, 173
+right, Right-arm offbreak, 2, caught, 24, 33, 1, 0, 4, 28.3, 2, 143
+right, Left-arm fast, 1, caught, 9, 21, 0, 0, 4, 25.2, 2, 141
+right, Right-arm offbreak, 2, caught, 35, 49, 4, 0, 4, 21.4, 2, 114
+right, Right-arm fast-medium, 2, caught, 2, 8, 0, 0, 3, 6.5, 1, 34
+right, Legbreak, 2, caught, 81, 103, 6, 1, 3, 30.6, 2, 173
+right, Right-arm medium-fast, 2, lbw, 0, 1, 0, 0, 3, 7.4, 1, 26
+right, Legbreak, 2, stumped, 22, 33, 1, 0, 3, 20.6, 3, 82
+right, Slow left-arm orthodox, 1, bowled, 55, 73, 4, 0, 4, 39.3, 3, 206
+right, Right-arm offbreak, 1, caught, 9, 9, 0, 0, 4, 16.6, 2, 125
+right, Right-arm fast-medium, 1, caught, 7, 18, 0, 0, 4, 10.2, 3, 25
+right, Right-arm offbreak, 1, caught, 16, 36, 1, 0, 4, 25.2, 2, 109
+right, Right-arm offbreak, 1, hit wicket, 107, 93, 9, 1, 4, 43.3, 3, 236
+right, Slow left-arm orthodox, 1, caught, 37, 63, 0, 0, 4, 28.5, 3, 123
+right, Right-arm offbreak, 2, lbw, 35, 30, 5, 0, 4, 41.4, 4, 235
+right, Right-arm fast-medium, 1, bowled, 0, 5, 0, 0, 3, 17.6, 1, 80
+right, Right-arm fast, 2, bowled, 3, 6, 0, 0, 4, 6.3, 2, 47
+right, Right-arm fast-medium, 2, caught, 117, 123, 14, 0, 4, 44.6, 3, 247
+right, Right-arm offbreak, 2, lbw, 20, 30, 3, 0, 4, 8.2, 2, 43
+right, Legbreak, 1, caught, 80, 85, 5, 0, 5, 45.1, 3, 241
+right, Right-arm fast-medium, 2, caught, 31, 34, 3, 0, 3, 11.2, 2, 64
+right, Right-arm fast-medium, 2, caught, 18, 28, 1, 0, 3, 18.1, 1, 90
+right, Right-arm medium-fast, 2, lbw, 15, 25, 1, 0, 3, 14.1, 1, 61
+right, Right-arm fast-medium, 2, caught, 12, 25, 0, 0, 3, 10.3, 3, 36
+right, Right-arm medium-fast, 2, caught, 66, 83, 2, 0, 4, 35.3, 4, 172
+right, Right-arm fast-medium, 2, caught, 21, 27, 2, 0, 4, 15.6, 2, 79
+right, Right-arm fast-medium, 1, caught, 108, 120, 7, 0, 3, 42.5, 2, 226
+right, Slow left-arm orthodox, 1, bowled, 66, 82, 5, 0, 3, 35.5, 1, 173
+right, Right-arm fast-medium, 2, caught, 183, 148, 22, 1, 3, 47.1, 3, 318
+right, Right-arm medium-fast, 1, caught, 106, 113, 9, 0, 3, 39.6, 3, 228
+right, Right-arm medium-fast, 1, caught, 1, 5, 0, 0, 3, 5.3, 1, 33
+right, Slow left-arm orthodox, 2, caught, 38, 65, 2, 0, 3, 20.5, 1, 113
+right, Right-arm fast-medium, 1, lbw, 23, 35, 2, 0, 3, 14.3, 1, 77
+right, Left-arm fast, 1, bowled, 0, 5, 0, 0, 3, 5.4, 2, 19
+right, Left-arm fast, 2, caught, 6, 9, 1, 0, 3, 11.6, 1, 55
+right, Left-arm fast, 1, caught, 7, 17, 1, 0, 3, 9.3, 2, 37
+right, Right-arm medium-fast, 2, caught, 15, 22, 1, 0, 3, 25.4, 2, 138
+right, Right-arm fast-medium, 1, caught, 37, 54, 1, 1, 3, 26.2, 3, 119
+right, Right-arm offbreak, 2, caught, 26, 33, 3, 0, 3, 16.5, 1, 72
+right, Right-arm medium-fast, 1, caught, 0, 1, 0, 0, 3, 3.4, 1, 13
+right, Left-arm fast-medium, 1, caught, 31, 41, 2, 0, 3, 34.2, 1, 210
+right, Right-arm offbreak, 2, bowled, 22, 18, 4, 0, 3, 19.6, 1, 127
+right, Right-arm fast-medium, 1, caught, 43, 34, 4, 1, 3, 18.3, 5, 113
+right, Right-arm medium-fast, 1, caught, 11, 21, 0, 1, 3, 9.1, 1, 39
+right, Right-arm medium, 2, caught, 2, 5, 0, 0, 4, 15.5, 2, 57
+right, Right-arm medium-fast, 1, caught, 102, 83, 13, 2, 3, 49.6, 6, 311
+right, Slow left-arm orthodox, 1, lbw, 31, 52, 4, 0, 3, 20.3, 1, 76
+right, Right-arm fast-medium, 2, caught, 2, 5, 0, 0, 3, 10.4, 1, 27
+right, Right-arm offbreak, 2, caught, 115, 108, 13, 1, 3, 41.3, 2, 216
+right, Right-arm fast-medium, 1, caught, 14, 18, 2, 0, 3, 6.2, 1, 35
+right, Right-arm fast-medium, 2, lbw, 61, 85, 6, 0, 3, 34.4, 4, 166
+right, Right-arm offbreak, 1, caught, 68, 73, 9, 0, 3, 29.4, 4, 148
+right, Right-arm medium-fast, 2, caught, 86, 84, 9, 2, 3, 31.2, 2, 192
+right, Right-arm fast-medium, 1, caught, 99, 100, 9, 0, 3, 39.6, 4, 209
+right, Right-arm fast-medium, 2, caught, 19, 18, 3, 0, 3, 8.4, 1, 61
+right, Right-arm medium-fast, 2, caught, 31, 35, 5, 0, 3, 14.4, 1, 60
+right, Left-arm fast-medium, 2, caught, 0, 5, 0, 0, 3, 3.5, 1, 16
+right, Left-arm fast-medium, 2, caught, 123, 111, 11, 2, 3, 44.2, 6, 237
+right, Right-arm medium-fast, 2, caught, 78, 65, 7, 2, 3, 29.4, 3, 164
+right, Right-arm medium-fast, 2, caught, 6, 20, 1, 0, 3, 14.5, 2, 74
+right, Right-arm medium-fast, 1, caught, 2, 10, 0, 0, 2, 3.2, 0, 5
+right, Right-arm offbreak, 2, caught, 82, 78, 7, 3, 3, 36.1, 4, 145
+right, Right-arm fast, 2, bowled, 136, 122, 16, 2, 3, 45.4, 2, 267
+right, Right-arm offbreak, 1, bowled, 48, 51, 4, 1, 3, 26.3, 1, 130
+right, Right-arm fast-medium, 1, caught, 5, 11, 0, 0, 3, 9.1, 1, 56
+right, Right-arm fast-medium, 1, caught, 0, 3, 0, 0, 3, 7.4, 1, 19
+right, Right-arm fast-medium, 2, caught, 40, 50, 2, 1, 3, 25.3, 2, 120
+right, Right-arm fast-medium, 2, caught, 13, 21, 2, 0, 3, 6.6, 1, 25
+right, Right-arm fast, 2, caught, 2, 5, 0, 0, 3, 9.5, 1, 55
+right, Right-arm fast-medium, 1, caught, 62, 78, 5, 0, 4, 40.4, 4, 196
+right, Right-arm offbreak, 1, caught, 22, 21, 2, 0, 4, 45.6, 3, 314
+right, Legbreak, 2, caught, 49, 44, 2, 2, 4, 42.5, 2, 256
+right, Right-arm offbreak, 2, caught, 53, 61, 4, 1, 4, 41.4, 3, 236
+right, Left-arm fast-medium, 1, caught, 9, 16, 0, 0, 4, 12.5, 2, 59
+right, Right-arm fast-medium, 1, caught, 4, 8, 0, 0, 4, 16.4, 2, 64
+right, Right-arm offbreak, 1, caught, 8, 19, 0, 0, 3, 27.1, 1, 103
+right, Right-arm fast-medium, 1, caught, 107, 126, 8, 0, 3, 45.2, 2, 273
+right, Legbreak googly, 1, caught, 46, 60, 3, 0, 3, 27.1, 1, 136
+right, Right-arm fast, 2, caught, 33, 36, 5, 0, 3, 14.6, 2, 63
+right, Right-arm offbreak, 2, bowled, 38, 48, 4, 0, 3, 22.4, 3, 92
+right, Right-arm fast, 1, caught, 3, 8, 0, 0, 3, 17.5, 1, 79
+right, Left-arm fast, 2, caught, 1, 13, 0, 0, 3, 15.3, 1, 78
+right, Right-arm fast, 2, caught, 1, 4, 0, 0, 3, 17.2, 1, 101
+right, Right-arm offbreak, 1, lbw, 23, 27, 3, 1, 3, 12.3, 1, 74
+right, Slow left-arm orthodox, 1, bowled, 25, 35, 1, 0, 3, 19.5, 1, 114
+right, Right-arm fast, 2, caught, 11, 18, 0, 0, 4, 39.6, 2, 214
+right, Right-arm fast, 2, caught, 77, 99, 5, 0, 3, 45.1, 4, 216
+right, Right-arm fast, 1, caught, 138, 140, 6, 5, 3, 48.2, 4, 291
+right, Right-arm fast, 2, caught, 7, 6, 0, 1, 3, 7.4, 1, 44
+right, Left-arm fast-medium, 1, caught, 91, 97, 9, 1, 3, 44.3, 1, 243
+right, Right-arm fast-medium, 1, caught, 117, 117, 7, 2, 3, 46.2, 3, 265
+right, Right-arm fast-medium, 2, caught, 106, 92, 11, 1, 3, 39.1, 3, 278
+right, Right-arm fast-medium, 2, caught, 8, 11, 1, 0, 3, 20.2, 1, 134
+right, Slow left-arm orthodox, 2, caught, 9, 13, 1, 0, 3, 11.4, 1, 40
+right, Legbreak, 2, caught, 45, 51, 2, 1, 3, 19.5, 1, 98
+right, Legbreak, 1, caught, 65, 76, 2, 1, 3, 43.1, 4, 220
+right, Right-arm fast-medium, 2, caught, 122, 105, 8, 5, 3, 36.2, 4, 263
+right, Right-arm fast-medium, 1, caught, 8, 5, 2, 0, 3, 2.6, 1, 22
+right, Right-arm fast-medium, 2, caught, 55, 63, 8, 0, 3, 19.4, 2, 102
+right, Right-arm fast-medium, 1, caught, 0, 5, 0, 0, 3, 25.5, 1, 139
+right, Left-arm fast, 2, caught, 5, 9, 0, 0, 3, 2.4, 1, 6
+right, Right-arm fast-medium, 1, caught, 87, 66, 4, 4, 3, 41.2, 4, 285
+right, Right-arm medium-fast, 1, caught, 11, 22, 2, 0, 3, 9.3, 1, 34
+right, Right-arm medium-fast, 2, caught, 3, 12, 0, 0, 3, 5.6, 1, 25
+right, Right-arm offbreak, 2, bowled, 4, 2, 1, 0, 5, 17.3, 3, 118
+right, Left-arm medium-fast, 2, caught, 3, 11, 0, 0, 3, 5.1, 1, 19
+right, Right-arm fast, 1, caught, 131, 96, 17, 2, 3, 29.3, 1, 225
+right, Right-arm fast, 1, caught, 0, 4, 0, 0, 3, 5.1, 1, 11
+right, Right-arm fast, 1, bowled, 92, 107, 8, 0, 3, 37.5, 4, 197
+right, Slow left-arm orthodox, 2, caught, 28, 35, 2, 0, 3, 34.3, 2, 203
+right, Right-arm fast, 2, bowled, 21, 21, 3, 0, 3, 24.2, 2, 147
+right, Legbreak googly, 2, caught, 39, 55, 2, 0, 3, 39.4, 2, 227
+right, Right-arm medium-fast, 1, caught, 121, 125, 9, 2, 3, 49.2, 6, 270
+right, Right-arm fast-medium, 2, caught, 29, 29, 3, 1, 3, 13.5, 1, 79
+right, Right-arm medium-fast, 1, caught, 113, 106, 9, 1, 3, 46.4, 3, 302
+right, Right-arm fast-medium, 2, caught, 112, 119, 10, 0, 3, 44.3, 3, 262
+right, Right-arm fast-medium, 1, caught, 75, 83, 7, 1, 3, 31.1, 1, 178
 right, Right-arm fast-medium, 2, lbw, 5, 14, 0, 0, 7, 43, 5, 179
 right, Right-arm fast, 1, caught, 49, 39, 5, 1, 9, 43.1, 9, 215
 right, Right-arm offbreak, 1, caught, 2, 7, 0, 0, 8, 34.2, 6, 149
@@ -517,6 +833,391 @@ right, Right-arm medium, 1, caught, 22, 36, 0, 0, 3, 17.2, 1, 101
 right, Left-arm fast-medium, 2, caught, 8, 23, 1, 0, 3, 8.5, 1, 27
 right, Right-arm fast-medium, 2, caught, 45, 48, 3, 1, 3, 16.1, 2, 86
 right, Right-arm fast, 1, bowled, 14, 25, 1, 0, 3, 9.4, 1, 26
+right, Right-arm medium-fast, 1, caught, 51, 59, 8, 0, 3, 26.2, 2, 129
+right, Right-arm fast-medium, 1, caught, 8, 7, 1, 0, 8, 49.5, 7, 377
+right, Right-arm fast-medium, 1, caught, 17, 14, 2, 1, 3, 8.4, 2, 56
+right, Right-arm fast, 1, lbw, 0, 9, 0, 0, 3, 8.5, 1, 47
+right, Right-arm fast, 1, caught, 53, 66, 5, 1, 3, 21.2, 2, 88
+right, Legbreak, 1, caught, 77, 64, 13, 0, 3, 19.4, 1, 136
+right, Left-arm fast-medium, 1, caught, 67, 95, 6, 0, 3, 29.1, 2, 124
+right, Legbreak googly, 1, lbw, 69, 69, 9, 0, 3, 26.6, 3, 146
+right, Right-arm fast-medium, 1, caught, 4, 2, 1, 0, 3, 3.2, 1, 23
+right, Right-arm fast-medium, 1, caught, 1, 8, 0, 0, 3, 5.2, 1, 18
+right, Right-arm fast-medium, 1, caught, 33, 36, 5, 1, 3, 23.5, 3, 121
+right, Right-arm medium-fast, 2, caught, 4, 6, 1, 0, 4, 5.6, 2, 16
+right, Right-arm offbreak, 1, caught, 94, 73, 7, 5, 4, 43.3, 4, 277
+right, Legbreak googly, 2, caught, 57, 72, 10, 0, 4, 27.3, 3, 117
+right, Legbreak googly, 1, lbw, 62, 94, 10, 0, 3, 27.6, 3, 99
+right, Right-arm fast-medium, 2, caught, 20, 22, 3, 0, 3, 13.5, 2, 74
+right, Right-arm fast-medium, 1, caught, 4, 7, 0, 0, 3, 14.6, 1, 79
+right, Left-arm medium-fast, 2, caught, 29, 34, 3, 0, 3, 27.2, 1, 203
+right, Right-arm fast-medium, 2, caught, 1, 7, 0, 0, 3, 5.3, 1, 43
+right, Right-arm offbreak, 2, caught, 4, 17, 0, 0, 3, 5.6, 1, 15
+right, Right-arm fast, 1, caught, 102, 107, 9, 1, 3, 37.4, 3, 216
+right, Left-arm fast-medium, 1, caught, 54, 76, 4, 0, 3, 36.6, 4, 194
+right, Right-arm fast-medium, 2, caught, 11, 10, 2, 0, 3, 11.5, 1, 94
+right, Right-arm medium-fast, 1, bowled, 27, 29, 4, 0, 3, 14.5, 1, 82
+right, Legbreak googly, 1, caught, 86, 80, 8, 1, 3, 31.3, 2, 180
+right, Right-arm fast-medium, 2, caught, 0, 1, 0, 0, 3, 2.2, 1, 10
+right, Right-arm fast-medium, 1, caught, 0, 1, 0, 0, 6, 44.6, 4, 263
+right, Right-arm offbreak, 1, caught, 1, 8, 0, 0, 3, 4.1, 1, 13
+right, Slow left-arm orthodox, 1, bowled, 36, 37, 5, 0, 3, 27.1, 2, 150
+right, Legbreak googly, 1, lbw, 19, 48, 2, 0, 3, 23.3, 3, 99
+right, Right-arm fast-medium, 1, caught, 1, 10, 0, 0, 3, 7.4, 1, 28
+right, Right-arm medium-fast, 2, caught, 2, 8, 0, 0, 5, 15.5, 3, 67
+right, Right-arm medium-fast, 2, caught, 10, 24, 1, 0, 3, 10.5, 1, 30
+right, Right-arm fast-medium, 2, caught, 0, 4, 0, 0, 3, 6.5, 1, 47
+right, Right-arm fast-medium, 2, caught, 19, 34, 1, 0, 3, 13.4, 2, 62
+right, Right-arm fast-medium, 2, bowled, 36, 44, 4, 0, 3, 23.6, 2, 110
+right, Right-arm fast-medium, 1, caught, 28, 9, 2, 3, 3, 5.6, 1, 42
+right, Left-arm fast-medium, 1, bowled, 31, 29, 7, 0, 4, 11.6, 2, 59
+right, Left-arm medium-fast, 2, caught, 0, 4, 0, 0, 3, 1.4, 1, 8
+right, Left-arm fast-medium, 2, lbw, 0, 7, 0, 0, 3, 4.2, 2, 17
+right, Left-arm fast, 2, caught, 84, 82, 10, 3, 4, 31.1, 3, 161
+right, Right-arm fast-medium, 1, caught, 1, 7, 0, 0, 4, 15.4, 2, 67
+right, Right-arm fast-medium, 1, caught, 26, 43, 5, 0, 4, 17.1, 3, 53
+right, Slow left-arm orthodox, 1, caught, 15, 44, 1, 0, 4, 23.4, 4, 67
+right, Slow left-arm orthodox, 2, bowled, 39, 50, 2, 0, 4, 35.2, 4, 198
+right, Right-arm medium, 1, caught, 71, 81, 7, 1, 4, 33.3, 2, 190
+right, Slow left-arm orthodox, 1, bowled, 21, 31, 1, 0, 4, 41.3, 3, 212
+right, Right-arm fast-medium, 2, caught, 117, 127, 16, 1, 3, 38.1, 3, 228
+right, Left-arm fast-medium, 2, caught, 11, 12, 1, 0, 3, 6.3, 2, 38
+right, Right-arm fast, 2, caught, 0, 1, 0, 0, 3, 1.2, 1, 3
+right, Right-arm offbreak, 1, caught, 85, 107, 8, 1, 3, 33.4, 2, 192
+right, Left-arm fast-medium, 1, caught, 0, 2, 0, 0, 3, 2.1, 1, 4
+right, Right-arm fast-medium, 2, lbw, 10, 17, 1, 0, 3, 12.2, 1, 42
+right, Right-arm fast-medium, 2, caught, 3, 6, 0, 0, 3, 5.1, 1, 29
+right, Left-arm fast-medium, 2, lbw, 9, 25, 1, 0, 3, 10.3, 1, 32
+right, Right-arm medium-fast, 1, caught, 20, 22, 1, 1, 5, 43.2, 3, 195
+right, Right-arm fast-medium, 1, bowled, 3, 10, 0, 0, 5, 21.6, 3, 79
+right, Right-arm fast, 1, caught, 50, 52, 1, 3, 5, 40.5, 4, 197
+right, Right-arm fast, 2, lbw, 13, 19, 1, 0, 5, 14.5, 3, 60
+right, Slow left-arm orthodox, 2, lbw, 8, 8, 0, 1, 5, 40.6, 3, 194
+right, Right-arm medium, 1, lbw, 31, 49, 1, 1, 4, 29.3, 5, 95
+right, Right-arm fast-medium, 2, caught, 48, 47, 4, 1, 4, 37.3, 2, 253
+right, Right-arm medium-fast, 2, caught, 20, 34, 1, 0, 4, 24.3, 3, 101
+right, Right-arm medium, 2, caught, 25, 21, 5, 0, 3, 10.6, 1, 79
+right, Right-arm fast-medium, 1, bowled, 8, 30, 0, 0, 3, 13.5, 3, 42
+right, Left-arm fast-medium, 2, caught, 6, 15, 1, 0, 3, 6.6, 1, 24
+right, Right-arm fast-medium, 1, caught, 4, 15, 0, 0, 3, 13.6, 1, 54
+right, Right-arm medium-fast, 1, caught, 2, 4, 0, 0, 4, 11.4, 2, 59
+right, Slow left-arm orthodox, 1, caught, 33, 54, 2, 2, 4, 32.1, 5, 112
+right, Right-arm fast-medium, 1, caught, 103, 119, 5, 4, 4, 47, 6, 219
+right, Slow left-arm orthodox, 1, caught, 13, 20, 0, 0, 4, 19.1, 4, 87
+right, Right-arm fast, 1, bowled, 75, 87, 6, 1, 4, 43.5, 2, 218
+right, Left-arm fast-medium, 2, caught, 64, 97, 6, 1, 4, 47.3, 6, 170
+right, Left-arm fast, 2, caught, 47, 74, 3, 0, 4, 41.3, 3, 176
+right, Right-arm fast-medium, 2, lbw, 4, 2, 1, 0, 3, 5.2, 1, 16
+right, Left-arm fast, 1, caught, 76, 71, 6, 2, 4, 47.5, 6, 226
+right, Left-arm fast, 2, caught, 4, 3, 1, 0, 4, 4.5, 2, 56
+right, Right-arm offbreak, 2, caught, 31, 24, 3, 0, 4, 15.5, 2, 81
+right, Right-arm offbreak, 1, caught, 5, 13, 0, 0, 3, 22.5, 1, 114
+right, Right-arm fast-medium, 2, lbw, 2, 4, 0, 0, 4, 4.5, 2, 7
+right, Left-arm fast-medium, 1, caught, 11, 15, 2, 0, 4, 5.5, 2, 19
+right, Left-arm medium-fast, 1, lbw, 72, 106, 6, 2, 4, 46.3, 7, 209
+right, Slow left-arm orthodox, 1, caught, 4, 2, 1, 0, 4, 22.5, 2, 133
+right, Right-arm fast-medium, 2, caught, 1, 3, 0, 0, 4, 19.1, 2, 114
+right, Legbreak googly, 2, bowled, 38, 61, 1, 2, 4, 29.5, 3, 126
+right, Left-arm fast, 1, caught, 6, 13, 0, 0, 4, 23.1, 3, 81
+right, Left-arm fast, 2, caught, 0, 5, 0, 0, 4, 10.2, 2, 35
+right, Legbreak googly, 1, bowled, 0, 2, 0, 0, 4, 24.2, 2, 147
+right, Right-arm offbreak, 1, lbw, 44, 69, 0, 1, 4, 38.3, 4, 187
+right, Right-arm offbreak, 1, caught, 51, 52, 4, 2, 4, 26.1, 4, 135
+right, Right-arm fast-medium, 2, caught, 78, 52, 6, 5, 4, 26.4, 3, 179
+right, Slow left-arm orthodox, 2, stumped, 3, 10, 0, 0, 4, 15, 2, 89
+right, Right-arm fast-medium, 2, caught, 70, 71, 6, 1, 4, 38.6, 4, 204
+right, Right-arm fast-medium, 1, caught, 62, 66, 4, 2, 4, 29.2, 4, 146
+right, Right-arm medium, 1, caught, 15, 37, 1, 0, 3, 19.5, 1, 120
+right, Right-arm fast-medium, 1, caught, 30, 55, 3, 0, 3, 19.1, 3, 85
+right, Left-arm medium-fast, 1, lbw, 95, 113, 8, 1, 3, 42.2, 5, 241
+right, Right-arm medium, 1, lbw, 16, 34, 2, 0, 3, 10.1, 1, 47
+right, Right-arm medium, 2, caught, 8, 14, 2, 0, 3, 4.4, 2, 14
+right, Right-arm offbreak, 2, lbw, 42, 56, 1, 1, 4, 30.3, 6, 161
+right, Slow left-arm orthodox, 2, caught, 3, 3, 0, 0, 4, 7.1, 2, 35
+right, Slow left-arm orthodox, 2, bowled, 3, 9, 0, 0, 4, 6.3, 4, 20
+right, Right-arm offbreak, 2, caught, 66, 69, 3, 3, 4, 33.3, 6, 157
+right, Right-arm offbreak, 1, caught, 15, 23, 0, 1, 4, 24.1, 2, 96
+right, Left-arm fast-medium, 1, caught, 4, 16, 0, 0, 4, 10.5, 2, 34
+right, Right-arm offbreak, 1, lbw, 44, 73, 3, 0, 4, 37.1, 4, 210
+right, Left-arm medium-fast, 1, caught, 9, 9, 2, 0, 4, 5.4, 2, 28
+right, Right-arm fast-medium, 2, caught, 6, 14, 0, 0, 3, 11.4, 1, 67
+right, Left-arm fast, 1, caught, 4, 5, 1, 0, 3, 8.3, 2, 44
+right, Legbreak googly, 2, lbw, 69, 91, 4, 1, 4, 41.5, 5, 192
+right, Right-arm fast-medium, 1, caught, 5, 10, 0, 0, 4, 28.1, 2, 153
+right, Right-arm fast, 1, bowled, 7, 22, 1, 0, 4, 16.6, 5, 73
+right, Legbreak googly, 1, caught, 74, 44, 6, 5, 4, 40.5, 3, 254
+right, Right-arm offbreak, 2, lbw, 33, 55, 3, 1, 4, 21.1, 4, 93
+right, Legbreak googly, 1, caught, 43, 72, 1, 1, 4, 32.6, 2, 130
+right, Right-arm offbreak, 1, caught, 36, 55, 1, 0, 4, 39.1, 3, 161
+right, Right-arm fast-medium, 1, bowled, 119, 126, 9, 3, 4, 49.4, 4, 319
+right, Right-arm offbreak, 2, stumped, 28, 38, 3, 0, 4, 25.3, 3, 108
+right, Right-arm fast-medium, 1, caught, 72, 62, 7, 2, 4, 45.2, 3, 221
+right, Right-arm medium-fast, 1, caught, 6, 17, 0, 0, 4, 15.6, 2, 62
+right, Right-arm fast-medium, 2, caught, 22, 38, 3, 0, 4, 20, 1, 75
+right, Right-arm fast-medium, 1, caught, 100, 117, 9, 1, 4, 48.2, 8, 267
+right, Right-arm fast-medium, 2, caught, 54, 77, 9, 0, 4, 25.2, 2, 121
+right, Right-arm fast-medium, 1, caught, 60, 54, 3, 2, 4, 41.4, 2, 241
+right, Right-arm offbreak, 2, caught, 71, 84, 2, 3, 4, 42.5, 8, 235
+right, Slow left-arm orthodox, 2, lbw, 0, 4, 0, 0, 4, 9.6, 2, 49
+right, Right-arm medium-fast, 2, lbw, 3, 6, 0, 0, 4, 6.6, 2, 27
+right, Right-arm fast, 2, caught, 8, 14, 2, 0, 4, 16.3, 2, 60
+right, Right-arm offbreak, 2, caught, 45, 82, 2, 1, 4, 39.5, 7, 157
+right, Slow left-arm orthodox, 1, caught, 9, 8, 1, 0, 4, 7.4, 2, 84
+right, Slow left-arm orthodox, 2, caught, 9, 15, 0, 0, 4, 10.3, 3, 50
+right, Right-arm fast-medium, 1, caught, 55, 82, 1, 0, 4, 36.2, 3, 171
+right, Right-arm fast-medium, 1, caught, 57, 56, 7, 0, 4, 39.4, 5, 251
+right, Right-arm fast-medium, 1, caught, 102, 106, 10, 1, 4, 47.6, 4, 274
+right, Slow left-arm orthodox, 2, caught, 2, 3, 0, 0, 4, 26.3, 2, 138
+right, Legbreak googly, 2, bowled, 31, 25, 1, 3, 4, 12.1, 2, 66
+right, Left-arm fast, 1, caught, 26, 37, 2, 0, 4, 36.3, 2, 188
+right, Slow left-arm orthodox, 1, caught, 34, 69, 2, 0, 4, 36.3, 4, 183
+right, Right-arm medium, 1, lbw, 3, 8, 0, 0, 4, 28.5, 2, 145
+right, Slow left-arm orthodox, 2, caught, 8, 23, 0, 0, 4, 15.1, 2, 63
+right, Right-arm medium-fast, 1, caught, 20, 23, 3, 0, 4, 17.1, 3, 82
+right, Right-arm offbreak, 1, lbw, 96, 102, 7, 2, 4, 46.1, 4, 281
+right, Legbreak, 1, stumped, 14, 28, 0, 0, 4, 33.4, 3, 193
+right, Slow left-arm orthodox, 2, caught, 9, 14, 1, 0, 4, 34.5, 7, 136
+right, Left-arm fast, 2, bowled, 1, 2, 0, 0, 4, 8.1, 2, 79
+right, Right-arm offbreak, 2, lbw, 56, 97, 5, 0, 4, 41.2, 4, 219
+right, Right-arm offbreak, 2, caught, 30, 39, 4, 0, 4, 21.4, 3, 149
+right, Left-arm fast-medium, 1, caught, 40, 72, 2, 0, 4, 35.1, 3, 150
+right, Right-arm fast-medium, 2, lbw, 57, 54, 5, 1, 4, 28.2, 6, 190
+right, Left-arm fast-medium, 2, bowled, 110, 123, 12, 0, 4, 45.5, 5, 290
+right, Right-arm fast-medium, 1, lbw, 42, 55, 3, 0, 4, 34.3, 2, 217
+right, Left-arm fast-medium, 1, caught, 47, 63, 2, 0, 4, 41.3, 5, 212
+right, Legbreak, 1, caught, 0, 2, 0, 0, 4, 18, 2, 102
+right, Right-arm fast-medium, 1, caught, 61, 67, 4, 1, 4, 46.3, 4, 262
+right, Right-arm fast-medium, 1, caught, 0, 1, 0, 0, 4, 6.1, 2, 33
+right, Legbreak, 1, caught, 21, 42, 2, 0, 4, 30.6, 2, 158
+right, Legbreak, 1, stumped, 44, 57, 4, 1, 4, 28.3, 2, 153
+right, Legbreak, 2, caught, 19, 32, 1, 0, 4, 15.4, 3, 66
+right, Right-arm offbreak, 1, bowled, 16, 24, 1, 0, 4, 22.3, 2, 128
+right, Left-arm fast-medium, 1, caught, 107, 101, 13, 0, 4, 46.5, 6, 246
+right, Right-arm fast-medium, 1, caught, 1, 3, 0, 0, 4, 13.6, 2, 72
+right, Right-arm medium-fast, 2, lbw, 18, 40, 2, 0, 4, 15.3, 3, 48
+right, Legbreak googly, 2, caught, 66, 97, 7, 1, 4, 42.6, 2, 257
+right, Right-arm fast-medium, 1, lbw, 8, 12, 1, 0, 4, 15.6, 3, 51
+right, Right-arm medium-fast, 1, caught, 52, 60, 5, 0, 4, 29.1, 2, 139
+right, Left-arm fast-medium, 2, lbw, 25, 40, 1, 0, 4, 30.3, 3, 147
+right, Right-arm medium, 1, caught, 57, 64, 6, 0, 4, 45.1, 4, 268
+right, Right-arm fast-medium, 1, caught, 46, 58, 6, 0, 4, 33.5, 2, 216
+right, Right-arm fast-medium, 2, caught, 39, 59, 3, 0, 4, 33.4, 3, 168
+right, Right-arm fast, 1, caught, 63, 82, 6, 0, 4, 38.4, 3, 201
+right, Right-arm medium, 2, caught, 95, 100, 8, 0, 4, 48.5, 3, 280
+right, Right-arm medium-fast, 1, caught, 21, 33, 2, 0, 4, 15.6, 3, 58
+right, Right-arm fast-medium, 2, caught, 39, 47, 3, 0, 4, 40.1, 3, 247
+right, Right-arm medium-fast, 1, caught, 57, 66, 5, 0, 4, 32.6, 4, 186
+right, Right-arm medium-fast, 1, bowled, 12, 14, 0, 0, 4, 32.3, 2, 192
+right, Legbreak, 1, lbw, 52, 64, 4, 0, 4, 42.3, 3, 209
+right, Left-arm medium-fast, 2, lbw, 1, 4, 0, 0, 4, 16.2, 2, 90
+right, Right-arm medium, 1, bowled, 59, 73, 3, 0, 4, 44.2, 3, 232
+right, Legbreak, 2, stumped, 113, 116, 12, 0, 4, 45.5, 6, 244
+right, Right-arm offbreak, 2, stumped, 111, 118, 6, 5, 3, 40.6, 3, 215
+right, Right-arm offbreak, 1, caught, 6, 13, 0, 0, 3, 24.3, 1, 134
+right, Right-arm fast-medium, 1, lbw, 0, 5, 0, 0, 3, 4.1, 2, 11
+right, Right-arm offbreak, 2, stumped, 54, 64, 5, 2, 5, 26.3, 3, 123
+right, Left-arm fast-medium, 1, caught, 12, 13, 1, 0, 5, 19.1, 4, 101
+right, Left-arm fast-medium, 1, caught, 1, 4, 0, 0, 5, 20.2, 3, 77
+right, Left-arm fast-medium, 1, caught, 4, 2, 1, 0, 4, 38.3, 2, 224
+right, Legbreak googly, 1, lbw, 28, 31, 1, 2, 4, 19.5, 3, 77
+right, Right-arm offbreak, 1, bowled, 15, 37, 1, 0, 4, 26.3, 2, 94
+right, Right-arm offbreak, 2, caught, 31, 47, 2, 0, 4, 39.3, 4, 186
+right, Right-arm offbreak, 2, bowled, 11, 19, 2, 0, 4, 12.4, 2, 53
+right, Left-arm medium-fast, 1, caught, 7, 14, 1, 0, 3, 7.4, 2, 32
+right, Left-arm fast-medium, 2, bowled, 4, 7, 1, 0, 4, 3.3, 2, 8
+right, Right-arm fast, 1, caught, 36, 54, 3, 0, 4, 38.1, 4, 192
+right, Left-arm fast-medium, 2, bowled, 59, 81, 1, 1, 4, 40.6, 4, 246
+right, Left-arm medium-fast, 2, caught, 20, 35, 1, 0, 4, 29.5, 2, 175
+right, Right-arm offbreak, 1, stumped, 64, 81, 4, 0, 4, 43.2, 5, 189
+right, Slow left-arm orthodox, 2, lbw, 37, 50, 4, 0, 4, 30.1, 5, 129
+right, Left-arm medium-fast, 1, bowled, 38, 49, 0, 0, 4, 38.6, 3, 195
+right, Right-arm fast, 2, lbw, 80, 100, 7, 0, 4, 44.2, 4, 243
+right, Right-arm fast-medium, 1, caught, 75, 84, 3, 2, 4, 38.5, 3, 186
+right, Right-arm offbreak, 2, caught, 14, 27, 1, 0, 4, 16.1, 2, 93
+right, Right-arm fast-medium, 2, lbw, 5, 7, 1, 0, 4, 7.3, 2, 52
+right, Right-arm offbreak, 2, bowled, 13, 22, 1, 0, 4, 25.3, 2, 152
+right, Right-arm fast-medium, 1, caught, 0, 4, 0, 0, 4, 8.4, 2, 47
+right, Right-arm fast-medium, 1, bowled, 0, 9, 0, 0, 4, 8.4, 2, 23
+right, Legbreak googly, 1, lbw, 32, 51, 3, 0, 4, 30.6, 2, 154
+right, Right-arm offbreak, 1, bowled, 18, 30, 2, 0, 4, 25.3, 2, 90
+right, Right-arm offbreak, 2, caught, 54, 74, 4, 0, 4, 33.2, 4, 135
+right, Right-arm fast-medium, 2, caught, 13, 19, 1, 0, 4, 25.2, 2, 117
+right, Left-arm medium-fast, 1, lbw, 0, 3, 0, 0, 4, 5.3, 2, 20
+right, Legbreak googly, 1, caught, 28, 32, 2, 0, 4, 31.4, 2, 152
+right, Right-arm medium-fast, 2, lbw, 8, 8, 2, 0, 4, 10.1, 2, 74
+right, Left-arm fast-medium, 2, bowled, 43, 65, 4, 0, 2, 22.4, 1, 123
+right, Right-arm medium-fast, 1, bowled, 0, 1, 0, 0, 2, 1.3, 0, 3
+right, Right-arm fast-medium, 2, caught, 73, 95, 7, 1, 4, 35.4, 6, 169
+right, Slow left-arm orthodox, 2, bowled, 6, 19, 1, 0, 4, 20.4, 3, 77
+right, Right-arm fast-medium, 1, bowled, 0, 5, 0, 0, 7, 43.4, 5, 238
+right, Right-arm fast-medium, 1, caught, 0, 4, 0, 0, 5, 8.5, 3, 34
+right, Left-arm fast, 1, caught, 31, 32, 1, 1, 7, 46.2, 5, 224
+right, Right-arm offbreak, 1, caught, 21, 37, 1, 1, 4, 31.1, 3, 140
+right, Right-arm fast, 1, bowled, 2, 8, 0, 0, 4, 6.2, 2, 29
+right, Slow left-arm orthodox, 2, stumped, 26, 54, 1, 1, 4, 15.6, 5, 63
+right, Slow left-arm orthodox, 1, caught, 5, 7, 0, 0, 7, 42.2, 5, 183
+right, Right-arm fast, 1, caught, 43, 51, 4, 0, 6, 46.4, 7, 205
+right, Right-arm medium-fast, 2, caught, 29, 65, 4, 0, 5, 26.2, 4, 78
+right, Left-arm fast-medium, 1, bowled, 9, 13, 0, 0, 7, 45.3, 5, 240
+right, Right-arm medium, 1, lbw, 15, 19, 2, 0, 6, 25.3, 5, 146
+right, Left-arm fast, 2, bowled, 44, 57, 0, 1, 4, 33.4, 3, 168
+right, Right-arm offbreak, 2, caught, 36, 53, 3, 0, 5, 27.5, 4, 132
+right, Right-arm fast-medium, 1, caught, 5, 12, 1, 0, 4, 7.2, 2, 36
+right, Right-arm offbreak, 1, caught, 9, 14, 0, 0, 4, 12.4, 2, 63
+right, Slow left-arm orthodox, 2, bowled, 0, 1, 0, 0, 5, 31.2, 3, 148
+right, Slow left-arm orthodox, 1, bowled, 26, 41, 1, 0, 5, 36.5, 3, 157
+right, Right-arm medium-fast, 1, caught, 39, 61, 3, 0, 4, 28.2, 3, 90
+right, Right-arm fast-medium, 2, caught, 8, 8, 1, 0, 6, 20.3, 4, 108
+right, Left-arm fast-medium, 1, caught, 14, 9, 2, 0, 7, 48.3, 6, 247
+right, Right-arm fast-medium, 1, caught, 6, 15, 0, 0, 5, 15.4, 3, 45
+right, Left-arm fast, 1, caught, 6, 14, 1, 0, 5, 17.4, 3, 75
+right, Right-arm medium, 2, caught, 9, 13, 2, 0, 3, 5.6, 1, 31
+right, Slow left-arm orthodox, 1, caught, 5, 31, 0, 0, 3, 14.4, 2, 73
+right, Right-arm fast-medium, 1, bowled, 35, 31, 4, 0, 6, 49.6, 6, 292
+right, Left-arm fast-medium, 2, caught, 0, 3, 0, 0, 7, 38.6, 5, 233
+right, Left-arm medium-fast, 1, caught, 5, 15, 0, 0, 6, 43.2, 4, 231
+right, Slow left-arm orthodox, 2, bowled, 18, 30, 0, 0, 6, 26.6, 4, 130
+right, Left-arm fast, 1, caught, 20, 21, 1, 0, 5, 35.6, 3, 170
+right, Left-arm fast-medium, 1, caught, 29, 25, 3, 1, 4, 40.5, 3, 254
+right, Right-arm medium, 2, caught, 23, 35, 0, 0, 4, 24.2, 3, 134
+right, Right-arm fast-medium, 1, caught, 5, 16, 0, 0, 4, 9.4, 4, 27
+right, Right-arm fast-medium, 1, lbw, 9, 24, 0, 0, 4, 13.4, 3, 54
+right, Left-arm fast-medium, 2, caught, 50, 65, 4, 1, 4, 29.1, 3, 126
+right, Right-arm medium, 1, caught, 3, 4, 0, 0, 7, 48.3, 6, 368
+right, Right-arm offbreak, 1, caught, 37, 56, 3, 0, 4, 25.3, 3, 120
+right, Right-arm fast-medium, 1, caught, 62, 77, 5, 0, 4, 35.5, 3, 168
+right, Left-arm fast-medium, 1, bowled, 63, 51, 1, 3, 4, 36.4, 3, 245
+right, Left-arm fast-medium, 2, bowled, 53, 66, 2, 1, 4, 40.6, 8, 195
+right, Legbreak googly, 1, lbw, 48, 67, 2, 1, 4, 24.1, 2, 137
+right, Left-arm fast-medium, 1, caught, 102, 130, 7, 0, 4, 49.2, 9, 226
+right, Right-arm fast-medium, 1, caught, 5, 14, 1, 0, 4, 8.5, 2, 31
+right, Left-arm fast, 1, caught, 1, 3, 0, 0, 4, 15.2, 2, 78
+right, Legbreak googly, 1, bowled, 22, 55, 1, 0, 4, 23.6, 2, 86
+right, Right-arm fast-medium, 2, caught, 36, 46, 4, 0, 4, 25.5, 5, 132
+right, Right-arm fast-medium, 1, caught, 4, 14, 0, 0, 4, 18.6, 2, 89
+right, Right-arm offbreak, 2, caught, 59, 70, 6, 0, 4, 28.5, 4, 121
+right, Left-arm fast-medium, 1, lbw, 24, 30, 1, 0, 4, 36.4, 2, 212
+right, Right-arm medium, 1, bowled, 0, 2, 0, 0, 4, 15.1, 2, 83
+right, Right-arm medium-fast, 1, caught, 36, 71, 4, 0, 2, 25.4, 2, 100
+right, Left-arm medium-fast, 2, lbw, 4, 9, 0, 0, 3, 5.2, 1, 34
+right, Legbreak, 2, bowled, 2, 4, 0, 0, 5, 24.5, 3, 79
+right, Legbreak, 1, lbw, 19, 49, 1, 0, 3, 25.1, 1, 102
+right, Left-arm medium-fast, 1, caught, 0, 1, 0, 0, 3, 0.6, 1, 1
+right, Right-arm fast-medium, 2, bowled, 34, 33, 3, 1, 5, 33.2, 4, 181
+right, Right-arm fast, 1, bowled, 45, 74, 0, 1, 5, 47.3, 6, 209
+right, Right-arm fast-medium, 1, caught, 31, 30, 0, 1, 7, 48.2, 8, 150
+right, Right-arm fast, 1, caught, 2, 5, 0, 0, 7, 26.6, 5, 128
+right, Slow left-arm orthodox, 2, caught, 6, 9, 0, 0, 7, 35.5, 5, 183
+right, Left-arm fast, 1, caught, 43, 50, 3, 0, 7, 47.1, 7, 204
+right, Legbreak googly, 2, stumped, 8, 10, 1, 0, 7, 35.2, 8, 175
+right, Left-arm fast, 2, caught, 5, 9, 1, 0, 7, 14.6, 5, 69
+right, Right-arm fast, 1, bowled, 51, 60, 4, 0, 7, 47.5, 5, 196
+right, Right-arm offbreak, 1, stumped, 19, 37, 1, 0, 5, 30.5, 4, 176
+right, Slow left-arm orthodox, 2, caught, 14, 11, 1, 1, 6, 17.3, 4, 131
+right, Right-arm fast, 1, bowled, 15, 14, 0, 0, 6, 49.6, 7, 319
+right, Right-arm medium-fast, 1, caught, 52, 73, 6, 0, 7, 40.5, 6, 176
+right, Left-arm medium, 2, caught, 2, 11, 0, 0, 7, 27.2, 5, 141
+right, Left-arm medium-fast, 2, caught, 38, 33, 2, 0, 7, 49.4, 7, 409
+right, Right-arm fast-medium, 1, bowled, 75, 95, 2, 2, 4, 48.2, 6, 226
+right, Left-arm medium-fast, 2, caught, 0, 2, 0, 0, 5, 13.5, 3, 50
+right, Right-arm fast-medium, 2, caught, 0, 1, 0, 0, 6, 36.4, 4, 164
+right, Slow left-arm orthodox, 1, lbw, 15, 26, 2, 0, 6, 22.4, 5, 83
+right, Right-arm fast-medium, 1, caught, 1, 4, 0, 0, 6, 43.6, 4, 258
+right, Left-arm fast, 1, bowled, 9, 16, 0, 0, 6, 21.4, 4, 81
+right, Right-arm medium, 1, caught, 21, 16, 3, 0, 6, 48.4, 6, 314
+right, Legbreak googly, 2, caught, 18, 20, 2, 0, 7, 43.4, 5, 209
+right, Right-arm fast-medium, 1, caught, 0, 1, 0, 0, 6, 47.3, 4, 302
+right, Right-arm fast-medium, 2, caught, 16, 16, 3, 0, 6, 11.3, 4, 40
+right, Right-arm medium-fast, 1, caught, 39, 49, 1, 2, 7, 31.3, 5, 129
+right, Right-arm fast-medium, 2, caught, 62, 64, 6, 0, 6, 48.1, 8, 252
+right, Right-arm medium-fast, 1, caught, 23, 27, 1, 0, 6, 42.2, 5, 218
+right, Left-arm fast, 1, caught, 15, 18, 3, 0, 6, 22.6, 6, 117
+right, Left-arm fast-medium, 1, caught, 35, 62, 1, 0, 6, 40.5, 6, 159
+right, Slow left-arm orthodox, 1, stumped, 6, 6, 0, 0, 6, 27.3, 4, 101
+right, Right-arm fast-medium, 2, caught, 26, 49, 2, 0, 6, 45.4, 5, 209
+right, Right-arm medium-fast, 1, caught, 3, 4, 0, 0, 6, 42.5, 4, 189
+right, Right-arm offbreak, 2, caught, 0, 4, 0, 0, 6, 38.4, 4, 156
+right, Right-arm offbreak, 1, bowled, 61, 101, 2, 2, 6, 43.1, 6, 180
+right, Right-arm fast, 2, caught, 0, 2, 0, 0, 6, 4.6, 4, 9
+right, Right-arm fast, 1, caught, 28, 29, 1, 1, 7, 49.6, 5, 236
+right, Left-arm fast-medium, 1, caught, 15, 14, 2, 0, 7, 43.3, 5, 220
+right, Left-arm medium-fast, 2, caught, 6, 5, 1, 0, 6, 46.2, 4, 294
+right, Left-arm fast, 2, caught, 64, 76, 4, 1, 7, 49.5, 9, 226
+right, Right-arm fast-medium, 2, caught, 24, 31, 1, 0, 6, 48.3, 6, 267
+right, Left-arm fast-medium, 1, caught, 14, 10, 1, 0, 5, 48.5, 3, 309
+right, Right-arm fast-medium, 1, caught, 5, 8, 0, 0, 6, 41.1, 4, 195
+right, Right-arm fast, 1, caught, 0, 5, 0, 0, 6, 14.3, 4, 41
+right, Left-arm fast-medium, 2, caught, 7, 17, 0, 0, 6, 35.2, 4, 172
+right, Legbreak googly, 1, caught, 14, 34, 1, 0, 6, 41.1, 4, 190
+right, Left-arm fast-medium, 1, caught, 0, 4, 0, 0, 4, 6.5, 2, 34
+right, Left-arm fast, 2, caught, 0, 1, 0, 0, 5, 11.2, 3, 37
+right, Left-arm fast, 2, caught, 67, 79, 7, 0, 5, 44.1, 6, 187
+right, Slow left-arm orthodox, 1, stumped, 6, 9, 0, 0, 5, 41.1, 3, 228
+right, Left-arm fast-medium, 1, bowled, 9, 34, 1, 0, 6, 20.2, 4, 65
+right, Left-arm fast-medium, 1, bowled, 12, 20, 1, 0, 6, 36.6, 4, 159
+right, Right-arm offbreak, 1, caught, 51, 89, 1, 1, 6, 45.5, 4, 158
+right, Right-arm fast, 1, caught, 30, 27, 2, 2, 6, 34.1, 4, 139
+right, Slow left-arm orthodox, 2, caught, 10, 11, 2, 0, 6, 13.6, 4, 56
+right, Right-arm fast-medium, 1, caught, 10, 24, 0, 0, 5, 45.2, 6, 193
+right, Left-arm fast-medium, 2, caught, 14, 20, 1, 0, 6, 30.5, 6, 93
+right, Left-arm fast-medium, 1, caught, 23, 22, 1, 1, 5, 45.2, 3, 257
+right, Left-arm fast-medium, 1, caught, 0, 1, 0, 0, 5, 17.5, 3, 110
+right, Left-arm fast, 2, caught, 31, 32, 2, 1, 6, 40.4, 5, 216
+right, Legbreak googly, 2, caught, 47, 44, 2, 0, 6, 49.1, 7, 281
+right, Right-arm offbreak, 2, caught, 44, 51, 1, 3, 6, 38.6, 8, 192
+right, Right-arm offbreak, 1, lbw, 38, 46, 2, 1, 6, 44.1, 6, 210
+right, Right-arm medium-fast, 2, caught, 8, 31, 0, 0, 6, 40.2, 4, 166
+right, Slow left-arm orthodox, 1, bowled, 3, 15, 0, 0, 6, 16.4, 5, 62
+right, Right-arm fast-medium, 2, lbw, 6, 18, 0, 0, 6, 36.2, 4, 165
+right, Right-arm offbreak, 2, caught, 18, 21, 2, 0, 5, 22, 6, 114
+right, Left-arm fast-medium, 1, caught, 30, 35, 2, 0, 5, 46.2, 4, 225
+right, Right-arm fast-medium, 1, caught, 11, 12, 2, 0, 6, 19.3, 5, 60
+right, Right-arm fast-medium, 1, caught, 30, 30, 4, 0, 5, 48.1, 5, 279
+right, Right-arm fast, 2, caught, 13, 13, 1, 0, 6, 29.1, 4, 164
+right, Right-arm medium-fast, 1, caught, 34, 38, 1, 1, 6, 46.1, 5, 256
+right, Right-arm medium-fast, 2, caught, 58, 81, 5, 1, 6, 41.4, 6, 249
+right, Left-arm fast, 1, bowled, 89, 85, 9, 2, 6, 43.1, 6, 247
+right, Left-arm fast, 1, caught, 93, 115, 8, 0, 5, 47.2, 6, 281
+right, Right-arm offbreak, 2, caught, 23, 32, 3, 0, 6, 30.1, 5, 144
+right, Slow left-arm orthodox, 1, caught, 10, 14, 1, 0, 5, 30.3, 3, 144
+right, Slow left-arm orthodox, 2, stumped, 75, 68, 9, 1, 5, 28.5, 4, 166
+right, Right-arm offbreak, 1, caught, 33, 24, 1, 3, 5, 42.5, 3, 253
+right, Right-arm fast-medium, 1, caught, 37, 45, 3, 0, 5, 20.1, 3, 118
+right, Right-arm fast-medium, 1, caught, 40, 76, 4, 0, 5, 33.6, 3, 144
+right, Right-arm fast-medium, 1, caught, 1, 5, 0, 0, 5, 38.2, 3, 191
+right, Right-arm offbreak, 1, bowled, 20, 27, 1, 0, 4, 31.6, 2, 156
+right, Right-arm fast, 1, caught, 0, 1, 0, 0, 5, 33.2, 3, 180
+right, Right-arm medium-fast, 2, caught, 46, 52, 5, 0, 6, 41.2, 7, 216
+right, Right-arm fast-medium, 2, caught, 35, 31, 2, 1, 5, 41.3, 4, 283
+right, Right-arm offbreak, 1, caught, 51, 21, 1, 6, 5, 43.6, 5, 326
+right, Right-arm offbreak, 1, caught, 19, 32, 1, 0, 6, 32.6, 4, 114
+right, Legbreak googly, 1, caught, 38, 54, 5, 0, 5, 41.5, 4, 200
+right, Legbreak googly, 2, caught, 4, 13, 0, 0, 5, 19.3, 3, 93
+right, Left-arm fast-medium, 1, caught, 12, 23, 0, 0, 4, 30.4, 2, 143
+right, Right-arm fast, 2, caught, 13, 17, 1, 0, 4, 15.4, 3, 120
+right, Right-arm fast-medium, 1, caught, 0, 1, 0, 0, 5, 7.5, 3, 23
+right, Left-arm fast-medium, 1, caught, 17, 22, 2, 0, 5, 14.6, 4, 56
+right, Right-arm fast-medium, 2, caught, 95, 116, 6, 0, 5, 45.3, 7, 252
+right, Right-arm fast-medium, 1, bowled, 49, 53, 4, 2, 5, 41.2, 3, 217
+right, Right-arm fast-medium, 1, caught, 24, 18, 1, 1, 6, 47.2, 4, 364
+right, Right-arm fast, 1, caught, 73, 109, 5, 0, 5, 46.6, 7, 266
+right, Legbreak, 1, caught, 44, 54, 3, 0, 5, 32.5, 3, 159
+right, Right-arm fast-medium, 1, caught, 56, 67, 3, 1, 5, 43.1, 5, 209
+right, Right-arm fast, 2, bowled, 13, 15, 2, 0, 5, 20.6, 3, 105
+right, Left-arm fast-medium, 1, caught, 0, 4, 0, 0, 5, 29.5, 3, 124
+right, Left-arm fast-medium, 1, caught, 57, 60, 1, 2, 5, 47.1, 6, 279
+right, Legbreak googly, 1, lbw, 2, 4, 0, 0, 5, 20.2, 3, 103
+right, Right-arm fast-medium, 1, caught, 40, 71, 4, 0, 5, 49.6, 9, 212
+right, Left-arm fast, 1, bowled, 39, 54, 2, 1, 5, 31.2, 3, 161
+right, Right-arm medium-fast, 1, bowled, 43, 30, 6, 1, 5, 41.5, 3, 254
+right, Right-arm fast-medium, 1, caught, 42, 40, 0, 2, 3, 49.6, 5, 300
+right, Legbreak googly, 1, caught, 24, 47, 4, 0, 5, 20.4, 3, 78
+right, Slow left-arm orthodox, 1, lbw, 20, 41, 2, 0, 5, 28.3, 4, 121
+right, Right-arm offbreak, 1, lbw, 11, 23, 1, 0, 5, 34.4, 3, 138
+right, Slow left-arm orthodox, 2, caught, 70, 80, 10, 0, 5, 37.2, 6, 190
+right, Slow left-arm chinaman, 1, caught, 55, 98, 4, 0, 5, 41.1, 4, 194
+right, Legbreak googly, 1, bowled, 17, 28, 2, 0, 4, 33.5, 4, 189
+right, Right-arm fast-medium, 2, caught, 42, 64, 1, 1, 4, 30.6, 3, 157
 left, Right-arm medium-fast, 2, caught, 51, 53, 7, 2, 1, 13.2, 1, 69
 left, Right-arm fast, 2, caught, 6, 7, 1, 0, 1, 3.4, 1, 7
 left, Right-arm medium, 2, caught, 1, 2, 0, 0, 1, 1.1, 0, 6
@@ -656,3 +1357,169 @@ left, Right-arm offbreak, 1, caught, 84, 102, 7, 2, 1, 29.1, 1, 170
 left, Legbreak googly, 1, stumped, 76, 105, 6, 0, 1, 38.1, 4, 163
 left, Right-arm fast-medium, 1, caught, 5, 14, 0, 0, 1, 4.5, 2, 16
 left, Right-arm fast, 2, caught, 3, 18, 0, 0, 1, 5.3, 0, 11
+right, Right-arm fast-medium, 1, bowled, 2, 7, 0, 0, 2, 3.3, 1, 22
+right, Right-arm fast-medium, 2, caught, 2, 5, 0, 0, 7, 11.5, 6, 43
+right, Right-arm medium, 1, caught, 56, 46, 2, 4, 6, 49.3, 4, 224
+right, Right-arm medium, 1, lbw, 11, 16, 1, 0, 7, 43.5, 5, 230
+right, Right-arm fast-medium, 1, caught, 38, 28, 3, 2, 6, 47.2, 4, 316
+right, Right-arm fast-medium, 1, caught, 68, 53, 11, 1, 4, 33.5, 2, 225
+right, Right-arm fast, 1, caught, 20, 28, 2, 0, 8, 45.5, 7, 201
+right, Right-arm fast-medium, 2, bowled, 38, 55, 2, 0, 7, 45.4, 5, 210
+right, Right-arm fast-medium, 1, caught, 96, 106, 10, 3, 2, 38.1, 5, 186
+right, Right-arm offbreak, 1, bowled, 3, 10, 0, 0, 7, 41.4, 5, 149
+right, Right-arm medium-fast, 1, bowled, 59, 72, 5, 0, 3, 45.5, 2, 234
+right, Right-arm medium-fast, 2, caught, 18, 11, 2, 1, 6, 42.3, 4, 233
+right, Right-arm fast, 2, bowled, 2, 7, 0, 0, 7, 37.3, 5, 130
+right, Right-arm medium, 2, bowled, 14, 19, 2, 0, 3, 6.1, 1, 26
+right, Right-arm fast, 1, bowled, 2, 10, 0, 0, 5, 40.4, 3, 227
+right, Right-arm fast-medium, 1, bowled, 18, 13, 4, 0, 6, 15.2, 4, 69
+right, Right-arm fast, 2, caught, 23, 34, 0, 1, 7, 36.2, 5, 158
+right, Right-arm offbreak, 2, caught, 7, 22, 0, 0, 6, 26.3, 4, 119
+right, Left-arm fast-medium, 1, lbw, 28, 23, 2, 0, 6, 49.6, 7, 249
+right, Right-arm fast-medium, 2, caught, 14, 27, 3, 0, 5, 22.6, 5, 83
+right, Right-arm fast-medium, 2, caught, 55, 48, 3, 4, 6, 44.1, 6, 198
+right, Right-arm fast-medium, 2, caught, 26, 21, 4, 1, 6, 19.5, 4, 82
+right, Right-arm fast, 1, caught, 44, 49, 2, 2, 5, 47.5, 7, 183
+right, Left-arm fast-medium, 1, caught, 6, 19, 0, 0, 6, 21.2, 4, 66
+right, Slow left-arm orthodox, 2, caught, 48, 68, 1, 0, 6, 49.5, 8, 252
+right, Slow left-arm orthodox, 1, caught, 0, 3, 0, 0, 7, 43.5, 6, 159
+right, Right-arm offbreak, 1, caught, 29, 25, 2, 1, 4, 38.2, 3, 269
+right, Right-arm offbreak, 2, lbw, 0, 1, 0, 0, 7, 28.1, 5, 112
+right, Slow left-arm orthodox, 1, caught, 36, 54, 4, 0, 3, 25.5, 1, 130
+right, Right-arm medium-fast, 1, bowled, 33, 38, 2, 2, 4, 23.3, 2, 134
+right, Right-arm fast, 2, bowled, 0, 4, 0, 0, 5, 32.4, 3, 142
+right, Right-arm fast-medium, 2, caught, 19, 60, 1, 0, 6, 30.3, 4, 102
+right, Right-arm fast-medium, 1, caught, 21, 18, 3, 0, 5, 46.6, 3, 302
+right, Right-arm fast-medium, 2, caught, 13, 20, 0, 0, 6, 38.2, 4, 190
+right, Slow left-arm orthodox, 1, bowled, 13, 18, 1, 0, 6, 37.4, 4, 140
+right, Right-arm fast-medium, 1, caught, 24, 17, 3, 0, 5, 48.4, 4, 311
+right, Right-arm fast-medium, 2, bowled, 35, 37, 3, 0, 6, 47.6, 5, 294
+right, Right-arm fast-medium, 1, caught, 50, 72, 4, 1, 7, 47.3, 9, 187
+right, Slow left-arm chinaman, 2, caught, 58, 88, 2, 2, 6, 47.3, 9, 222
+right, Right-arm fast, 2, caught, 33, 37, 4, 0, 6, 35.6, 4, 173
+right, Left-arm fast, 1, caught, 4, 7, 1, 0, 6, 9.2, 4, 43
+right, Left-arm fast, 2, caught, 26, 29, 2, 1, 6, 48.4, 6, 290
+right, Left-arm fast-medium, 2, caught, 5, 11, 1, 0, 6, 17.5, 4, 63
+right, Right-arm fast, 2, caught, 63, 77, 8, 0, 4, 44.1, 4, 225
+right, Right-arm fast, 1, caught, 4, 10, 0, 0, 6, 42.1, 6, 266
+right, Right-arm fast, 1, bowled, 49, 52, 4, 2, 5, 43.1, 3, 229
+right, Right-arm offbreak, 2, caught, 24, 32, 1, 0, 7, 37.4, 6, 195
+right, Right-arm fast, 1, caught, 37, 61, 1, 0, 6, 44.1, 7, 189
+right, Right-arm fast, 2, caught, 36, 66, 4, 0, 6, 30.3, 4, 149
+right, Left-arm fast-medium, 1, caught, 36, 37, 2, 1, 5, 47.6, 6, 240
+right, Left-arm medium-fast, 1, lbw, 24, 23, 5, 0, 6, 41.5, 4, 269
+right, Legbreak googly, 2, caught, 64, 59, 3, 2, 7, 48.2, 9, 290
+right, Left-arm medium-fast, 1, caught, 76, 96, 4, 0, 5, 48.4, 6, 290
+right, Right-arm offbreak, 2, bowled, 67, 62, 5, 1, 4, 37.6, 3, 253
+right, Left-arm fast-medium, 2, caught, 49, 74, 4, 0, 5, 34.2, 8, 160
+right, Right-arm offbreak, 1, caught, 6, 28, 0, 0, 6, 27.2, 5, 87
+right, Right-arm fast-medium, 2, bowled, 39, 54, 3, 0, 5, 35.5, 5, 135
+right, Right-arm offbreak, 1, caught, 76, 80, 8, 0, 6, 48.3, 7, 229
+right, Left-arm fast-medium, 1, caught, 71, 80, 4, 0, 5, 42.4, 4, 232
+right, Right-arm fast-medium, 2, bowled, 1, 7, 0, 0, 6, 19.3, 5, 85
+right, Right-arm fast-medium, 1, bowled, 39, 32, 3, 1, 6, 47.1, 4, 352
+right, Right-arm medium, 1, bowled, 15, 26, 1, 0, 6, 38.6, 4, 206
+right, Slow left-arm orthodox, 1, bowled, 9, 5, 0, 1, 5, 21.5, 3, 160
+right, Right-arm offbreak, 2, lbw, 50, 61, 5, 0, 4, 40.6, 3, 250
+right, Right-arm fast-medium, 1, caught, 23, 35, 0, 0, 6, 44.3, 6, 223
+right, Slow left-arm orthodox, 1, caught, 94, 96, 4, 2, 3, 33.3, 1, 202
+right, Slow left-arm orthodox, 2, caught, 53, 58, 1, 2, 6, 36.1, 6, 193
+right, Right-arm fast-medium, 1, caught, 68, 58, 5, 2, 5, 48.4, 3, 382
+right, Right-arm medium, 1, bowled, 9, 21, 1, 0, 6, 24.2, 4, 110
+right, Right-arm fast, 1, bowled, 95, 130, 6, 2, 5, 48.2, 9, 188
+right, Right-arm medium, 2, bowled, 8, 18, 0, 0, 6, 26.1, 5, 129
+right, Right-arm fast, 1, caught, 56, 62, 3, 0, 3, 36.3, 1, 205
+right, Legbreak googly, 2, lbw, 3, 9, 0, 0, 5, 23.5, 3, 133
+right, Right-arm fast-medium, 2, caught, 34, 46, 4, 0, 5, 37.2, 5, 186
+right, Left-arm fast, 1, caught, 124, 107, 9, 3, 5, 49.3, 4, 352
+right, Left-arm fast-medium, 2, caught, 26, 46, 2, 0, 5, 31.2, 4, 145
+right, Right-arm fast-medium, 2, caught, 6, 15, 0, 0, 5, 23.3, 3, 162
+right, Left-arm fast-medium, 1, lbw, 24, 77, 1, 0, 5, 30.1, 5, 75
+right, Right-arm fast-medium, 1, caught, 72, 53, 7, 3, 3, 36.1, 2, 311
+right, Right-arm offbreak, 1, caught, 107, 111, 8, 2, 5, 49.3, 5, 300
+right, Right-arm medium-fast, 1, caught, 37, 70, 3, 0, 5, 31.2, 3, 170
+right, Slow left-arm orthodox, 2, caught, 32, 35, 3, 0, 5, 36.1, 3, 201
+right, Right-arm fast-medium, 1, caught, 14, 19, 3, 0, 5, 8.5, 3, 47
+right, Right-arm fast-medium, 1, caught, 26, 29, 2, 0, 4, 23.1, 3, 138
+right, Right-arm fast, 2, caught, 9, 7, 0, 1, 5, 27.2, 3, 156
+right, Right-arm fast, 2, bowled, 56, 71, 2, 1, 4, 42.2, 4, 210
+right, Legbreak, 1, caught, 38, 50, 2, 1, 4, 32.2, 3, 167
+right, Right-arm medium-fast, 1, caught, 10, 16, 2, 0, 6, 21.6, 4, 71
+right, Right-arm offbreak, 1, caught, 38, 75, 3, 0, 6, 38.3, 5, 199
+right, Right-arm offbreak, 2, bowled, 67, 100, 5, 1, 5, 46.5, 9, 225
+right, Right-arm fast-medium, 2, bowled, 0, 1, 0, 0, 6, 43.6, 4, 257
+right, Left-arm fast-medium, 1, bowled, 38, 61, 1, 0, 5, 43.1, 5, 172
+right, Right-arm offbreak, 2, caught, 5, 12, 1, 0, 5, 19.5, 3, 69
+right, Slow left-arm orthodox, 2, caught, 2, 8, 0, 0, 6, 28.4, 4, 123
+right, Right-arm fast, 2, caught, 5, 10, 1, 0, 4, 8.3, 2, 45
+right, Right-arm medium-fast, 1, caught, 31, 25, 3, 1, 5, 46.1, 4, 305
+right, Slow left-arm orthodox, 2, lbw, 34, 50, 2, 0, 6, 40.1, 4, 167
+right, Legbreak, 1, stumped, 22, 30, 1, 0, 5, 41.4, 3, 218
+right, Right-arm fast, 2, caught, 7, 8, 1, 0, 6, 37.3, 4, 187
+right, Left-arm fast, 1, lbw, 25, 42, 2, 0, 6, 41.4, 5, 205
+right, Right-arm medium-fast, 1, caught, 33, 36, 2, 0, 7, 49.3, 5, 272
+right, Right-arm medium-fast, 1, caught, 6, 5, 1, 0, 6, 20.3, 4, 164
+right, Right-arm medium-fast, 1, caught, 69, 103, 5, 0, 6, 44.1, 5, 170
+right, Slow left-arm orthodox, 2, caught, 29, 38, 1, 0, 6, 25.2, 8, 128
+right, Right-arm fast-medium, 2, caught, 4, 5, 1, 0, 6, 33.4, 4, 167
+right, Right-arm fast-medium, 2, caught, 56, 84, 2, 1, 6, 37.2, 6, 149
+right, Right-arm fast-medium, 2, lbw, 14, 49, 0, 0, 6, 32.5, 6, 126
+right, Right-arm medium-fast, 1, caught, 35, 29, 3, 1, 6, 49.2, 5, 307
+right, Right-arm medium, 1, caught, 11, 16, 2, 0, 6, 14.1, 4, 60
+right, Right-arm fast, 2, bowled, 31, 49, 1, 0, 4, 35.1, 2, 180
+right, Right-arm fast, 1, caught, 58, 38, 8, 1, 7, 48.5, 6, 290
+right, Right-arm fast-medium, 1, caught, 36, 55, 1, 3, 6, 34.4, 6, 131
+right, Right-arm fast-medium, 2, caught, 32, 25, 0, 4, 6, 44.2, 5, 271
+right, Right-arm fast-medium, 1, caught, 72, 66, 7, 2, 6, 49.2, 5, 270
+right, Right-arm fast-medium, 2, caught, 19, 21, 2, 0, 6, 39.1, 4, 213
+right, Right-arm fast-medium, 1, lbw, 15, 23, 2, 0, 6, 21.1, 4, 79
+right, Left-arm fast-medium, 1, caught, 27, 26, 3, 0, 5, 46.2, 5, 291
+right, Right-arm medium, 1, caught, 0, 4, 0, 0, 6, 12.6, 4, 66
+right, Right-arm fast, 1, bowled, 27, 35, 1, 0, 6, 46.1, 5, 197
+right, Right-arm fast-medium, 2, bowled, 19, 22, 2, 0, 6, 40.4, 6, 196
+right, Right-arm fast, 2, bowled, 65, 71, 8, 1, 6, 40.2, 8, 217
+right, Right-arm fast-medium, 2, caught, 19, 31, 0, 0, 6, 19.5, 4, 74
+right, Left-arm fast-medium, 2, caught, 40, 46, 2, 2, 6, 42.3, 4, 224
+right, Left-arm medium-fast, 2, caught, 56, 44, 7, 1, 5, 39.1, 5, 257
+right, Left-arm medium-fast, 2, caught, 50, 60, 2, 3, 6, 35.4, 5, 184
+right, Right-arm offbreak, 2, caught, 47, 72, 3, 0, 6, 44.1, 7, 181
+right, Right-arm fast-medium, 1, bowled, 52, 51, 6, 0, 6, 48.3, 5, 288
+right, Right-arm fast-medium, 2, caught, 29, 42, 1, 1, 6, 36.5, 5, 173
+right, Right-arm medium-fast, 2, bowled, 8, 21, 0, 0, 6, 25.1, 4, 114
+right, Left-arm fast, 1, bowled, 19, 31, 2, 0, 6, 44.2, 4, 237
+right, Right-arm fast-medium, 1, caught, 34, 61, 1, 0, 6, 36.1, 5, 137
+right, Right-arm fast-medium, 1, lbw, 17, 32, 3, 0, 6, 42.6, 6, 164
+right, Right-arm fast-medium, 1, caught, 18, 13, 1, 1, 5, 49.1, 5, 296
+right, Right-arm fast, 1, caught, 18, 11, 3, 0, 6, 48.5, 6, 302
+right, Right-arm fast, 1, caught, 6, 11, 0, 0, 6, 48.6, 5, 296
+right, Slow left-arm orthodox, 2, caught, 5, 7, 0, 0, 6, 25.3, 4, 128
+right, Left-arm fast-medium, 1, caught, 47, 75, 3, 0, 4, 39.3, 5, 174
+right, Right-arm fast-medium, 1, caught, 69, 77, 6, 1, 4, 45.2, 4, 268
+right, Right-arm fast, 2, caught, 31, 30, 1, 0, 5, 49.4, 5, 297
+right, Right-arm fast, 2, caught, 47, 61, 5, 0, 4, 41.5, 2, 193
+right, Right-arm fast, 1, caught, 15, 16, 1, 0, 6, 49.5, 6, 299
+right, Legbreak googly, 2, bowled, 27, 29, 3, 0, 6, 34.2, 8, 219
+right, Left-arm fast-medium, 1, caught, 18, 13, 1, 1, 4, 48.2, 2, 286
+right, Right-arm fast-medium, 1, caught, 11, 10, 0, 0, 5, 45.6, 3, 276
+right, Right-arm fast-medium, 1, caught, 23, 9, 2, 2, 5, 48.5, 5, 288
+right, Right-arm fast-medium, 2, caught, 0, 3, 0, 0, 4, 37.6, 2, 277
+right, Right-arm medium, 2, caught, 34, 42, 1, 1, 5, 49.2, 3, 325
+right, Right-arm medium-fast, 2, caught, 39, 65, 3, 0, 5, 39.3, 5, 172
+right, Right-arm fast-medium, 2, caught, 80, 91, 6, 3, 4, 35.5, 2, 192
+right, Right-arm medium, 2, bowled, 11, 31, 0, 0, 4, 29.2, 3, 135
+right, Slow left-arm orthodox, 1, lbw, 41, 59, 4, 1, 4, 37.3, 2, 190
+right, Right-arm fast-medium, 2, caught, 6, 6, 1, 0, 5, 11.5, 3, 63
+right, Right-arm fast, 1, caught, 134, 122, 10, 6, 5, 47.6, 5, 358
+right, Right-arm fast-medium, 2, caught, 25, 36, 1, 1, 5, 31.4, 4, 173
+right, Right-arm medium-fast, 1, caught, 63, 52, 7, 2, 5, 49.2, 5, 307
+right, Right-arm medium-fast, 2, caught, 4, 16, 0, 0, 5, 13.3, 4, 54
+right, Right-arm fast-medium, 2, caught, 54, 114, 1, 0, 5, 48.6, 7, 176
+right, Left-arm fast-medium, 1, caught, 79, 88, 4, 2, 6, 49.4, 6, 277
+right, Right-arm fast-medium, 1, caught, 5, 10, 1, 0, 6, 39.1, 5, 204
+right, Right-arm fast-medium, 2, bowled, 13, 10, 1, 1, 7, 47.5, 6, 301
+right, Left-arm fast-medium, 1, caught, 25, 42, 2, 0, 6, 40.6, 4, 201
+right, Right-arm fast, 1, caught, 25, 17, 3, 0, 5, 49.1, 4, 331
+right, Right-arm medium-fast, 1, caught, 65, 87, 10, 2, 6, 38.2, 9, 112
+right, Right-arm medium-fast, 1, lbw, 7, 5, 0, 1, 4, 47.3, 2, 354
+right, Legbreak googly, 1, caught, 10, 22, 0, 0, 6, 41.3, 4, 228
+right, Right-arm fast, 1, caught, 13, 17, 1, 0, 7, 48.2, 6, 265

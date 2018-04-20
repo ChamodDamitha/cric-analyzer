@@ -14,7 +14,7 @@ for filename in glob.glob('Samples/Dismissals/*.json'):
     data = json.load(open(filename))
     with open('Samples/Dismissals/all_dismissals.csv', 'a') as file:
         for item in data:
-            if item['bowler'] and ('ball' in item) and ('scoreAt' in item):
+            if ('bowler' in item) and item['bowler'] and ('ball' in item) and ('scoreAt' in item):
                 scoreAt = item['scoreAt'].split('/')
                 line = item['batsman']['batting-hand'] + ', ' + item['bowler']['type'] + ', ' + \
                        item['team_innings'] + ', ' + item['dismissal']['wayOut'] + ', ' + \
