@@ -1,1 +1,2620 @@
-[{"bowler": {"type": "Right-arm offbreak", "name": "Ajantha Mendis"}, "Stadium": "Melbourne", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "16", "balls": "28", "4s": "0", "6s": "0", "batting_position": "1"}, "ball": "10.5", "opposition": {"country": "Sri Lanka", "total": "198 all out (40 Overs, RR: 4.95)"}, "team": {"country": "AUS ", "total": "305/5 (50 Overs, RR: 6.10)"}, "date": "11 Jan 2013", "scoreAt": "53/1", "description": "outside edge! Mendis strikes in his first over of his one-day comeback, it was bowled off the back of the hand, Finch was prodding forward, bounced a bit more and took the edge, no doubts about that"}, {"bowler": {"type": "Right-arm medium", "name": "Angelo Mathews"}, "Stadium": "Adelaide", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "4", "balls": "15", "4s": "0", "6s": "0", "batting_position": "1"}, "ball": "3.3", "opposition": {"country": "Sri Lanka", "total": "172/2 (40.1 Overs, RR: 4.28)"}, "team": {"country": "AUS ", "total": "170 all out (46.5 Overs, RR: 3.62)"}, "date": "13 Jan 2013", "scoreAt": "7/1", "description": "Finch is gone! A loose shot that, goodish length and he just pushed through uppishly, looped up to extra cover and ends up being an easy catch, Australia have lost one early"}, {"bowler": {"type": "Right-arm medium-fast", "name": "Jason Holder"}, "Stadium": "Perth", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "10", "balls": "6", "4s": "1", "6s": "0", "batting_position": "2"}, "ball": "3.3", "opposition": {"country": "West Indies", "total": "70 all out (23.5 Overs, RR: 2.93)"}, "team": {"country": "AUS ", "total": "71/1 (9.2 Overs, RR: 7.60)"}, "date": "1 Feb 2013", "scoreAt": "39/1", "description": "Mr DRS has been called into service. It was short of length outside off, the batsman stays in the crease and tries to flay his bat at that, it takes an outside edge, seemingly so, (I heard a noise), but the umpire says no. Being reviewed...Yes, it is out. Although it didn't show up clearly on the hot-spot, the noise was too loud to ignore. Holder 1 - hot-spot 0"}, {"bowler": {"type": "Right-arm medium-fast", "name": "Darren Sammy"}, "Stadium": "Canberra", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "38", "balls": "41", "4s": "5", "6s": "0", "batting_position": "2"}, "ball": "15.3", "opposition": {"country": "West Indies", "total": "290 all out (47.3 Overs, RR: 6.10)"}, "team": {"country": "AUS ", "total": "329/7 (50 Overs, RR: 6.58)"}, "date": "6 Feb 2013", "scoreAt": "89/1", "description": "oh no! Finch is not able to answer his detractors as he falls early again. It was a length ball outside off and he tries to play it towards third man - he has been doing it all morning - but it was too close. the ball kisses the edge and disappears in Thomas' gloves. Darren Sammy and Ben K worked him out.."}, {"bowler": {"type": "Right-arm fast", "name": "Tino Best"}, "Stadium": "Melbourne", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "1", "balls": "5", "4s": "0", "6s": "0", "batting_position": "2"}, "ball": "2.4", "opposition": {"country": "West Indies", "total": "257 all out (49.5 Overs, RR: 5.15)"}, "team": {"country": "AUS ", "total": "274/5 (50 Overs, RR: 5.48)"}, "date": "10 Feb 2013", "scoreAt": "2/2", "description": "Best gets the openers early! Best's landing the bouncers well this morning, this was directed at Finch's helmet, he couldn't resist the hook, the top edge swirls to fine leg, Narine takes it at the edge of the rope, at first it looked like going all the way"}, {"bowler": {"type": "Right-arm offbreak", "name": "Majid Haq"}, "Stadium": "Edinburgh", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "148", "balls": "114", "4s": "16", "6s": "7", "batting_position": "1"}, "ball": "38.2", "opposition": {"country": "Scotland", "total": "162 all out (43.5 Overs, RR: 3.69)"}, "team": {"country": "AUS ", "total": "362/3 (50 Overs, RR: 7.24)"}, "date": "3 Sep 2013", "scoreAt": "246/1", "description": "goes for another big shot! One too many as Coleman waits on the boundary and takes the chance, finally a break for Scotland but all too late"}, {"bowler": {"type": "Right-arm offbreak", "name": "James Tredwell"}, "Stadium": "Manchester", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "45", "balls": "45", "4s": "4", "6s": "1", "batting_position": "2"}, "ball": "21.5", "opposition": {"country": "England", "total": "227 all out (44.2 Overs, RR: 5.12)"}, "team": {"country": "AUS ", "total": "315/7 (50 Overs, RR: 6.30)"}, "date": "8 Sep 2013", "scoreAt": "116/3", "description": "goes for another big slog down the ground but picks out long-on! Finch has given it away, launching the ball flat and straight down the gullet of Joe Root on the fence, who barely has to move and swallows it without fuss"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Ben Stokes"}, "Stadium": "Southampton", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "26", "balls": "32", "4s": "6", "6s": "0", "batting_position": "2"}, "ball": "9.4", "opposition": {"country": "England", "total": "249 all out (48 Overs, RR: 5.18)"}, "team": {"country": "AUS ", "total": "298 all out (49.1 Overs, RR: 6.06)"}, "date": "16 Sep 2013", "scoreAt": "48/2", "description": "fullish, bit of width and Finch is tempted, doesn't get over a square drive and picks out Morgan first ball after the resumption! Not sure what Finch was thinking there, he surely could have done with a sighter, didn't need to go after that delivery but he's thrown away a promising start and the England players are singing in the post-rain"}, {"bowler": {"type": "Slow left-arm orthodox", "name": "Yuvraj Singh"}, "Stadium": "Pune", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "72", "balls": "79", "4s": "8", "6s": "3", "batting_position": "2"}, "ball": "27.1", "opposition": {"country": "India", "total": "232 all out (49.4 Overs, RR: 4.67)"}, "team": {"country": "AUS ", "total": "304/8 (50 Overs, RR: 6.08)"}, "date": "13 Oct 2013", "scoreAt": "146/3", "description": "flighted delivery outside off and Yuvraj is having a whale of a time as he gets Finch to go for the lofted shot, but ends up mishitting this straight up in the air, which carries to Virat Kohli, one of India's best fielders, who is waiting at long off. Big wicket for India as Finch was threatening to play a big innings"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Ishant Sharma"}, "Stadium": "Mohali", "team_innings": "2", "dismissal": {"wayOut": "lbw"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "38", "balls": "44", "4s": "6", "6s": "0", "batting_position": "2"}, "ball": "16.3", "opposition": {"country": "India", "total": "303/9 (50 Overs, RR: 6.06)"}, "team": {"country": "AUS ", "total": "304/6 (49.3 Overs, RR: 6.14)"}, "date": "19 Oct 2013", "scoreAt": "82/2", "description": "umpire raises the finger! Ishant has struck even though it struck him in front of leg and may have gone down leg. He angled it in, Finch was crammed for room on the back foot and the Indian players went up for Shamsuddin to raise his finger. It was very very close, hard to say if it was hitting or missing"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Mohammed Shami"}, "Stadium": "Ranchi", "team_innings": "1", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "5", "balls": "10", "4s": "1", "6s": "0", "batting_position": "1"}, "ball": "1.5", "opposition": {"country": "India", "total": "27/0 (4.1 Overs, RR: 6.48)"}, "team": {"country": "AUS ", "total": "295/8 (50 Overs, RR: 5.90)"}, "date": "23 Oct 2013", "scoreAt": "5/1", "description": "140 kph, back of a length and swings in slightly upon pitching. Finch plays outside of the line and the ball goes through the gate between bat and pad to remove the dangerous opening bat. Huge wicket for India as Finch has been consistently giving solid starts to Australia throughout the series"}, {"bowler": {"type": "Right-arm offbreak", "name": "Ravichandran Ashwin"}, "Stadium": "Nagpur", "team_innings": "1", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "20", "balls": "28", "4s": "3", "6s": "0", "batting_position": "2"}, "ball": "11.1", "opposition": {"country": "India", "total": "351/4 (49.3 Overs, RR: 7.09)"}, "team": {"country": "AUS ", "total": "350/6 (50 Overs, RR: 7.00)"}, "date": "30 Oct 2013", "scoreAt": "45/2", "description": "86 kph, length ball pitching on middle as Ashwin, who is coming round the wicket, breaches Finch's defences as he goes for an improvised flick, but fails to get bat on it. Ball castles into the stumps, and its two down now for the Australians"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Mohammed Shami"}, "Stadium": "Bengaluru", "team_innings": "2", "dismissal": {"wayOut": "lbw"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "5", "balls": "5", "4s": "1", "6s": "0", "batting_position": "1"}, "ball": "1.2", "opposition": {"country": "India", "total": "383/6 (50 Overs, RR: 7.66)"}, "team": {"country": "AUS ", "total": "326 all out (45.1 Overs, RR: 7.21)"}, "date": "2 Nov 2013", "scoreAt": "7/1", "description": "Shami strikes! Pitched it on length on middle and was heading towards the stumps as it hit Finch's pads in front of leg. The umpire's finger went up immediately but not sure if that would have hit the stumps for sure"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Ben Stokes"}, "Stadium": "Melbourne", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "121", "balls": "128", "4s": "12", "6s": "0", "batting_position": "1"}, "ball": "39.3", "opposition": {"country": "England", "total": "269/7 (50 Overs, RR: 5.38)"}, "team": {"country": "AUS ", "total": "270/4 (45.4 Overs, RR: 5.91)"}, "date": "12 Jan 2014", "scoreAt": "237/3", "description": "bottom hand comes off the bat, a sliced drive soars down to third man... and, me oh my, Ballance pouches it! A wicket for Stokes, a catch for Ballance and a standing salute for Finch. If the same fielder had taken a much easier chance 113 runs ago, this might have been a different game. Never mind that, though, twas a cracking innings"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Chris Jordan"}, "Stadium": "Brisbane", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "0", "balls": "3", "4s": "0", "6s": "0", "batting_position": "2"}, "ball": "1.3", "opposition": {"country": "England", "total": "300/8 (50 Overs, RR: 6.00)"}, "team": {"country": "AUS ", "total": "301/9 (49.3 Overs, RR: 6.08)"}, "date": "17 Jan 2014", "scoreAt": "6/1", "description": "Finch decides to go for the lofted shot through extra-cover, but hits it quite feebly to the man at mid-off, who takes a nonchalant one-handed catch with his right"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Chris Jordan"}, "Stadium": "Sydney", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "22", "balls": "20", "4s": "3", "6s": "0", "batting_position": "1"}, "ball": "6.6", "opposition": {"country": "England", "total": "243/9 (50 Overs, RR: 4.86)"}, "team": {"country": "AUS ", "total": "244/3 (40 Overs, RR: 6.10)"}, "date": "19 Jan 2014", "scoreAt": "43/1", "description": "Jordan has struck! The runs were flowing but Finch couldn't stop himself driving hard in the air and there is a man at cover who has no trouble holding this catch. He'll be disappointed with himself there - just couldn't keep that along the ground"}, {"bowler": {"type": "Right-arm medium-fast", "name": "Tim Bresnan"}, "Stadium": "Perth", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "108", "balls": "111", "4s": "8", "6s": "4", "batting_position": "2"}, "ball": "35.2", "opposition": {"country": "England", "total": "316/8 (50 Overs, RR: 6.32)"}, "team": {"country": "AUS ", "total": "259 all out (47.4 Overs, RR: 5.43)"}, "date": "24 Jan 2014", "scoreAt": "189/5", "description": "massive moment! Finch guides a short-of-a-length delivery towards third man where Broad runs around the rope and holds a well-judged catch"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Stuart Broad"}, "Stadium": "Adelaide", "team_innings": "1", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "7", "balls": "16", "4s": "1", "6s": "0", "batting_position": "1"}, "ball": "4.4", "opposition": {"country": "England", "total": "212 all out (49.4 Overs, RR: 4.26)"}, "team": {"country": "AUS ", "total": "217/9 (50 Overs, RR: 4.34)"}, "date": "26 Jan 2014", "scoreAt": "14/1", "description": "gone this time! Finch can't make the most of his two lives. Excellent delivery from Broad, on a full length and nips back at Finch who is caught on the back foot and loses his off stump as he tries to get his bat down. Just checking the no-ball, but something was ground behind the line"}, {"bowler": {"type": "Right-arm offbreak", "name": "John Nyumbu"}, "Stadium": "Harare", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "67", "balls": "79", "4s": "5", "6s": "3", "batting_position": "1"}, "ball": "29.3", "opposition": {"country": "Zimbabwe", "total": "152 all out (39.3 Overs, RR: 3.84)"}, "team": {"country": "AUS ", "total": "350/6 (50 Overs, RR: 7.00)"}, "date": "25 Aug 2014", "scoreAt": "145/2", "description": "Finch has smoked this straight to backward square leg, this was set to disappear too, overpitched, on the pads, Finch bent for the sweep, and powered it to the fielder"}, {"bowler": {"type": "Right-arm medium-fast", "name": "Ryan McLaren"}, "Stadium": "Harare", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "102", "balls": "116", "4s": "9", "6s": "1", "batting_position": "1"}, "ball": "39.2", "opposition": {"country": "South Africa", "total": "328/3 (46.4 Overs, RR: 7.02)"}, "team": {"country": "AUS ", "total": "327/7 (50 Overs, RR: 6.54)"}, "date": "27 Aug 2014", "scoreAt": "229/3", "description": "and he's gone. That was short outside off, and he couldn't quite control the pull from above shoulder height, and deep square leg comes in a few yards and takes the simplest of catches"}, {"bowler": {"type": "Right-arm offbreak", "name": "John Nyumbu"}, "Stadium": "Harare", "team_innings": "1", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "11", "balls": "12", "4s": "2", "6s": "0", "batting_position": "1"}, "ball": "3.1", "opposition": {"country": "Zimbabwe", "total": "211/7 (48 Overs, RR: 4.39)"}, "team": {"country": "AUS ", "total": "209/9 (50 Overs, RR: 4.18)"}, "date": "31 Aug 2014", "scoreAt": "11/1", "description": "oh, he's bowled'im! Nyumbu pitches it outside off on length, not much flight there, and it spun in, finch played for more turn and was beaten. He didn't use his feet much and was probably caught in two minds. And Nyumbu broke into a jig again!"}, {"bowler": {"type": "Right-arm medium-fast", "name": "Ryan McLaren"}, "Stadium": "Harare", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "16", "balls": "36", "4s": "1", "6s": "0", "batting_position": "1"}, "ball": "10.3", "opposition": {"country": "South Africa", "total": "220 all out (44 Overs, RR: 5.00)"}, "team": {"country": "AUS ", "total": "282/7 (50 Overs, RR: 5.64)"}, "date": "2 Sep 2014", "scoreAt": "46/1", "description": "oh Finch has given it away! It was full and wide and Finch probably got tempted, went for a big lofted drive on the off side but holed out straight to the man in the deep for an easy catch. He wanted to break the shackles, but could not"}, {"bowler": {"type": "Right-arm fast", "name": "Dale Steyn"}, "Stadium": "Harare", "team_innings": "1", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "54", "balls": "87", "4s": "5", "6s": "0", "batting_position": "1"}, "ball": "28.1", "opposition": {"country": "South Africa", "total": "221/4 (40.5 Overs, RR: 5.41)"}, "team": {"country": "AUS ", "total": "217/9 (50 Overs, RR: 4.34)"}, "date": "6 Sep 2014", "scoreAt": "115/4", "description": "Finch goes extinct! The theory of evolution would tell you that Finch was a bit uncomfortable in the environment and was not going to last long. (Maybe there will be new improved version soon). This one jags back in from Steyn and takes out the middle as the batsman pushes limply outside the line, leaving a gap between bat and pad. Excellent delivery"}, {"bowler": {"type": "Left-arm fast", "name": "Mohammad Irfan"}, "Stadium": "Dubai (DSC)", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "14", "balls": "12", "4s": "3", "6s": "0", "batting_position": "2"}, "ball": "3.6", "opposition": {"country": "Pakistan", "total": "215 all out (49.3 Overs, RR: 4.34)"}, "team": {"country": "AUS ", "total": "217/5 (43.2 Overs, RR: 5.00)"}, "date": "10 Oct 2014", "scoreAt": "22/1", "description": "beaten again, has he edged it! Misbah is reviewing it. It was outside off, Finch stayed back to defend it, the ball angled across after pitching on middle and the Pakistan players seem confident of an edge. It didn't look like there was enough evidence to overturn the decision, but there was a noise for sure when the ball passed the bat. Not 100% proof, but maybe enough for the third umpire"}, {"bowler": {"type": "Right-arm medium-fast", "name": "Anwar Ali"}, "Stadium": "Abu Dhabi", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "18", "balls": "34", "4s": "3", "6s": "0", "batting_position": "1"}, "ball": "10.3", "opposition": {"country": "Pakistan", "total": "230 all out (50 Overs, RR: 4.60)"}, "team": {"country": "AUS ", "total": "231/9 (50 Overs, RR: 4.62)"}, "date": "12 Oct 2014", "scoreAt": "48/1", "description": "practice catch for mid-on! Anwar Ali breaks the stand. It was short of length outside off, Finch didn't move much and was maybe it two minds to punch it down the ground or clear mid-on and ended up chipping it to Irfan at mid-on. Finch's poor run on the tour continues"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Vernon Philander"}, "Stadium": "Perth", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "35", "balls": "40", "4s": "4", "6s": "1", "batting_position": "2"}, "ball": "14.4", "opposition": {"country": "South Africa", "total": "268 all out (48.1 Overs, RR: 5.56)"}, "team": {"country": "AUS ", "total": "300/8 (50 Overs, RR: 6.00)"}, "date": "14 Nov 2014", "scoreAt": "94/2", "description": "oh another, Philander gets Finch too! He moved the delivery away from Finch from outside off, the batsman pushed at it away from the body and the ball did enough to take an edge for an easy catch for de Kock"}, {"bowler": {"type": "Right-arm fast", "name": "Dale Steyn"}, "Stadium": "Perth", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "8", "balls": "14", "4s": "0", "6s": "1", "batting_position": "2"}, "ball": "4.3", "opposition": {"country": "South Africa", "total": "157/7 (27.4 Overs, RR: 5.67)"}, "team": {"country": "AUS ", "total": "154 all out (41.4 Overs, RR: 3.69)"}, "date": "16 Nov 2014", "scoreAt": "14/2", "description": "he's gone this time, and the bowling change working, it is the taller Morkel who is positioned at mid on, Finch drives this angled length delivery on the up, and Morkel stretches his hands over his head to take it, Steyn pumps his fist and lets out a roar"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Vernon Philander"}, "Stadium": "Canberra", "team_innings": "1", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "109", "balls": "127", "4s": "9", "6s": "3", "batting_position": "1"}, "ball": "40.2", "opposition": {"country": "South Africa", "total": "256 all out (44.3 Overs, RR: 5.75)"}, "team": {"country": "AUS ", "total": "329/5 (50 Overs, RR: 6.58)"}, "date": "19 Nov 2014", "scoreAt": "242/3", "description": "AB's got the big wicket of Finch! Regular length delivery on the off stump, Finch went for a wild slog on the leg side and missed it completely. The ball crashed in to off and middle stumps"}, {"bowler": {"type": "Left-arm medium-fast", "name": "Wayne Parnell"}, "Stadium": "Melbourne", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "22", "balls": "37", "4s": "2", "6s": "0", "batting_position": "1"}, "ball": "13.2", "opposition": {"country": "South Africa", "total": "267/8 (50 Overs, RR: 5.34)"}, "team": {"country": "AUS ", "total": "268/7 (49 Overs, RR: 5.46)"}, "date": "21 Nov 2014", "scoreAt": "48/3", "description": "got him! It's a short ball and Finch has pulled it uppishly, straight down the throat of the man at deep square leg"}, {"bowler": {"type": "Slow left-arm orthodox", "name": "Robin Peterson"}, "Stadium": "Sydney", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "76", "balls": "67", "4s": "11", "6s": "0", "batting_position": "2"}, "ball": "21.5", "opposition": {"country": "South Africa", "total": "280/6 (50 Overs, RR: 5.60)"}, "team": {"country": "AUS ", "total": "275/8 (47.1 Overs, RR: 5.83)"}, "date": "23 Nov 2014", "scoreAt": "137/2", "description": "tossed up on off stump as Finch lifts it. He's struck this really welll, which is why it carries as far as Faf on the edge of the extra cover boundary. Takes it with a reverse cup, but his momentum was taking him back, so he throws it to team-mate Rossouw who completes the catch. Needed a bit of brilliance like that to dislodge Finch"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Chris Woakes"}, "Stadium": "Sydney", "team_innings": "2", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "15", "balls": "18", "4s": "3", "6s": "0", "batting_position": "2"}, "ball": "6.2", "opposition": {"country": "England", "total": "234 all out (47.5 Overs, RR: 4.89)"}, "team": {"country": "AUS ", "total": "235/7 (39.5 Overs, RR: 5.89)"}, "date": "16 Jan 2015", "scoreAt": "33/1", "description": "he's chopped it on, Finch is gone! Finch didn't move much for the ball that held its line after pitching outside off on back of length, he stayed back to punch it on the off side but got an inside edge that took his off stump"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Umesh Yadav"}, "Stadium": "Melbourne", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "96", "balls": "127", "4s": "5", "6s": "2", "batting_position": "1"}, "ball": "40.1", "opposition": {"country": "India", "total": "267/8 (50 Overs, RR: 5.34)"}, "team": {"country": "AUS ", "total": "269/6 (49 Overs, RR: 5.48)"}, "date": "18 Jan 2015", "scoreAt": "219/4", "description": "nicks to the keeper! Finch misses out on a hundred on his home ground. Looks to force a short ball that seems to gain a bit more bounce than he expected. Feather through the keeper gives India a bit of a boost"}, {"bowler": {"type": "Right-arm offbreak", "name": "Moeen Ali"}, "Stadium": "Hobart", "team_innings": "2", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "32", "balls": "32", "4s": "3", "6s": "0", "batting_position": "1"}, "ball": "11.4", "opposition": {"country": "England", "total": "303/8 (50 Overs, RR: 6.06)"}, "team": {"country": "AUS ", "total": "304/7 (49.5 Overs, RR: 6.10)"}, "date": "23 Jan 2015", "scoreAt": "76/1", "description": "bowled him! That was a poor shot from Finch, slogging across the line to a full, straight ball, and I think he may have yorked himself"}, {"bowler": {"type": "Right-arm fast-medium", "name": "James Anderson"}, "Stadium": "Perth", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "0", "balls": "3", "4s": "0", "6s": "0", "batting_position": "1"}, "ball": "0.3", "opposition": {"country": "England", "total": "166 all out (39.1 Overs, RR: 4.23)"}, "team": {"country": "AUS ", "total": "278/8 (50 Overs, RR: 5.56)"}, "date": "1 Feb 2015", "scoreAt": "0/1", "description": "terrific stuff from Anderson, and he needs three balls to strike, excellent delivery again, short of a length, bouncing and straightening just outside off, Finch is hopping as he prods from the crease and the ball carries nicely to first slip"}, {"bowler": {"type": "Right-arm medium-fast", "name": "Tim Southee"}, "Stadium": "Auckland", "team_innings": "1", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "14", "balls": "7", "4s": "1", "6s": "1", "batting_position": "1"}, "ball": "2.2", "opposition": {"country": "New Zealand", "total": "152/9 (23.1 Overs, RR: 6.56)"}, "team": {"country": "AUS ", "total": "151 all out (32.2 Overs, RR: 4.67)"}, "date": "28 Feb 2015", "scoreAt": "30/1", "description": "Southee draws first blood, the crowd erupts! He took the risk of pitching it up again just outside off, swung it in a bit and the ball went through the drive Finch unleashed. Off stump knocked over, Southee pumps his fists and is mobbed by his team-mates"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Dawlat Zadran"}, "Stadium": "Perth", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "4", "balls": "9", "4s": "0", "6s": "0", "batting_position": "2"}, "ball": "2.6", "opposition": {"country": "Afghanistan", "total": "142 all out (37.3 Overs, RR: 3.78)"}, "team": {"country": "AUS ", "total": "417/6 (50 Overs, RR: 8.34)"}, "date": "4 Mar 2015", "scoreAt": "14/1", "description": "beautiful over. Perfect seam and swing bowling. A few outswingers, then inswinger from wide on the crease, and ends up with a sucker punch of an outswinger. Full, just outside off, Finch thinks he can drive at it, but it is not quite as full as he expects. Which means there is time for the ball to move and take the edge through to first slip where Nawroz Mangal takes a smart low catch"}, {"bowler": {"type": "Legbreak", "name": "Seekkuge Prasanna"}, "Stadium": "Sydney", "team_innings": "1", "dismissal": {"wayOut": "stumped"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "24", "balls": "24", "4s": "3", "6s": "0", "batting_position": "1"}, "ball": "8.4", "opposition": {"country": "Sri Lanka", "total": "312 all out (46.2 Overs, RR: 6.73)"}, "team": {"country": "AUS ", "total": "376/9 (50 Overs, RR: 7.52)"}, "date": "8 Mar 2015", "scoreAt": "41/2", "description": "Prasanna you beauty! Removes the ever-dangerous Finch with a slider down the leg side which Finch attacked early as he played down the wrong line. Sangakkara does the rest as he picks this up and flicks the bails in one fluid motion as Finch looks back disconcertingly. Huge roar from the Sri Lankans as Finch makes his way back to the pavilion"}, {"bowler": {"type": "Left-arm medium", "name": "Rob Taylor"}, "Stadium": "Hobart", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "20", "balls": "10", "4s": "3", "6s": "1", "batting_position": "2"}, "ball": "3.6", "opposition": {"country": "Scotland", "total": "130 all out (25.4 Overs, RR: 5.06)"}, "team": {"country": "AUS ", "total": "133/3 (15.2 Overs, RR: 8.67)"}, "date": "14 Mar 2015", "scoreAt": "30/1", "description": "gone! Another drive in the air, but this time he's hit it too close to cover, who takes it well, low, in both hands, diving forward. Taylor did well to bowl it full again, but not as wide as the previous ball, and Finch pushed hard at it, way out in front of his body"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Sohail Khan"}, "Stadium": "Adelaide", "team_innings": "2", "dismissal": {"wayOut": "lbw"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "2", "balls": "5", "4s": "0", "6s": "0", "batting_position": "2"}, "ball": "2.3", "opposition": {"country": "Pakistan", "total": "213 all out (49.5 Overs, RR: 4.27)"}, "team": {"country": "AUS ", "total": "216/4 (33.5 Overs, RR: 6.38)"}, "date": "20 Mar 2015", "scoreAt": "15/1", "description": "pitched up, this jags back at Finch and raps him on the pads, Sohail implores for the decision... and Dharmasena gives it! Finch, after a brief conversation with his partner, asks for the review but it only takes a quick look to release this was foolishness. Not much footwork and the ball zipped in with the arm, past the inside edge as he played to leg, and it was crashing into the woodwork halfway up. The finger points skywards for a second time and Pakistan celebrate to the heavens"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Umesh Yadav"}, "Stadium": "Sydney", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "81", "balls": "116", "4s": "7", "6s": "1", "batting_position": "1"}, "ball": "38.2", "opposition": {"country": "India", "total": "233 all out (46.5 Overs, RR: 4.97)"}, "team": {"country": "AUS ", "total": "328/7 (50 Overs, RR: 6.56)"}, "date": "26 Mar 2015", "scoreAt": "233/4", "description": "good sharp short ball. India are clawing back. They could still keep Australia down to a manageable total. Only Yadav has been able to hurry the batsmen with the short ball. Finch is hurried into this again. This is just outside off, chest high, and does him for the pace. The edge is taken, and caught at midwicket. A hard-working team-man innings from Finch comes to an end"}, {"bowler": {"type": "Left-arm fast-medium", "name": "Trent Boult"}, "Stadium": "Melbourne", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "0", "balls": "5", "4s": "0", "6s": "0", "batting_position": "2"}, "ball": "1.4", "opposition": {"country": "New Zealand", "total": "183 all out (45 Overs, RR: 4.06)"}, "team": {"country": "AUS ", "total": "186/3 (33.1 Overs, RR: 5.6)"}, "date": "29 Mar 2015", "scoreAt": "2/1", "description": "inswinger to Finch, played on to his front pad, it loops back to the bowler... got him! There's the first, New Zealand are amongst them! Finch waits for the umpire's raised finger but he knew what was occurring. Tried to tuck a fullish ball off his legs, bat turned in the hands and it ballooned up for a simple catch"}, {"bowler": {"type": "Legbreak", "name": "Adil Rashid"}, "Stadium": "Manchester", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "53", "balls": "60", "4s": "8", "6s": "0", "batting_position": "2"}, "ball": "21.4", "opposition": {"country": "England", "total": "300/8 (50 Overs, RR: 6.00)"}, "team": {"country": "AUS ", "total": "207 all out (44 Overs, RR: 4.70)"}, "date": "8 Sep 2015", "scoreAt": "106/3", "description": "Finch tries to tee off... and hits it straight up and down into the safe hands of Woakes running in from long-on! Rashid has a second, he's been a struggle to score off and Finch was trying to break the shackles, a moment of Hulk-like violence but he is soon slinking off looking more like Bruce Banner"}, {"bowler": {"type": "Left-arm fast-medium", "name": "David Willey"}, "Stadium": "Leeds", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "15", "balls": "27", "4s": "2", "6s": "0", "batting_position": "2"}, "ball": "8.3", "opposition": {"country": "England", "total": "304/7 (48.2 Overs, RR: 6.28)"}, "team": {"country": "AUS ", "total": "299/7 (50 Overs, RR: 5.98)"}, "date": "11 Sep 2015", "scoreAt": "30/3", "description": "goes on with the arm, Finch feels for it and nicks off! Willey fell over in his follow through and had to appeal from the floor - but it's Australia who looking unsteady on their feet, three down for spit. Willey has been mixing up inswingers with bother-balls in the channel, Finch wasn't quite sure what was coming and just got a thin snick through to Bairstow"}, {"bowler": {"type": "Left-arm medium", "name": "Barinder Sran"}, "Stadium": "Perth", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "8", "balls": "11", "4s": "1", "6s": "0", "batting_position": "1"}, "ball": "2.3", "opposition": {"country": "India", "total": "309/3 (50 Overs, RR: 6.18)"}, "team": {"country": "AUS ", "total": "310/5 (49.2 Overs, RR: 6.28)"}, "date": "12 Jan 2016", "scoreAt": "9/1", "description": "sharp return catch! Maiden international wicket for Sran in his second over. He is mobbed by his team-mates. Subdued celebrations overall. Sran lands it full and outside off at 136.5ks, Finch wants to drill a drive, but the bat twists in his hand. He hits it back to the bowler. Sran gets both hands to his right and hangs onto the catch"}, {"bowler": {"type": "Slow left-arm orthodox", "name": "Ravindra Jadeja"}, "Stadium": "Brisbane", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "71", "balls": "81", "4s": "7", "6s": "1", "batting_position": "1"}, "ball": "24.5", "opposition": {"country": "India", "total": "308/8 (50 Overs, RR: 6.16)"}, "team": {"country": "AUS ", "total": "309/3 (49 Overs, RR: 6.30)"}, "date": "15 Jan 2016", "scoreAt": "145/1", "description": "that's the Test world-record holder! Rahane has pulled off a blinder at long-off! This was another that Finch thought he could smoke over extra, and so he did. Except this time he had hit it in the air and gave that fielder a chance. Rahane moves swiftly to his left, eyes on the ball all the way, dives forward and grabs the ball inches from the turf. Brilliant"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Umesh Yadav"}, "Stadium": "Melbourne", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "21", "balls": "23", "4s": "3", "6s": "0", "batting_position": "2"}, "ball": "7.1", "opposition": {"country": "India", "total": "295/6 (50 Overs, RR: 5.90)"}, "team": {"country": "AUS ", "total": "296/7 (48.5 Overs, RR: 6.06)"}, "date": "17 Jan 2016", "scoreAt": "48/1", "description": "a wicket finally. The outside edge has been found courtesy some late movement. Good length, drew him forward, Finch went for the drive, but the foot was nowhere to the pitch of the ball, gets a thin edge which MS accepts gleefully. The manner in which he threw the ball up after pouching that had relief written all over it. He doesn't generally get very animated after taking a catch, he was this time."}, {"bowler": {"type": "Right-arm fast-medium", "name": "Umesh Yadav"}, "Stadium": "Canberra", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "107", "balls": "107", "4s": "9", "6s": "2", "batting_position": "2"}, "ball": "37.3", "opposition": {"country": "India", "total": "323 all out (49.2 Overs, RR: 6.54)"}, "team": {"country": "AUS ", "total": "348/8 (50 Overs, RR: 6.96)"}, "date": "20 Jan 2016", "scoreAt": "221/2", "description": "Ishant takes the catch from mid-on. Good length on off, Finch goes for the pull but the ball bounces and takes the outside half. The ball lobs up and Ishant runs around from mid-on, even as Kohli from midwicket was running back. Ishant keeps his eyes on the ball and hangs on comfortably. And then has a word with Kohli. Big wicket, nonetheless, and a very timely one"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Ishant Sharma"}, "Stadium": "Sydney", "team_innings": "1", "dismissal": {"wayOut": "lbw"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "6", "balls": "6", "4s": "1", "6s": "0", "batting_position": "1"}, "ball": "0.6", "opposition": {"country": "India", "total": "331/4 (49.4 Overs, RR: 6.66)"}, "team": {"country": "AUS ", "total": "330/7 (50 Overs, RR: 6.60)"}, "date": "23 Jan 2016", "scoreAt": "6/1", "description": "given! What a delivery that is. Ducks back in prodigiously to hit Finch outside the line of off stump. But he wasn't offering a stroke. Umpire Kettleborough had no hesitation and raised his finger immediately but did that nip back in enough? Lots of swing for Ishant, the first time we have seen as much in this series."}, {"bowler": {"type": "Right-arm medium-fast", "name": "Jason Holder"}, "Stadium": "Providence", "team_innings": "2", "dismissal": {"wayOut": "lbw"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "19", "balls": "30", "4s": "4", "6s": "0", "batting_position": "2"}, "ball": "7.4", "opposition": {"country": "West Indies", "total": "116 all out (32.3 Overs, RR: 3.56)"}, "team": {"country": "AUS ", "total": "117/4 (25.4 Overs, RR: 4.55)"}, "date": "5 Jun 2016", "scoreAt": "44/1", "description": "plumb in front! Full and straight, Finch shuffles across, trying to flick over midwicket but just plain misses a straight one. The umpire's finger was up quicker than I could say out. Easy decision, Finch doesn't bother reviewing."}, {"bowler": {"type": "Slow left-arm orthodox", "name": "Aaron Phangiso"}, "Stadium": "Providence", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "72", "balls": "103", "4s": "6", "6s": "3", "batting_position": "2"}, "ball": "30.3", "opposition": {"country": "South Africa", "total": "189/9 (50 Overs, RR: 3.78)"}, "team": {"country": "AUS ", "total": "142 all out (34.2 Overs, RR: 4.13)"}, "date": "7 Jun 2016", "scoreAt": "113/9", "description": "Finch clears his front leg and holes out! AB pumps his fist and is mobbed by his team-mates. Finch stepped away outside leg in a bid to open up the off side. He is cramped for room by another quicker ball. 90.3ks. He ends up slicing a drive. AB dives full-stretch to his right at extra cover and pouches it"}, {"bowler": {"type": "Legbreak googly", "name": "Imran Tahir"}, "Stadium": "Basseterre", "team_innings": "1", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "13", "balls": "28", "4s": "2", "6s": "0", "batting_position": "2"}, "ball": "9.6", "opposition": {"country": "South Africa", "total": "252 all out (47.4 Overs, RR: 5.28)"}, "team": {"country": "AUS ", "total": "288/6 (50 Overs, RR: 5.76)"}, "date": "11 Jun 2016", "scoreAt": "48/1", "description": "gone. Finch persists with the sweep. Flat on off, the quicker delivery. Finch clears a front foot and tries to smash his sweep through square leg but was quite far from the ball. The ball missed his cross-batted swat and clattered into off stump. Tahir sets off in typical fashion. Finch struggled for any fluency in that knock."}, {"bowler": {"type": "Right-arm medium-fast", "name": "Jason Holder"}, "Stadium": "Basseterre", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "0", "balls": "1", "4s": "0", "6s": "0", "batting_position": "2"}, "ball": "0.4", "opposition": {"country": "West Indies", "total": "266/6 (45.4 Overs, RR: 5.82)"}, "team": {"country": "AUS ", "total": "265/7 (50 Overs, RR: 5.30)"}, "date": "13 Jun 2016", "scoreAt": "1/1", "description": "swing and bounce! Finch has nicked off for a duck. He inspects the pitch as he walks off. Good length and nibbles away a touch outside off, Holder's height means that he generates extra bounce. Finch has a weak waft, pressing forward at it, and edges it to lone slip. It actually popped off the shoulder of the bat to Benn. Big lift! He takes it just below his chest"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Carlos Brathwaite"}, "Stadium": "Bridgetown", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "16", "balls": "11", "4s": "3", "6s": "0", "batting_position": "2"}, "ball": "4.3", "opposition": {"country": "West Indies", "total": "282/8 (50 Overs, RR: 5.64)"}, "team": {"country": "AUS ", "total": "283/4 (48.4 Overs, RR: 5.81)"}, "date": "21 Jun 2016", "scoreAt": "35/1", "description": "uppish and there's the first wicket. Finch is clearly hustled for pace as he hops back to whip it to square leg. He had to fetch the ball from outside off as the extra bounce means the ball lobs off the leading edge to mid-on. Brathwaite is pumped as he leaps in joy to celebrate that. So the bowling change has worked for the hosts!"}, {"bowler": {"type": "Right-arm medium-fast", "name": "Kieron Pollard"}, "Stadium": "Bridgetown", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "47", "balls": "41", "4s": "6", "6s": "1", "batting_position": "2"}, "ball": "12.3", "opposition": {"country": "West Indies", "total": "212 all out (45.4 Overs, RR: 4.64)"}, "team": {"country": "AUS ", "total": "270/9 (50 Overs, RR: 5.40)"}, "date": "26 Jun 2016", "scoreAt": "69/2", "description": "KP strikes in his first over and nearly does a Tahir, again. He looks towards the stands, perhaps, and does the finger-on-the-lip celebration. The lack of pace does Finch in. Back of a length incutter, comes in from outside off at 115ks, Finch aims to force it from there. This means that he drags a catch to Samuels at deep midwicket"}, {"bowler": {"type": "Slow left-arm orthodox", "name": "Amila Aponso"}, "Stadium": "Colombo (RPS)", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "56", "balls": "46", "4s": "7", "6s": "2", "batting_position": "2"}, "ball": "14.2", "opposition": {"country": "Sri Lanka", "total": "227/8 (50 Overs, RR: 4.54)"}, "team": {"country": "AUS ", "total": "228/7 (46.5 Overs, RR: 4.86)"}, "date": "21 Aug 2016", "scoreAt": "79/2", "description": "another appeal for caught behind. Not given. Umpire Dar's review. Mathews collected it cleanly. The on-field umpires want to check whether it was a bump ball. Certainly not. TV umpire Gough looks for the nick. There was a noise. It could have come from the bat thudding the ground. No visible deflection. No conclusive evidence, yet. Tight, tight call for Gough. He looks at various replays and rules Finch out. Nice, low take from Mathews. Finch looks disgruntled. Smith chats with the umpires. Aponso has his maiden international scalp. This pitched just outside off and spun sharply at Finch. He flung his bat down and gave an edge to slip. Hmm, not sure if there was an edge, though"}, {"bowler": {"type": "Right-arm medium-fast", "name": "Thisara Perera"}, "Stadium": "Colombo (RPS)", "team_innings": "2", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "4", "balls": "7", "4s": "0", "6s": "0", "batting_position": "2"}, "ball": "3.3", "opposition": {"country": "Sri Lanka", "total": "288 all out (48.5 Overs, RR: 5.89)"}, "team": {"country": "AUS ", "total": "206 all out (47.2 Overs, RR: 4.35)"}, "date": "24 Aug 2016", "scoreAt": "16/2", "description": "make it two for this Perera, he's got both openers out of the way! This one was not on hittable length outisde off, Finch went ahead with his slog for the leg side but only managed an inside edge onto the middle stump!"}, {"bowler": {"type": "Slow left-arm orthodox", "name": "Amila Aponso"}, "Stadium": "Dambulla", "team_innings": "2", "dismissal": {"wayOut": "lbw"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "30", "balls": "29", "4s": "3", "6s": "1", "batting_position": "2"}, "ball": "7.3", "opposition": {"country": "Sri Lanka", "total": "226 all out (49.2 Overs, RR: 4.58)"}, "team": {"country": "AUS ", "total": "227/8 (46 Overs, RR: 4.93)"}, "date": "28 Aug 2016", "scoreAt": "42/2", "description": "big big appeal from Aponso, Aleem Dar raises the finger, Finch has a short chat and walks off without reviewing it. This was looped towards the stumps and Finch tried to defend by covering them all, maybe he played for the turn but the ball angled in and trapped him right in front. Was it headed a bit too much towards leg though?"}, {"bowler": {"type": "Slow left-arm orthodox", "name": "Sachith Pathirana"}, "Stadium": "Dambulla", "team_innings": "2", "dismissal": {"wayOut": "lbw"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "55", "balls": "19", "4s": "8", "6s": "3", "batting_position": "2"}, "ball": "5.3", "opposition": {"country": "Sri Lanka", "total": "212 all out (50 Overs, RR: 4.24)"}, "team": {"country": "AUS ", "total": "217/4 (31 Overs, RR: 7.00)"}, "date": "31 Aug 2016", "scoreAt": "74/1", "description": "Pathirana pleads and pleads and pleads and finally umpire Palliyaguruge says yes. Finch given lbw, but he reviews. Pushed through on middle, Finch went for the premeditated sweep, his front foot was across, and he was hit on the edge of his front pad. Hit well in line. But would that go on to knock over leg stump? Oh, HawkEye says it would just clip it! The ball and the stump are almost tangential! The finest of margins, working in Sri Lanka's favour"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Andile Phehlukwayo"}, "Stadium": "Centurion", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "33", "balls": "28", "4s": "4", "6s": "2", "batting_position": "2"}, "ball": "12.1", "opposition": {"country": "South Africa", "total": "295/4 (36.2 Overs, RR: 8.11)"}, "team": {"country": "AUS ", "total": "294/9 (50 Overs, RR: 5.88)"}, "date": "30 Sep 2016", "scoreAt": "88/2", "description": "short ball, flicked off the body in the air, Parnell throws himself forward at short fine leg... but did it carry? The SA fielders think so but Finch stands his ground and the third umpire will have to make a call on this. It was a tumbling effort on the edge of the ring, looks on first glance that he managed to get his fingers under the ball; but, with the number of replays being looked at by Nigel Llong, we're into the realms of foreshortening. But no, it's given! Think that's the right call, in real time Parnell appeared to have scooped it up from above the turf. Phehlukwayo - surely time we nicknamed him \"Lucky\" - gets his wicket"}, {"bowler": {"type": "Right-arm fast", "name": "Kagiso Rabada"}, "Stadium": "Johannesburg", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "1", "balls": "5", "4s": "0", "6s": "0", "batting_position": "1"}, "ball": "1.2", "opposition": {"country": "South Africa", "total": "361/6 (50 Overs, RR: 7.22)"}, "team": {"country": "AUS ", "total": "219 all out (37.4 Overs, RR: 5.81)"}, "date": "2 Oct 2016", "scoreAt": "3/1", "description": "short ball, Finch scoops it straight up - bagged by Behardien at square leg! Done for pace, I suspect, looking to get on with it, as he had to, but the stroke was all sorts of wrong, hoicked up like a white flag and South Africa have their first"}, {"bowler": {"type": "Legbreak googly", "name": "Imran Tahir"}, "Stadium": "Durban", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "53", "balls": "34", "4s": "3", "6s": "4", "batting_position": "2"}, "ball": "13.1", "opposition": {"country": "South Africa", "total": "372/6 (49.2 Overs, RR: 7.54)"}, "team": {"country": "AUS ", "total": "371/6 (50 Overs, RR: 7.42)"}, "date": "5 Oct 2016", "scoreAt": "110/1", "description": "launched into the sky, but it lobs to mid-off, Tahir makes the breakthrough! One big hit too many for Finch, sent it pretty much straight up and he has to head straight off, as Tahir weaves away in trademark arms-whirling high-fiving celebration. Twas the googly that did it"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Kyle Abbott"}, "Stadium": "Port Elizabeth", "team_innings": "1", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "2", "balls": "3", "4s": "0", "6s": "0", "batting_position": "1"}, "ball": "0.3", "opposition": {"country": "South Africa", "total": "168/4 (35.3 Overs, RR: 4.73)"}, "team": {"country": "AUS ", "total": "167 all out (36.4 Overs, RR: 4.55)"}, "date": "9 Oct 2016", "scoreAt": "2/1", "description": "bowled im. One down already. Too exuberant from Finch. But a beautiful delivery too. The perfect delivery to Finch, akin to Southee's ball against Finch in Auckland. Full, just outside off, and so Finch thinks he can hit on the up. But the ball jags back just enough to go through a massive gap between bat and pad. Sends the off stump for a walk. Magnificent start for SA."}, {"bowler": {"type": "Legbreak googly", "name": "Imran Tahir"}, "Stadium": "Cape Town", "team_innings": "2", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "19", "balls": "40", "4s": "3", "6s": "0", "batting_position": "2"}, "ball": "13.4", "opposition": {"country": "South Africa", "total": "327/8 (50 Overs, RR: 6.54)"}, "team": {"country": "AUS ", "total": "296 all out (48.2 Overs, RR: 6.12)"}, "date": "12 Oct 2016", "scoreAt": "72/1", "description": "gone this time! And Tahir sets off on his celebratory run. May have been the flipper, out the front of the hand. Short delivery, and quick on middle. Finch goes back, looks to cut, but clearly misjudged plenty in that - pace, length and shot selection. The ball skids through and beats Finch's cut to clatter into the stumps. Not nearly short enough to cut"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Matt Henry"}, "Stadium": "Sydney", "team_innings": "1", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "0", "balls": "1", "4s": "0", "6s": "0", "batting_position": "2"}, "ball": "0.3", "opposition": {"country": "New Zealand", "total": "256 all out (44.2 Overs, RR: 5.77)"}, "team": {"country": "AUS ", "total": "324/8 (50 Overs, RR: 6.48)"}, "date": "4 Dec 2016", "scoreAt": "1/1", "description": "135 kph, Finch has chopped on. That movement again. Henry keeps this full, the ball moves back in. Finch doesn't care. He goes on with an exuberant on-the-up drive with his feet rooted in the crease. What that does is create a massive gap between bat and pad. The ball deviates in, takes the inside edge and clatters into leg stump. Not a great shot first ball. Excellent bowling from Henry. Just a little bit of movement, more than enough at this level."}, {"bowler": {"type": "Slow left-arm orthodox", "name": "Mitchell Santner"}, "Stadium": "Canberra", "team_innings": "1", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "19", "balls": "34", "4s": "2", "6s": "0", "batting_position": "2"}, "ball": "12.2", "opposition": {"country": "New Zealand", "total": "262 all out (47.2 Overs, RR: 5.53)"}, "team": {"country": "AUS ", "total": "378/5 (50 Overs, RR: 7.56)"}, "date": "6 Dec 2016", "scoreAt": "68/1", "description": "so the dropped chance didn't cost them much. Finch looks to play a predetermined sweep. Was across a long way even before the ball was delivered, so he was in no position to sweep that full delivery. He swung through way too early as well as the ball sneaked through to crash into the leg stump. Timely wicket for New Zealand. Australia were starting to run away with this."}, {"bowler": {"type": "Left-arm fast-medium", "name": "Trent Boult"}, "Stadium": "Melbourne", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "3", "balls": "8", "4s": "0", "6s": "0", "batting_position": "2"}, "ball": "1.5", "opposition": {"country": "New Zealand", "total": "147 all out (36.1 Overs, RR: 4.06)"}, "team": {"country": "AUS ", "total": "264/8 (50 Overs, RR: 5.28)"}, "date": "9 Dec 2016", "scoreAt": "6/1", "description": "Another failure for Finch, he picks out Nicholls to perfection at shortish square leg. Good length and Boult finds inswing again. Finch looks to thump it down the ground from outside off with no feet, he can only drag an inside edge, which carries to Nicholls. That looked ungainly from Finch"}, {"bowler": {"type": "Left-arm fast-medium", "name": "Trent Boult"}, "Stadium": "Auckland", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "4", "balls": "7", "4s": "0", "6s": "0", "batting_position": "1"}, "ball": "3.1", "opposition": {"country": "New Zealand", "total": "286/9 (50 Overs, RR: 5.72)"}, "team": {"country": "AUS ", "total": "280 all out (47 Overs, RR: 5.95)"}, "date": "30 Jan 2017", "scoreAt": "9/1", "description": "Neesham dives to his right from square leg, reaches for the ball with both hands, and plucks it out. Boult and Neesham combine to send back Australia's stand-in captain. Not a happy comeback for Finch. Hip-high short ball outside off, Finch simply flaps a pull to square leg"}, {"bowler": {"type": "Right-arm offbreak", "name": "Kane Williamson"}, "Stadium": "Hamilton", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "56", "balls": "64", "4s": "5", "6s": "2", "batting_position": "1"}, "ball": "20.6", "opposition": {"country": "New Zealand", "total": "281/9 (50 Overs, RR: 5.62)"}, "team": {"country": "AUS ", "total": "257 all out (47 Overs, RR: 5.46)"}, "date": "5 Feb 2017", "scoreAt": "119/3", "description": "got lucky with the previous delivery, this time he muscles it straight to the lone man at deep midwicket. Looked to go over long-on perhaps, ended up dragging it a bit, and towards the longer boundary there, he stood no chance. New Zealand back into this"}, {"bowler": {"type": "Right-arm fast", "name": "Adam Milne"}, "Stadium": "Birmingham", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "8", "balls": "18", "4s": "0", "6s": "0", "batting_position": "2"}, "ball": "6.3", "opposition": {"country": "New Zealand", "total": "291 all out (45 Overs, RR: 6.46)"}, "team": {"country": "AUS ", "total": "53/3 (9 Overs, RR: 5.88)"}, "date": "2 Jun 2017", "scoreAt": "35/2", "description": "chipped straight to short midwicket. The extra pace of Milne has done the trick. Length ball at 142kph, comes back in to cramp him for room. Gets it high on the bat as he hops back to whip and Taylor takes a dolly."}, {"bowler": {"type": "Right-arm fast", "name": "Rubel Hossain"}, "Stadium": "The Oval", "team_innings": "2", "dismissal": {"wayOut": "lbw"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "19", "balls": "27", "4s": "3", "6s": "0", "batting_position": "2"}, "ball": "7.5", "opposition": {"country": "Bangladesh", "total": "182 all out (44.3 Overs, RR: 4.08)"}, "team": {"country": "AUS ", "total": "83/1 (16 Overs, RR: 5.18)"}, "date": "5 Jun 2017", "scoreAt": "45/1", "description": "keeps low, and up goes the finger! Pinned on the back pad, was smashing into leg, and Bangladesh have their breakthrough!"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Ben Stokes"}, "Stadium": "Birmingham", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "68", "balls": "64", "4s": "8", "6s": "0", "batting_position": "2"}, "ball": "22.5", "opposition": {"country": "England", "total": "240/4 (40.2 Overs, RR: 5.95)"}, "team": {"country": "AUS ", "total": "277/9 (50 Overs, RR: 5.54)"}, "date": "10 Jun 2017", "scoreAt": "136/2", "description": "Finch misfires! Just as he was beginning to look very dangerous, he tried to launch Stokes into West Bromwich and ended up hitting the ball straight up, to be taken smartly by Morgan circling under it from mid-off. Came right off the toe of the bat, maybe deceived by a legcutter from Stokes"}, {"bowler": {"type": "Slow left-arm chinaman", "name": "Kuldeep Yadav"}, "Stadium": "Indore", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "124", "balls": "125", "4s": "12", "6s": "5", "batting_position": "2"}, "ball": "37.5", "opposition": {"country": "India", "total": "294/5 (47.5 Overs, RR: 6.14)"}, "team": {"country": "AUS ", "total": "293/6 (50 Overs, RR: 5.86)"}, "date": "24 Sep 2017", "scoreAt": "224/2", "description": "taken at deep midwicket. Finch's belligerence ends. It's full and Finch sees an opportunity to hit it over midwicket, but Finch can't get underneath the length, which means his heave goes straight and flat to Jadhav at deep midwicket, who takes it awkwardly. A white towel falls off, and Finch thinks it's the ball. But has to walk off. Fine innings from Finch, has put Australia in command"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Umesh Yadav"}, "Stadium": "Bengaluru", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "94", "balls": "96", "4s": "10", "6s": "3", "batting_position": "1"}, "ball": "35.5", "opposition": {"country": "India", "total": "313/8 (50 Overs, RR: 6.26)"}, "team": {"country": "AUS ", "total": "334/5 (50 Overs, RR: 6.68)"}, "date": "28 Sep 2017", "scoreAt": "231/2", "description": "looks to clobber it, such bad timing that mid-on takes a sitter. A slower ball outside off, Finch looks to drag the ball from well outside off, but it's right off the toe end, and straight to mid-on. So wide that it may have been a wide had Finch let that go"}, {"bowler": {"type": "Right-arm medium-fast", "name": "Hardik Pandya"}, "Stadium": "Nagpur", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "32", "balls": "36", "4s": "6", "6s": "0", "batting_position": "2"}, "ball": "11.3", "opposition": {"country": "India", "total": "243/3 (42.5 Overs, RR: 5.67)"}, "team": {"country": "AUS ", "total": "242/9 (50 Overs, RR: 4.84)"}, "date": "1 Oct 2017", "scoreAt": "66/1", "description": "mis-timed and gone. Australia's man in touch is gone. A full delivery outside off from Pandya, Finch tries to go over mid-off, the right ball to hit, but can only skew the ball off the outside half towards Bumrah at mid-off, who rusn to his left, takes the catch, but the ball pops out. The ball is rolling all over his legs like an insect, but Bumrah uses his feel, not his sight, to hold on somehow. Made a simple catch look very tough. Excellent plan from Finch, just flawed execution"}, {"bowler": {"type": "Right-arm offbreak", "name": "Moeen Ali"}, "Stadium": "Melbourne", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "107", "balls": "119", "4s": "10", "6s": "3", "batting_position": "1"}, "ball": "35.2", "opposition": {"country": "England", "total": "308/5 (48.5 Overs, RR: 6.30)"}, "team": {"country": "AUS ", "total": "304/8 (50 Overs, RR: 6.08)"}, "date": "14 Jan 2018", "scoreAt": "196/4", "description": "picks out deep midwicket! Stands still this time, opts for the leg side, heaves across the line and clubs it down the throat of Bairstow"}, {"bowler": {"type": "Right-arm fast", "name": "Liam Plunkett"}, "Stadium": "Brisbane", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "106", "balls": "114", "4s": "9", "6s": "1", "batting_position": "2"}, "ball": "40.1", "opposition": {"country": "England", "total": "274/6 (44.2 Overs, RR: 6.18)"}, "team": {"country": "AUS ", "total": "270/9 (50 Overs, RR: 5.40)"}, "date": "19 Jan 2018", "scoreAt": "213/5", "description": "finds mid-on! Once again, England strike back-to-back...went to drive down the ground, think he wanted to go over top, got no sort of elevation and it's a simple catch on the edge of the circle"}, {"bowler": {"type": "Legbreak", "name": "Adil Rashid"}, "Stadium": "Sydney", "team_innings": "2", "dismissal": {"wayOut": "lbw"}, "batsman": {"batting-hand": "right", "name": "Aaron Finch"}, "player_innings": {"runs": "62", "balls": "53", "4s": "3", "6s": "3", "batting_position": "1"}, "ball": "20.1", "opposition": {"country": "England", "total": "302/6 (50 Overs, RR: 6.04)"}, "team": {"country": "AUS ", "total": "286/6 (50 Overs, RR: 5.72)"}, "date": "21 Jan 2018", "scoreAt": "113/3", "description": "tosses up the legbreak, Finch goes to sweep, hit on the pads - and given! Finch immediately signals for a review, seeming to suggest he got some bat on it... but there's no bottom edge on the replays, and Hawk-Eye has it clipping leg stump! It was very close to sliding by but umpire's call is all England needed. Huge wicket, no hundred for Finch today!"}]
+[
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Ajantha Mendis"
+    },
+    "Stadium": "Melbourne",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "16",
+      "balls": "28",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "10.5",
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "198 all out (40 Overs, RR: 4.95)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "305/5 (50 Overs, RR: 6.10)"
+    },
+    "date": "11 Jan 2013",
+    "scoreAt": "53/1",
+    "description": "outside edge! Mendis strikes in his first over of his one-day comeback, it was bowled off the back of the hand, Finch was prodding forward, bounced a bit more and took the edge, no doubts about that"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium",
+      "name": "Angelo Mathews"
+    },
+    "Stadium": "Adelaide",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "4",
+      "balls": "15",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "3.3",
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "172/2 (40.1 Overs, RR: 4.28)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "170 all out (46.5 Overs, RR: 3.62)"
+    },
+    "date": "13 Jan 2013",
+    "scoreAt": "7/1",
+    "description": "Finch is gone! A loose shot that, goodish length and he just pushed through uppishly, looped up to extra cover and ends up being an easy catch, Australia have lost one early"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Jason Holder"
+    },
+    "Stadium": "Perth",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "10",
+      "balls": "6",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "3.3",
+    "opposition": {
+      "country": "West Indies",
+      "total": "70 all out (23.5 Overs, RR: 2.93)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "71/1 (9.2 Overs, RR: 7.60)"
+    },
+    "date": "1 Feb 2013",
+    "scoreAt": "39/1",
+    "description": "Mr DRS has been called into service. It was short of length outside off, the batsman stays in the crease and tries to flay his bat at that, it takes an outside edge, seemingly so, (I heard a noise), but the umpire says no. Being reviewed...Yes, it is out. Although it didn't show up clearly on the hot-spot, the noise was too loud to ignore. Holder 1 - hot-spot 0"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Darren Sammy"
+    },
+    "Stadium": "Canberra",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "38",
+      "balls": "41",
+      "4s": "5",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "15.3",
+    "opposition": {
+      "country": "West Indies",
+      "total": "290 all out (47.3 Overs, RR: 6.10)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "329/7 (50 Overs, RR: 6.58)"
+    },
+    "date": "6 Feb 2013",
+    "scoreAt": "89/1",
+    "description": "oh no! Finch is not able to answer his detractors as he falls early again. It was a length ball outside off and he tries to play it towards third man - he has been doing it all morning - but it was too close. the ball kisses the edge and disappears in Thomas' gloves. Darren Sammy and Ben K worked him out.."
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Tino Best"
+    },
+    "Stadium": "Melbourne",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "1",
+      "balls": "5",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "2.4",
+    "opposition": {
+      "country": "West Indies",
+      "total": "257 all out (49.5 Overs, RR: 5.15)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "274/5 (50 Overs, RR: 5.48)"
+    },
+    "date": "10 Feb 2013",
+    "scoreAt": "2/2",
+    "description": "Best gets the openers early! Best's landing the bouncers well this morning, this was directed at Finch's helmet, he couldn't resist the hook, the top edge swirls to fine leg, Narine takes it at the edge of the rope, at first it looked like going all the way"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Majid Haq"
+    },
+    "Stadium": "Edinburgh",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "148",
+      "balls": "114",
+      "4s": "16",
+      "6s": "7",
+      "batting_position": "1"
+    },
+    "ball": "38.2",
+    "opposition": {
+      "country": "Scotland",
+      "total": "162 all out (43.5 Overs, RR: 3.69)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "362/3 (50 Overs, RR: 7.24)"
+    },
+    "date": "3 Sep 2013",
+    "scoreAt": "246/1",
+    "description": "goes for another big shot! One too many as Coleman waits on the boundary and takes the chance, finally a break for Scotland but all too late"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "James Tredwell"
+    },
+    "Stadium": "Manchester",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "45",
+      "balls": "45",
+      "4s": "4",
+      "6s": "1",
+      "batting_position": "2"
+    },
+    "ball": "21.5",
+    "opposition": {
+      "country": "England",
+      "total": "227 all out (44.2 Overs, RR: 5.12)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "315/7 (50 Overs, RR: 6.30)"
+    },
+    "date": "8 Sep 2013",
+    "scoreAt": "116/3",
+    "description": "goes for another big slog down the ground but picks out long-on! Finch has given it away, launching the ball flat and straight down the gullet of Joe Root on the fence, who barely has to move and swallows it without fuss"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Ben Stokes"
+    },
+    "Stadium": "Southampton",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "26",
+      "balls": "32",
+      "4s": "6",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "9.4",
+    "opposition": {
+      "country": "England",
+      "total": "249 all out (48 Overs, RR: 5.18)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "298 all out (49.1 Overs, RR: 6.06)"
+    },
+    "date": "16 Sep 2013",
+    "scoreAt": "48/2",
+    "description": "fullish, bit of width and Finch is tempted, doesn't get over a square drive and picks out Morgan first ball after the resumption! Not sure what Finch was thinking there, he surely could have done with a sighter, didn't need to go after that delivery but he's thrown away a promising start and the England players are singing in the post-rain"
+  },
+  {
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Yuvraj Singh"
+    },
+    "Stadium": "Pune",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "72",
+      "balls": "79",
+      "4s": "8",
+      "6s": "3",
+      "batting_position": "2"
+    },
+    "ball": "27.1",
+    "opposition": {
+      "country": "India",
+      "total": "232 all out (49.4 Overs, RR: 4.67)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "304/8 (50 Overs, RR: 6.08)"
+    },
+    "date": "13 Oct 2013",
+    "scoreAt": "146/3",
+    "description": "flighted delivery outside off and Yuvraj is having a whale of a time as he gets Finch to go for the lofted shot, but ends up mishitting this straight up in the air, which carries to Virat Kohli, one of India's best fielders, who is waiting at long off. Big wicket for India as Finch was threatening to play a big innings"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Ishant Sharma"
+    },
+    "Stadium": "Mohali",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "38",
+      "balls": "44",
+      "4s": "6",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "16.3",
+    "opposition": {
+      "country": "India",
+      "total": "303/9 (50 Overs, RR: 6.06)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "304/6 (49.3 Overs, RR: 6.14)"
+    },
+    "date": "19 Oct 2013",
+    "scoreAt": "82/2",
+    "description": "umpire raises the finger! Ishant has struck even though it struck him in front of leg and may have gone down leg. He angled it in, Finch was crammed for room on the back foot and the Indian players went up for Shamsuddin to raise his finger. It was very very close, hard to say if it was hitting or missing"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Mohammed Shami"
+    },
+    "Stadium": "Ranchi",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "5",
+      "balls": "10",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "1.5",
+    "opposition": {
+      "country": "India",
+      "total": "27/0 (4.1 Overs, RR: 6.48)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "295/8 (50 Overs, RR: 5.90)"
+    },
+    "date": "23 Oct 2013",
+    "scoreAt": "5/1",
+    "description": "140 kph, back of a length and swings in slightly upon pitching. Finch plays outside of the line and the ball goes through the gate between bat and pad to remove the dangerous opening bat. Huge wicket for India as Finch has been consistently giving solid starts to Australia throughout the series"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Ravichandran Ashwin"
+    },
+    "Stadium": "Nagpur",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "20",
+      "balls": "28",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "11.1",
+    "opposition": {
+      "country": "India",
+      "total": "351/4 (49.3 Overs, RR: 7.09)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "350/6 (50 Overs, RR: 7.00)"
+    },
+    "date": "30 Oct 2013",
+    "scoreAt": "45/2",
+    "description": "86 kph, length ball pitching on middle as Ashwin, who is coming round the wicket, breaches Finch's defences as he goes for an improvised flick, but fails to get bat on it. Ball castles into the stumps, and its two down now for the Australians"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Mohammed Shami"
+    },
+    "Stadium": "Bengaluru",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "5",
+      "balls": "5",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "1.2",
+    "opposition": {
+      "country": "India",
+      "total": "383/6 (50 Overs, RR: 7.66)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "326 all out (45.1 Overs, RR: 7.21)"
+    },
+    "date": "2 Nov 2013",
+    "scoreAt": "7/1",
+    "description": "Shami strikes! Pitched it on length on middle and was heading towards the stumps as it hit Finch's pads in front of leg. The umpire's finger went up immediately but not sure if that would have hit the stumps for sure"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Ben Stokes"
+    },
+    "Stadium": "Melbourne",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "121",
+      "balls": "128",
+      "4s": "12",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "39.3",
+    "opposition": {
+      "country": "England",
+      "total": "269/7 (50 Overs, RR: 5.38)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "270/4 (45.4 Overs, RR: 5.91)"
+    },
+    "date": "12 Jan 2014",
+    "scoreAt": "237/3",
+    "description": "bottom hand comes off the bat, a sliced drive soars down to third man... and, me oh my, Ballance pouches it! A wicket for Stokes, a catch for Ballance and a standing salute for Finch. If the same fielder had taken a much easier chance 113 runs ago, this might have been a different game. Never mind that, though, twas a cracking innings"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Chris Jordan"
+    },
+    "Stadium": "Brisbane",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "0",
+      "balls": "3",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "1.3",
+    "opposition": {
+      "country": "England",
+      "total": "300/8 (50 Overs, RR: 6.00)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "301/9 (49.3 Overs, RR: 6.08)"
+    },
+    "date": "17 Jan 2014",
+    "scoreAt": "6/1",
+    "description": "Finch decides to go for the lofted shot through extra-cover, but hits it quite feebly to the man at mid-off, who takes a nonchalant one-handed catch with his right"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Chris Jordan"
+    },
+    "Stadium": "Sydney",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "22",
+      "balls": "20",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "6.6",
+    "opposition": {
+      "country": "England",
+      "total": "243/9 (50 Overs, RR: 4.86)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "244/3 (40 Overs, RR: 6.10)"
+    },
+    "date": "19 Jan 2014",
+    "scoreAt": "43/1",
+    "description": "Jordan has struck! The runs were flowing but Finch couldn't stop himself driving hard in the air and there is a man at cover who has no trouble holding this catch. He'll be disappointed with himself there - just couldn't keep that along the ground"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Tim Bresnan"
+    },
+    "Stadium": "Perth",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "108",
+      "balls": "111",
+      "4s": "8",
+      "6s": "4",
+      "batting_position": "2"
+    },
+    "ball": "35.2",
+    "opposition": {
+      "country": "England",
+      "total": "316/8 (50 Overs, RR: 6.32)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "259 all out (47.4 Overs, RR: 5.43)"
+    },
+    "date": "24 Jan 2014",
+    "scoreAt": "189/5",
+    "description": "massive moment! Finch guides a short-of-a-length delivery towards third man where Broad runs around the rope and holds a well-judged catch"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Stuart Broad"
+    },
+    "Stadium": "Adelaide",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "7",
+      "balls": "16",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "4.4",
+    "opposition": {
+      "country": "England",
+      "total": "212 all out (49.4 Overs, RR: 4.26)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "217/9 (50 Overs, RR: 4.34)"
+    },
+    "date": "26 Jan 2014",
+    "scoreAt": "14/1",
+    "description": "gone this time! Finch can't make the most of his two lives. Excellent delivery from Broad, on a full length and nips back at Finch who is caught on the back foot and loses his off stump as he tries to get his bat down. Just checking the no-ball, but something was ground behind the line"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "John Nyumbu"
+    },
+    "Stadium": "Harare",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "67",
+      "balls": "79",
+      "4s": "5",
+      "6s": "3",
+      "batting_position": "1"
+    },
+    "ball": "29.3",
+    "opposition": {
+      "country": "Zimbabwe",
+      "total": "152 all out (39.3 Overs, RR: 3.84)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "350/6 (50 Overs, RR: 7.00)"
+    },
+    "date": "25 Aug 2014",
+    "scoreAt": "145/2",
+    "description": "Finch has smoked this straight to backward square leg, this was set to disappear too, overpitched, on the pads, Finch bent for the sweep, and powered it to the fielder"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Ryan McLaren"
+    },
+    "Stadium": "Harare",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "102",
+      "balls": "116",
+      "4s": "9",
+      "6s": "1",
+      "batting_position": "1"
+    },
+    "ball": "39.2",
+    "opposition": {
+      "country": "South Africa",
+      "total": "328/3 (46.4 Overs, RR: 7.02)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "327/7 (50 Overs, RR: 6.54)"
+    },
+    "date": "27 Aug 2014",
+    "scoreAt": "229/3",
+    "description": "and he's gone. That was short outside off, and he couldn't quite control the pull from above shoulder height, and deep square leg comes in a few yards and takes the simplest of catches"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "John Nyumbu"
+    },
+    "Stadium": "Harare",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "11",
+      "balls": "12",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "3.1",
+    "opposition": {
+      "country": "Zimbabwe",
+      "total": "211/7 (48 Overs, RR: 4.39)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "209/9 (50 Overs, RR: 4.18)"
+    },
+    "date": "31 Aug 2014",
+    "scoreAt": "11/1",
+    "description": "oh, he's bowled'im! Nyumbu pitches it outside off on length, not much flight there, and it spun in, finch played for more turn and was beaten. He didn't use his feet much and was probably caught in two minds. And Nyumbu broke into a jig again!"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Ryan McLaren"
+    },
+    "Stadium": "Harare",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "16",
+      "balls": "36",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "10.3",
+    "opposition": {
+      "country": "South Africa",
+      "total": "220 all out (44 Overs, RR: 5.00)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "282/7 (50 Overs, RR: 5.64)"
+    },
+    "date": "2 Sep 2014",
+    "scoreAt": "46/1",
+    "description": "oh Finch has given it away! It was full and wide and Finch probably got tempted, went for a big lofted drive on the off side but holed out straight to the man in the deep for an easy catch. He wanted to break the shackles, but could not"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Dale Steyn"
+    },
+    "Stadium": "Harare",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "54",
+      "balls": "87",
+      "4s": "5",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "28.1",
+    "opposition": {
+      "country": "South Africa",
+      "total": "221/4 (40.5 Overs, RR: 5.41)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "217/9 (50 Overs, RR: 4.34)"
+    },
+    "date": "6 Sep 2014",
+    "scoreAt": "115/4",
+    "description": "Finch goes extinct! The theory of evolution would tell you that Finch was a bit uncomfortable in the environment and was not going to last long. (Maybe there will be new improved version soon). This one jags back in from Steyn and takes out the middle as the batsman pushes limply outside the line, leaving a gap between bat and pad. Excellent delivery"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast",
+      "name": "Mohammad Irfan"
+    },
+    "Stadium": "Dubai (DSC)",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "14",
+      "balls": "12",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "3.6",
+    "opposition": {
+      "country": "Pakistan",
+      "total": "215 all out (49.3 Overs, RR: 4.34)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "217/5 (43.2 Overs, RR: 5.00)"
+    },
+    "date": "10 Oct 2014",
+    "scoreAt": "22/1",
+    "description": "beaten again, has he edged it! Misbah is reviewing it. It was outside off, Finch stayed back to defend it, the ball angled across after pitching on middle and the Pakistan players seem confident of an edge. It didn't look like there was enough evidence to overturn the decision, but there was a noise for sure when the ball passed the bat. Not 100% proof, but maybe enough for the third umpire"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Anwar Ali"
+    },
+    "Stadium": "Abu Dhabi",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "18",
+      "balls": "34",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "10.3",
+    "opposition": {
+      "country": "Pakistan",
+      "total": "230 all out (50 Overs, RR: 4.60)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "231/9 (50 Overs, RR: 4.62)"
+    },
+    "date": "12 Oct 2014",
+    "scoreAt": "48/1",
+    "description": "practice catch for mid-on! Anwar Ali breaks the stand. It was short of length outside off, Finch didn't move much and was maybe it two minds to punch it down the ground or clear mid-on and ended up chipping it to Irfan at mid-on. Finch's poor run on the tour continues"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Vernon Philander"
+    },
+    "Stadium": "Perth",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "35",
+      "balls": "40",
+      "4s": "4",
+      "6s": "1",
+      "batting_position": "2"
+    },
+    "ball": "14.4",
+    "opposition": {
+      "country": "South Africa",
+      "total": "268 all out (48.1 Overs, RR: 5.56)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "300/8 (50 Overs, RR: 6.00)"
+    },
+    "date": "14 Nov 2014",
+    "scoreAt": "94/2",
+    "description": "oh another, Philander gets Finch too! He moved the delivery away from Finch from outside off, the batsman pushed at it away from the body and the ball did enough to take an edge for an easy catch for de Kock"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Dale Steyn"
+    },
+    "Stadium": "Perth",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "8",
+      "balls": "14",
+      "4s": "0",
+      "6s": "1",
+      "batting_position": "2"
+    },
+    "ball": "4.3",
+    "opposition": {
+      "country": "South Africa",
+      "total": "157/7 (27.4 Overs, RR: 5.67)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "154 all out (41.4 Overs, RR: 3.69)"
+    },
+    "date": "16 Nov 2014",
+    "scoreAt": "14/2",
+    "description": "he's gone this time, and the bowling change working, it is the taller Morkel who is positioned at mid on, Finch drives this angled length delivery on the up, and Morkel stretches his hands over his head to take it, Steyn pumps his fist and lets out a roar"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Vernon Philander"
+    },
+    "Stadium": "Canberra",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "109",
+      "balls": "127",
+      "4s": "9",
+      "6s": "3",
+      "batting_position": "1"
+    },
+    "ball": "40.2",
+    "opposition": {
+      "country": "South Africa",
+      "total": "256 all out (44.3 Overs, RR: 5.75)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "329/5 (50 Overs, RR: 6.58)"
+    },
+    "date": "19 Nov 2014",
+    "scoreAt": "242/3",
+    "description": "AB's got the big wicket of Finch! Regular length delivery on the off stump, Finch went for a wild slog on the leg side and missed it completely. The ball crashed in to off and middle stumps"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm medium-fast",
+      "name": "Wayne Parnell"
+    },
+    "Stadium": "Melbourne",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "22",
+      "balls": "37",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "13.2",
+    "opposition": {
+      "country": "South Africa",
+      "total": "267/8 (50 Overs, RR: 5.34)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "268/7 (49 Overs, RR: 5.46)"
+    },
+    "date": "21 Nov 2014",
+    "scoreAt": "48/3",
+    "description": "got him! It's a short ball and Finch has pulled it uppishly, straight down the throat of the man at deep square leg"
+  },
+  {
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Robin Peterson"
+    },
+    "Stadium": "Sydney",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "76",
+      "balls": "67",
+      "4s": "11",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "21.5",
+    "opposition": {
+      "country": "South Africa",
+      "total": "280/6 (50 Overs, RR: 5.60)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "275/8 (47.1 Overs, RR: 5.83)"
+    },
+    "date": "23 Nov 2014",
+    "scoreAt": "137/2",
+    "description": "tossed up on off stump as Finch lifts it. He's struck this really welll, which is why it carries as far as Faf on the edge of the extra cover boundary. Takes it with a reverse cup, but his momentum was taking him back, so he throws it to team-mate Rossouw who completes the catch. Needed a bit of brilliance like that to dislodge Finch"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Chris Woakes"
+    },
+    "Stadium": "Sydney",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "15",
+      "balls": "18",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "6.2",
+    "opposition": {
+      "country": "England",
+      "total": "234 all out (47.5 Overs, RR: 4.89)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "235/7 (39.5 Overs, RR: 5.89)"
+    },
+    "date": "16 Jan 2015",
+    "scoreAt": "33/1",
+    "description": "he's chopped it on, Finch is gone! Finch didn't move much for the ball that held its line after pitching outside off on back of length, he stayed back to punch it on the off side but got an inside edge that took his off stump"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Umesh Yadav"
+    },
+    "Stadium": "Melbourne",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "96",
+      "balls": "127",
+      "4s": "5",
+      "6s": "2",
+      "batting_position": "1"
+    },
+    "ball": "40.1",
+    "opposition": {
+      "country": "India",
+      "total": "267/8 (50 Overs, RR: 5.34)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "269/6 (49 Overs, RR: 5.48)"
+    },
+    "date": "18 Jan 2015",
+    "scoreAt": "219/4",
+    "description": "nicks to the keeper! Finch misses out on a hundred on his home ground. Looks to force a short ball that seems to gain a bit more bounce than he expected. Feather through the keeper gives India a bit of a boost"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Moeen Ali"
+    },
+    "Stadium": "Hobart",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "32",
+      "balls": "32",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "11.4",
+    "opposition": {
+      "country": "England",
+      "total": "303/8 (50 Overs, RR: 6.06)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "304/7 (49.5 Overs, RR: 6.10)"
+    },
+    "date": "23 Jan 2015",
+    "scoreAt": "76/1",
+    "description": "bowled him! That was a poor shot from Finch, slogging across the line to a full, straight ball, and I think he may have yorked himself"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "James Anderson"
+    },
+    "Stadium": "Perth",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "0",
+      "balls": "3",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "0.3",
+    "opposition": {
+      "country": "England",
+      "total": "166 all out (39.1 Overs, RR: 4.23)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "278/8 (50 Overs, RR: 5.56)"
+    },
+    "date": "1 Feb 2015",
+    "scoreAt": "0/1",
+    "description": "terrific stuff from Anderson, and he needs three balls to strike, excellent delivery again, short of a length, bouncing and straightening just outside off, Finch is hopping as he prods from the crease and the ball carries nicely to first slip"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Tim Southee"
+    },
+    "Stadium": "Auckland",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "14",
+      "balls": "7",
+      "4s": "1",
+      "6s": "1",
+      "batting_position": "1"
+    },
+    "ball": "2.2",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "152/9 (23.1 Overs, RR: 6.56)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "151 all out (32.2 Overs, RR: 4.67)"
+    },
+    "date": "28 Feb 2015",
+    "scoreAt": "30/1",
+    "description": "Southee draws first blood, the crowd erupts! He took the risk of pitching it up again just outside off, swung it in a bit and the ball went through the drive Finch unleashed. Off stump knocked over, Southee pumps his fists and is mobbed by his team-mates"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Dawlat Zadran"
+    },
+    "Stadium": "Perth",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "4",
+      "balls": "9",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "2.6",
+    "opposition": {
+      "country": "Afghanistan",
+      "total": "142 all out (37.3 Overs, RR: 3.78)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "417/6 (50 Overs, RR: 8.34)"
+    },
+    "date": "4 Mar 2015",
+    "scoreAt": "14/1",
+    "description": "beautiful over. Perfect seam and swing bowling. A few outswingers, then inswinger from wide on the crease, and ends up with a sucker punch of an outswinger. Full, just outside off, Finch thinks he can drive at it, but it is not quite as full as he expects. Which means there is time for the ball to move and take the edge through to first slip where Nawroz Mangal takes a smart low catch"
+  },
+  {
+    "bowler": {
+      "type": "Legbreak",
+      "name": "Seekkuge Prasanna"
+    },
+    "Stadium": "Sydney",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "stumped"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "24",
+      "balls": "24",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "8.4",
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "312 all out (46.2 Overs, RR: 6.73)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "376/9 (50 Overs, RR: 7.52)"
+    },
+    "date": "8 Mar 2015",
+    "scoreAt": "41/2",
+    "description": "Prasanna you beauty! Removes the ever-dangerous Finch with a slider down the leg side which Finch attacked early as he played down the wrong line. Sangakkara does the rest as he picks this up and flicks the bails in one fluid motion as Finch looks back disconcertingly. Huge roar from the Sri Lankans as Finch makes his way back to the pavilion"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm medium",
+      "name": "Rob Taylor"
+    },
+    "Stadium": "Hobart",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "20",
+      "balls": "10",
+      "4s": "3",
+      "6s": "1",
+      "batting_position": "2"
+    },
+    "ball": "3.6",
+    "opposition": {
+      "country": "Scotland",
+      "total": "130 all out (25.4 Overs, RR: 5.06)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "133/3 (15.2 Overs, RR: 8.67)"
+    },
+    "date": "14 Mar 2015",
+    "scoreAt": "30/1",
+    "description": "gone! Another drive in the air, but this time he's hit it too close to cover, who takes it well, low, in both hands, diving forward. Taylor did well to bowl it full again, but not as wide as the previous ball, and Finch pushed hard at it, way out in front of his body"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Sohail Khan"
+    },
+    "Stadium": "Adelaide",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "2",
+      "balls": "5",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "2.3",
+    "opposition": {
+      "country": "Pakistan",
+      "total": "213 all out (49.5 Overs, RR: 4.27)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "216/4 (33.5 Overs, RR: 6.38)"
+    },
+    "date": "20 Mar 2015",
+    "scoreAt": "15/1",
+    "description": "pitched up, this jags back at Finch and raps him on the pads, Sohail implores for the decision... and Dharmasena gives it! Finch, after a brief conversation with his partner, asks for the review but it only takes a quick look to release this was foolishness. Not much footwork and the ball zipped in with the arm, past the inside edge as he played to leg, and it was crashing into the woodwork halfway up. The finger points skywards for a second time and Pakistan celebrate to the heavens"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Umesh Yadav"
+    },
+    "Stadium": "Sydney",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "81",
+      "balls": "116",
+      "4s": "7",
+      "6s": "1",
+      "batting_position": "1"
+    },
+    "ball": "38.2",
+    "opposition": {
+      "country": "India",
+      "total": "233 all out (46.5 Overs, RR: 4.97)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "328/7 (50 Overs, RR: 6.56)"
+    },
+    "date": "26 Mar 2015",
+    "scoreAt": "233/4",
+    "description": "good sharp short ball. India are clawing back. They could still keep Australia down to a manageable total. Only Yadav has been able to hurry the batsmen with the short ball. Finch is hurried into this again. This is just outside off, chest high, and does him for the pace. The edge is taken, and caught at midwicket. A hard-working team-man innings from Finch comes to an end"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "Trent Boult"
+    },
+    "Stadium": "Melbourne",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "0",
+      "balls": "5",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "1.4",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "183 all out (45 Overs, RR: 4.06)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "186/3 (33.1 Overs, RR: 5.6)"
+    },
+    "date": "29 Mar 2015",
+    "scoreAt": "2/1",
+    "description": "inswinger to Finch, played on to his front pad, it loops back to the bowler... got him! There's the first, New Zealand are amongst them! Finch waits for the umpire's raised finger but he knew what was occurring. Tried to tuck a fullish ball off his legs, bat turned in the hands and it ballooned up for a simple catch"
+  },
+  {
+    "bowler": {
+      "type": "Legbreak",
+      "name": "Adil Rashid"
+    },
+    "Stadium": "Manchester",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "53",
+      "balls": "60",
+      "4s": "8",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "21.4",
+    "opposition": {
+      "country": "England",
+      "total": "300/8 (50 Overs, RR: 6.00)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "207 all out (44 Overs, RR: 4.70)"
+    },
+    "date": "8 Sep 2015",
+    "scoreAt": "106/3",
+    "description": "Finch tries to tee off... and hits it straight up and down into the safe hands of Woakes running in from long-on! Rashid has a second, he's been a struggle to score off and Finch was trying to break the shackles, a moment of Hulk-like violence but he is soon slinking off looking more like Bruce Banner"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "David Willey"
+    },
+    "Stadium": "Leeds",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "15",
+      "balls": "27",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "8.3",
+    "opposition": {
+      "country": "England",
+      "total": "304/7 (48.2 Overs, RR: 6.28)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "299/7 (50 Overs, RR: 5.98)"
+    },
+    "date": "11 Sep 2015",
+    "scoreAt": "30/3",
+    "description": "goes on with the arm, Finch feels for it and nicks off! Willey fell over in his follow through and had to appeal from the floor - but it's Australia who looking unsteady on their feet, three down for spit. Willey has been mixing up inswingers with bother-balls in the channel, Finch wasn't quite sure what was coming and just got a thin snick through to Bairstow"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm medium",
+      "name": "Barinder Sran"
+    },
+    "Stadium": "Perth",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "8",
+      "balls": "11",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "2.3",
+    "opposition": {
+      "country": "India",
+      "total": "309/3 (50 Overs, RR: 6.18)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "310/5 (49.2 Overs, RR: 6.28)"
+    },
+    "date": "12 Jan 2016",
+    "scoreAt": "9/1",
+    "description": "sharp return catch! Maiden international wicket for Sran in his second over. He is mobbed by his team-mates. Subdued celebrations overall. Sran lands it full and outside off at 136.5ks, Finch wants to drill a drive, but the bat twists in his hand. He hits it back to the bowler. Sran gets both hands to his right and hangs onto the catch"
+  },
+  {
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Ravindra Jadeja"
+    },
+    "Stadium": "Brisbane",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "71",
+      "balls": "81",
+      "4s": "7",
+      "6s": "1",
+      "batting_position": "1"
+    },
+    "ball": "24.5",
+    "opposition": {
+      "country": "India",
+      "total": "308/8 (50 Overs, RR: 6.16)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "309/3 (49 Overs, RR: 6.30)"
+    },
+    "date": "15 Jan 2016",
+    "scoreAt": "145/1",
+    "description": "that's the Test world-record holder! Rahane has pulled off a blinder at long-off! This was another that Finch thought he could smoke over extra, and so he did. Except this time he had hit it in the air and gave that fielder a chance. Rahane moves swiftly to his left, eyes on the ball all the way, dives forward and grabs the ball inches from the turf. Brilliant"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Umesh Yadav"
+    },
+    "Stadium": "Melbourne",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "21",
+      "balls": "23",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "7.1",
+    "opposition": {
+      "country": "India",
+      "total": "295/6 (50 Overs, RR: 5.90)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "296/7 (48.5 Overs, RR: 6.06)"
+    },
+    "date": "17 Jan 2016",
+    "scoreAt": "48/1",
+    "description": "a wicket finally. The outside edge has been found courtesy some late movement. Good length, drew him forward, Finch went for the drive, but the foot was nowhere to the pitch of the ball, gets a thin edge which MS accepts gleefully. The manner in which he threw the ball up after pouching that had relief written all over it. He doesn't generally get very animated after taking a catch, he was this time."
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Umesh Yadav"
+    },
+    "Stadium": "Canberra",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "107",
+      "balls": "107",
+      "4s": "9",
+      "6s": "2",
+      "batting_position": "2"
+    },
+    "ball": "37.3",
+    "opposition": {
+      "country": "India",
+      "total": "323 all out (49.2 Overs, RR: 6.54)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "348/8 (50 Overs, RR: 6.96)"
+    },
+    "date": "20 Jan 2016",
+    "scoreAt": "221/2",
+    "description": "Ishant takes the catch from mid-on. Good length on off, Finch goes for the pull but the ball bounces and takes the outside half. The ball lobs up and Ishant runs around from mid-on, even as Kohli from midwicket was running back. Ishant keeps his eyes on the ball and hangs on comfortably. And then has a word with Kohli. Big wicket, nonetheless, and a very timely one"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Ishant Sharma"
+    },
+    "Stadium": "Sydney",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "6",
+      "balls": "6",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "0.6",
+    "opposition": {
+      "country": "India",
+      "total": "331/4 (49.4 Overs, RR: 6.66)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "330/7 (50 Overs, RR: 6.60)"
+    },
+    "date": "23 Jan 2016",
+    "scoreAt": "6/1",
+    "description": "given! What a delivery that is. Ducks back in prodigiously to hit Finch outside the line of off stump. But he wasn't offering a stroke. Umpire Kettleborough had no hesitation and raised his finger immediately but did that nip back in enough? Lots of swing for Ishant, the first time we have seen as much in this series."
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Jason Holder"
+    },
+    "Stadium": "Providence",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "19",
+      "balls": "30",
+      "4s": "4",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "7.4",
+    "opposition": {
+      "country": "West Indies",
+      "total": "116 all out (32.3 Overs, RR: 3.56)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "117/4 (25.4 Overs, RR: 4.55)"
+    },
+    "date": "5 Jun 2016",
+    "scoreAt": "44/1",
+    "description": "plumb in front! Full and straight, Finch shuffles across, trying to flick over midwicket but just plain misses a straight one. The umpire's finger was up quicker than I could say out. Easy decision, Finch doesn't bother reviewing."
+  },
+  {
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Aaron Phangiso"
+    },
+    "Stadium": "Providence",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "72",
+      "balls": "103",
+      "4s": "6",
+      "6s": "3",
+      "batting_position": "2"
+    },
+    "ball": "30.3",
+    "opposition": {
+      "country": "South Africa",
+      "total": "189/9 (50 Overs, RR: 3.78)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "142 all out (34.2 Overs, RR: 4.13)"
+    },
+    "date": "7 Jun 2016",
+    "scoreAt": "113/9",
+    "description": "Finch clears his front leg and holes out! AB pumps his fist and is mobbed by his team-mates. Finch stepped away outside leg in a bid to open up the off side. He is cramped for room by another quicker ball. 90.3ks. He ends up slicing a drive. AB dives full-stretch to his right at extra cover and pouches it"
+  },
+  {
+    "bowler": {
+      "type": "Legbreak googly",
+      "name": "Imran Tahir"
+    },
+    "Stadium": "Basseterre",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "13",
+      "balls": "28",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "9.6",
+    "opposition": {
+      "country": "South Africa",
+      "total": "252 all out (47.4 Overs, RR: 5.28)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "288/6 (50 Overs, RR: 5.76)"
+    },
+    "date": "11 Jun 2016",
+    "scoreAt": "48/1",
+    "description": "gone. Finch persists with the sweep. Flat on off, the quicker delivery. Finch clears a front foot and tries to smash his sweep through square leg but was quite far from the ball. The ball missed his cross-batted swat and clattered into off stump. Tahir sets off in typical fashion. Finch struggled for any fluency in that knock."
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Jason Holder"
+    },
+    "Stadium": "Basseterre",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "0",
+      "balls": "1",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "0.4",
+    "opposition": {
+      "country": "West Indies",
+      "total": "266/6 (45.4 Overs, RR: 5.82)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "265/7 (50 Overs, RR: 5.30)"
+    },
+    "date": "13 Jun 2016",
+    "scoreAt": "1/1",
+    "description": "swing and bounce! Finch has nicked off for a duck. He inspects the pitch as he walks off. Good length and nibbles away a touch outside off, Holder's height means that he generates extra bounce. Finch has a weak waft, pressing forward at it, and edges it to lone slip. It actually popped off the shoulder of the bat to Benn. Big lift! He takes it just below his chest"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Carlos Brathwaite"
+    },
+    "Stadium": "Bridgetown",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "16",
+      "balls": "11",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "4.3",
+    "opposition": {
+      "country": "West Indies",
+      "total": "282/8 (50 Overs, RR: 5.64)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "283/4 (48.4 Overs, RR: 5.81)"
+    },
+    "date": "21 Jun 2016",
+    "scoreAt": "35/1",
+    "description": "uppish and there's the first wicket. Finch is clearly hustled for pace as he hops back to whip it to square leg. He had to fetch the ball from outside off as the extra bounce means the ball lobs off the leading edge to mid-on. Brathwaite is pumped as he leaps in joy to celebrate that. So the bowling change has worked for the hosts!"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Kieron Pollard"
+    },
+    "Stadium": "Bridgetown",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "47",
+      "balls": "41",
+      "4s": "6",
+      "6s": "1",
+      "batting_position": "2"
+    },
+    "ball": "12.3",
+    "opposition": {
+      "country": "West Indies",
+      "total": "212 all out (45.4 Overs, RR: 4.64)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "270/9 (50 Overs, RR: 5.40)"
+    },
+    "date": "26 Jun 2016",
+    "scoreAt": "69/2",
+    "description": "KP strikes in his first over and nearly does a Tahir, again. He looks towards the stands, perhaps, and does the finger-on-the-lip celebration. The lack of pace does Finch in. Back of a length incutter, comes in from outside off at 115ks, Finch aims to force it from there. This means that he drags a catch to Samuels at deep midwicket"
+  },
+  {
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Amila Aponso"
+    },
+    "Stadium": "Colombo (RPS)",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "56",
+      "balls": "46",
+      "4s": "7",
+      "6s": "2",
+      "batting_position": "2"
+    },
+    "ball": "14.2",
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "227/8 (50 Overs, RR: 4.54)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "228/7 (46.5 Overs, RR: 4.86)"
+    },
+    "date": "21 Aug 2016",
+    "scoreAt": "79/2",
+    "description": "another appeal for caught behind. Not given. Umpire Dar's review. Mathews collected it cleanly. The on-field umpires want to check whether it was a bump ball. Certainly not. TV umpire Gough looks for the nick. There was a noise. It could have come from the bat thudding the ground. No visible deflection. No conclusive evidence, yet. Tight, tight call for Gough. He looks at various replays and rules Finch out. Nice, low take from Mathews. Finch looks disgruntled. Smith chats with the umpires. Aponso has his maiden international scalp. This pitched just outside off and spun sharply at Finch. He flung his bat down and gave an edge to slip. Hmm, not sure if there was an edge, though"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Thisara Perera"
+    },
+    "Stadium": "Colombo (RPS)",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "4",
+      "balls": "7",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "3.3",
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "288 all out (48.5 Overs, RR: 5.89)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "206 all out (47.2 Overs, RR: 4.35)"
+    },
+    "date": "24 Aug 2016",
+    "scoreAt": "16/2",
+    "description": "make it two for this Perera, he's got both openers out of the way! This one was not on hittable length outisde off, Finch went ahead with his slog for the leg side but only managed an inside edge onto the middle stump!"
+  },
+  {
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Amila Aponso"
+    },
+    "Stadium": "Dambulla",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "30",
+      "balls": "29",
+      "4s": "3",
+      "6s": "1",
+      "batting_position": "2"
+    },
+    "ball": "7.3",
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "226 all out (49.2 Overs, RR: 4.58)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "227/8 (46 Overs, RR: 4.93)"
+    },
+    "date": "28 Aug 2016",
+    "scoreAt": "42/2",
+    "description": "big big appeal from Aponso, Aleem Dar raises the finger, Finch has a short chat and walks off without reviewing it. This was looped towards the stumps and Finch tried to defend by covering them all, maybe he played for the turn but the ball angled in and trapped him right in front. Was it headed a bit too much towards leg though?"
+  },
+  {
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Sachith Pathirana"
+    },
+    "Stadium": "Dambulla",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "55",
+      "balls": "19",
+      "4s": "8",
+      "6s": "3",
+      "batting_position": "2"
+    },
+    "ball": "5.3",
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "212 all out (50 Overs, RR: 4.24)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "217/4 (31 Overs, RR: 7.00)"
+    },
+    "date": "31 Aug 2016",
+    "scoreAt": "74/1",
+    "description": "Pathirana pleads and pleads and pleads and finally umpire Palliyaguruge says yes. Finch given lbw, but he reviews. Pushed through on middle, Finch went for the premeditated sweep, his front foot was across, and he was hit on the edge of his front pad. Hit well in line. But would that go on to knock over leg stump? Oh, HawkEye says it would just clip it! The ball and the stump are almost tangential! The finest of margins, working in Sri Lanka's favour"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Andile Phehlukwayo"
+    },
+    "Stadium": "Centurion",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "33",
+      "balls": "28",
+      "4s": "4",
+      "6s": "2",
+      "batting_position": "2"
+    },
+    "ball": "12.1",
+    "opposition": {
+      "country": "South Africa",
+      "total": "295/4 (36.2 Overs, RR: 8.11)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "294/9 (50 Overs, RR: 5.88)"
+    },
+    "date": "30 Sep 2016",
+    "scoreAt": "88/2",
+    "description": "short ball, flicked off the body in the air, Parnell throws himself forward at short fine leg... but did it carry? The SA fielders think so but Finch stands his ground and the third umpire will have to make a call on this. It was a tumbling effort on the edge of the ring, looks on first glance that he managed to get his fingers under the ball; but, with the number of replays being looked at by Nigel Llong, we're into the realms of foreshortening. But no, it's given! Think that's the right call, in real time Parnell appeared to have scooped it up from above the turf. Phehlukwayo - surely time we nicknamed him \"Lucky\" - gets his wicket"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Kagiso Rabada"
+    },
+    "Stadium": "Johannesburg",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "1",
+      "balls": "5",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "1.2",
+    "opposition": {
+      "country": "South Africa",
+      "total": "361/6 (50 Overs, RR: 7.22)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "219 all out (37.4 Overs, RR: 5.81)"
+    },
+    "date": "2 Oct 2016",
+    "scoreAt": "3/1",
+    "description": "short ball, Finch scoops it straight up - bagged by Behardien at square leg! Done for pace, I suspect, looking to get on with it, as he had to, but the stroke was all sorts of wrong, hoicked up like a white flag and South Africa have their first"
+  },
+  {
+    "bowler": {
+      "type": "Legbreak googly",
+      "name": "Imran Tahir"
+    },
+    "Stadium": "Durban",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "53",
+      "balls": "34",
+      "4s": "3",
+      "6s": "4",
+      "batting_position": "2"
+    },
+    "ball": "13.1",
+    "opposition": {
+      "country": "South Africa",
+      "total": "372/6 (49.2 Overs, RR: 7.54)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "371/6 (50 Overs, RR: 7.42)"
+    },
+    "date": "5 Oct 2016",
+    "scoreAt": "110/1",
+    "description": "launched into the sky, but it lobs to mid-off, Tahir makes the breakthrough! One big hit too many for Finch, sent it pretty much straight up and he has to head straight off, as Tahir weaves away in trademark arms-whirling high-fiving celebration. Twas the googly that did it"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Kyle Abbott"
+    },
+    "Stadium": "Port Elizabeth",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "2",
+      "balls": "3",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "0.3",
+    "opposition": {
+      "country": "South Africa",
+      "total": "168/4 (35.3 Overs, RR: 4.73)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "167 all out (36.4 Overs, RR: 4.55)"
+    },
+    "date": "9 Oct 2016",
+    "scoreAt": "2/1",
+    "description": "bowled im. One down already. Too exuberant from Finch. But a beautiful delivery too. The perfect delivery to Finch, akin to Southee's ball against Finch in Auckland. Full, just outside off, and so Finch thinks he can hit on the up. But the ball jags back just enough to go through a massive gap between bat and pad. Sends the off stump for a walk. Magnificent start for SA."
+  },
+  {
+    "bowler": {
+      "type": "Legbreak googly",
+      "name": "Imran Tahir"
+    },
+    "Stadium": "Cape Town",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "19",
+      "balls": "40",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "13.4",
+    "opposition": {
+      "country": "South Africa",
+      "total": "327/8 (50 Overs, RR: 6.54)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "296 all out (48.2 Overs, RR: 6.12)"
+    },
+    "date": "12 Oct 2016",
+    "scoreAt": "72/1",
+    "description": "gone this time! And Tahir sets off on his celebratory run. May have been the flipper, out the front of the hand. Short delivery, and quick on middle. Finch goes back, looks to cut, but clearly misjudged plenty in that - pace, length and shot selection. The ball skids through and beats Finch's cut to clatter into the stumps. Not nearly short enough to cut"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Matt Henry"
+    },
+    "Stadium": "Sydney",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "0",
+      "balls": "1",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "0.3",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "256 all out (44.2 Overs, RR: 5.77)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "324/8 (50 Overs, RR: 6.48)"
+    },
+    "date": "4 Dec 2016",
+    "scoreAt": "1/1",
+    "description": "135 kph, Finch has chopped on. That movement again. Henry keeps this full, the ball moves back in. Finch doesn't care. He goes on with an exuberant on-the-up drive with his feet rooted in the crease. What that does is create a massive gap between bat and pad. The ball deviates in, takes the inside edge and clatters into leg stump. Not a great shot first ball. Excellent bowling from Henry. Just a little bit of movement, more than enough at this level."
+  },
+  {
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Mitchell Santner"
+    },
+    "Stadium": "Canberra",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "19",
+      "balls": "34",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "12.2",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "262 all out (47.2 Overs, RR: 5.53)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "378/5 (50 Overs, RR: 7.56)"
+    },
+    "date": "6 Dec 2016",
+    "scoreAt": "68/1",
+    "description": "so the dropped chance didn't cost them much. Finch looks to play a predetermined sweep. Was across a long way even before the ball was delivered, so he was in no position to sweep that full delivery. He swung through way too early as well as the ball sneaked through to crash into the leg stump. Timely wicket for New Zealand. Australia were starting to run away with this."
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "Trent Boult"
+    },
+    "Stadium": "Melbourne",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "3",
+      "balls": "8",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "1.5",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "147 all out (36.1 Overs, RR: 4.06)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "264/8 (50 Overs, RR: 5.28)"
+    },
+    "date": "9 Dec 2016",
+    "scoreAt": "6/1",
+    "description": "Another failure for Finch, he picks out Nicholls to perfection at shortish square leg. Good length and Boult finds inswing again. Finch looks to thump it down the ground from outside off with no feet, he can only drag an inside edge, which carries to Nicholls. That looked ungainly from Finch"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "Trent Boult"
+    },
+    "Stadium": "Auckland",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "4",
+      "balls": "7",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "3.1",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "286/9 (50 Overs, RR: 5.72)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "280 all out (47 Overs, RR: 5.95)"
+    },
+    "date": "30 Jan 2017",
+    "scoreAt": "9/1",
+    "description": "Neesham dives to his right from square leg, reaches for the ball with both hands, and plucks it out. Boult and Neesham combine to send back Australia's stand-in captain. Not a happy comeback for Finch. Hip-high short ball outside off, Finch simply flaps a pull to square leg"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Kane Williamson"
+    },
+    "Stadium": "Hamilton",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "56",
+      "balls": "64",
+      "4s": "5",
+      "6s": "2",
+      "batting_position": "1"
+    },
+    "ball": "20.6",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "281/9 (50 Overs, RR: 5.62)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "257 all out (47 Overs, RR: 5.46)"
+    },
+    "date": "5 Feb 2017",
+    "scoreAt": "119/3",
+    "description": "got lucky with the previous delivery, this time he muscles it straight to the lone man at deep midwicket. Looked to go over long-on perhaps, ended up dragging it a bit, and towards the longer boundary there, he stood no chance. New Zealand back into this"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Adam Milne"
+    },
+    "Stadium": "Birmingham",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "8",
+      "balls": "18",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "6.3",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "291 all out (45 Overs, RR: 6.46)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "53/3 (9 Overs, RR: 5.88)"
+    },
+    "date": "2 Jun 2017",
+    "scoreAt": "35/2",
+    "description": "chipped straight to short midwicket. The extra pace of Milne has done the trick. Length ball at 142kph, comes back in to cramp him for room. Gets it high on the bat as he hops back to whip and Taylor takes a dolly."
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Rubel Hossain"
+    },
+    "Stadium": "The Oval",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "19",
+      "balls": "27",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "7.5",
+    "opposition": {
+      "country": "Bangladesh",
+      "total": "182 all out (44.3 Overs, RR: 4.08)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "83/1 (16 Overs, RR: 5.18)"
+    },
+    "date": "5 Jun 2017",
+    "scoreAt": "45/1",
+    "description": "keeps low, and up goes the finger! Pinned on the back pad, was smashing into leg, and Bangladesh have their breakthrough!"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Ben Stokes"
+    },
+    "Stadium": "Birmingham",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "68",
+      "balls": "64",
+      "4s": "8",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "22.5",
+    "opposition": {
+      "country": "England",
+      "total": "240/4 (40.2 Overs, RR: 5.95)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "277/9 (50 Overs, RR: 5.54)"
+    },
+    "date": "10 Jun 2017",
+    "scoreAt": "136/2",
+    "description": "Finch misfires! Just as he was beginning to look very dangerous, he tried to launch Stokes into West Bromwich and ended up hitting the ball straight up, to be taken smartly by Morgan circling under it from mid-off. Came right off the toe of the bat, maybe deceived by a legcutter from Stokes"
+  },
+  {
+    "bowler": {
+      "type": "Slow left-arm chinaman",
+      "name": "Kuldeep Yadav"
+    },
+    "Stadium": "Indore",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "124",
+      "balls": "125",
+      "4s": "12",
+      "6s": "5",
+      "batting_position": "2"
+    },
+    "ball": "37.5",
+    "opposition": {
+      "country": "India",
+      "total": "294/5 (47.5 Overs, RR: 6.14)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "293/6 (50 Overs, RR: 5.86)"
+    },
+    "date": "24 Sep 2017",
+    "scoreAt": "224/2",
+    "description": "taken at deep midwicket. Finch's belligerence ends. It's full and Finch sees an opportunity to hit it over midwicket, but Finch can't get underneath the length, which means his heave goes straight and flat to Jadhav at deep midwicket, who takes it awkwardly. A white towel falls off, and Finch thinks it's the ball. But has to walk off. Fine innings from Finch, has put Australia in command"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Umesh Yadav"
+    },
+    "Stadium": "Bengaluru",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "94",
+      "balls": "96",
+      "4s": "10",
+      "6s": "3",
+      "batting_position": "1"
+    },
+    "ball": "35.5",
+    "opposition": {
+      "country": "India",
+      "total": "313/8 (50 Overs, RR: 6.26)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "334/5 (50 Overs, RR: 6.68)"
+    },
+    "date": "28 Sep 2017",
+    "scoreAt": "231/2",
+    "description": "looks to clobber it, such bad timing that mid-on takes a sitter. A slower ball outside off, Finch looks to drag the ball from well outside off, but it's right off the toe end, and straight to mid-on. So wide that it may have been a wide had Finch let that go"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Hardik Pandya"
+    },
+    "Stadium": "Nagpur",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "32",
+      "balls": "36",
+      "4s": "6",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "11.3",
+    "opposition": {
+      "country": "India",
+      "total": "243/3 (42.5 Overs, RR: 5.67)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "242/9 (50 Overs, RR: 4.84)"
+    },
+    "date": "1 Oct 2017",
+    "scoreAt": "66/1",
+    "description": "mis-timed and gone. Australia's man in touch is gone. A full delivery outside off from Pandya, Finch tries to go over mid-off, the right ball to hit, but can only skew the ball off the outside half towards Bumrah at mid-off, who rusn to his left, takes the catch, but the ball pops out. The ball is rolling all over his legs like an insect, but Bumrah uses his feel, not his sight, to hold on somehow. Made a simple catch look very tough. Excellent plan from Finch, just flawed execution"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Moeen Ali"
+    },
+    "Stadium": "Melbourne",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "107",
+      "balls": "119",
+      "4s": "10",
+      "6s": "3",
+      "batting_position": "1"
+    },
+    "ball": "35.2",
+    "opposition": {
+      "country": "England",
+      "total": "308/5 (48.5 Overs, RR: 6.30)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "304/8 (50 Overs, RR: 6.08)"
+    },
+    "date": "14 Jan 2018",
+    "scoreAt": "196/4",
+    "description": "picks out deep midwicket! Stands still this time, opts for the leg side, heaves across the line and clubs it down the throat of Bairstow"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Liam Plunkett"
+    },
+    "Stadium": "Brisbane",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "106",
+      "balls": "114",
+      "4s": "9",
+      "6s": "1",
+      "batting_position": "2"
+    },
+    "ball": "40.1",
+    "opposition": {
+      "country": "England",
+      "total": "274/6 (44.2 Overs, RR: 6.18)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "270/9 (50 Overs, RR: 5.40)"
+    },
+    "date": "19 Jan 2018",
+    "scoreAt": "213/5",
+    "description": "finds mid-on! Once again, England strike back-to-back...went to drive down the ground, think he wanted to go over top, got no sort of elevation and it's a simple catch on the edge of the circle"
+  },
+  {
+    "bowler": {
+      "type": "Legbreak",
+      "name": "Adil Rashid"
+    },
+    "Stadium": "Sydney",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Aaron Finch"
+    },
+    "player_innings": {
+      "runs": "62",
+      "balls": "53",
+      "4s": "3",
+      "6s": "3",
+      "batting_position": "1"
+    },
+    "ball": "20.1",
+    "opposition": {
+      "country": "England",
+      "total": "302/6 (50 Overs, RR: 6.04)"
+    },
+    "team": {
+      "country": "AUS ",
+      "total": "286/6 (50 Overs, RR: 5.72)"
+    },
+    "date": "21 Jan 2018",
+    "scoreAt": "113/3",
+    "description": "tosses up the legbreak, Finch goes to sweep, hit on the pads - and given! Finch immediately signals for a review, seeming to suggest he got some bat on it... but there's no bottom edge on the replays, and Hawk-Eye has it clipping leg stump! It was very close to sliding by but umpire's call is all England needed. Huge wicket, no hundred for Finch today!"
+  }
+]

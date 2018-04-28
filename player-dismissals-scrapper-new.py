@@ -103,6 +103,7 @@ def scrapeMatch(dismissal, url):
 
 
 def scrapePlayerDismissals(player_name):
+    id = 0
     dismissals = []
     webpage = urlopen('http://stats.espncricinfo.com'
                       '/ci/engine/stats/analysis.html?'
@@ -183,8 +184,11 @@ def scrapePlayerDismissals(player_name):
                     scorecard_url = "http://www.espncricinfo.com" + data.find('a').get('href')
                     dismissal = scrapeMatch(dismissal, scorecard_url)
                 i += 1
+            if dismissal:
+                dismissal['id'] = id
+                dismissals.append(dismissal)
+                id += 1
             print(dismissal)
-            if dismissal: dismissals.append(dismissal)
 
         with open('Samples/Dismissals/' + '-'.join(player_name.split(" ")) + '-odi-dismissals.json', 'w') as outfile:
             json.dump(dismissals, outfile)

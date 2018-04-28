@@ -1,1 +1,2722 @@
-[{"bowler": {"type": "Right-arm fast-medium", "name": "Stuart Broad"}, "Stadium": "Chester-le-Street", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "40", "balls": "44", "4s": "6", "6s": "0", "batting_position": "2"}, "ball": "15.6", "opposition": {"country": "England", "total": "27/2 (7.2 Overs, RR: 3.68)"}, "team": {"country": "INDIA ", "total": "274/7 (50 Overs, RR: 5.48)"}, "date": "3 Sep 2011", "scoreAt": "82/1", "description": "gone! England find the breakthrough and it's with the short ball. Goes for another pull, this time it comes off the top edge and Samit Patel swallows a comfortable catch at fine leg"}, {"bowler": {"type": "Right-arm offbreak", "name": "Graeme Swann"}, "Stadium": "Southampton", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "54", "balls": "47", "4s": "5", "6s": "1", "batting_position": "2"}, "ball": "18.5", "opposition": {"country": "England", "total": "188/3 (22.1 Overs, RR: 8.48)"}, "team": {"country": "INDIA ", "total": "187/8 (23 Overs, RR: 8.13)"}, "date": "6 Sep 2011", "scoreAt": "143/4", "description": "Kohli won't be running too many for Rahane. Ajinkya looks for the straight loft that he has played so well so far, but gets too close to the pitch of the ball here, and doesn't get optimum elevation. Swann takes a smart, overhead return catch"}, {"bowler": {"type": "Right-arm fast-medium", "name": "James Anderson"}, "Stadium": "The Oval", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "0", "balls": "3", "4s": "0", "6s": "0", "batting_position": "2"}, "ball": "0.4", "opposition": {"country": "England", "total": "218/7 (41.5 Overs, RR: 5.21)"}, "team": {"country": "INDIA ", "total": "234/7 (50 Overs, RR: 4.68)"}, "date": "9 Sep 2011", "scoreAt": "1/1", "description": "caught at slip! Anderson angles the ball into the right-hander, pitches on a great length close to off stump, and gets it to seam away from the batsman. Rahane stays in his crease and pokes tentatively. The ball takes the edge and goes straight to Trott at first slip. It's Rahane's first failure on the tour. Had to happen some time."}, {"bowler": {"type": "Right-arm fast-medium", "name": "Stuart Broad"}, "Stadium": "Lord's", "team_innings": "1", "dismissal": {"wayOut": "lbw"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "38", "balls": "53", "4s": "5", "6s": "1", "batting_position": "2"}, "ball": "13.3", "opposition": {"country": "England", "total": "270/8 (48.5 Overs, RR: 5.52)"}, "team": {"country": "INDIA ", "total": "280/5 (50 Overs, RR: 5.60)"}, "date": "11 Sep 2011", "scoreAt": "65/1", "description": "gone! Broad strikes in his first over. He aimed for a surprise yorker, and Rahane played over the top of what turned out to be a low, dipping full toss. Broad appeals, the umpire's finger quickly goes up. Strangely, Rahane never really looked comfortable in this innings."}, {"bowler": {"type": "Right-arm fast-medium", "name": "Jade Dernbach"}, "Stadium": "Cardiff", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "26", "balls": "47", "4s": "3", "6s": "0", "batting_position": "2"}, "ball": "12.1", "opposition": {"country": "England", "total": "241/4 (32.2 Overs, RR: 7.45)"}, "team": {"country": "INDIA ", "total": "304/6 (50 Overs, RR: 6.08)"}, "date": "16 Sep 2011", "scoreAt": "52/1", "description": "gone! Dernbach strikes. Rahane attempted a mow to leg, but the ball - quite possibly another slower one - took the top edge and looped down to third man, where Finn sprinted across to his left and took a great diving catch"}, {"bowler": {"type": "Right-arm offbreak", "name": "Graeme Swann"}, "Stadium": "Hyderabad (Deccan)", "team_innings": "1", "dismissal": {"wayOut": "stumped"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "15", "balls": "41", "4s": "0", "6s": "0", "batting_position": "2"}, "ball": "11.4", "opposition": {"country": "England", "total": "174 all out (36.1 Overs, RR: 4.81)"}, "team": {"country": "INDIA ", "total": "300/7 (50 Overs, RR: 6.00)"}, "date": "14 Oct 2011", "scoreAt": "52/2", "description": "Rahane will want to forget this innings as soon as possible. Swann again strikes in his first over. Rahane's worked himself into a shotless corner, and suddenly tries to break free against spin. He tries to step out to Swann and loft through the off side, but Swann's canny drift takes the ball away before it dips and breaks in, easily beating the shot. Kieswetter completes an easy stumping."}, {"bowler": {"type": "Right-arm medium-fast", "name": "Tim Bresnan"}, "Stadium": "Delhi", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "14", "balls": "15", "4s": "1", "6s": "1", "batting_position": "2"}, "ball": "6.5", "opposition": {"country": "England", "total": "237 all out (48.2 Overs, RR: 4.90)"}, "team": {"country": "INDIA ", "total": "238/2 (36.4 Overs, RR: 6.49)"}, "date": "17 Oct 2011", "scoreAt": "29/2", "description": "got him this time! The short ball works, Bresnan sends down another bouncer and Rahane's hook only carries as far as Dernbach at long leg who takes it well. Bresnan is pumped up"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Steven Finn"}, "Stadium": "Mohali", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "91", "balls": "104", "4s": "6", "6s": "0", "batting_position": "2"}, "ball": "37.5", "opposition": {"country": "England", "total": "298/4 (50 Overs, RR: 5.96)"}, "team": {"country": "INDIA ", "total": "300/5 (49.2 Overs, RR: 6.08)"}, "date": "20 Oct 2011", "scoreAt": "212/3", "description": "got him! Finn strikes again and Rahane misses his hundred. It was a full delivery, perhaps a touch slower, that he aimed to play to leg but got a leading edge which carried low to mid-off. A little send-off from Finn, I think"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Stuart Meaker"}, "Stadium": "Mumbai", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "20", "balls": "37", "4s": "1", "6s": "0", "batting_position": "2"}, "ball": "13.5", "opposition": {"country": "England", "total": "220 all out (46.1 Overs, RR: 4.76)"}, "team": {"country": "INDIA ", "total": "223/4 (40.1 Overs, RR: 5.55)"}, "date": "23 Oct 2011", "scoreAt": "46/3", "description": "Meaker strikes! And what a stunning effort behind the stumps by Kieswetter to complete the dismissal. Rahane poked at one that left him off a length, a thick edge flying very quickly to Kieswetter's right. He had to go for the catch as Pietersen was very wide at slip. He pouched it one handed and clung on as he hit the ground. A first international scalp for Meaker, and it's a good one"}, {"bowler": {"type": "Right-arm medium-fast", "name": "Tim Bresnan"}, "Stadium": "Kolkata", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "42", "balls": "61", "4s": "6", "6s": "0", "batting_position": "1"}, "ball": "18.4", "opposition": {"country": "England", "total": "176 all out (37 Overs, RR: 4.75)"}, "team": {"country": "INDIA ", "total": "271/8 (50 Overs, RR: 5.42)"}, "date": "25 Oct 2011", "scoreAt": "80/3", "description": "that is some catch! Kieswetter lunges to his right to grab a thick outside edge with one hand! The ball was full from Bresnan and Rahane reached for it and drove away from his body. England have stormed into this match, and how."}, {"bowler": {"type": "Right-arm fast", "name": "Kemar Roach"}, "Stadium": "Chennai", "team_innings": "1", "dismissal": {"wayOut": "lbw"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "0", "balls": "1", "4s": "0", "6s": "0", "batting_position": "2"}, "ball": "0.2", "opposition": {"country": "West Indies", "total": "233 all out (44.1 Overs, RR: 5.27)"}, "team": {"country": "INDIA ", "total": "267/6 (50 Overs, RR: 5.34)"}, "date": "11 Dec 2011", "scoreAt": "1/1", "description": "Rahane gets a golden duck on return to international cricket. This time it's the lack of bounce. Short of a length, starts outside off, sneaks under his defence, and hits him midway between shin and knee. Dead plumb, as this is moving in from outside off and hitting middle"}, {"bowler": {"type": "Right-arm medium-fast", "name": "Thisara Perera"}, "Stadium": "Pallekele", "team_innings": "1", "dismissal": {"wayOut": "lbw"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "9", "balls": "17", "4s": "1", "6s": "0", "batting_position": "2"}, "ball": "5.1", "opposition": {"country": "Sri Lanka", "total": "274 all out (45.4 Overs, RR: 6.00)"}, "team": {"country": "INDIA ", "total": "294/7 (50 Overs, RR: 5.88)"}, "date": "4 Aug 2012", "scoreAt": "29/1", "description": "Rahane has been given out lbw, this one nipped back in, did he get an inside edge? Landed on the off stump and moved back in, struck him on the pads, no inside edge, struck him in line and the umpire thought that was out. We just need to see if height was an issue, may not have been. Sri Lanka strike"}, {"bowler": {"type": "Left-arm fast", "name": "Mohammad Irfan"}, "Stadium": "Delhi", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "4", "balls": "11", "4s": "1", "6s": "0", "batting_position": "2"}, "ball": "4.3", "opposition": {"country": "Pakistan", "total": "157 all out (48.5 Overs, RR: 3.21)"}, "team": {"country": "INDIA ", "total": "167 all out (43.4 Overs, RR: 3.82)"}, "date": "6 Jan 2013", "scoreAt": "19/1", "description": "caught behind! Irfan strikes with a full delivery outside off, Rahane comes forward to drive it towards cover but the angle on the ball takes it across the batsman, it takes a faint edge to the keeper. Important strike by Irfan and Rahane loses another opportunity to impress"}, {"bowler": {"type": "Right-arm offbreak", "name": "James Tredwell"}, "Stadium": "Rajkot", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "47", "balls": "57", "4s": "6", "6s": "0", "batting_position": "1"}, "ball": "16.4", "opposition": {"country": "England", "total": "325/4 (50 Overs, RR: 6.50)"}, "team": {"country": "INDIA ", "total": "316/9 (50 Overs, RR: 6.32)"}, "date": "11 Jan 2013", "scoreAt": "96/1", "description": "and there's the breakthrough for England, as Rahane lofts high to long-off! Tredwell tossed up, inviting Rahane to get forward, he tried to go inside out again but wasn't to the pitch and got too much underneath the shot. The run rate had slowed a touch and that looked like frustration, which is odd on this pitch"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Steven Finn"}, "Stadium": "Kochi", "team_innings": "1", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "4", "balls": "14", "4s": "0", "6s": "0", "batting_position": "1"}, "ball": "4.3", "opposition": {"country": "England", "total": "158 all out (36 Overs, RR: 4.38)"}, "team": {"country": "INDIA ", "total": "285/6 (50 Overs, RR: 5.70)"}, "date": "15 Jan 2013", "scoreAt": "18/2", "description": "bowled 'em, inswing accompanied with seam this time, Rahane has been tentative to get forward, and it has caused his downfall, goes across a bit in the crease to a good length delivery outside off, and defends far away from the body, ball swings in late, and disturbs another set of stumps through the wide-open gate"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Steven Finn"}, "Stadium": "Ranchi", "team_innings": "2", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "0", "balls": "4", "4s": "0", "6s": "0", "batting_position": "2"}, "ball": "2.5", "opposition": {"country": "England", "total": "155 all out (42.2 Overs, RR: 3.66)"}, "team": {"country": "INDIA ", "total": "157/3 (28.1 Overs, RR: 5.57)"}, "date": "19 Jan 2013", "scoreAt": "11/1", "description": "Kochi all over again for Rahane and Finn, who rips in a good length delivery through the young batsman's gate, Rahane seemed to have got slightly forward this time, but still left too much between bat and pad, off stump is uprooted"}, {"bowler": {"type": "Right-arm offbreak", "name": "Malcolm Waller"}, "Stadium": "Bulawayo", "team_innings": "2", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "50", "balls": "66", "4s": "4", "6s": "1", "batting_position": "3"}, "ball": "27.2", "opposition": {"country": "Zimbabwe", "total": "163 all out (39.5 Overs, RR: 4.09)"}, "team": {"country": "INDIA ", "total": "167/3 (34 Overs, RR: 4.91)"}, "date": "3 Aug 2013", "scoreAt": "126/3", "description": "and the part-timer has struck, Rahane had been going back to fullish deliveries, this one spins in sharply from outside off, and hits the middle stump"}, {"bowler": {"type": "Right-arm fast", "name": "Morne Morkel"}, "Stadium": "Durban", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "8", "balls": "17", "4s": "1", "6s": "0", "batting_position": "4"}, "ball": "8.4", "opposition": {"country": "South Africa", "total": "280/6 (49 Overs, RR: 5.71)"}, "team": {"country": "INDIA ", "total": "146 all out (35.1 Overs, RR: 4.15)"}, "date": "8 Dec 2013", "scoreAt": "34/4", "description": "short and wide and another wicket! This one was close to the wide marker, but Rahane, unlike two balls ago, chases this one. De Kock takes it and is the first one to appeal, then everyone appeals and the umpire raises the finger"}, {"bowler": {"type": "Left-arm medium-fast", "name": "Corey Anderson"}, "Stadium": "Napier", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "7", "balls": "13", "4s": "0", "6s": "0", "batting_position": "4"}, "ball": "20.6", "opposition": {"country": "New Zealand", "total": "292/7 (50 Overs, RR: 5.84)"}, "team": {"country": "INDIA ", "total": "268 all out (48.4 Overs, RR: 5.50)"}, "date": "19 Jan 2014", "scoreAt": "84/3", "description": "McCullum pulls out a corker of a catch to remove Rahane as he lofts this one in the air towards mid-off, with McCullum running to his right before launching at the correct moment to get his right hand under the ball before it grazes the grass. What a stunner from NZ, who continue to exhibit solid skills in the fielding department"}, {"bowler": {"type": "Left-arm fast-medium", "name": "Mitchell McClenaghan"}, "Stadium": "Hamilton", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "36", "balls": "42", "4s": "4", "6s": "0", "batting_position": "4"}, "ball": "23.4", "opposition": {"country": "New Zealand", "total": "271/7 (42 Overs, RR: 6.45)"}, "team": {"country": "INDIA ", "total": "277/9 (41.3 Overs, RR: 6.67)"}, "date": "22 Jan 2014", "scoreAt": "127/3", "description": "and McClenaghan does it again as he bowls a shorter one which has Rahane going after it with a pull, but it looks as he gets through his shot a bit too early as he gets a faint outside edge which carries comfortably to Ronchi. Big wicket for New Zealand as these two threatened to take the match from them"}, {"bowler": {"type": "Left-arm medium-fast", "name": "Corey Anderson"}, "Stadium": "Auckland", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "3", "balls": "14", "4s": "0", "6s": "0", "batting_position": "4"}, "ball": "17.4", "opposition": {"country": "New Zealand", "total": "314 all out (50 Overs, RR: 6.28)"}, "team": {"country": "INDIA ", "total": "314/9 (50 Overs, RR: 6.28)"}, "date": "25 Jan 2014", "scoreAt": "79/4", "description": "and this time it is Rahane's time to depart as he tickles this leg side delivery from Anderson straight to the waiting paws of Ronchi behind, who doesn't make a mess of it"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Kyle Mills"}, "Stadium": "Hamilton", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "3", "balls": "8", "4s": "0", "6s": "0", "batting_position": "3"}, "ball": "8.2", "opposition": {"country": "New Zealand", "total": "280/3 (48.1 Overs, RR: 5.81)"}, "team": {"country": "INDIA ", "total": "278/5 (50 Overs, RR: 5.56)"}, "date": "28 Jan 2014", "scoreAt": "22/2", "description": "short delivery again and he's picked out long leg! Can't stop himself from going for the hook and he did not get on top of the bounce there. Gets a thick top edge that sails straight into the hands of Southee. Had to fetch that from a touch outside off"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Matt Henry"}, "Stadium": "Wellington", "team_innings": "2", "dismissal": {"wayOut": "lbw"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "2", "balls": "10", "4s": "0", "6s": "0", "batting_position": "4"}, "ball": "13.2", "opposition": {"country": "New Zealand", "total": "303/5 (50 Overs, RR: 6.06)"}, "team": {"country": "INDIA ", "total": "216 all out (49.4 Overs, RR: 4.34)"}, "date": "31 Jan 2014", "scoreAt": "30/3", "description": "another one for Henry! And Rahane's missed a straight one! He was swinging across the line to a fullish delivery angled in at him. Struck in line with the stumps and would have crashed into middle"}, {"bowler": {"type": "Right-arm offbreak", "name": "Sohag Gazi"}, "Stadium": "Fatullah", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "73", "balls": "83", "4s": "7", "6s": "1", "batting_position": "4"}, "ball": "47.3", "opposition": {"country": "Bangladesh", "total": "279/7 (50 Overs, RR: 5.58)"}, "team": {"country": "INDIA ", "total": "280/4 (49 Overs, RR: 5.71)"}, "date": "26 Feb 2014", "scoreAt": "272/4", "description": "another anti-climactic dismissal! Rahane plays his typical chip down the wicket, gets it off the toe end and he gets it only as far as long-on.. Suddenly there is music playing in the stands.."}, {"bowler": {"type": "Right-arm offbreak", "name": "Sachithra Senanayake"}, "Stadium": "Fatullah", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "22", "balls": "27", "4s": "1", "6s": "0", "batting_position": "4"}, "ball": "35.1", "opposition": {"country": "Sri Lanka", "total": "265/8 (49.2 Overs, RR: 5.37)"}, "team": {"country": "INDIA ", "total": "264/9 (50 Overs, RR: 5.28)"}, "date": "28 Feb 2014", "scoreAt": "175/3", "description": "Rahane is gone, he charged out of the crease, looking to loft this over extra cover -a favourite region of his - get a thick outside edge instead and that loops to backward point for a simple catch"}, {"bowler": {"type": "Right-arm offbreak", "name": "Mohammad Hafeez"}, "Stadium": "Dhaka", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "23", "balls": "50", "4s": "3", "6s": "0", "batting_position": "4"}, "ball": "23.2", "opposition": {"country": "Pakistan", "total": "249/9 (49.4 Overs, RR: 5.01)"}, "team": {"country": "INDIA ", "total": "245/8 (50 Overs, RR: 4.90)"}, "date": "2 Mar 2014", "scoreAt": "103/4", "description": "a wristy little flick but he's picked out midwicket! It was a length ball outside off, should have been punched down the ground for a single but he was moving across and was trying to manufacture a stroke. Chips it in the air and midwicket leaps up and takes it over his head. Sharp catch, simply done"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Mirwais Ashraf"}, "Stadium": "Dhaka", "team_innings": "2", "dismissal": {"wayOut": "lbw"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "56", "balls": "66", "4s": "5", "6s": "0", "batting_position": "1"}, "ball": "23.3", "opposition": {"country": "Afghanistan", "total": "159 all out (45.2 Overs, RR: 3.50)"}, "team": {"country": "INDIA ", "total": "160/2 (32.2 Overs, RR: 4.94)"}, "date": "5 Mar 2014", "scoreAt": "121/1", "description": "he's been given leg-before, he's fallen similarly before, walking across and missing the nudge square to the leg side, umpire Bowden sends him back, but replays show the ball would have missed leg stump, now then"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Mashrafe Mortaza"}, "Stadium": "Dhaka", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "64", "balls": "70", "4s": "5", "6s": "2", "batting_position": "2"}, "ball": "22.1", "opposition": {"country": "Bangladesh", "total": "272/9 (50 Overs, RR: 5.44)"}, "team": {"country": "INDIA ", "total": "153/3 (24.5 Overs, RR: 6.16)"}, "date": "15 Jun 2014", "scoreAt": "135/3", "description": "there is life in this dog yet. Ziaur Rahamn, who was rather slow in diving a ball ago, flies at short third man to send Rahane back. Slower ball from Mortaza, Rahane drives, looking to go over extra, but gets a thick edge, and Zia takes it overhead when the ball has almost passed him"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Mashrafe Mortaza"}, "Stadium": "Dhaka", "team_innings": "1", "dismissal": {"wayOut": "lbw"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "0", "balls": "1", "4s": "0", "6s": "0", "batting_position": "2"}, "ball": "0.2", "opposition": {"country": "Bangladesh", "total": "58 all out (17.4 Overs, RR: 3.28)"}, "team": {"country": "INDIA ", "total": "105 all out (25.3 Overs, RR: 4.11)"}, "date": "17 Jun 2014", "scoreAt": "1/1", "description": "this one's definitely out. Nice and full, and there's that inswing again. Rahane's front pad is planted right in front of middle stump, and the ball thuds into it nice and low as he tries to work the ball across the line. Umpire Dharmasena immediately raises his finger."}, {"bowler": {"type": "Right-arm medium-fast", "name": "Al-Amin Hossain"}, "Stadium": "Dhaka", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "3", "balls": "18", "4s": "0", "6s": "0", "batting_position": "2"}, "ball": "5.2", "opposition": {"country": "Bangladesh", "total": "DNB"}, "team": {"country": "INDIA ", "total": "119/9 (34.2 Overs, RR: 3.46)"}, "date": "19 Jun 2014", "scoreAt": "8/2", "description": "and India have lost both their openers. Rahane was trying to work this shortish ball into the leg side with the angle, but it bounced much higher than he expected and got up to chest height. Opened him up, took his outside edge, and slip took the catch above his head"}, {"bowler": {"type": "Right-arm offbreak", "name": "James Tredwell"}, "Stadium": "Cardiff", "team_innings": "1", "dismissal": {"wayOut": "stumped"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "41", "balls": "47", "4s": "4", "6s": "0", "batting_position": "4"}, "ball": "23.5", "opposition": {"country": "England", "total": "161 all out (38.1 Overs, RR: 4.21)"}, "team": {"country": "INDIA ", "total": "304/6 (50 Overs, RR: 6.08)"}, "date": "27 Aug 2014", "scoreAt": "110/3", "description": "a nice slider past the outside edge and Buttler goes up for a stumping, we're going upstairs. This is very close, Rahane dragged his back foot out of his ground, then rocked is back, did he do it in time? He must have something grounded behind the popping crease. If there's anything back, it is very marginal indeed. And the third umpires says it's not there, timely wicket for England, nice arm ball from Tredwell"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Steven Finn"}, "Stadium": "Nottingham", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "45", "balls": "56", "4s": "6", "6s": "1", "batting_position": "1"}, "ball": "17.5", "opposition": {"country": "England", "total": "227 all out (50 Overs, RR: 4.54)"}, "team": {"country": "INDIA ", "total": "228/4 (43 Overs, RR: 5.30)"}, "date": "30 Aug 2014", "scoreAt": "85/2", "description": "got 'im! That will give Finn a huge boost. A length delivery around off stump, Rahane trying to run the ball to third man again but only succeeds in edging low through to Buttler. Once again, Rahane fails to build on an elegant start"}, {"bowler": {"type": "Left-arm fast-medium", "name": "Harry Gurney"}, "Stadium": "Birmingham", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "106", "balls": "100", "4s": "10", "6s": "4", "batting_position": "1"}, "ball": "28.4", "opposition": {"country": "England", "total": "206 all out (49.3 Overs, RR: 4.16)"}, "team": {"country": "INDIA ", "total": "212/1 (30.3 Overs, RR: 6.95)"}, "date": "2 Sep 2014", "scoreAt": "183/1", "description": "oh no, he smokes the difficult ones all over the ground and when he gets an easy one, hits it straight to the fielder at cover point. It was a low full toss outside off and the batsman slices it to the fielder.. A soft end to an exciting innings"}, {"bowler": {"type": "Right-arm fast-medium", "name": "James Anderson"}, "Stadium": "Leeds", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "0", "balls": "3", "4s": "0", "6s": "0", "batting_position": "1"}, "ball": "0.3", "opposition": {"country": "England", "total": "294/7 (50 Overs, RR: 5.88)"}, "team": {"country": "INDIA ", "total": "253 all out (48.4 Overs, RR: 5.19)"}, "date": "5 Sep 2014", "scoreAt": "0/1", "description": "that's the start England were after! Rahane pushes at this wider length delivery and slices it straight to point. A touch of laziness in that shot."}, {"bowler": {"type": "Right-arm medium-fast", "name": "Darren Sammy"}, "Stadium": "Delhi", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "12", "balls": "28", "4s": "1", "6s": "0", "batting_position": "1"}, "ball": "12.5", "opposition": {"country": "West Indies", "total": "215 all out (46.3 Overs, RR: 4.62)"}, "team": {"country": "INDIA ", "total": "263/7 (50 Overs, RR: 5.26)"}, "date": "11 Oct 2014", "scoreAt": "50/2", "description": "caught at cover! A soft dismissal, the slower ball does it for Sammy! Rahane pushed forward way too early and ended up spooning the drive straight to Bravo at cover"}, {"bowler": {"type": "Slow left-arm orthodox", "name": "Sulieman Benn"}, "Stadium": "Dharamsala", "team_innings": "1", "dismissal": {"wayOut": "lbw"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "68", "balls": "79", "4s": "7", "6s": "0", "batting_position": "1"}, "ball": "26.4", "opposition": {"country": "West Indies", "total": "271 all out (48.1 Overs, RR: 5.62)"}, "team": {"country": "INDIA ", "total": "330/6 (50 Overs, RR: 6.60)"}, "date": "17 Oct 2014", "scoreAt": "142/2", "description": "another appeal to umpire Kulkarni by Benn against Rahane, who misses a sweep this time, hit below the knee roll, just outside the line of off, and the ball is spinning further away, Rahane has been done in by the combined pressure of the two appeals on umpire Kulkarni"}, {"bowler": {"type": "Right-arm offbreak", "name": "Suraj Randiv"}, "Stadium": "Cuttack", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "111", "balls": "108", "4s": "13", "6s": "2", "batting_position": "1"}, "ball": "37.5", "opposition": {"country": "Sri Lanka", "total": "194 all out (39.2 Overs, RR: 4.93)"}, "team": {"country": "INDIA ", "total": "363/5 (50 Overs, RR: 7.26)"}, "date": "2 Nov 2014", "scoreAt": "247/2", "description": "another century comes to an end, this one off a full toss! Rahane came down the track to loft the low full toss over mid off but didn't time it well and gave a simple catch to Jayawardene"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Dhammika Prasad"}, "Stadium": "Ahmedabad", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "8", "balls": "19", "4s": "1", "6s": "0", "batting_position": "1"}, "ball": "6.3", "opposition": {"country": "Sri Lanka", "total": "274/8 (50 Overs, RR: 5.48)"}, "team": {"country": "INDIA ", "total": "275/4 (44.3 Overs, RR: 6.17)"}, "date": "6 Nov 2014", "scoreAt": "18/1", "description": "got him, and what a catch that is from Mahela! Rahane throws his bat at a full ball outside off, and it swings away just a touch and takes his outside edge. It bounces off Sangakkara's gloves, and Jayawardene reacts instantly at slip to dive to his left and pluck it with his left-hand"}, {"bowler": {"type": "Right-arm medium-fast", "name": "Thisara Perera"}, "Stadium": "Hyderabad (Deccan)", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "31", "balls": "47", "4s": "5", "6s": "0", "batting_position": "1"}, "ball": "11.6", "opposition": {"country": "Sri Lanka", "total": "242 all out (48.2 Overs, RR: 5.00)"}, "team": {"country": "INDIA ", "total": "245/4 (44.1 Overs, RR: 5.54)"}, "date": "9 Nov 2014", "scoreAt": "62/1", "description": "Rahane has been bounced out, this was just outside off this time, and climbing quickly and steeply, Rahane tried to cut it, he was on the hop and late on the shot as it pinged the glove and popped up to slip"}, {"bowler": {"type": "Right-arm medium", "name": "Angelo Mathews"}, "Stadium": "Kolkata", "team_innings": "1", "dismissal": {"wayOut": "lbw"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "28", "balls": "24", "4s": "6", "6s": "0", "batting_position": "1"}, "ball": "7.5", "opposition": {"country": "Sri Lanka", "total": "251 all out (43.1 Overs, RR: 5.81)"}, "team": {"country": "INDIA ", "total": "404/5 (50 Overs, RR: 8.08)"}, "date": "13 Nov 2014", "scoreAt": "40/1", "description": "here comes the first wicket! It was a poor choice of shot from Rahane. He stays on the back foot and tries to work the length delivery away to the leg side but it just comes in a touch to beat the inside edge and strike above the knee roll. Would have hit the top of the stumps"}, {"bowler": {"type": "Right-arm medium", "name": "Angelo Mathews"}, "Stadium": "Ranchi", "team_innings": "2", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "2", "balls": "10", "4s": "0", "6s": "0", "batting_position": "1"}, "ball": "2.4", "opposition": {"country": "Sri Lanka", "total": "286/8 (50 Overs, RR: 5.72)"}, "team": {"country": "INDIA ", "total": "288/7 (48.4 Overs, RR: 5.91)"}, "date": "16 Nov 2014", "scoreAt": "6/1", "description": "oh hat's a grubber.. It pitches on length, comes in and doesn't get up more than six inches. Rahane can't do much about it. It hits the middle stump. Mathews can't do anything wrong today!"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Gurinder Sandhu"}, "Stadium": "Melbourne", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "12", "balls": "22", "4s": "2", "6s": "0", "batting_position": "3"}, "ball": "7.2", "opposition": {"country": "Australia", "total": "269/6 (49 Overs, RR: 5.48)"}, "team": {"country": "INDIA ", "total": "267/8 (50 Overs, RR: 5.34)"}, "date": "18 Jan 2015", "scoreAt": "33/2", "description": "nicked and taken. There's that bounce that he seems to get and it bests Rahane's intention to cut. Top strike for a first one, and it was brought about by the pressure created and sustained at both ends. There wasn't enough room for the shot, but Rahane opted for it and pays the price"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Steven Finn"}, "Stadium": "Brisbane", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "33", "balls": "40", "4s": "1", "6s": "1", "batting_position": "1"}, "ball": "14.3", "opposition": {"country": "England", "total": "156/1 (27.3 Overs, RR: 5.67)"}, "team": {"country": "INDIA ", "total": "153 all out (39.3 Overs, RR: 3.87)"}, "date": "20 Jan 2015", "scoreAt": "57/2", "description": "he has thrown it away! Poor shot from Rahane. Fifth time Rahane dismissed by Finn. He comes down the pitch and looks to whack the back of length delivery over midwicket but the extra bounce means it hits the splice of the bot and balloons towards mid-on where the fielder backpedals and takes an easy catch"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Steven Finn"}, "Stadium": "Perth", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "73", "balls": "101", "4s": "3", "6s": "1", "batting_position": "1"}, "ball": "35.3", "opposition": {"country": "England", "total": "201/7 (46.5 Overs, RR: 4.29)"}, "team": {"country": "INDIA ", "total": "200 all out (48.1 Overs, RR: 4.15)"}, "date": "30 Jan 2015", "scoreAt": "136/5", "description": "beautiful delivery, Finn gets the well-set batsman! Wobbly seam and the ball was coming in towards the batsman from outside off, it was too close to him as he tried to run it down the third man and the outside edge was taken by Buttler to his right"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Sohail Khan"}, "Stadium": "Adelaide", "team_innings": "1", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "0", "balls": "1", "4s": "0", "6s": "0", "batting_position": "7"}, "ball": "49.2", "opposition": {"country": "Pakistan", "total": "224 all out (47 Overs, RR: 4.76)"}, "team": {"country": "INDIA ", "total": "300/7 (50 Overs, RR: 6.0)"}, "date": "15 Feb 2015", "scoreAt": "296/7", "description": "Sohail is doing the sajda after bowling Rahane out. Slower ball, Rahane makes room to try to hit it over cover, and has the top of the leg stumps disturbed. Will we get another last-over hat-trick?"}, {"bowler": {"type": "Right-arm fast", "name": "Dale Steyn"}, "Stadium": "Melbourne", "team_innings": "1", "dismissal": {"wayOut": "lbw"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "79", "balls": "60", "4s": "7", "6s": "3", "batting_position": "4"}, "ball": "45.6", "opposition": {"country": "South Africa", "total": "177 all out (40.2 Overs, RR: 4.38)"}, "team": {"country": "INDIA ", "total": "307/7 (50 Overs, RR: 6.14)"}, "date": "22 Feb 2015", "scoreAt": "278/5", "description": "got him. Walked across and looked to club it away to the leg side. It was a touch too full, maybe, and it came in off the seam and hit him on the back thigh. Given immediately, and Rahane didn't review"}, {"bowler": {"type": "Right-arm fast", "name": "Kemar Roach"}, "Stadium": "Perth", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "14", "balls": "34", "4s": "2", "6s": "0", "batting_position": "4"}, "ball": "17.5", "opposition": {"country": "West Indies", "total": "182 all out (44.2 Overs, RR: 4.1)"}, "team": {"country": "INDIA ", "total": "185/6 (39.1 Overs, RR: 4.72)"}, "date": "6 Mar 2015", "scoreAt": "78/4", "description": "given! Made room to dab it down to third man, and the ball slipped past (or off) his edge very quickly through to Ramdin. Rahane reviews it. Replays look inconclusive. It straightened a touch and went very close to the outside edge. The bat, as it came down, hit the flap of his back pad. Seam position remained the same as the ball passed the bat.  There's a bit of a spike on Snicko, but it's hard to say if that was ball on edge or bat on pad. In the end, the third umpire upholds the decision. Interesting one, this."}, {"bowler": {"type": "Right-arm fast", "name": "Taskin Ahmed"}, "Stadium": "Melbourne", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "19", "balls": "37", "4s": "1", "6s": "0", "batting_position": "4"}, "ball": "27.6", "opposition": {"country": "Bangladesh", "total": "193 all out (45 Overs, RR: 4.28)"}, "team": {"country": "INDIA ", "total": "302/6 (50 Overs, RR: 6.04)"}, "date": "19 Mar 2015", "scoreAt": "115/3", "description": "fuller delivery, outside off, and Rahane's struggle has come to an end as he mistimes the loft over extra-cover, with the bat turning in his hand, as the ball ends up just to the left of Shakib, who dives in the end as he claimed it. Bangladesh cock-a-hoop after that dismissal. India looking in some trouble now at 115 for 3. Hilarity ensues as Taskin and Mashrafe went for the celebratory chest-bump, which they fail on the first occassion, before trying again to save face. This time however, they both fail miserably as Taskin slips. Comical end to a key wicket there for Bangladesh"}, {"bowler": {"type": "Left-arm fast", "name": "Mitchell Starc"}, "Stadium": "Sydney", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "44", "balls": "68", "4s": "2", "6s": "0", "batting_position": "4"}, "ball": "36.2", "opposition": {"country": "Australia", "total": "328/7 (50 Overs, RR: 6.56)"}, "team": {"country": "INDIA ", "total": "233 all out (46.5 Overs, RR: 4.97)"}, "date": "26 Mar 2015", "scoreAt": "178/5", "description": "Rahane plays with fire, fiddling at a length ball off the back foot... it slides past the outside edge. No one reacts but Australia then decide to review, not sure on whose prompting. Looks like a gamble, but... While there's no visible deviation, a thin scrape on Snicko is enough for Erasmus, he tells Dharmasena to overturn his decision. Australia have rolled the dice and come up trumps! Quite what Rahane thought he was doing, I don't know, hugely risky and he walks off without a backward glance"}, {"bowler": {"type": "Left-arm fast-medium", "name": "Mustafizur Rahman"}, "Stadium": "Dhaka", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "9", "balls": "25", "4s": "1", "6s": "0", "batting_position": "4"}, "ball": "22.6", "opposition": {"country": "Bangladesh", "total": "307 all out (49.4 Overs, RR: 6.18)"}, "team": {"country": "INDIA ", "total": "228 all out (46 Overs, RR: 4.95)"}, "date": "18 Jun 2015", "scoreAt": "115/4", "description": "lovely catch. Start the party already, Dhaka? Bangladesh get closer to a win? Another slower ball. He bowls a mean cutter. Rahane is early into it. Then to recover he turns the bat face early. The leading edge seams like it is sailing over his head but Nasir Hossain times his jump to perfection. Then he kicks the ball away. And 25000 celebrate with him"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Donald Tiripano"}, "Stadium": "Harare", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "34", "balls": "49", "4s": "5", "6s": "0", "batting_position": "1"}, "ball": "17.2", "opposition": {"country": "Zimbabwe", "total": "251/7 (50 Overs, RR: 5.02)"}, "team": {"country": "INDIA ", "total": "255/6 (50 Overs, RR: 5.10)"}, "date": "10 Jul 2015", "scoreAt": "60/2", "description": "sharp take from Masakadza at slip. On a length and outside off, Rahane is undone by extra bounce. Rahane chases as he aims to run it towards third man. He only manages a thick edge, which is snaffled by Masakadza, moving to his right and pouching it around chest height"}, {"bowler": {"type": "Right-arm medium", "name": "Chamu Chibhabha"}, "Stadium": "Harare", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "63", "balls": "83", "4s": "7", "6s": "0", "batting_position": "1"}, "ball": "25.6", "opposition": {"country": "Zimbabwe", "total": "209 all out (49 Overs, RR: 4.26)"}, "team": {"country": "INDIA ", "total": "271/8 (50 Overs, RR: 5.42)"}, "date": "12 Jul 2015", "scoreAt": "112/1", "description": "that's the first breakthrough, Rahane edged one to cover! Incoming delivery towards the stumps and Rahane closed the face of the bat early, the ball ballooned off the edge to cover for an easy peasy catch"}, {"bowler": {"type": "Right-arm medium-fast", "name": "Neville Madziva"}, "Stadium": "Harare", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "15", "balls": "22", "4s": "1", "6s": "0", "batting_position": "1"}, "ball": "5.5", "opposition": {"country": "Zimbabwe", "total": "193 all out (42.4 Overs, RR: 4.52)"}, "team": {"country": "INDIA ", "total": "276/5 (50 Overs, RR: 5.52)"}, "date": "14 Jul 2015", "scoreAt": "25/1", "description": "Soft, soft dismissal for Rahane. The umpires check for a possible no-ball. Madziva's footing is okay. Good length and outside off, sort of stops on Rahane, who is early into an attempted airy drive. He can only slice it into the hands of Utseya at cover-point"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Farhaan Behardien"}, "Stadium": "Kanpur", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "60", "balls": "82", "4s": "5", "6s": "0", "batting_position": "3"}, "ball": "33.4", "opposition": {"country": "South Africa", "total": "303/5 (50 Overs, RR: 6.06)"}, "team": {"country": "INDIA ", "total": "298/7 (50 Overs, RR: 5.96)"}, "date": "11 Oct 2015", "scoreAt": "191/2", "description": "a soft dismissal to break the stand! Rahane made room by moving outside leg and slapped an innocuous delivery straight to Miller at extra cover. His partnership with Rohit ends on 149"}, {"bowler": {"type": "Legbreak googly", "name": "Imran Tahir"}, "Stadium": "Indore", "team_innings": "1", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "51", "balls": "63", "4s": "6", "6s": "0", "batting_position": "3"}, "ball": "22.4", "opposition": {"country": "South Africa", "total": "225 all out (43.4 Overs, RR: 5.15)"}, "team": {"country": "INDIA ", "total": "247/9 (50 Overs, RR: 4.94)"}, "date": "14 Oct 2015", "scoreAt": "102/4", "description": "he's bowled him round the legs! Tahir has taken off and Rahane can't believe it, he's still on the crease and is asking the umpires now. The umpires refer it to the third umpire. Rahane was sweeping the ball which pitched outside leg, but he misses and the ball turned just enough to clip the leg stump"}, {"bowler": {"type": "Right-arm fast", "name": "Morne Morkel"}, "Stadium": "Rajkot", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "4", "balls": "7", "4s": "0", "6s": "0", "batting_position": "6"}, "ball": "45.2", "opposition": {"country": "South Africa", "total": "270/7 (50 Overs, RR: 5.40)"}, "team": {"country": "INDIA ", "total": "252/6 (50 Overs, RR: 5.04)"}, "date": "18 Oct 2015", "scoreAt": "216/6", "description": "repeat delivery. Repeat shot. Repeat dismissal. Miller takes this low to the ground, that being the only difference. Banged in short again, Rahane advances and slogs this in the air to deep midwicket. Are these percentage shots? With this consistent length, the batsmen have been found out playing poor shots."}, {"bowler": {"type": "Right-arm fast", "name": "Dale Steyn"}, "Stadium": "Chennai", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "45", "balls": "53", "4s": "4", "6s": "0", "batting_position": "4"}, "ball": "26.1", "opposition": {"country": "South Africa", "total": "264/9 (50 Overs, RR: 5.28)"}, "team": {"country": "INDIA ", "total": "299/8 (50 Overs, RR: 5.98)"}, "date": "22 Oct 2015", "scoreAt": "139/3", "description": "and the change works - Steyn has got him caught behind! There was some room, Rahane went for the shot without moving his feet much and the ball stayed a tad low to take the bottom edge and QdK took it with both hands, Steyn is pumped after a long time"}, {"bowler": {"type": "Right-arm fast", "name": "Dale Steyn"}, "Stadium": "Mumbai", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "87", "balls": "58", "4s": "9", "6s": "3", "batting_position": "4"}, "ball": "26.2", "opposition": {"country": "South Africa", "total": "438/4 (50 Overs, RR: 8.76)"}, "team": {"country": "INDIA ", "total": "224 all out (36 Overs, RR: 6.22)"}, "date": "25 Oct 2015", "scoreAt": "185/5", "description": "pace works again. Sheer express and accurate pace. This is short on middle, Rahane has to go for the big hit. Launches it over midwicket, but there is a man in the deep and he collects the simplest of catches. Steyn pops a vein celebrating, as per. South Africa are nearing yet another away series win"}, {"bowler": {"type": "Left-arm fast-medium", "name": "James Faulkner"}, "Stadium": "Brisbane", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "89", "balls": "80", "4s": "6", "6s": "1", "batting_position": "4"}, "ball": "48.3", "opposition": {"country": "Australia", "total": "309/3 (49 Overs, RR: 6.30)"}, "team": {"country": "INDIA ", "total": "308/8 (50 Overs, RR: 6.16)"}, "date": "15 Jan 2016", "scoreAt": "298/5", "description": "gone. Steven Smith takes the catch as Rahane falls. Back of the hand legcutter on off, Rahane comes down and swipes it in the air but the ball hangs in the air for a long time. He did not get enough distance and Smith settles under it at deep midwicket to swallow the catch"}, {"bowler": {"type": "Right-arm fast-medium", "name": "John Hastings"}, "Stadium": "Melbourne", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "50", "balls": "55", "4s": "4", "6s": "1", "batting_position": "4"}, "ball": "44.2", "opposition": {"country": "Australia", "total": "296/7 (48.5 Overs, RR: 6.06)"}, "team": {"country": "INDIA ", "total": "295/6 (50 Overs, RR: 5.90)"}, "date": "17 Jan 2016", "scoreAt": "243/3", "description": "#MCG is so big, Rahane can't clear the fielder. He jumps out, Hastings bangs it short. Rahane drags a pull, Smith runs to his right from long-on, catches it at the edge of the boundary. He loses his balance but tosses the ball over to the man running from deep midwicket (Maxi). We saw a similar catch in the Big Bash Sydney derby yesterday. Silk and Botha were at the tag-team work yesterday"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Kane Richardson"}, "Stadium": "Canberra", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "2", "balls": "3", "4s": "0", "6s": "0", "batting_position": "7"}, "ball": "41.5", "opposition": {"country": "Australia", "total": "348/8 (50 Overs, RR: 6.96)"}, "team": {"country": "INDIA ", "total": "323 all out (49.2 Overs, RR: 6.54)"}, "date": "20 Jan 2016", "scoreAt": "294/6", "description": "did that carry? Smith claims it. The slip fielder takes it. Smith put himself in there and takes a very good low catch. Full delivery outside off, Rahane tries to guide to third man but gets a thick outside edge. Smith takes it. Massive wicket. India are six down now."}, {"bowler": {"type": "Right-arm medium", "name": "James Neesham"}, "Stadium": "Dharamsala", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "33", "balls": "34", "4s": "4", "6s": "2", "batting_position": "2"}, "ball": "12.1", "opposition": {"country": "New Zealand", "total": "190 all out (43.5 Overs, RR: 4.33)"}, "team": {"country": "INDIA ", "total": "194/4 (33.1 Overs, RR: 5.84)"}, "date": "16 Oct 2016", "scoreAt": "62/2", "description": "loose shot and Rahane's gone. This was way outside off for him to try and get a bat to, but Rahane pokes at that and gets an edge that is taken superbly by Ronchi diving to his right. The bounce did the trick for Neesham"}, {"bowler": {"type": "Right-arm medium-fast", "name": "Tim Southee"}, "Stadium": "Delhi", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "28", "balls": "49", "4s": "3", "6s": "0", "batting_position": "2"}, "ball": "18.4", "opposition": {"country": "New Zealand", "total": "242/9 (50 Overs, RR: 4.84)"}, "team": {"country": "INDIA ", "total": "236 all out (49.3 Overs, RR: 4.76)"}, "date": "20 Oct 2016", "scoreAt": "72/3", "description": "he isn't sure. What an effort that is. Anderson gets low, and it looks like he has taken at first glance. Soft decision is out. Good change-up from Southee, a bouncer on middle. Rahane doesn't get on top of the bounce. Pulls to fine leg, where Anderson rushes in, stays low and takes the catch off the ground? Many replays. Did it land just in front of Anderson? Umpire Shamsuddin is the third umpire. He needs conclusive evidence that it has bounced to overturn this. Definitely bounced, but did it in his hands or on the turf. More and more replays. He doesn't have conclusive evidence to overturn his call. No doubt in my mind that it would have been not out had the soft decision been not out. Nonetheless, such is life, such is sport. Rahane has to walk back, India in a bit of trouble."}, {"bowler": {"type": "Right-arm fast-medium", "name": "Matt Henry"}, "Stadium": "Mohali", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "5", "balls": "10", "4s": "1", "6s": "0", "batting_position": "2"}, "ball": "2.5", "opposition": {"country": "New Zealand", "total": "285 all out (49.4 Overs, RR: 5.73)"}, "team": {"country": "INDIA ", "total": "289/3 (48.2 Overs, RR: 5.97)"}, "date": "23 Oct 2016", "scoreAt": "13/1", "description": "that's all a bit soft! And Henry proves game-changing for New Zealand again. He was celebrating the moment Rahane popped this back of a length ball in the air. It went in the direction of cover, and Santner was the man there. He's a fantastic fielder. Perhaps this pitch isn't quite as true as I thought. That ball certainly stopped on Rahane"}, {"bowler": {"type": "Right-arm medium", "name": "James Neesham"}, "Stadium": "Ranchi", "team_innings": "2", "dismissal": {"wayOut": "lbw"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "57", "balls": "70", "4s": "5", "6s": "1", "batting_position": "1"}, "ball": "27.2", "opposition": {"country": "New Zealand", "total": "260/7 (50 Overs, RR: 5.20)"}, "team": {"country": "INDIA ", "total": "241 all out (48.4 Overs, RR: 4.95)"}, "date": "26 Oct 2016", "scoreAt": "128/3", "description": "given this time. The change has worked. Looked pretty close. Rahane fails to convert a solid start into a  big score, Yes, good decision by umpire Oxenford. Full and straight - towards middle and off. Rahane comes forward and shuffles across to reduce the distance from a plausible offcutter, but Neesham bowls this seam-up. It skids on and strikes Rahane in front of middle, no problem with height. Out."}, {"bowler": {"type": "Right-arm medium", "name": "James Neesham"}, "Stadium": "Visakhapatnam", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "20", "balls": "39", "4s": "3", "6s": "0", "batting_position": "1"}, "ball": "9.2", "opposition": {"country": "New Zealand", "total": "79 all out (23.1 Overs, RR: 3.41)"}, "team": {"country": "INDIA ", "total": "269/6 (50 Overs, RR: 5.38)"}, "date": "29 Oct 2016", "scoreAt": "40/1", "description": "chips it straight to short midwicket! The most innocuous of deliveries. Full on middle. There for the flick. But he has not timed the ball. It's that old weakness of his, unable to force the pace when the pitch becomes slow. He was not quite to the pitch of the ball, it held up on the surface a bit and he didn't make much of an effort the keep it down. The ball didn't come on, he found Latham"}, {"bowler": {"type": "Left-arm fast-medium", "name": "David Willey"}, "Stadium": "Kolkata", "team_innings": "2", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "1", "balls": "6", "4s": "0", "6s": "0", "batting_position": "1"}, "ball": "1.4", "opposition": {"country": "England", "total": "321/8 (50 Overs, RR: 6.42)"}, "team": {"country": "INDIA ", "total": "316/9 (50 Overs, RR: 6.32)"}, "date": "22 Jan 2017", "scoreAt": "13/1", "description": "late swing, beautiful late, glorious swing and Rahane is out cheaply. His feet are shackled to the crease. He is driving down the wrong line. He is not ready for this full delivery to scythe through the air, through his gap between bat and pad and take the off stump. So England's cost for their non-appeal is one mere run"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Alzarri Joseph"}, "Stadium": "Port of Spain", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "62", "balls": "78", "4s": "8", "6s": "0", "batting_position": "1"}, "ball": "24.6", "opposition": {"country": "West Indies", "total": "DNB"}, "team": {"country": "INDIA ", "total": "199/3 (39.2 Overs, RR: 5.05)"}, "date": "23 Jun 2017", "scoreAt": "132/1", "description": "scoops it up - totally deceived by the slower ball. Not the first time lack of pace has been Rahane's undoing. He likes the ball coming on, hitting through the line, all that. Joseph disallows that luxury with an offspinner, a teasing one. Rahane steps forward, looking to hit over mid-off, but skews it instead straight to the West Indies captain at mid-on"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Miguel Cummins"}, "Stadium": "Port of Spain", "team_innings": "1", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "103", "balls": "104", "4s": "10", "6s": "2", "batting_position": "1"}, "ball": "33.6", "opposition": {"country": "West Indies", "total": "205/6 (43 Overs, RR: 4.76)"}, "team": {"country": "INDIA ", "total": "310/5 (43 Overs, RR: 7.20)"}, "date": "25 Jun 2017", "scoreAt": "211/2", "description": "what's happened there? A single bail has come out and the other one wobbles before settling down on middle stump. Rahane was shaping for the pull shot. It was short, yes, but perhaps too close. Gets tucked up for room and makes no contact. The ball just about kisses the bail. Barely comes out, but comes out nonetheless, and that is enough"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Miguel Cummins"}, "Stadium": "North Sound", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "72", "balls": "112", "4s": "4", "6s": "1", "batting_position": "1"}, "ball": "42.2", "opposition": {"country": "West Indies", "total": "158 all out (38.1 Overs, RR: 4.13)"}, "team": {"country": "INDIA ", "total": "251/4 (50 Overs, RR: 5.02)"}, "date": "30 Jun 2017", "scoreAt": "170/4", "description": "sensational catch from Bishoo. Showed great awareness to his right the previous ball, and this time he jogs to his left from sweeper cover and times a dive perfectly to catch low to his left. Back of a length from Cummins, Rahane looked to find the gap over point, but there was no width, skewed it uppishly"}, {"bowler": {"type": "Legbreak", "name": "Devendra Bishoo"}, "Stadium": "North Sound", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "60", "balls": "91", "4s": "7", "6s": "0", "batting_position": "1"}, "ball": "30.5", "opposition": {"country": "West Indies", "total": "189/9 (50 Overs, RR: 3.78)"}, "team": {"country": "INDIA ", "total": "178 all out (49.4 Overs, RR: 3.58)"}, "date": "2 Jul 2017", "scoreAt": "101/4", "description": "Rahane has gone for a sweep, missed it entirely and it looks like he's been given out caught behind. Yes. He has reviewed straight away. There's a minuscule spike on Snicko as the ball passes the bottom of the bat. Earlier inspection shows the ball had hit his hip before the keeper took it...and he's given out because of the spike. This was a regulation legspinner, going away from off stump. Rahane stretched out for the sweep and evidence suggests the ball has kissed the toe end of the bat before hitting his hip"}, {"bowler": {"type": "Legbreak", "name": "Devendra Bishoo"}, "Stadium": "Kingston", "team_innings": "2", "dismissal": {"wayOut": "lbw"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "39", "balls": "51", "4s": "5", "6s": "0", "batting_position": "1"}, "ball": "18.5", "opposition": {"country": "West Indies", "total": "205/9 (50 Overs, RR: 4.10)"}, "team": {"country": "INDIA ", "total": "206/2 (36.5 Overs, RR: 5.59)"}, "date": "6 Jul 2017", "scoreAt": "84/2", "description": "plumb in front. He's played all around a straight one. For a moment, he was pondering a review but Kohli told him in no uncertain terms that the ball would've crashed into the stumps. This was angled in full from wide of the crease, Rahane was better off playing straight. Instead looked to work it wide of midwicket. Error in judgment."}, {"bowler": {"type": "Right-arm fast", "name": "Lasith Malinga"}, "Stadium": "Colombo (RPS)", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "5", "balls": "17", "4s": "0", "6s": "0", "batting_position": "2"}, "ball": "4.4", "opposition": {"country": "Sri Lanka", "total": "238 all out (49.4 Overs, RR: 4.79)"}, "team": {"country": "INDIA ", "total": "239/4 (46.3 Overs, RR: 5.13)"}, "date": "3 Sep 2017", "scoreAt": "17/1", "description": "Munaweera fumbles a couple of times at fine leg, but holds on. Bouncer at middle stump, gets under this hook as it continues to climb on him. Bent way out of shape and top edges it, straight into the path of Munaweera who manages to somehow get it behind him after getting a hand, and then swivels to catch it"}, {"bowler": {"type": "Right-arm fast", "name": "Nathan Coulter-Nile"}, "Stadium": "Chennai", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "5", "balls": "15", "4s": "0", "6s": "0", "batting_position": "1"}, "ball": "3.3", "opposition": {"country": "Australia", "total": "137/9 (21 Overs, RR: 6.52)"}, "team": {"country": "INDIA ", "total": "281/7 (50 Overs, RR: 5.62)"}, "date": "17 Sep 2017", "scoreAt": "11/1", "description": "Australia find reward for their tight lines and lengths with the new ball. Coulter-Nile puts it on a length and wide outside off, swings away further - it ended on a set of stumps outside off. Rahane throws his bat at a drive and only snicks it behind. Wade, who has been busy this afternoon, moves to his right and snags the catch. Rahane falls for 5 off 15 balls on return"}, {"bowler": {"type": "Right-arm fast", "name": "Pat Cummins"}, "Stadium": "Indore", "team_innings": "2", "dismissal": {"wayOut": "lbw"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "70", "balls": "76", "4s": "9", "6s": "0", "batting_position": "1"}, "ball": "23.3", "opposition": {"country": "Australia", "total": "293/6 (50 Overs, RR: 5.86)"}, "team": {"country": "INDIA ", "total": "294/5 (47.5 Overs, RR: 6.14)"}, "date": "24 Sep 2017", "scoreAt": "147/2", "description": "Cummins pins Rahane in front! On a length and skids into off stump, 141.8ks, Rahane, jumping off the ground, plays across the line and is smacked on the front pad. The umpire raises his finger. Rahane does not bother to review. Impact in line? The tracker returns umpires call on impact"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Kane Richardson"}, "Stadium": "Bengaluru", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "53", "balls": "66", "4s": "6", "6s": "1", "batting_position": "1"}, "ball": "18.2", "opposition": {"country": "Australia", "total": "334/5 (50 Overs, RR: 6.68)"}, "team": {"country": "INDIA ", "total": "313/8 (50 Overs, RR: 6.26)"}, "date": "28 Sep 2017", "scoreAt": "106/1", "description": "finds Finch at long-on and India lose their first. A good length delivery on leg, Rahane comes running down to hit Richardson over mid-off, but the ball skews off the inside half and goes straight to Finch. Did not want to hit that so wide."}, {"bowler": {"type": "Right-arm fast", "name": "Nathan Coulter-Nile"}, "Stadium": "Nagpur", "team_innings": "2", "dismissal": {"wayOut": "lbw"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "61", "balls": "74", "4s": "7", "6s": "0", "batting_position": "1"}, "ball": "22.3", "opposition": {"country": "Australia", "total": "242/9 (50 Overs, RR: 4.84)"}, "team": {"country": "INDIA ", "total": "243/3 (42.5 Overs, RR: 5.67)"}, "date": "1 Oct 2017", "scoreAt": "124/1", "description": "and out, says umpire Erasmus. On a length on middle, Rahane misses a flick and is struck on the pad. Was he moving across too far? Was it sliding down leg? Rahane opts to review. No bat on that, so an umpire's call will do for Australia. Two reds, and clipping the bails, so Rahane will have to go. Had just shuffled across too far"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Andile Phehlukwayo"}, "Stadium": "Durban", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "79", "balls": "86", "4s": "5", "6s": "2", "batting_position": "4"}, "ball": "42.4", "opposition": {"country": "South Africa", "total": "269/8 (50 Overs, RR: 5.38)"}, "team": {"country": "INDIA ", "total": "270/4 (45.3 Overs, RR: 5.93)"}, "date": "1 Feb 2018", "scoreAt": "256/3", "description": "lobs one for long-on. Length ball follows him down leg side. He goes for a pick-up over midwicket, but that gets too big on him. He ends up lifting a simple one for Tahir. A stunning knock from Rahane, if he ever needed one."}, {"bowler": {"type": "Right-arm offbreak", "name": "Jean-Paul Duminy"}, "Stadium": "Cape Town", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "11", "balls": "13", "4s": "0", "6s": "0", "batting_position": "4"}, "ball": "27.4", "opposition": {"country": "South Africa", "total": "179 all out (40 Overs, RR: 4.47)"}, "team": {"country": "INDIA ", "total": "303/6 (50 Overs, RR: 6.06)"}, "date": "7 Feb 2018", "scoreAt": "160/3", "description": "and he's made Rahane play a poor shot. A small play from Markram, putting a fielder in the batsman's sight. And one dot ball later, Rahane feels the need to step out again. Once again, he's beaten in the flight. Dips and drifts away from him. He's reaching out and his bottom hand is coming off. It's a feeble chip to long-off off the bottom of the bat"}, {"bowler": {"type": "Right-arm fast", "name": "Lungi Ngidi"}, "Stadium": "Johannesburg", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Ajinkya Rahane"}, "player_innings": {"runs": "8", "balls": "15", "4s": "1", "6s": "0", "batting_position": "4"}, "ball": "36.3", "opposition": {"country": "South Africa", "total": "207/5 (25.3 Overs, RR: 8.11)"}, "team": {"country": "INDIA ", "total": "289/7 (50 Overs, RR: 5.78)"}, "date": "10 Feb 2018", "scoreAt": "210/4", "description": "SA bouncing back very quickly after the break. It's another wicket, as Rahane holes out to deep square leg. Ngidi digs this one in again, around middle and leg. Rahane feels obliged to keep the run-rate high, but has to play a low-percentage, high-risk shot: the pull when the ball is climbing quite a bit and he isn't quite set. He can't time it, and the ball picks out the fielder."}]
+[
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Stuart Broad"
+    },
+    "Stadium": "Chester-le-Street",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "40",
+      "balls": "44",
+      "4s": "6",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "15.6",
+    "opposition": {
+      "country": "England",
+      "total": "27/2 (7.2 Overs, RR: 3.68)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "274/7 (50 Overs, RR: 5.48)"
+    },
+    "date": "3 Sep 2011",
+    "scoreAt": "82/1",
+    "description": "gone! England find the breakthrough and it's with the short ball. Goes for another pull, this time it comes off the top edge and Samit Patel swallows a comfortable catch at fine leg"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Graeme Swann"
+    },
+    "Stadium": "Southampton",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "54",
+      "balls": "47",
+      "4s": "5",
+      "6s": "1",
+      "batting_position": "2"
+    },
+    "ball": "18.5",
+    "opposition": {
+      "country": "England",
+      "total": "188/3 (22.1 Overs, RR: 8.48)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "187/8 (23 Overs, RR: 8.13)"
+    },
+    "date": "6 Sep 2011",
+    "scoreAt": "143/4",
+    "description": "Kohli won't be running too many for Rahane. Ajinkya looks for the straight loft that he has played so well so far, but gets too close to the pitch of the ball here, and doesn't get optimum elevation. Swann takes a smart, overhead return catch"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "James Anderson"
+    },
+    "Stadium": "The Oval",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "0",
+      "balls": "3",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "0.4",
+    "opposition": {
+      "country": "England",
+      "total": "218/7 (41.5 Overs, RR: 5.21)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "234/7 (50 Overs, RR: 4.68)"
+    },
+    "date": "9 Sep 2011",
+    "scoreAt": "1/1",
+    "description": "caught at slip! Anderson angles the ball into the right-hander, pitches on a great length close to off stump, and gets it to seam away from the batsman. Rahane stays in his crease and pokes tentatively. The ball takes the edge and goes straight to Trott at first slip. It's Rahane's first failure on the tour. Had to happen some time."
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Stuart Broad"
+    },
+    "Stadium": "Lord's",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "38",
+      "balls": "53",
+      "4s": "5",
+      "6s": "1",
+      "batting_position": "2"
+    },
+    "ball": "13.3",
+    "opposition": {
+      "country": "England",
+      "total": "270/8 (48.5 Overs, RR: 5.52)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "280/5 (50 Overs, RR: 5.60)"
+    },
+    "date": "11 Sep 2011",
+    "scoreAt": "65/1",
+    "description": "gone! Broad strikes in his first over. He aimed for a surprise yorker, and Rahane played over the top of what turned out to be a low, dipping full toss. Broad appeals, the umpire's finger quickly goes up. Strangely, Rahane never really looked comfortable in this innings."
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Jade Dernbach"
+    },
+    "Stadium": "Cardiff",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "26",
+      "balls": "47",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "12.1",
+    "opposition": {
+      "country": "England",
+      "total": "241/4 (32.2 Overs, RR: 7.45)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "304/6 (50 Overs, RR: 6.08)"
+    },
+    "date": "16 Sep 2011",
+    "scoreAt": "52/1",
+    "description": "gone! Dernbach strikes. Rahane attempted a mow to leg, but the ball - quite possibly another slower one - took the top edge and looped down to third man, where Finn sprinted across to his left and took a great diving catch"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Graeme Swann"
+    },
+    "Stadium": "Hyderabad (Deccan)",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "stumped"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "15",
+      "balls": "41",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "11.4",
+    "opposition": {
+      "country": "England",
+      "total": "174 all out (36.1 Overs, RR: 4.81)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "300/7 (50 Overs, RR: 6.00)"
+    },
+    "date": "14 Oct 2011",
+    "scoreAt": "52/2",
+    "description": "Rahane will want to forget this innings as soon as possible. Swann again strikes in his first over. Rahane's worked himself into a shotless corner, and suddenly tries to break free against spin. He tries to step out to Swann and loft through the off side, but Swann's canny drift takes the ball away before it dips and breaks in, easily beating the shot. Kieswetter completes an easy stumping."
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Tim Bresnan"
+    },
+    "Stadium": "Delhi",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "14",
+      "balls": "15",
+      "4s": "1",
+      "6s": "1",
+      "batting_position": "2"
+    },
+    "ball": "6.5",
+    "opposition": {
+      "country": "England",
+      "total": "237 all out (48.2 Overs, RR: 4.90)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "238/2 (36.4 Overs, RR: 6.49)"
+    },
+    "date": "17 Oct 2011",
+    "scoreAt": "29/2",
+    "description": "got him this time! The short ball works, Bresnan sends down another bouncer and Rahane's hook only carries as far as Dernbach at long leg who takes it well. Bresnan is pumped up"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Steven Finn"
+    },
+    "Stadium": "Mohali",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "91",
+      "balls": "104",
+      "4s": "6",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "37.5",
+    "opposition": {
+      "country": "England",
+      "total": "298/4 (50 Overs, RR: 5.96)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "300/5 (49.2 Overs, RR: 6.08)"
+    },
+    "date": "20 Oct 2011",
+    "scoreAt": "212/3",
+    "description": "got him! Finn strikes again and Rahane misses his hundred. It was a full delivery, perhaps a touch slower, that he aimed to play to leg but got a leading edge which carried low to mid-off. A little send-off from Finn, I think"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Stuart Meaker"
+    },
+    "Stadium": "Mumbai",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "20",
+      "balls": "37",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "13.5",
+    "opposition": {
+      "country": "England",
+      "total": "220 all out (46.1 Overs, RR: 4.76)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "223/4 (40.1 Overs, RR: 5.55)"
+    },
+    "date": "23 Oct 2011",
+    "scoreAt": "46/3",
+    "description": "Meaker strikes! And what a stunning effort behind the stumps by Kieswetter to complete the dismissal. Rahane poked at one that left him off a length, a thick edge flying very quickly to Kieswetter's right. He had to go for the catch as Pietersen was very wide at slip. He pouched it one handed and clung on as he hit the ground. A first international scalp for Meaker, and it's a good one"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Tim Bresnan"
+    },
+    "Stadium": "Kolkata",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "42",
+      "balls": "61",
+      "4s": "6",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "18.4",
+    "opposition": {
+      "country": "England",
+      "total": "176 all out (37 Overs, RR: 4.75)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "271/8 (50 Overs, RR: 5.42)"
+    },
+    "date": "25 Oct 2011",
+    "scoreAt": "80/3",
+    "description": "that is some catch! Kieswetter lunges to his right to grab a thick outside edge with one hand! The ball was full from Bresnan and Rahane reached for it and drove away from his body. England have stormed into this match, and how."
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Kemar Roach"
+    },
+    "Stadium": "Chennai",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "0",
+      "balls": "1",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "0.2",
+    "opposition": {
+      "country": "West Indies",
+      "total": "233 all out (44.1 Overs, RR: 5.27)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "267/6 (50 Overs, RR: 5.34)"
+    },
+    "date": "11 Dec 2011",
+    "scoreAt": "1/1",
+    "description": "Rahane gets a golden duck on return to international cricket. This time it's the lack of bounce. Short of a length, starts outside off, sneaks under his defence, and hits him midway between shin and knee. Dead plumb, as this is moving in from outside off and hitting middle"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Thisara Perera"
+    },
+    "Stadium": "Pallekele",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "9",
+      "balls": "17",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "5.1",
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "274 all out (45.4 Overs, RR: 6.00)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "294/7 (50 Overs, RR: 5.88)"
+    },
+    "date": "4 Aug 2012",
+    "scoreAt": "29/1",
+    "description": "Rahane has been given out lbw, this one nipped back in, did he get an inside edge? Landed on the off stump and moved back in, struck him on the pads, no inside edge, struck him in line and the umpire thought that was out. We just need to see if height was an issue, may not have been. Sri Lanka strike"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast",
+      "name": "Mohammad Irfan"
+    },
+    "Stadium": "Delhi",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "4",
+      "balls": "11",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "4.3",
+    "opposition": {
+      "country": "Pakistan",
+      "total": "157 all out (48.5 Overs, RR: 3.21)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "167 all out (43.4 Overs, RR: 3.82)"
+    },
+    "date": "6 Jan 2013",
+    "scoreAt": "19/1",
+    "description": "caught behind! Irfan strikes with a full delivery outside off, Rahane comes forward to drive it towards cover but the angle on the ball takes it across the batsman, it takes a faint edge to the keeper. Important strike by Irfan and Rahane loses another opportunity to impress"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "James Tredwell"
+    },
+    "Stadium": "Rajkot",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "47",
+      "balls": "57",
+      "4s": "6",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "16.4",
+    "opposition": {
+      "country": "England",
+      "total": "325/4 (50 Overs, RR: 6.50)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "316/9 (50 Overs, RR: 6.32)"
+    },
+    "date": "11 Jan 2013",
+    "scoreAt": "96/1",
+    "description": "and there's the breakthrough for England, as Rahane lofts high to long-off! Tredwell tossed up, inviting Rahane to get forward, he tried to go inside out again but wasn't to the pitch and got too much underneath the shot. The run rate had slowed a touch and that looked like frustration, which is odd on this pitch"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Steven Finn"
+    },
+    "Stadium": "Kochi",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "4",
+      "balls": "14",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "4.3",
+    "opposition": {
+      "country": "England",
+      "total": "158 all out (36 Overs, RR: 4.38)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "285/6 (50 Overs, RR: 5.70)"
+    },
+    "date": "15 Jan 2013",
+    "scoreAt": "18/2",
+    "description": "bowled 'em, inswing accompanied with seam this time, Rahane has been tentative to get forward, and it has caused his downfall, goes across a bit in the crease to a good length delivery outside off, and defends far away from the body, ball swings in late, and disturbs another set of stumps through the wide-open gate"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Steven Finn"
+    },
+    "Stadium": "Ranchi",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "0",
+      "balls": "4",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "2.5",
+    "opposition": {
+      "country": "England",
+      "total": "155 all out (42.2 Overs, RR: 3.66)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "157/3 (28.1 Overs, RR: 5.57)"
+    },
+    "date": "19 Jan 2013",
+    "scoreAt": "11/1",
+    "description": "Kochi all over again for Rahane and Finn, who rips in a good length delivery through the young batsman's gate, Rahane seemed to have got slightly forward this time, but still left too much between bat and pad, off stump is uprooted"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Malcolm Waller"
+    },
+    "Stadium": "Bulawayo",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "50",
+      "balls": "66",
+      "4s": "4",
+      "6s": "1",
+      "batting_position": "3"
+    },
+    "ball": "27.2",
+    "opposition": {
+      "country": "Zimbabwe",
+      "total": "163 all out (39.5 Overs, RR: 4.09)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "167/3 (34 Overs, RR: 4.91)"
+    },
+    "date": "3 Aug 2013",
+    "scoreAt": "126/3",
+    "description": "and the part-timer has struck, Rahane had been going back to fullish deliveries, this one spins in sharply from outside off, and hits the middle stump"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Morne Morkel"
+    },
+    "Stadium": "Durban",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "8",
+      "balls": "17",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "4"
+    },
+    "ball": "8.4",
+    "opposition": {
+      "country": "South Africa",
+      "total": "280/6 (49 Overs, RR: 5.71)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "146 all out (35.1 Overs, RR: 4.15)"
+    },
+    "date": "8 Dec 2013",
+    "scoreAt": "34/4",
+    "description": "short and wide and another wicket! This one was close to the wide marker, but Rahane, unlike two balls ago, chases this one. De Kock takes it and is the first one to appeal, then everyone appeals and the umpire raises the finger"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm medium-fast",
+      "name": "Corey Anderson"
+    },
+    "Stadium": "Napier",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "7",
+      "balls": "13",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "4"
+    },
+    "ball": "20.6",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "292/7 (50 Overs, RR: 5.84)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "268 all out (48.4 Overs, RR: 5.50)"
+    },
+    "date": "19 Jan 2014",
+    "scoreAt": "84/3",
+    "description": "McCullum pulls out a corker of a catch to remove Rahane as he lofts this one in the air towards mid-off, with McCullum running to his right before launching at the correct moment to get his right hand under the ball before it grazes the grass. What a stunner from NZ, who continue to exhibit solid skills in the fielding department"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "Mitchell McClenaghan"
+    },
+    "Stadium": "Hamilton",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "36",
+      "balls": "42",
+      "4s": "4",
+      "6s": "0",
+      "batting_position": "4"
+    },
+    "ball": "23.4",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "271/7 (42 Overs, RR: 6.45)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "277/9 (41.3 Overs, RR: 6.67)"
+    },
+    "date": "22 Jan 2014",
+    "scoreAt": "127/3",
+    "description": "and McClenaghan does it again as he bowls a shorter one which has Rahane going after it with a pull, but it looks as he gets through his shot a bit too early as he gets a faint outside edge which carries comfortably to Ronchi. Big wicket for New Zealand as these two threatened to take the match from them"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm medium-fast",
+      "name": "Corey Anderson"
+    },
+    "Stadium": "Auckland",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "3",
+      "balls": "14",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "4"
+    },
+    "ball": "17.4",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "314 all out (50 Overs, RR: 6.28)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "314/9 (50 Overs, RR: 6.28)"
+    },
+    "date": "25 Jan 2014",
+    "scoreAt": "79/4",
+    "description": "and this time it is Rahane's time to depart as he tickles this leg side delivery from Anderson straight to the waiting paws of Ronchi behind, who doesn't make a mess of it"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Kyle Mills"
+    },
+    "Stadium": "Hamilton",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "3",
+      "balls": "8",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "3"
+    },
+    "ball": "8.2",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "280/3 (48.1 Overs, RR: 5.81)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "278/5 (50 Overs, RR: 5.56)"
+    },
+    "date": "28 Jan 2014",
+    "scoreAt": "22/2",
+    "description": "short delivery again and he's picked out long leg! Can't stop himself from going for the hook and he did not get on top of the bounce there. Gets a thick top edge that sails straight into the hands of Southee. Had to fetch that from a touch outside off"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Matt Henry"
+    },
+    "Stadium": "Wellington",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "2",
+      "balls": "10",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "4"
+    },
+    "ball": "13.2",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "303/5 (50 Overs, RR: 6.06)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "216 all out (49.4 Overs, RR: 4.34)"
+    },
+    "date": "31 Jan 2014",
+    "scoreAt": "30/3",
+    "description": "another one for Henry! And Rahane's missed a straight one! He was swinging across the line to a fullish delivery angled in at him. Struck in line with the stumps and would have crashed into middle"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Sohag Gazi"
+    },
+    "Stadium": "Fatullah",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "73",
+      "balls": "83",
+      "4s": "7",
+      "6s": "1",
+      "batting_position": "4"
+    },
+    "ball": "47.3",
+    "opposition": {
+      "country": "Bangladesh",
+      "total": "279/7 (50 Overs, RR: 5.58)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "280/4 (49 Overs, RR: 5.71)"
+    },
+    "date": "26 Feb 2014",
+    "scoreAt": "272/4",
+    "description": "another anti-climactic dismissal! Rahane plays his typical chip down the wicket, gets it off the toe end and he gets it only as far as long-on.. Suddenly there is music playing in the stands.."
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Sachithra Senanayake"
+    },
+    "Stadium": "Fatullah",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "22",
+      "balls": "27",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "4"
+    },
+    "ball": "35.1",
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "265/8 (49.2 Overs, RR: 5.37)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "264/9 (50 Overs, RR: 5.28)"
+    },
+    "date": "28 Feb 2014",
+    "scoreAt": "175/3",
+    "description": "Rahane is gone, he charged out of the crease, looking to loft this over extra cover -a favourite region of his - get a thick outside edge instead and that loops to backward point for a simple catch"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Mohammad Hafeez"
+    },
+    "Stadium": "Dhaka",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "23",
+      "balls": "50",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "4"
+    },
+    "ball": "23.2",
+    "opposition": {
+      "country": "Pakistan",
+      "total": "249/9 (49.4 Overs, RR: 5.01)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "245/8 (50 Overs, RR: 4.90)"
+    },
+    "date": "2 Mar 2014",
+    "scoreAt": "103/4",
+    "description": "a wristy little flick but he's picked out midwicket! It was a length ball outside off, should have been punched down the ground for a single but he was moving across and was trying to manufacture a stroke. Chips it in the air and midwicket leaps up and takes it over his head. Sharp catch, simply done"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Mirwais Ashraf"
+    },
+    "Stadium": "Dhaka",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "56",
+      "balls": "66",
+      "4s": "5",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "23.3",
+    "opposition": {
+      "country": "Afghanistan",
+      "total": "159 all out (45.2 Overs, RR: 3.50)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "160/2 (32.2 Overs, RR: 4.94)"
+    },
+    "date": "5 Mar 2014",
+    "scoreAt": "121/1",
+    "description": "he's been given leg-before, he's fallen similarly before, walking across and missing the nudge square to the leg side, umpire Bowden sends him back, but replays show the ball would have missed leg stump, now then"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Mashrafe Mortaza"
+    },
+    "Stadium": "Dhaka",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "64",
+      "balls": "70",
+      "4s": "5",
+      "6s": "2",
+      "batting_position": "2"
+    },
+    "ball": "22.1",
+    "opposition": {
+      "country": "Bangladesh",
+      "total": "272/9 (50 Overs, RR: 5.44)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "153/3 (24.5 Overs, RR: 6.16)"
+    },
+    "date": "15 Jun 2014",
+    "scoreAt": "135/3",
+    "description": "there is life in this dog yet. Ziaur Rahamn, who was rather slow in diving a ball ago, flies at short third man to send Rahane back. Slower ball from Mortaza, Rahane drives, looking to go over extra, but gets a thick edge, and Zia takes it overhead when the ball has almost passed him"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Mashrafe Mortaza"
+    },
+    "Stadium": "Dhaka",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "0",
+      "balls": "1",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "0.2",
+    "opposition": {
+      "country": "Bangladesh",
+      "total": "58 all out (17.4 Overs, RR: 3.28)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "105 all out (25.3 Overs, RR: 4.11)"
+    },
+    "date": "17 Jun 2014",
+    "scoreAt": "1/1",
+    "description": "this one's definitely out. Nice and full, and there's that inswing again. Rahane's front pad is planted right in front of middle stump, and the ball thuds into it nice and low as he tries to work the ball across the line. Umpire Dharmasena immediately raises his finger."
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Al-Amin Hossain"
+    },
+    "Stadium": "Dhaka",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "3",
+      "balls": "18",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "5.2",
+    "opposition": {
+      "country": "Bangladesh",
+      "total": "DNB"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "119/9 (34.2 Overs, RR: 3.46)"
+    },
+    "date": "19 Jun 2014",
+    "scoreAt": "8/2",
+    "description": "and India have lost both their openers. Rahane was trying to work this shortish ball into the leg side with the angle, but it bounced much higher than he expected and got up to chest height. Opened him up, took his outside edge, and slip took the catch above his head"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "James Tredwell"
+    },
+    "Stadium": "Cardiff",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "stumped"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "41",
+      "balls": "47",
+      "4s": "4",
+      "6s": "0",
+      "batting_position": "4"
+    },
+    "ball": "23.5",
+    "opposition": {
+      "country": "England",
+      "total": "161 all out (38.1 Overs, RR: 4.21)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "304/6 (50 Overs, RR: 6.08)"
+    },
+    "date": "27 Aug 2014",
+    "scoreAt": "110/3",
+    "description": "a nice slider past the outside edge and Buttler goes up for a stumping, we're going upstairs. This is very close, Rahane dragged his back foot out of his ground, then rocked is back, did he do it in time? He must have something grounded behind the popping crease. If there's anything back, it is very marginal indeed. And the third umpires says it's not there, timely wicket for England, nice arm ball from Tredwell"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Steven Finn"
+    },
+    "Stadium": "Nottingham",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "45",
+      "balls": "56",
+      "4s": "6",
+      "6s": "1",
+      "batting_position": "1"
+    },
+    "ball": "17.5",
+    "opposition": {
+      "country": "England",
+      "total": "227 all out (50 Overs, RR: 4.54)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "228/4 (43 Overs, RR: 5.30)"
+    },
+    "date": "30 Aug 2014",
+    "scoreAt": "85/2",
+    "description": "got 'im! That will give Finn a huge boost. A length delivery around off stump, Rahane trying to run the ball to third man again but only succeeds in edging low through to Buttler. Once again, Rahane fails to build on an elegant start"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "Harry Gurney"
+    },
+    "Stadium": "Birmingham",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "106",
+      "balls": "100",
+      "4s": "10",
+      "6s": "4",
+      "batting_position": "1"
+    },
+    "ball": "28.4",
+    "opposition": {
+      "country": "England",
+      "total": "206 all out (49.3 Overs, RR: 4.16)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "212/1 (30.3 Overs, RR: 6.95)"
+    },
+    "date": "2 Sep 2014",
+    "scoreAt": "183/1",
+    "description": "oh no, he smokes the difficult ones all over the ground and when he gets an easy one, hits it straight to the fielder at cover point. It was a low full toss outside off and the batsman slices it to the fielder.. A soft end to an exciting innings"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "James Anderson"
+    },
+    "Stadium": "Leeds",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "0",
+      "balls": "3",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "0.3",
+    "opposition": {
+      "country": "England",
+      "total": "294/7 (50 Overs, RR: 5.88)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "253 all out (48.4 Overs, RR: 5.19)"
+    },
+    "date": "5 Sep 2014",
+    "scoreAt": "0/1",
+    "description": "that's the start England were after! Rahane pushes at this wider length delivery and slices it straight to point. A touch of laziness in that shot."
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Darren Sammy"
+    },
+    "Stadium": "Delhi",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "12",
+      "balls": "28",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "12.5",
+    "opposition": {
+      "country": "West Indies",
+      "total": "215 all out (46.3 Overs, RR: 4.62)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "263/7 (50 Overs, RR: 5.26)"
+    },
+    "date": "11 Oct 2014",
+    "scoreAt": "50/2",
+    "description": "caught at cover! A soft dismissal, the slower ball does it for Sammy! Rahane pushed forward way too early and ended up spooning the drive straight to Bravo at cover"
+  },
+  {
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Sulieman Benn"
+    },
+    "Stadium": "Dharamsala",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "68",
+      "balls": "79",
+      "4s": "7",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "26.4",
+    "opposition": {
+      "country": "West Indies",
+      "total": "271 all out (48.1 Overs, RR: 5.62)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "330/6 (50 Overs, RR: 6.60)"
+    },
+    "date": "17 Oct 2014",
+    "scoreAt": "142/2",
+    "description": "another appeal to umpire Kulkarni by Benn against Rahane, who misses a sweep this time, hit below the knee roll, just outside the line of off, and the ball is spinning further away, Rahane has been done in by the combined pressure of the two appeals on umpire Kulkarni"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Suraj Randiv"
+    },
+    "Stadium": "Cuttack",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "111",
+      "balls": "108",
+      "4s": "13",
+      "6s": "2",
+      "batting_position": "1"
+    },
+    "ball": "37.5",
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "194 all out (39.2 Overs, RR: 4.93)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "363/5 (50 Overs, RR: 7.26)"
+    },
+    "date": "2 Nov 2014",
+    "scoreAt": "247/2",
+    "description": "another century comes to an end, this one off a full toss! Rahane came down the track to loft the low full toss over mid off but didn't time it well and gave a simple catch to Jayawardene"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Dhammika Prasad"
+    },
+    "Stadium": "Ahmedabad",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "8",
+      "balls": "19",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "6.3",
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "274/8 (50 Overs, RR: 5.48)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "275/4 (44.3 Overs, RR: 6.17)"
+    },
+    "date": "6 Nov 2014",
+    "scoreAt": "18/1",
+    "description": "got him, and what a catch that is from Mahela! Rahane throws his bat at a full ball outside off, and it swings away just a touch and takes his outside edge. It bounces off Sangakkara's gloves, and Jayawardene reacts instantly at slip to dive to his left and pluck it with his left-hand"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Thisara Perera"
+    },
+    "Stadium": "Hyderabad (Deccan)",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "31",
+      "balls": "47",
+      "4s": "5",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "11.6",
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "242 all out (48.2 Overs, RR: 5.00)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "245/4 (44.1 Overs, RR: 5.54)"
+    },
+    "date": "9 Nov 2014",
+    "scoreAt": "62/1",
+    "description": "Rahane has been bounced out, this was just outside off this time, and climbing quickly and steeply, Rahane tried to cut it, he was on the hop and late on the shot as it pinged the glove and popped up to slip"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium",
+      "name": "Angelo Mathews"
+    },
+    "Stadium": "Kolkata",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "28",
+      "balls": "24",
+      "4s": "6",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "7.5",
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "251 all out (43.1 Overs, RR: 5.81)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "404/5 (50 Overs, RR: 8.08)"
+    },
+    "date": "13 Nov 2014",
+    "scoreAt": "40/1",
+    "description": "here comes the first wicket! It was a poor choice of shot from Rahane. He stays on the back foot and tries to work the length delivery away to the leg side but it just comes in a touch to beat the inside edge and strike above the knee roll. Would have hit the top of the stumps"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium",
+      "name": "Angelo Mathews"
+    },
+    "Stadium": "Ranchi",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "2",
+      "balls": "10",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "2.4",
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "286/8 (50 Overs, RR: 5.72)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "288/7 (48.4 Overs, RR: 5.91)"
+    },
+    "date": "16 Nov 2014",
+    "scoreAt": "6/1",
+    "description": "oh hat's a grubber.. It pitches on length, comes in and doesn't get up more than six inches. Rahane can't do much about it. It hits the middle stump. Mathews can't do anything wrong today!"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Gurinder Sandhu"
+    },
+    "Stadium": "Melbourne",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "12",
+      "balls": "22",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "3"
+    },
+    "ball": "7.2",
+    "opposition": {
+      "country": "Australia",
+      "total": "269/6 (49 Overs, RR: 5.48)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "267/8 (50 Overs, RR: 5.34)"
+    },
+    "date": "18 Jan 2015",
+    "scoreAt": "33/2",
+    "description": "nicked and taken. There's that bounce that he seems to get and it bests Rahane's intention to cut. Top strike for a first one, and it was brought about by the pressure created and sustained at both ends. There wasn't enough room for the shot, but Rahane opted for it and pays the price"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Steven Finn"
+    },
+    "Stadium": "Brisbane",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "33",
+      "balls": "40",
+      "4s": "1",
+      "6s": "1",
+      "batting_position": "1"
+    },
+    "ball": "14.3",
+    "opposition": {
+      "country": "England",
+      "total": "156/1 (27.3 Overs, RR: 5.67)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "153 all out (39.3 Overs, RR: 3.87)"
+    },
+    "date": "20 Jan 2015",
+    "scoreAt": "57/2",
+    "description": "he has thrown it away! Poor shot from Rahane. Fifth time Rahane dismissed by Finn. He comes down the pitch and looks to whack the back of length delivery over midwicket but the extra bounce means it hits the splice of the bot and balloons towards mid-on where the fielder backpedals and takes an easy catch"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Steven Finn"
+    },
+    "Stadium": "Perth",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "73",
+      "balls": "101",
+      "4s": "3",
+      "6s": "1",
+      "batting_position": "1"
+    },
+    "ball": "35.3",
+    "opposition": {
+      "country": "England",
+      "total": "201/7 (46.5 Overs, RR: 4.29)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "200 all out (48.1 Overs, RR: 4.15)"
+    },
+    "date": "30 Jan 2015",
+    "scoreAt": "136/5",
+    "description": "beautiful delivery, Finn gets the well-set batsman! Wobbly seam and the ball was coming in towards the batsman from outside off, it was too close to him as he tried to run it down the third man and the outside edge was taken by Buttler to his right"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Sohail Khan"
+    },
+    "Stadium": "Adelaide",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "0",
+      "balls": "1",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "7"
+    },
+    "ball": "49.2",
+    "opposition": {
+      "country": "Pakistan",
+      "total": "224 all out (47 Overs, RR: 4.76)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "300/7 (50 Overs, RR: 6.0)"
+    },
+    "date": "15 Feb 2015",
+    "scoreAt": "296/7",
+    "description": "Sohail is doing the sajda after bowling Rahane out. Slower ball, Rahane makes room to try to hit it over cover, and has the top of the leg stumps disturbed. Will we get another last-over hat-trick?"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Dale Steyn"
+    },
+    "Stadium": "Melbourne",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "79",
+      "balls": "60",
+      "4s": "7",
+      "6s": "3",
+      "batting_position": "4"
+    },
+    "ball": "45.6",
+    "opposition": {
+      "country": "South Africa",
+      "total": "177 all out (40.2 Overs, RR: 4.38)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "307/7 (50 Overs, RR: 6.14)"
+    },
+    "date": "22 Feb 2015",
+    "scoreAt": "278/5",
+    "description": "got him. Walked across and looked to club it away to the leg side. It was a touch too full, maybe, and it came in off the seam and hit him on the back thigh. Given immediately, and Rahane didn't review"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Kemar Roach"
+    },
+    "Stadium": "Perth",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "14",
+      "balls": "34",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "4"
+    },
+    "ball": "17.5",
+    "opposition": {
+      "country": "West Indies",
+      "total": "182 all out (44.2 Overs, RR: 4.1)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "185/6 (39.1 Overs, RR: 4.72)"
+    },
+    "date": "6 Mar 2015",
+    "scoreAt": "78/4",
+    "description": "given! Made room to dab it down to third man, and the ball slipped past (or off) his edge very quickly through to Ramdin. Rahane reviews it. Replays look inconclusive. It straightened a touch and went very close to the outside edge. The bat, as it came down, hit the flap of his back pad. Seam position remained the same as the ball passed the bat.  There's a bit of a spike on Snicko, but it's hard to say if that was ball on edge or bat on pad. In the end, the third umpire upholds the decision. Interesting one, this."
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Taskin Ahmed"
+    },
+    "Stadium": "Melbourne",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "19",
+      "balls": "37",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "4"
+    },
+    "ball": "27.6",
+    "opposition": {
+      "country": "Bangladesh",
+      "total": "193 all out (45 Overs, RR: 4.28)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "302/6 (50 Overs, RR: 6.04)"
+    },
+    "date": "19 Mar 2015",
+    "scoreAt": "115/3",
+    "description": "fuller delivery, outside off, and Rahane's struggle has come to an end as he mistimes the loft over extra-cover, with the bat turning in his hand, as the ball ends up just to the left of Shakib, who dives in the end as he claimed it. Bangladesh cock-a-hoop after that dismissal. India looking in some trouble now at 115 for 3. Hilarity ensues as Taskin and Mashrafe went for the celebratory chest-bump, which they fail on the first occassion, before trying again to save face. This time however, they both fail miserably as Taskin slips. Comical end to a key wicket there for Bangladesh"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast",
+      "name": "Mitchell Starc"
+    },
+    "Stadium": "Sydney",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "44",
+      "balls": "68",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "4"
+    },
+    "ball": "36.2",
+    "opposition": {
+      "country": "Australia",
+      "total": "328/7 (50 Overs, RR: 6.56)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "233 all out (46.5 Overs, RR: 4.97)"
+    },
+    "date": "26 Mar 2015",
+    "scoreAt": "178/5",
+    "description": "Rahane plays with fire, fiddling at a length ball off the back foot... it slides past the outside edge. No one reacts but Australia then decide to review, not sure on whose prompting. Looks like a gamble, but... While there's no visible deviation, a thin scrape on Snicko is enough for Erasmus, he tells Dharmasena to overturn his decision. Australia have rolled the dice and come up trumps! Quite what Rahane thought he was doing, I don't know, hugely risky and he walks off without a backward glance"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "Mustafizur Rahman"
+    },
+    "Stadium": "Dhaka",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "9",
+      "balls": "25",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "4"
+    },
+    "ball": "22.6",
+    "opposition": {
+      "country": "Bangladesh",
+      "total": "307 all out (49.4 Overs, RR: 6.18)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "228 all out (46 Overs, RR: 4.95)"
+    },
+    "date": "18 Jun 2015",
+    "scoreAt": "115/4",
+    "description": "lovely catch. Start the party already, Dhaka? Bangladesh get closer to a win? Another slower ball. He bowls a mean cutter. Rahane is early into it. Then to recover he turns the bat face early. The leading edge seams like it is sailing over his head but Nasir Hossain times his jump to perfection. Then he kicks the ball away. And 25000 celebrate with him"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Donald Tiripano"
+    },
+    "Stadium": "Harare",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "34",
+      "balls": "49",
+      "4s": "5",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "17.2",
+    "opposition": {
+      "country": "Zimbabwe",
+      "total": "251/7 (50 Overs, RR: 5.02)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "255/6 (50 Overs, RR: 5.10)"
+    },
+    "date": "10 Jul 2015",
+    "scoreAt": "60/2",
+    "description": "sharp take from Masakadza at slip. On a length and outside off, Rahane is undone by extra bounce. Rahane chases as he aims to run it towards third man. He only manages a thick edge, which is snaffled by Masakadza, moving to his right and pouching it around chest height"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium",
+      "name": "Chamu Chibhabha"
+    },
+    "Stadium": "Harare",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "63",
+      "balls": "83",
+      "4s": "7",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "25.6",
+    "opposition": {
+      "country": "Zimbabwe",
+      "total": "209 all out (49 Overs, RR: 4.26)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "271/8 (50 Overs, RR: 5.42)"
+    },
+    "date": "12 Jul 2015",
+    "scoreAt": "112/1",
+    "description": "that's the first breakthrough, Rahane edged one to cover! Incoming delivery towards the stumps and Rahane closed the face of the bat early, the ball ballooned off the edge to cover for an easy peasy catch"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Neville Madziva"
+    },
+    "Stadium": "Harare",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "15",
+      "balls": "22",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "5.5",
+    "opposition": {
+      "country": "Zimbabwe",
+      "total": "193 all out (42.4 Overs, RR: 4.52)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "276/5 (50 Overs, RR: 5.52)"
+    },
+    "date": "14 Jul 2015",
+    "scoreAt": "25/1",
+    "description": "Soft, soft dismissal for Rahane. The umpires check for a possible no-ball. Madziva's footing is okay. Good length and outside off, sort of stops on Rahane, who is early into an attempted airy drive. He can only slice it into the hands of Utseya at cover-point"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Farhaan Behardien"
+    },
+    "Stadium": "Kanpur",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "60",
+      "balls": "82",
+      "4s": "5",
+      "6s": "0",
+      "batting_position": "3"
+    },
+    "ball": "33.4",
+    "opposition": {
+      "country": "South Africa",
+      "total": "303/5 (50 Overs, RR: 6.06)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "298/7 (50 Overs, RR: 5.96)"
+    },
+    "date": "11 Oct 2015",
+    "scoreAt": "191/2",
+    "description": "a soft dismissal to break the stand! Rahane made room by moving outside leg and slapped an innocuous delivery straight to Miller at extra cover. His partnership with Rohit ends on 149"
+  },
+  {
+    "bowler": {
+      "type": "Legbreak googly",
+      "name": "Imran Tahir"
+    },
+    "Stadium": "Indore",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "51",
+      "balls": "63",
+      "4s": "6",
+      "6s": "0",
+      "batting_position": "3"
+    },
+    "ball": "22.4",
+    "opposition": {
+      "country": "South Africa",
+      "total": "225 all out (43.4 Overs, RR: 5.15)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "247/9 (50 Overs, RR: 4.94)"
+    },
+    "date": "14 Oct 2015",
+    "scoreAt": "102/4",
+    "description": "he's bowled him round the legs! Tahir has taken off and Rahane can't believe it, he's still on the crease and is asking the umpires now. The umpires refer it to the third umpire. Rahane was sweeping the ball which pitched outside leg, but he misses and the ball turned just enough to clip the leg stump"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Morne Morkel"
+    },
+    "Stadium": "Rajkot",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "4",
+      "balls": "7",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "6"
+    },
+    "ball": "45.2",
+    "opposition": {
+      "country": "South Africa",
+      "total": "270/7 (50 Overs, RR: 5.40)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "252/6 (50 Overs, RR: 5.04)"
+    },
+    "date": "18 Oct 2015",
+    "scoreAt": "216/6",
+    "description": "repeat delivery. Repeat shot. Repeat dismissal. Miller takes this low to the ground, that being the only difference. Banged in short again, Rahane advances and slogs this in the air to deep midwicket. Are these percentage shots? With this consistent length, the batsmen have been found out playing poor shots."
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Dale Steyn"
+    },
+    "Stadium": "Chennai",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "45",
+      "balls": "53",
+      "4s": "4",
+      "6s": "0",
+      "batting_position": "4"
+    },
+    "ball": "26.1",
+    "opposition": {
+      "country": "South Africa",
+      "total": "264/9 (50 Overs, RR: 5.28)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "299/8 (50 Overs, RR: 5.98)"
+    },
+    "date": "22 Oct 2015",
+    "scoreAt": "139/3",
+    "description": "and the change works - Steyn has got him caught behind! There was some room, Rahane went for the shot without moving his feet much and the ball stayed a tad low to take the bottom edge and QdK took it with both hands, Steyn is pumped after a long time"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Dale Steyn"
+    },
+    "Stadium": "Mumbai",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "87",
+      "balls": "58",
+      "4s": "9",
+      "6s": "3",
+      "batting_position": "4"
+    },
+    "ball": "26.2",
+    "opposition": {
+      "country": "South Africa",
+      "total": "438/4 (50 Overs, RR: 8.76)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "224 all out (36 Overs, RR: 6.22)"
+    },
+    "date": "25 Oct 2015",
+    "scoreAt": "185/5",
+    "description": "pace works again. Sheer express and accurate pace. This is short on middle, Rahane has to go for the big hit. Launches it over midwicket, but there is a man in the deep and he collects the simplest of catches. Steyn pops a vein celebrating, as per. South Africa are nearing yet another away series win"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "James Faulkner"
+    },
+    "Stadium": "Brisbane",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "89",
+      "balls": "80",
+      "4s": "6",
+      "6s": "1",
+      "batting_position": "4"
+    },
+    "ball": "48.3",
+    "opposition": {
+      "country": "Australia",
+      "total": "309/3 (49 Overs, RR: 6.30)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "308/8 (50 Overs, RR: 6.16)"
+    },
+    "date": "15 Jan 2016",
+    "scoreAt": "298/5",
+    "description": "gone. Steven Smith takes the catch as Rahane falls. Back of the hand legcutter on off, Rahane comes down and swipes it in the air but the ball hangs in the air for a long time. He did not get enough distance and Smith settles under it at deep midwicket to swallow the catch"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "John Hastings"
+    },
+    "Stadium": "Melbourne",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "50",
+      "balls": "55",
+      "4s": "4",
+      "6s": "1",
+      "batting_position": "4"
+    },
+    "ball": "44.2",
+    "opposition": {
+      "country": "Australia",
+      "total": "296/7 (48.5 Overs, RR: 6.06)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "295/6 (50 Overs, RR: 5.90)"
+    },
+    "date": "17 Jan 2016",
+    "scoreAt": "243/3",
+    "description": "#MCG is so big, Rahane can't clear the fielder. He jumps out, Hastings bangs it short. Rahane drags a pull, Smith runs to his right from long-on, catches it at the edge of the boundary. He loses his balance but tosses the ball over to the man running from deep midwicket (Maxi). We saw a similar catch in the Big Bash Sydney derby yesterday. Silk and Botha were at the tag-team work yesterday"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Kane Richardson"
+    },
+    "Stadium": "Canberra",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "2",
+      "balls": "3",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "7"
+    },
+    "ball": "41.5",
+    "opposition": {
+      "country": "Australia",
+      "total": "348/8 (50 Overs, RR: 6.96)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "323 all out (49.2 Overs, RR: 6.54)"
+    },
+    "date": "20 Jan 2016",
+    "scoreAt": "294/6",
+    "description": "did that carry? Smith claims it. The slip fielder takes it. Smith put himself in there and takes a very good low catch. Full delivery outside off, Rahane tries to guide to third man but gets a thick outside edge. Smith takes it. Massive wicket. India are six down now."
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium",
+      "name": "James Neesham"
+    },
+    "Stadium": "Dharamsala",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "33",
+      "balls": "34",
+      "4s": "4",
+      "6s": "2",
+      "batting_position": "2"
+    },
+    "ball": "12.1",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "190 all out (43.5 Overs, RR: 4.33)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "194/4 (33.1 Overs, RR: 5.84)"
+    },
+    "date": "16 Oct 2016",
+    "scoreAt": "62/2",
+    "description": "loose shot and Rahane's gone. This was way outside off for him to try and get a bat to, but Rahane pokes at that and gets an edge that is taken superbly by Ronchi diving to his right. The bounce did the trick for Neesham"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Tim Southee"
+    },
+    "Stadium": "Delhi",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "28",
+      "balls": "49",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "18.4",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "242/9 (50 Overs, RR: 4.84)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "236 all out (49.3 Overs, RR: 4.76)"
+    },
+    "date": "20 Oct 2016",
+    "scoreAt": "72/3",
+    "description": "he isn't sure. What an effort that is. Anderson gets low, and it looks like he has taken at first glance. Soft decision is out. Good change-up from Southee, a bouncer on middle. Rahane doesn't get on top of the bounce. Pulls to fine leg, where Anderson rushes in, stays low and takes the catch off the ground? Many replays. Did it land just in front of Anderson? Umpire Shamsuddin is the third umpire. He needs conclusive evidence that it has bounced to overturn this. Definitely bounced, but did it in his hands or on the turf. More and more replays. He doesn't have conclusive evidence to overturn his call. No doubt in my mind that it would have been not out had the soft decision been not out. Nonetheless, such is life, such is sport. Rahane has to walk back, India in a bit of trouble."
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Matt Henry"
+    },
+    "Stadium": "Mohali",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "5",
+      "balls": "10",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "2.5",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "285 all out (49.4 Overs, RR: 5.73)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "289/3 (48.2 Overs, RR: 5.97)"
+    },
+    "date": "23 Oct 2016",
+    "scoreAt": "13/1",
+    "description": "that's all a bit soft! And Henry proves game-changing for New Zealand again. He was celebrating the moment Rahane popped this back of a length ball in the air. It went in the direction of cover, and Santner was the man there. He's a fantastic fielder. Perhaps this pitch isn't quite as true as I thought. That ball certainly stopped on Rahane"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium",
+      "name": "James Neesham"
+    },
+    "Stadium": "Ranchi",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "57",
+      "balls": "70",
+      "4s": "5",
+      "6s": "1",
+      "batting_position": "1"
+    },
+    "ball": "27.2",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "260/7 (50 Overs, RR: 5.20)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "241 all out (48.4 Overs, RR: 4.95)"
+    },
+    "date": "26 Oct 2016",
+    "scoreAt": "128/3",
+    "description": "given this time. The change has worked. Looked pretty close. Rahane fails to convert a solid start into a  big score, Yes, good decision by umpire Oxenford. Full and straight - towards middle and off. Rahane comes forward and shuffles across to reduce the distance from a plausible offcutter, but Neesham bowls this seam-up. It skids on and strikes Rahane in front of middle, no problem with height. Out."
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium",
+      "name": "James Neesham"
+    },
+    "Stadium": "Visakhapatnam",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "20",
+      "balls": "39",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "9.2",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "79 all out (23.1 Overs, RR: 3.41)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "269/6 (50 Overs, RR: 5.38)"
+    },
+    "date": "29 Oct 2016",
+    "scoreAt": "40/1",
+    "description": "chips it straight to short midwicket! The most innocuous of deliveries. Full on middle. There for the flick. But he has not timed the ball. It's that old weakness of his, unable to force the pace when the pitch becomes slow. He was not quite to the pitch of the ball, it held up on the surface a bit and he didn't make much of an effort the keep it down. The ball didn't come on, he found Latham"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "David Willey"
+    },
+    "Stadium": "Kolkata",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "1",
+      "balls": "6",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "1.4",
+    "opposition": {
+      "country": "England",
+      "total": "321/8 (50 Overs, RR: 6.42)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "316/9 (50 Overs, RR: 6.32)"
+    },
+    "date": "22 Jan 2017",
+    "scoreAt": "13/1",
+    "description": "late swing, beautiful late, glorious swing and Rahane is out cheaply. His feet are shackled to the crease. He is driving down the wrong line. He is not ready for this full delivery to scythe through the air, through his gap between bat and pad and take the off stump. So England's cost for their non-appeal is one mere run"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Alzarri Joseph"
+    },
+    "Stadium": "Port of Spain",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "62",
+      "balls": "78",
+      "4s": "8",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "24.6",
+    "opposition": {
+      "country": "West Indies",
+      "total": "DNB"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "199/3 (39.2 Overs, RR: 5.05)"
+    },
+    "date": "23 Jun 2017",
+    "scoreAt": "132/1",
+    "description": "scoops it up - totally deceived by the slower ball. Not the first time lack of pace has been Rahane's undoing. He likes the ball coming on, hitting through the line, all that. Joseph disallows that luxury with an offspinner, a teasing one. Rahane steps forward, looking to hit over mid-off, but skews it instead straight to the West Indies captain at mid-on"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Miguel Cummins"
+    },
+    "Stadium": "Port of Spain",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "103",
+      "balls": "104",
+      "4s": "10",
+      "6s": "2",
+      "batting_position": "1"
+    },
+    "ball": "33.6",
+    "opposition": {
+      "country": "West Indies",
+      "total": "205/6 (43 Overs, RR: 4.76)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "310/5 (43 Overs, RR: 7.20)"
+    },
+    "date": "25 Jun 2017",
+    "scoreAt": "211/2",
+    "description": "what's happened there? A single bail has come out and the other one wobbles before settling down on middle stump. Rahane was shaping for the pull shot. It was short, yes, but perhaps too close. Gets tucked up for room and makes no contact. The ball just about kisses the bail. Barely comes out, but comes out nonetheless, and that is enough"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Miguel Cummins"
+    },
+    "Stadium": "North Sound",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "72",
+      "balls": "112",
+      "4s": "4",
+      "6s": "1",
+      "batting_position": "1"
+    },
+    "ball": "42.2",
+    "opposition": {
+      "country": "West Indies",
+      "total": "158 all out (38.1 Overs, RR: 4.13)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "251/4 (50 Overs, RR: 5.02)"
+    },
+    "date": "30 Jun 2017",
+    "scoreAt": "170/4",
+    "description": "sensational catch from Bishoo. Showed great awareness to his right the previous ball, and this time he jogs to his left from sweeper cover and times a dive perfectly to catch low to his left. Back of a length from Cummins, Rahane looked to find the gap over point, but there was no width, skewed it uppishly"
+  },
+  {
+    "bowler": {
+      "type": "Legbreak",
+      "name": "Devendra Bishoo"
+    },
+    "Stadium": "North Sound",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "60",
+      "balls": "91",
+      "4s": "7",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "30.5",
+    "opposition": {
+      "country": "West Indies",
+      "total": "189/9 (50 Overs, RR: 3.78)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "178 all out (49.4 Overs, RR: 3.58)"
+    },
+    "date": "2 Jul 2017",
+    "scoreAt": "101/4",
+    "description": "Rahane has gone for a sweep, missed it entirely and it looks like he's been given out caught behind. Yes. He has reviewed straight away. There's a minuscule spike on Snicko as the ball passes the bottom of the bat. Earlier inspection shows the ball had hit his hip before the keeper took it...and he's given out because of the spike. This was a regulation legspinner, going away from off stump. Rahane stretched out for the sweep and evidence suggests the ball has kissed the toe end of the bat before hitting his hip"
+  },
+  {
+    "bowler": {
+      "type": "Legbreak",
+      "name": "Devendra Bishoo"
+    },
+    "Stadium": "Kingston",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "39",
+      "balls": "51",
+      "4s": "5",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "18.5",
+    "opposition": {
+      "country": "West Indies",
+      "total": "205/9 (50 Overs, RR: 4.10)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "206/2 (36.5 Overs, RR: 5.59)"
+    },
+    "date": "6 Jul 2017",
+    "scoreAt": "84/2",
+    "description": "plumb in front. He's played all around a straight one. For a moment, he was pondering a review but Kohli told him in no uncertain terms that the ball would've crashed into the stumps. This was angled in full from wide of the crease, Rahane was better off playing straight. Instead looked to work it wide of midwicket. Error in judgment."
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Lasith Malinga"
+    },
+    "Stadium": "Colombo (RPS)",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "5",
+      "balls": "17",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "4.4",
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "238 all out (49.4 Overs, RR: 4.79)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "239/4 (46.3 Overs, RR: 5.13)"
+    },
+    "date": "3 Sep 2017",
+    "scoreAt": "17/1",
+    "description": "Munaweera fumbles a couple of times at fine leg, but holds on. Bouncer at middle stump, gets under this hook as it continues to climb on him. Bent way out of shape and top edges it, straight into the path of Munaweera who manages to somehow get it behind him after getting a hand, and then swivels to catch it"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Nathan Coulter-Nile"
+    },
+    "Stadium": "Chennai",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "5",
+      "balls": "15",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "3.3",
+    "opposition": {
+      "country": "Australia",
+      "total": "137/9 (21 Overs, RR: 6.52)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "281/7 (50 Overs, RR: 5.62)"
+    },
+    "date": "17 Sep 2017",
+    "scoreAt": "11/1",
+    "description": "Australia find reward for their tight lines and lengths with the new ball. Coulter-Nile puts it on a length and wide outside off, swings away further - it ended on a set of stumps outside off. Rahane throws his bat at a drive and only snicks it behind. Wade, who has been busy this afternoon, moves to his right and snags the catch. Rahane falls for 5 off 15 balls on return"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Pat Cummins"
+    },
+    "Stadium": "Indore",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "70",
+      "balls": "76",
+      "4s": "9",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "23.3",
+    "opposition": {
+      "country": "Australia",
+      "total": "293/6 (50 Overs, RR: 5.86)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "294/5 (47.5 Overs, RR: 6.14)"
+    },
+    "date": "24 Sep 2017",
+    "scoreAt": "147/2",
+    "description": "Cummins pins Rahane in front! On a length and skids into off stump, 141.8ks, Rahane, jumping off the ground, plays across the line and is smacked on the front pad. The umpire raises his finger. Rahane does not bother to review. Impact in line? The tracker returns umpires call on impact"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Kane Richardson"
+    },
+    "Stadium": "Bengaluru",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "53",
+      "balls": "66",
+      "4s": "6",
+      "6s": "1",
+      "batting_position": "1"
+    },
+    "ball": "18.2",
+    "opposition": {
+      "country": "Australia",
+      "total": "334/5 (50 Overs, RR: 6.68)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "313/8 (50 Overs, RR: 6.26)"
+    },
+    "date": "28 Sep 2017",
+    "scoreAt": "106/1",
+    "description": "finds Finch at long-on and India lose their first. A good length delivery on leg, Rahane comes running down to hit Richardson over mid-off, but the ball skews off the inside half and goes straight to Finch. Did not want to hit that so wide."
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Nathan Coulter-Nile"
+    },
+    "Stadium": "Nagpur",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "61",
+      "balls": "74",
+      "4s": "7",
+      "6s": "0",
+      "batting_position": "1"
+    },
+    "ball": "22.3",
+    "opposition": {
+      "country": "Australia",
+      "total": "242/9 (50 Overs, RR: 4.84)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "243/3 (42.5 Overs, RR: 5.67)"
+    },
+    "date": "1 Oct 2017",
+    "scoreAt": "124/1",
+    "description": "and out, says umpire Erasmus. On a length on middle, Rahane misses a flick and is struck on the pad. Was he moving across too far? Was it sliding down leg? Rahane opts to review. No bat on that, so an umpire's call will do for Australia. Two reds, and clipping the bails, so Rahane will have to go. Had just shuffled across too far"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Andile Phehlukwayo"
+    },
+    "Stadium": "Durban",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "79",
+      "balls": "86",
+      "4s": "5",
+      "6s": "2",
+      "batting_position": "4"
+    },
+    "ball": "42.4",
+    "opposition": {
+      "country": "South Africa",
+      "total": "269/8 (50 Overs, RR: 5.38)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "270/4 (45.3 Overs, RR: 5.93)"
+    },
+    "date": "1 Feb 2018",
+    "scoreAt": "256/3",
+    "description": "lobs one for long-on. Length ball follows him down leg side. He goes for a pick-up over midwicket, but that gets too big on him. He ends up lifting a simple one for Tahir. A stunning knock from Rahane, if he ever needed one."
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Jean-Paul Duminy"
+    },
+    "Stadium": "Cape Town",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "11",
+      "balls": "13",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "4"
+    },
+    "ball": "27.4",
+    "opposition": {
+      "country": "South Africa",
+      "total": "179 all out (40 Overs, RR: 4.47)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "303/6 (50 Overs, RR: 6.06)"
+    },
+    "date": "7 Feb 2018",
+    "scoreAt": "160/3",
+    "description": "and he's made Rahane play a poor shot. A small play from Markram, putting a fielder in the batsman's sight. And one dot ball later, Rahane feels the need to step out again. Once again, he's beaten in the flight. Dips and drifts away from him. He's reaching out and his bottom hand is coming off. It's a feeble chip to long-off off the bottom of the bat"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Lungi Ngidi"
+    },
+    "Stadium": "Johannesburg",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Ajinkya Rahane"
+    },
+    "player_innings": {
+      "runs": "8",
+      "balls": "15",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "4"
+    },
+    "ball": "36.3",
+    "opposition": {
+      "country": "South Africa",
+      "total": "207/5 (25.3 Overs, RR: 8.11)"
+    },
+    "team": {
+      "country": "INDIA ",
+      "total": "289/7 (50 Overs, RR: 5.78)"
+    },
+    "date": "10 Feb 2018",
+    "scoreAt": "210/4",
+    "description": "SA bouncing back very quickly after the break. It's another wicket, as Rahane holes out to deep square leg. Ngidi digs this one in again, around middle and leg. Rahane feels obliged to keep the run-rate high, but has to play a low-percentage, high-risk shot: the pull when the ball is climbing quite a bit and he isn't quite set. He can't time it, and the ball picks out the fielder."
+  }
+]

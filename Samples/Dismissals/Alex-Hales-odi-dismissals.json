@@ -1,1 +1,1838 @@
-[{"bowler": {"type": "Slow left-arm orthodox", "name": "Ravindra Jadeja"}, "Stadium": "Cardiff", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "40", "balls": "63", "4s": "5", "6s": "0", "batting_position": "2"}, "ball": "20.4", "opposition": {"country": "India", "total": "304/6 (50 Overs, RR: 6.08)"}, "team": {"country": "ENG ", "total": "161 all out (38.1 Overs, RR: 4.21)"}, "date": "27 Aug 2014", "scoreAt": "81/4", "description": "swept off the stumps, Hales gets a top edge that loops to short long leg! Big wicket for India and Jadeja takes another ODI wicket against England. Right off the toe I think this has come, gently looping to Ashwin on the 45 on the edge of the circle, he nearly let it drift over his shoulder but held a comfortable catch in the end"}, {"bowler": {"type": "Right-arm offbreak", "name": "Suresh Raina"}, "Stadium": "Nottingham", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "42", "balls": "55", "4s": "5", "6s": "0", "batting_position": "2"}, "ball": "17.6", "opposition": {"country": "India", "total": "228/4 (43 Overs, RR: 5.30)"}, "team": {"country": "ENG ", "total": "227 all out (50 Overs, RR: 4.54)"}, "date": "30 Aug 2014", "scoreAt": "82/1", "description": "well, it's Raina who's broken through! Hales falling to the sweep again. The ball loops up in the air off  top edge just behind him to give Dhoni a simple catch"}, {"bowler": {"type": "Right-arm medium", "name": "Bhuvneshwar Kumar"}, "Stadium": "Birmingham", "team_innings": "1", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "6", "balls": "7", "4s": "1", "6s": "0", "batting_position": "2"}, "ball": "4.1", "opposition": {"country": "India", "total": "212/1 (30.3 Overs, RR: 6.95)"}, "team": {"country": "ENG ", "total": "206 all out (49.3 Overs, RR: 4.16)"}, "date": "2 Sep 2014", "scoreAt": "15/1", "description": "what a cracker! Excellent delivery, swinging back into Hales from outside off, he's caught in the crease, there's a sizeable gap between bat and pad because he likes to stand on leg stump...the ball cannons it off stump. It was his first real big in-ducker of the day. Clever stuff"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Umesh Yadav"}, "Stadium": "Leeds", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "4", "balls": "9", "4s": "0", "6s": "0", "batting_position": "2"}, "ball": "3.4", "opposition": {"country": "India", "total": "253 all out (48.4 Overs, RR: 5.19)"}, "team": {"country": "ENG ", "total": "294/7 (50 Overs, RR: 5.88)"}, "date": "5 Sep 2014", "scoreAt": "23/1", "description": "this has gone straight up in the air! Umesh gets a wicket immediately! You have to question the choice of the shot there.. it was not that short but Hales wanted to pull it over midwicket, only gets cramped for space and gets a big top-edge that is gobbled up at midwicket"}, {"bowler": {"type": "Right-arm medium", "name": "Angelo Mathews"}, "Stadium": "Hambantota", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "27", "balls": "29", "4s": "2", "6s": "1", "batting_position": "3"}, "ball": "21.5", "opposition": {"country": "Sri Lanka", "total": "242/8 (35 Overs, RR: 6.91)"}, "team": {"country": "ENG ", "total": "236/5 (33.4 Overs, RR: 7.00)"}, "date": "3 Dec 2014", "scoreAt": "144/3", "description": "gone this time! Hales can't make the most of his life, he was itching to cut loose. Used his feet, it was a length delivery, and he heaved it to mid-on who just had to move a little to his left. Didn't really need to do that after the earlier reprieve and the six"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Dhammika Prasad"}, "Stadium": "Colombo (RPS)", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "0", "balls": "1", "4s": "0", "6s": "0", "batting_position": "2"}, "ball": "1.1", "opposition": {"country": "Sri Lanka", "total": "267/4 (49.4 Overs, RR: 5.37)"}, "team": {"country": "ENG ", "total": "265 all out (50 Overs, RR: 5.30)"}, "date": "7 Dec 2014", "scoreAt": "5/1", "description": "big strike! Gets his line straighter, it's full outside off, Hales is tempted into having a drive and a thick outside flies at chest height to Jayawardene at slip"}, {"bowler": {"type": "Right-arm offbreak", "name": "Tillakaratne Dilshan"}, "Stadium": "Colombo (RPS)", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "7", "balls": "15", "4s": "0", "6s": "0", "batting_position": "3"}, "ball": "7.2", "opposition": {"country": "Sri Lanka", "total": "302/6 (50 Overs, RR: 6.04)"}, "team": {"country": "ENG ", "total": "215 all out (45.5 Overs, RR: 4.69)"}, "date": "16 Dec 2014", "scoreAt": "28/2", "description": "down the track smashing high into the sky but doesn't get enough of it and finds long-on! Hales got it off the bottom of the bat, it went very high but a good five yards short of the boundary and it was solidly taken, England in trouble"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Mashrafe Mortaza"}, "Stadium": "Adelaide", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "27", "balls": "34", "4s": "4", "6s": "0", "batting_position": "3"}, "ball": "19.5", "opposition": {"country": "Bangladesh", "total": "275/7 (50 Overs, RR: 5.5)"}, "team": {"country": "ENG ", "total": "260 all out (48.3 Overs, RR: 5.36)"}, "date": "9 Mar 2015", "scoreAt": "97/2", "description": "Mashrafe has the final laugh as Bangladesh pickup a wicket out of nowhere. Gets Hales to offer an outside edge which deflects away to the keeper, who takes it comfortably in the end. Bangladesh really needed that wicket as their body language started to lag a bit over the last few overs"}, {"bowler": {"type": "Right-arm fast", "name": "Hamid Hassan"}, "Stadium": "Sydney", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "37", "balls": "33", "4s": "3", "6s": "2", "batting_position": "1"}, "ball": "13.3", "opposition": {"country": "Afghanistan", "total": "111/7 (36.2 Overs, RR: 3.05)"}, "team": {"country": "ENG ", "total": "101/1 (18.1 Overs, RR: 5.55)"}, "date": "13 Mar 2015", "scoreAt": "83/1", "description": "and Hassan gets a wicket on his final night of the World Cup. Something to cheer about at least. On a length, just outside off, seams away a touch. Hales is looking to defend, playing the angle, and ends up edging this through to the keeper"}, {"bowler": {"type": "Left-arm fast-medium", "name": "Trent Boult"}, "Stadium": "Birmingham", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "20", "balls": "20", "4s": "3", "6s": "0", "batting_position": "2"}, "ball": "7.2", "opposition": {"country": "New Zealand", "total": "198 all out (31.1 Overs, RR: 6.35)"}, "team": {"country": "ENG ", "total": "408/9 (50 Overs, RR: 8.16)"}, "date": "9 Jun 2015", "scoreAt": "50/2", "description": "short ball, Hales tries to pull from outside off, it goes high but not far... and Henry takes the catch running back at backward square leg! One ball after the 50 partnership, Hales gets a bit too flap happy and falls for a run-a-ball 20. Still looking for a substantial innings in ODI cricket. Decent surprise bouncer from Boult"}, {"bowler": {"type": "Slow left-arm orthodox", "name": "Mitchell Santner"}, "Stadium": "The Oval", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "54", "balls": "49", "4s": "6", "6s": "3", "batting_position": "2"}, "ball": "15.6", "opposition": {"country": "New Zealand", "total": "398/5 (50 Overs, RR: 7.96)"}, "team": {"country": "ENG ", "total": "365/9 (46 Overs, RR: 7.93)"}, "date": "12 Jun 2015", "scoreAt": "100/3", "description": "tries a slog sweep from outside off and Hales picks out deep midwicket! Straight to the fielder a few yards inside the rope and an easy catch for Trent Boult. England losing wickets quickly here to kill their early momentum. Hales was well set but just didn't get enough of this, it was a bit of a top edge and never threatened to clear the boundary. A few strokes finding the fielders and England are suddenly in trouble"}, {"bowler": {"type": "Left-arm medium-fast", "name": "Ben Wheeler"}, "Stadium": "Southampton", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "23", "balls": "21", "4s": "4", "6s": "0", "batting_position": "2"}, "ball": "5.6", "opposition": {"country": "New Zealand", "total": "306/7 (49 Overs, RR: 6.24)"}, "team": {"country": "ENG ", "total": "302 all out (45.2 Overs, RR: 6.66)"}, "date": "14 Jun 2015", "scoreAt": "34/1", "description": "a maiden international wicket! Nicely done from Wheeler. A length delivery angled across Hales who pushes a little meekly outside off and it travels at a good height to second slip. Scrambled seam."}, {"bowler": {"type": "Right-arm fast-medium", "name": "Matt Henry"}, "Stadium": "Nottingham", "team_innings": "2", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "67", "balls": "38", "4s": "7", "6s": "4", "batting_position": "2"}, "ball": "10.4", "opposition": {"country": "New Zealand", "total": "349/7 (50 Overs, RR: 6.98)"}, "team": {"country": "ENG ", "total": "350/3 (44 Overs, RR: 7.95)"}, "date": "17 Jun 2015", "scoreAt": "100/1", "description": "advances and heaves across the line, Hales has dragged on! That's the way for bowlers to succeed in these crazy times - take wickets. Henry bellows in delight, middle stump out of the ground, NZ have got one"}, {"bowler": {"type": "Slow left-arm orthodox", "name": "Mitchell Santner"}, "Stadium": "Chester-le-Street", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "1", "balls": "3", "4s": "0", "6s": "0", "batting_position": "2"}, "ball": "1.2", "opposition": {"country": "New Zealand", "total": "283/9 (50 Overs, RR: 5.66)"}, "team": {"country": "ENG ", "total": "192/7 (25 Overs, RR: 7.68)"}, "date": "20 Jun 2015", "scoreAt": "8/1", "description": "Whoa!  Stunning, one-hander from Williamson. Santer drags it even shorter at 98.6ks, Hales skips back, pulls it in the air. Williamson at square leg, leaps and comes down with the ball in his left hand. Great start for New Zealand"}, {"bowler": {"type": "Right-arm medium", "name": "Mitchell Marsh"}, "Stadium": "Southampton", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "22", "balls": "22", "4s": "3", "6s": "1", "batting_position": "2"}, "ball": "11.2", "opposition": {"country": "Australia", "total": "305/6 (50 Overs, RR: 6.10)"}, "team": {"country": "ENG ", "total": "246 all out (45.3 Overs, RR: 5.40)"}, "date": "3 Sep 2015", "scoreAt": "70/1", "description": "breakthrough! Hales picks out midwicket. A short ball from Marsh, Hales latches on but pinged it straight to Watson. A bit of a giveaway from Hales."}, {"bowler": {"type": "Right-arm fast", "name": "Nathan Coulter-Nile"}, "Stadium": "Lord's", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "18", "balls": "20", "4s": "4", "6s": "0", "batting_position": "2"}, "ball": "5.5", "opposition": {"country": "Australia", "total": "309/7 (49 Overs, RR: 6.30)"}, "team": {"country": "ENG ", "total": "245 all out (42.3 Overs, RR: 5.76)"}, "date": "5 Sep 2015", "scoreAt": "37/1", "description": "what a catch. Stunning stuff from Smith. Absolutely stunning. Fuller length outside off, Hales skews the drive off the outer half of the bat towards short cover where Smith is lurking, he dives high to his right to take a spectacular, two-handed catch."}, {"bowler": {"type": "Right-arm fast", "name": "Pat Cummins"}, "Stadium": "Manchester", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "9", "balls": "31", "4s": "1", "6s": "0", "batting_position": "2"}, "ball": "9.3", "opposition": {"country": "Australia", "total": "207 all out (44 Overs, RR: 4.70)"}, "team": {"country": "ENG ", "total": "300/8 (50 Overs, RR: 6.00)"}, "date": "8 Sep 2015", "scoreAt": "52/1", "description": "full and clipped off the pads... straight to short midwicket! Hales has been thrashing around but getting nowhere for a while and he's finally picked out a fielder, wasn't over the shot and the catch was snapped up at waist height. Hales swipes his bat in frustration before sloping off"}, {"bowler": {"type": "Right-arm fast", "name": "Pat Cummins"}, "Stadium": "Leeds", "team_innings": "2", "dismissal": {"wayOut": "lbw"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "0", "balls": "2", "4s": "0", "6s": "0", "batting_position": "2"}, "ball": "1.2", "opposition": {"country": "Australia", "total": "299/7 (50 Overs, RR: 5.98)"}, "team": {"country": "ENG ", "total": "304/7 (48.2 Overs, RR: 6.28)"}, "date": "11 Sep 2015", "scoreAt": "1/1", "description": "full, fast, and that is out! Hales was done for pace, and despite a brief consultation he opts not to review. Stunning start from the lightning-quick Cummins. Hales hasn't had a lot of joy in this series so far"}, {"bowler": {"type": "Right-arm fast-medium", "name": "John Hastings"}, "Stadium": "Manchester", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "4", "balls": "12", "4s": "1", "6s": "0", "batting_position": "2"}, "ball": "3.6", "opposition": {"country": "Australia", "total": "140/2 (24.2 Overs, RR: 5.75)"}, "team": {"country": "ENG ", "total": "138 all out (33 Overs, RR: 4.18)"}, "date": "13 Sep 2015", "scoreAt": "13/2", "description": "so nearly dropped at point, but grabbed at the second attempt! A horrid scratchy innings comes to an end. That was his first real shot in anger, and it scooted straight at Maxwell's head, who eventually clung onto the second attempt down by his knees"}, {"bowler": {"type": "Right-arm medium-fast", "name": "Anwar Ali"}, "Stadium": "Abu Dhabi", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "10", "balls": "7", "4s": "1", "6s": "0", "batting_position": "2"}, "ball": "3.1", "opposition": {"country": "Pakistan", "total": "217/4 (43.4 Overs, RR: 4.96)"}, "team": {"country": "ENG ", "total": "216 all out (49.4 Overs, RR: 4.34)"}, "date": "11 Nov 2015", "scoreAt": "14/3", "description": "swishes outside off, nicked and taken at slip! Younis juggles the chance but holds on, to then be mobbed by his team-mates. The old magic hasn't quite faded and England are three down for spit"}, {"bowler": {"type": "Right-arm offbreak", "name": "Iftikhar Ahmed"}, "Stadium": "Abu Dhabi", "team_innings": "1", "dismissal": {"wayOut": "stumped"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "109", "balls": "117", "4s": "7", "6s": "3", "batting_position": "2"}, "ball": "38.5", "opposition": {"country": "Pakistan", "total": "188 all out (45.5 Overs, RR: 4.10)"}, "team": {"country": "ENG ", "total": "283/5 (50 Overs, RR: 5.66)"}, "date": "13 Nov 2015", "scoreAt": "216/2", "description": "and he's gone now! Goes for a slog sweep, plays over the top of the ball, his back foot is out of the crease, good take from Sarfraz and a neat stumping"}, {"bowler": {"type": "Slow left-arm orthodox", "name": "Zafar Gohar"}, "Stadium": "Sharjah", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "30", "balls": "49", "4s": "2", "6s": "1", "batting_position": "2"}, "ball": "20.3", "opposition": {"country": "Pakistan", "total": "208 all out (49.5 Overs, RR: 4.17)"}, "team": {"country": "ENG ", "total": "210/4 (41 Overs, RR: 5.12)"}, "date": "17 Nov 2015", "scoreAt": "87/3", "description": "done him! It was on the cards. Lovely bowling. Floated up full, Hales leans forward and prods in front of his pads, the outside edge carries low to slip"}, {"bowler": {"type": "Left-arm fast", "name": "Mohammad Irfan"}, "Stadium": "Dubai (DSC)", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "22", "balls": "29", "4s": "2", "6s": "0", "batting_position": "2"}, "ball": "11.1", "opposition": {"country": "Pakistan", "total": "271 all out (40.4 Overs, RR: 6.66)"}, "team": {"country": "ENG ", "total": "355/5 (50 Overs, RR: 7.10)"}, "date": "20 Nov 2015", "scoreAt": "54/1", "description": "terrific catch! Irfan breaks through. Hales going for a pull to a shortish delivery, comes off the toe of the bat as he tries to fetch it from outside off and the ball flies down to third man where Malik makes an excellent running catch to his left"}, {"bowler": {"type": "Right-arm fast", "name": "Marchant de Lange"}, "Stadium": "Bloemfontein", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "57", "balls": "47", "4s": "6", "6s": "2", "batting_position": "2"}, "ball": "17.4", "opposition": {"country": "South Africa", "total": "250/5 (33.3 Overs, RR: 7.46)"}, "team": {"country": "ENG ", "total": "399/9 (50 Overs, RR: 7.98)"}, "date": "3 Feb 2016", "scoreAt": "130/2", "description": "a miscued hoick, and Hales' excellent knock comes to an ignominious end. Slightly too full for the cross-batted wipe that he aimed out towards midwicket, de Lange's extra pace means the ball is onto him too soon, and a toe-ended lob to cover gives South Africa a timely breakthrough"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Kyle Abbott"}, "Stadium": "Port Elizabeth", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "99", "balls": "124", "4s": "8", "6s": "0", "batting_position": "2"}, "ball": "41.2", "opposition": {"country": "South Africa", "total": "262/7 (50 Overs, RR: 5.24)"}, "team": {"country": "ENG ", "total": "263/5 (46.2 Overs, RR: 5.67)"}, "date": "6 Feb 2016", "scoreAt": "202/5", "description": "short, pulled, gloved ... on my Lord, what has Hales done?! It took an eternity for the finger to go up but his guilty look probably pulled his own trigger! A lobbed chance to de Kock as Hales grabbed at his chance for three figures, and well, that non-jinxy statement has had its non-intended non-effect!"}, {"bowler": {"type": "Right-arm fast", "name": "Kagiso Rabada"}, "Stadium": "Centurion", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "65", "balls": "73", "4s": "8", "6s": "0", "batting_position": "2"}, "ball": "26.2", "opposition": {"country": "South Africa", "total": "319/3 (46.2 Overs, RR: 6.88)"}, "team": {"country": "ENG ", "total": "318/8 (50 Overs, RR: 6.36)"}, "date": "9 Feb 2016", "scoreAt": "161/2", "description": "top edge, and gone! A short ball from Rabada, pulled aggressively but not middled, and that spiralled high down to Morkel on the edge of the rope. Another fine innings from a man who is back to form for England"}, {"bowler": {"type": "Legbreak googly", "name": "Imran Tahir"}, "Stadium": "Johannesburg", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "50", "balls": "56", "4s": "7", "6s": "0", "batting_position": "2"}, "ball": "17.6", "opposition": {"country": "South Africa", "total": "266/9 (47.2 Overs, RR: 5.61)"}, "team": {"country": "ENG ", "total": "262 all out (47.5 Overs, RR: 5.47)"}, "date": "12 Feb 2016", "scoreAt": "87/2", "description": "down on one knee, looking for the massive mow, he connects well enough but he's picked out the sweeper at deep midwicket!"}, {"bowler": {"type": "Right-arm fast", "name": "Kagiso Rabada"}, "Stadium": "Cape Town", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "112", "balls": "128", "4s": "14", "6s": "0", "batting_position": "2"}, "ball": "43.1", "opposition": {"country": "South Africa", "total": "237/5 (44 Overs, RR: 5.38)"}, "team": {"country": "ENG ", "total": "236 all out (45 Overs, RR: 5.24)"}, "date": "14 Feb 2016", "scoreAt": "223/9", "description": "picks out the man! Tries to clear deep square leg with a pull, he connected cleanly but could not quite get the required distance and it's a well-taken catch on the boundary"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Suranga Lakmal"}, "Stadium": "Nottingham", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "4", "balls": "5", "4s": "1", "6s": "0", "batting_position": "2"}, "ball": "2.5", "opposition": {"country": "Sri Lanka", "total": "286/9 (50 Overs, RR: 5.72)"}, "team": {"country": "ENG ", "total": "286/8 (50 Overs, RR: 5.72)"}, "date": "21 Jun 2016", "scoreAt": "7/2", "description": "massive appeal, and Hales is gone too! In fact he is reviewing first, but if he hasn't hit this, then surely he's lbw! Fizzing line and length, met on the front pad by a late-arriving bat, and the ball flies off a combination of inside edge and pad-flap, straight to midwicket! Hales is utterly non-plussed, tied in knots by Lakmal's command of length!"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Suranga Lakmal"}, "Stadium": "Bristol", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "0", "balls": "1", "4s": "0", "6s": "0", "batting_position": "2"}, "ball": "0.3", "opposition": {"country": "Sri Lanka", "total": "248/9 (50 Overs, RR: 4.96)"}, "team": {"country": "ENG ", "total": "16/1 (4 Overs, RR: 4.00)"}, "date": "26 Jun 2016", "scoreAt": "1/1", "description": "back of a length, Hales plays away from his body - and nicks to the keeper! Big, thick deflection, the ball skidding on, Hales trying to force off the back foot. From an unbeaten hundred to a golden duck in the space of two days! SL have the early breakthrough they needed"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Umar Gul"}, "Stadium": "Southampton", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "7", "balls": "10", "4s": "1", "6s": "0", "batting_position": "2"}, "ball": "4.3", "opposition": {"country": "Pakistan", "total": "260/6 (50 Overs, RR: 5.20)"}, "team": {"country": "ENG ", "total": "194/3 (34.3 Overs, RR: 5.62)"}, "date": "24 Aug 2016", "scoreAt": "27/1", "description": "beautiful bowling! Outside off, feinting back to graze Hales' edge as he opened the face in a bid to steer the  ball through third man, but the ball was too close and took control of his intentions. A fine stooping take at a solitary slip and Pakistan strike early!"}, {"bowler": {"type": "Slow left-arm orthodox", "name": "Imad Wasim"}, "Stadium": "Lord's", "team_innings": "2", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "14", "balls": "24", "4s": "2", "6s": "0", "batting_position": "2"}, "ball": "8.5", "opposition": {"country": "Pakistan", "total": "251 all out (49.5 Overs, RR: 5.03)"}, "team": {"country": "ENG ", "total": "255/6 (47.3 Overs, RR: 5.36)"}, "date": "27 Aug 2016", "scoreAt": "35/2", "description": "filfty slog-sweep, and he's through the shot so early he might as well have continued his followthrough and swiped it at the second revolution! Stumps splattered, and another unconvincing innings ends to keep Pakistan in with a sniff ..."}, {"bowler": {"type": "Right-arm medium-fast", "name": "Hasan Ali"}, "Stadium": "Nottingham", "team_innings": "1", "dismissal": {"wayOut": "lbw"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "171", "balls": "122", "4s": "22", "6s": "4", "batting_position": "2"}, "ball": "36.6", "opposition": {"country": "Pakistan", "total": "275 all out (42.4 Overs, RR: 6.44)"}, "team": {"country": "ENG ", "total": "444/3 (50 Overs, RR: 8.88)"}, "date": "30 Aug 2016", "scoreAt": "281/2", "description": "full and straight, given out lbw! Hales reviews but this looks pretty adjacent... Yep, Hawk-Eye says the ball was thundering into leg stump and Hales' merry bash is over, the crowd rises again, on his home ground he walks off with 171 to his name. He tucked in today"}, {"bowler": {"type": "Left-arm fast", "name": "Mohammad Irfan"}, "Stadium": "Leeds", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "8", "balls": "18", "4s": "2", "6s": "0", "batting_position": "2"}, "ball": "6.4", "opposition": {"country": "Pakistan", "total": "247/8 (50 Overs, RR: 4.94)"}, "team": {"country": "ENG ", "total": "252/6 (48 Overs, RR: 5.25)"}, "date": "1 Sep 2016", "scoreAt": "36/2", "description": "edged and gone this time! Another perfect example of line and length, angled in, nipping away, grazing the blade and this time it carries to the keeper!"}, {"bowler": {"type": "Left-arm fast", "name": "Mohammad Amir"}, "Stadium": "Cardiff", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "23", "balls": "15", "4s": "5", "6s": "0", "batting_position": "2"}, "ball": "4.5", "opposition": {"country": "Pakistan", "total": "304/6 (48.2 Overs, RR: 6.28)"}, "team": {"country": "ENG ", "total": "302/9 (50 Overs, RR: 6.04)"}, "date": "4 Sep 2016", "scoreAt": "37/1", "description": "picks out mid-on! Amir gives Hales a few words. A full ball, Hales goes for another drive, the bat twists a little in his hand and he mistimes a simple catch to Malik. Amir cut his fingers across the ball, so credit to him as well"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Jasprit Bumrah"}, "Stadium": "Cuttack", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "14", "balls": "12", "4s": "3", "6s": "0", "batting_position": "2"}, "ball": "3.5", "opposition": {"country": "India", "total": "381/6 (50 Overs, RR: 7.62)"}, "team": {"country": "ENG ", "total": "366/8 (50 Overs, RR: 7.32)"}, "date": "19 Jan 2017", "scoreAt": "28/1", "description": "an early breakthrough for India! Bumrah removes Hales, short of a length ball that cuts away just a touch, Hales is drawn towards it and he feathers it through for a simple catch to Dhoni"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Alzarri Joseph"}, "Stadium": "Bridgetown", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "110", "balls": "107", "4s": "9", "6s": "5", "batting_position": "2"}, "ball": "36.2", "opposition": {"country": "West Indies", "total": "142 all out (39.2 Overs, RR: 3.61)"}, "team": {"country": "ENG ", "total": "328 all out (50 Overs, RR: 6.56)"}, "date": "9 Mar 2017", "scoreAt": "219/2", "description": "slogged high in the air, takes a toe-end, and plops calmly into the hands of fine leg. That's the end of that. A well-deserved ovation for a fine comeback hundred"}, {"bowler": {"type": "Right-arm medium-fast", "name": "Peter Chase"}, "Stadium": "Bristol", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "55", "balls": "39", "4s": "10", "6s": "0", "batting_position": "2"}, "ball": "11.3", "opposition": {"country": "Ireland", "total": "126 all out (33 Overs, RR: 3.81)"}, "team": {"country": "ENG ", "total": "127/3 (20 Overs, RR: 6.35)"}, "date": "5 May 2017", "scoreAt": "78/2", "description": "short ball, swings hard again, there's a big top edge on this, swirling towards backward point - well taken by Porterfield! Hales' luck runs out, but not before he'd taken advantage with a rapid fifty. Another wicket for Chase but Ireland need a few more to make the home fans nervous"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Tim Murtagh"}, "Stadium": "Lord's", "team_innings": "1", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "32", "balls": "35", "4s": "6", "6s": "0", "batting_position": "2"}, "ball": "10.4", "opposition": {"country": "Ireland", "total": "243 all out (46.1 Overs, RR: 5.26)"}, "team": {"country": "ENG ", "total": "328/6 (50 Overs, RR: 6.56)"}, "date": "7 May 2017", "scoreAt": "49/1", "description": "bowled him, Murtagh strikes! Ireland have their wicket, and it's just reward for some forensic probing from the Middlesex old stager on his home ground... It was on a perfect length, nipping back up the slope, Hales was really in no-man's land trying to drive and the ball snaked between bat and pad to hit middle and leg. That's a bingo!"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Andile Phehlukwayo"}, "Stadium": "Leeds", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "61", "balls": "60", "4s": "8", "6s": "1", "batting_position": "2"}, "ball": "17.1", "opposition": {"country": "South Africa", "total": "267 all out (45 Overs, RR: 5.93)"}, "team": {"country": "ENG ", "total": "339/6 (50 Overs, RR: 6.78)"}, "date": "24 May 2017", "scoreAt": "101/2", "description": "got him, strikes first ball! Hales will be livid at himself, instead of taking a sighter he throws his hands at a wide-ish loosener and gets a thin nick through to de Kock. Key wicket for SA, breaking a 98-run stand. They don't call Phehlukwayo Lucky for nothing"}, {"bowler": {"type": "Right-arm medium-fast", "name": "Dwaine Pretorius"}, "Stadium": "Southampton", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "24", "balls": "28", "4s": "2", "6s": "1", "batting_position": "2"}, "ball": "13.2", "opposition": {"country": "South Africa", "total": "328/5 (50 Overs, RR: 6.56)"}, "team": {"country": "ENG ", "total": "330/6 (50 Overs, RR: 6.60)"}, "date": "27 May 2017", "scoreAt": "70/2", "description": "the drop costs just those six runs, it turns out! Outside off, bounces more than Hales anticipates as he leans back to cut, and de Kock snaffles a well-judged edge. Hales' record of fifties against South Africa comes to an end"}, {"bowler": {"type": "Right-arm fast", "name": "Kagiso Rabada"}, "Stadium": "Lord's", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "1", "balls": "2", "4s": "0", "6s": "0", "batting_position": "2"}, "ball": "4.1", "opposition": {"country": "South Africa", "total": "156/3 (28.5 Overs, RR: 5.41)"}, "team": {"country": "ENG ", "total": "153 all out (31.1 Overs, RR: 4.90)"}, "date": "29 May 2017", "scoreAt": "15/4", "description": "England continue to attack... and SA continue to capitalise! Pitched up in the channel, Hales drives and Amla this time tumbles to his left to snap up another catch. A second for Rabada and England are tottering like an MCC member after a day on the port. Somehow that was only Hales' second ball... One he'll quickly want to forget"}, {"bowler": {"type": "Legbreak", "name": "Sabbir Rahman"}, "Stadium": "The Oval", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "95", "balls": "86", "4s": "11", "6s": "2", "batting_position": "2"}, "ball": "27.6", "opposition": {"country": "Bangladesh", "total": "305/6 (50 Overs, RR: 6.10)"}, "team": {"country": "ENG ", "total": "308/2 (47.2 Overs, RR: 6.50)"}, "date": "1 Jun 2017", "scoreAt": "165/2", "description": "and he's gone! No century. He can't restrain himself. Brings out the slog sweep, comes from a little low down on the bat, deep midwicket judges it well"}, {"bowler": {"type": "Right-arm fast", "name": "Adam Milne"}, "Stadium": "Cardiff", "team_innings": "1", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "56", "balls": "62", "4s": "3", "6s": "2", "batting_position": "2"}, "ball": "20.6", "opposition": {"country": "New Zealand", "total": "223 all out (44.3 Overs, RR: 5.01)"}, "team": {"country": "ENG ", "total": "310 all out (49.3 Overs, RR: 6.26)"}, "date": "6 Jun 2017", "scoreAt": "118/2", "description": "well, there's a riposte and a half! Hales was sitting back, expecting the short ball, but instead he's done in by a bail-trimmer - squared up on the crease, bat going nowhere. The end of a fine and threatening innings. Good breakthrough from Milne"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Josh Hazlewood"}, "Stadium": "Birmingham", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "0", "balls": "4", "4s": "0", "6s": "0", "batting_position": "2"}, "ball": "1.2", "opposition": {"country": "Australia", "total": "277/9 (50 Overs, RR: 5.54)"}, "team": {"country": "ENG ", "total": "240/4 (40.2 Overs, RR: 5.95)"}, "date": "10 Jun 2017", "scoreAt": "6/2", "description": "got him, nicked to slip! Hazlewood finds the perfect either-or length, hits the seam around off stump and Hales is frozen in position as he pushes tentatively, gets a big, thick edge and it loops to first where Finch clasps it low down"}, {"bowler": {"type": "Left-arm medium-fast", "name": "Rumman Raees"}, "Stadium": "Cardiff", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "13", "balls": "13", "4s": "2", "6s": "0", "batting_position": "2"}, "ball": "5.5", "opposition": {"country": "Pakistan", "total": "215/2 (37.1 Overs, RR: 5.78)"}, "team": {"country": "ENG ", "total": "211 all out (49.5 Overs, RR: 4.23)"}, "date": "14 Jun 2017", "scoreAt": "34/1", "description": "down the track and driven straight to cover, and Rumman has his maiden ODI wicket! Hales was aiming something expansive over the infield, but didn't get enough bat into his stroke, the blade turned on impact. A comfortable catch to Babar's midriff, and Pakistan have their breakthrough!"}, {"bowler": {"type": "Right-arm fast", "name": "Jerome Taylor"}, "Stadium": "Manchester", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "19", "balls": "14", "4s": "4", "6s": "0", "batting_position": "2"}, "ball": "4.2", "opposition": {"country": "West Indies", "total": "204/9 (42 Overs, RR: 4.85)"}, "team": {"country": "ENG ", "total": "210/3 (30.5 Overs, RR: 6.81)"}, "date": "19 Sep 2017", "scoreAt": "31/1", "description": "but Hales is out! Touch short and wide and he's slapped the ball straight to backward point, who juggles it momentarily before claiming the catch that sends Hales on his way. Good start checked"}, {"bowler": {"type": "Right-arm fast-medium", "name": "Miguel Cummins"}, "Stadium": "Bristol", "team_innings": "1", "dismissal": {"wayOut": "lbw"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "36", "balls": "35", "4s": "5", "6s": "0", "batting_position": "2"}, "ball": "10.6", "opposition": {"country": "West Indies", "total": "245 all out (39.1 Overs, RR: 6.25)"}, "team": {"country": "ENG ", "total": "369/9 (50 Overs, RR: 7.38)"}, "date": "24 Sep 2017", "scoreAt": "73/2", "description": "gone lbw after a review Big appeal (for lbw and maybe the catch as well) as this nips back off a good length and West Indies have gone upstairs. No inside edge, so it's about the lbw now. And it's three reds! Clipped the front pad first, crashing into middle and leg. Excellent review. Well bowled"}, {"bowler": {"type": "Right-arm fast", "name": "Pat Cummins"}, "Stadium": "Melbourne", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "4", "balls": "3", "4s": "1", "6s": "0", "batting_position": "3"}, "ball": "5.5", "opposition": {"country": "Australia", "total": "304/8 (50 Overs, RR: 6.08)"}, "team": {"country": "ENG ", "total": "308/5 (48.5 Overs, RR: 6.30)"}, "date": "14 Jan 2018", "scoreAt": "60/2", "description": "short, and a miscued pull, as Hales ducked into his pull as he realised he'd been beaten for pace. A simple catch pops up to short midwicket, and Australia are very much in the hunt now..."}, {"bowler": {"type": "Right-arm fast", "name": "Jhye Richardson"}, "Stadium": "Brisbane", "team_innings": "2", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "57", "balls": "60", "4s": "7", "6s": "1", "batting_position": "3"}, "ball": "19.2", "opposition": {"country": "Australia", "total": "270/9 (50 Overs, RR: 5.40)"}, "team": {"country": "ENG ", "total": "274/6 (44.2 Overs, RR: 6.18)"}, "date": "19 Jan 2018", "scoreAt": "119/2", "description": "dragged on! A first ODI wicket for Richardson. Short of a length, looking to run it down to third man and gets an under edge into the stumps"}, {"bowler": {"type": "Right-arm medium", "name": "Marcus Stoinis"}, "Stadium": "Sydney", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "1", "balls": "8", "4s": "0", "6s": "0", "batting_position": "3"}, "ball": "9.4", "opposition": {"country": "Australia", "total": "286/6 (50 Overs, RR: 5.72)"}, "team": {"country": "ENG ", "total": "302/6 (50 Overs, RR: 6.04)"}, "date": "21 Jan 2018", "scoreAt": "45/2", "description": "pitched up, Hales attempts to go over the top - but loops a tame whack into the hands of mid-on! Another mistimed drive and Australia have their second wicket, Stoinis doing the business. Nowhere near the connection Hales was after and Zampa took it well tumbling forwards"}, {"bowler": {"type": "Right-arm fast", "name": "Pat Cummins"}, "Stadium": "Adelaide", "team_innings": "1", "dismissal": {"wayOut": "bowled"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "3", "balls": "11", "4s": "0", "6s": "0", "batting_position": "3"}, "ball": "3.2", "opposition": {"country": "Australia", "total": "197/7 (37 Overs, RR: 5.32)"}, "team": {"country": "ENG ", "total": "196 all out (44.5 Overs, RR: 4.37)"}, "date": "26 Jan 2018", "scoreAt": "4/2", "description": "bowled 'im! Superb ball from Cummins and England are two down for spit! There's been some nip off this fresh surface and Cummins locates the perfect length, it jags back appreciably as Hales presses forwards, flicks the front pad before rattling the off pole"}, {"bowler": {"type": "Right-arm medium", "name": "Mitchell Marsh"}, "Stadium": "Perth", "team_innings": "1", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "35", "balls": "47", "4s": "3", "6s": "1", "batting_position": "3"}, "ball": "26.1", "opposition": {"country": "Australia", "total": "247 all out (48.2 Overs, RR: 5.11)"}, "team": {"country": "ENG ", "total": "259 all out (47.4 Overs, RR: 5.43)"}, "date": "28 Jan 2018", "scoreAt": "151/3", "description": "short ball, Hales tries to wallop it over square leg... but skews a top edge to point! Think that deflected off the helmet, Australia have used his head and Marsh breaks the stand. There's pace in this deck, seemed to surprise Hales and he top-edged it straight into the badge"}, {"bowler": {"type": "Slow left-arm orthodox", "name": "Mitchell Santner"}, "Stadium": "Christchurch", "team_innings": "2", "dismissal": {"wayOut": "caught"}, "batsman": {"batting-hand": "right", "name": "Alex Hales"}, "player_innings": {"runs": "61", "balls": "74", "4s": "9", "6s": "0", "batting_position": "2"}, "ball": "23.6", "opposition": {"country": "New Zealand", "total": "223 all out (49.5 Overs, RR: 4.47)"}, "team": {"country": "ENG ", "total": "229/3 (32.4 Overs, RR: 7.01)"}, "date": "10 Mar 2018", "scoreAt": "177/2", "description": "smashed to midwicket! Hales lines up the slog sweep, but picks out Williamson who wraps his fingers round a fizzing chance, and New Zealand have the beginnings of a sniff as the openers depart"}]
+[
+  {
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Ravindra Jadeja"
+    },
+    "Stadium": "Cardiff",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "40",
+      "balls": "63",
+      "4s": "5",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "20.4",
+    "opposition": {
+      "country": "India",
+      "total": "304/6 (50 Overs, RR: 6.08)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "161 all out (38.1 Overs, RR: 4.21)"
+    },
+    "date": "27 Aug 2014",
+    "scoreAt": "81/4",
+    "description": "swept off the stumps, Hales gets a top edge that loops to short long leg! Big wicket for India and Jadeja takes another ODI wicket against England. Right off the toe I think this has come, gently looping to Ashwin on the 45 on the edge of the circle, he nearly let it drift over his shoulder but held a comfortable catch in the end"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Suresh Raina"
+    },
+    "Stadium": "Nottingham",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "42",
+      "balls": "55",
+      "4s": "5",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "17.6",
+    "opposition": {
+      "country": "India",
+      "total": "228/4 (43 Overs, RR: 5.30)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "227 all out (50 Overs, RR: 4.54)"
+    },
+    "date": "30 Aug 2014",
+    "scoreAt": "82/1",
+    "description": "well, it's Raina who's broken through! Hales falling to the sweep again. The ball loops up in the air off  top edge just behind him to give Dhoni a simple catch"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium",
+      "name": "Bhuvneshwar Kumar"
+    },
+    "Stadium": "Birmingham",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "6",
+      "balls": "7",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "4.1",
+    "opposition": {
+      "country": "India",
+      "total": "212/1 (30.3 Overs, RR: 6.95)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "206 all out (49.3 Overs, RR: 4.16)"
+    },
+    "date": "2 Sep 2014",
+    "scoreAt": "15/1",
+    "description": "what a cracker! Excellent delivery, swinging back into Hales from outside off, he's caught in the crease, there's a sizeable gap between bat and pad because he likes to stand on leg stump...the ball cannons it off stump. It was his first real big in-ducker of the day. Clever stuff"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Umesh Yadav"
+    },
+    "Stadium": "Leeds",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "4",
+      "balls": "9",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "3.4",
+    "opposition": {
+      "country": "India",
+      "total": "253 all out (48.4 Overs, RR: 5.19)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "294/7 (50 Overs, RR: 5.88)"
+    },
+    "date": "5 Sep 2014",
+    "scoreAt": "23/1",
+    "description": "this has gone straight up in the air! Umesh gets a wicket immediately! You have to question the choice of the shot there.. it was not that short but Hales wanted to pull it over midwicket, only gets cramped for space and gets a big top-edge that is gobbled up at midwicket"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium",
+      "name": "Angelo Mathews"
+    },
+    "Stadium": "Hambantota",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "27",
+      "balls": "29",
+      "4s": "2",
+      "6s": "1",
+      "batting_position": "3"
+    },
+    "ball": "21.5",
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "242/8 (35 Overs, RR: 6.91)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "236/5 (33.4 Overs, RR: 7.00)"
+    },
+    "date": "3 Dec 2014",
+    "scoreAt": "144/3",
+    "description": "gone this time! Hales can't make the most of his life, he was itching to cut loose. Used his feet, it was a length delivery, and he heaved it to mid-on who just had to move a little to his left. Didn't really need to do that after the earlier reprieve and the six"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Dhammika Prasad"
+    },
+    "Stadium": "Colombo (RPS)",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "0",
+      "balls": "1",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "1.1",
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "267/4 (49.4 Overs, RR: 5.37)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "265 all out (50 Overs, RR: 5.30)"
+    },
+    "date": "7 Dec 2014",
+    "scoreAt": "5/1",
+    "description": "big strike! Gets his line straighter, it's full outside off, Hales is tempted into having a drive and a thick outside flies at chest height to Jayawardene at slip"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Tillakaratne Dilshan"
+    },
+    "Stadium": "Colombo (RPS)",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "7",
+      "balls": "15",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "3"
+    },
+    "ball": "7.2",
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "302/6 (50 Overs, RR: 6.04)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "215 all out (45.5 Overs, RR: 4.69)"
+    },
+    "date": "16 Dec 2014",
+    "scoreAt": "28/2",
+    "description": "down the track smashing high into the sky but doesn't get enough of it and finds long-on! Hales got it off the bottom of the bat, it went very high but a good five yards short of the boundary and it was solidly taken, England in trouble"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Mashrafe Mortaza"
+    },
+    "Stadium": "Adelaide",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "27",
+      "balls": "34",
+      "4s": "4",
+      "6s": "0",
+      "batting_position": "3"
+    },
+    "ball": "19.5",
+    "opposition": {
+      "country": "Bangladesh",
+      "total": "275/7 (50 Overs, RR: 5.5)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "260 all out (48.3 Overs, RR: 5.36)"
+    },
+    "date": "9 Mar 2015",
+    "scoreAt": "97/2",
+    "description": "Mashrafe has the final laugh as Bangladesh pickup a wicket out of nowhere. Gets Hales to offer an outside edge which deflects away to the keeper, who takes it comfortably in the end. Bangladesh really needed that wicket as their body language started to lag a bit over the last few overs"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Hamid Hassan"
+    },
+    "Stadium": "Sydney",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "37",
+      "balls": "33",
+      "4s": "3",
+      "6s": "2",
+      "batting_position": "1"
+    },
+    "ball": "13.3",
+    "opposition": {
+      "country": "Afghanistan",
+      "total": "111/7 (36.2 Overs, RR: 3.05)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "101/1 (18.1 Overs, RR: 5.55)"
+    },
+    "date": "13 Mar 2015",
+    "scoreAt": "83/1",
+    "description": "and Hassan gets a wicket on his final night of the World Cup. Something to cheer about at least. On a length, just outside off, seams away a touch. Hales is looking to defend, playing the angle, and ends up edging this through to the keeper"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast-medium",
+      "name": "Trent Boult"
+    },
+    "Stadium": "Birmingham",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "20",
+      "balls": "20",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "7.2",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "198 all out (31.1 Overs, RR: 6.35)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "408/9 (50 Overs, RR: 8.16)"
+    },
+    "date": "9 Jun 2015",
+    "scoreAt": "50/2",
+    "description": "short ball, Hales tries to pull from outside off, it goes high but not far... and Henry takes the catch running back at backward square leg! One ball after the 50 partnership, Hales gets a bit too flap happy and falls for a run-a-ball 20. Still looking for a substantial innings in ODI cricket. Decent surprise bouncer from Boult"
+  },
+  {
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Mitchell Santner"
+    },
+    "Stadium": "The Oval",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "54",
+      "balls": "49",
+      "4s": "6",
+      "6s": "3",
+      "batting_position": "2"
+    },
+    "ball": "15.6",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "398/5 (50 Overs, RR: 7.96)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "365/9 (46 Overs, RR: 7.93)"
+    },
+    "date": "12 Jun 2015",
+    "scoreAt": "100/3",
+    "description": "tries a slog sweep from outside off and Hales picks out deep midwicket! Straight to the fielder a few yards inside the rope and an easy catch for Trent Boult. England losing wickets quickly here to kill their early momentum. Hales was well set but just didn't get enough of this, it was a bit of a top edge and never threatened to clear the boundary. A few strokes finding the fielders and England are suddenly in trouble"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm medium-fast",
+      "name": "Ben Wheeler"
+    },
+    "Stadium": "Southampton",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "23",
+      "balls": "21",
+      "4s": "4",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "5.6",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "306/7 (49 Overs, RR: 6.24)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "302 all out (45.2 Overs, RR: 6.66)"
+    },
+    "date": "14 Jun 2015",
+    "scoreAt": "34/1",
+    "description": "a maiden international wicket! Nicely done from Wheeler. A length delivery angled across Hales who pushes a little meekly outside off and it travels at a good height to second slip. Scrambled seam."
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Matt Henry"
+    },
+    "Stadium": "Nottingham",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "67",
+      "balls": "38",
+      "4s": "7",
+      "6s": "4",
+      "batting_position": "2"
+    },
+    "ball": "10.4",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "349/7 (50 Overs, RR: 6.98)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "350/3 (44 Overs, RR: 7.95)"
+    },
+    "date": "17 Jun 2015",
+    "scoreAt": "100/1",
+    "description": "advances and heaves across the line, Hales has dragged on! That's the way for bowlers to succeed in these crazy times - take wickets. Henry bellows in delight, middle stump out of the ground, NZ have got one"
+  },
+  {
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Mitchell Santner"
+    },
+    "Stadium": "Chester-le-Street",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "1",
+      "balls": "3",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "1.2",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "283/9 (50 Overs, RR: 5.66)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "192/7 (25 Overs, RR: 7.68)"
+    },
+    "date": "20 Jun 2015",
+    "scoreAt": "8/1",
+    "description": "Whoa!  Stunning, one-hander from Williamson. Santer drags it even shorter at 98.6ks, Hales skips back, pulls it in the air. Williamson at square leg, leaps and comes down with the ball in his left hand. Great start for New Zealand"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium",
+      "name": "Mitchell Marsh"
+    },
+    "Stadium": "Southampton",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "22",
+      "balls": "22",
+      "4s": "3",
+      "6s": "1",
+      "batting_position": "2"
+    },
+    "ball": "11.2",
+    "opposition": {
+      "country": "Australia",
+      "total": "305/6 (50 Overs, RR: 6.10)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "246 all out (45.3 Overs, RR: 5.40)"
+    },
+    "date": "3 Sep 2015",
+    "scoreAt": "70/1",
+    "description": "breakthrough! Hales picks out midwicket. A short ball from Marsh, Hales latches on but pinged it straight to Watson. A bit of a giveaway from Hales."
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Nathan Coulter-Nile"
+    },
+    "Stadium": "Lord's",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "18",
+      "balls": "20",
+      "4s": "4",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "5.5",
+    "opposition": {
+      "country": "Australia",
+      "total": "309/7 (49 Overs, RR: 6.30)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "245 all out (42.3 Overs, RR: 5.76)"
+    },
+    "date": "5 Sep 2015",
+    "scoreAt": "37/1",
+    "description": "what a catch. Stunning stuff from Smith. Absolutely stunning. Fuller length outside off, Hales skews the drive off the outer half of the bat towards short cover where Smith is lurking, he dives high to his right to take a spectacular, two-handed catch."
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Pat Cummins"
+    },
+    "Stadium": "Manchester",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "9",
+      "balls": "31",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "9.3",
+    "opposition": {
+      "country": "Australia",
+      "total": "207 all out (44 Overs, RR: 4.70)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "300/8 (50 Overs, RR: 6.00)"
+    },
+    "date": "8 Sep 2015",
+    "scoreAt": "52/1",
+    "description": "full and clipped off the pads... straight to short midwicket! Hales has been thrashing around but getting nowhere for a while and he's finally picked out a fielder, wasn't over the shot and the catch was snapped up at waist height. Hales swipes his bat in frustration before sloping off"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Pat Cummins"
+    },
+    "Stadium": "Leeds",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "0",
+      "balls": "2",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "1.2",
+    "opposition": {
+      "country": "Australia",
+      "total": "299/7 (50 Overs, RR: 5.98)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "304/7 (48.2 Overs, RR: 6.28)"
+    },
+    "date": "11 Sep 2015",
+    "scoreAt": "1/1",
+    "description": "full, fast, and that is out! Hales was done for pace, and despite a brief consultation he opts not to review. Stunning start from the lightning-quick Cummins. Hales hasn't had a lot of joy in this series so far"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "John Hastings"
+    },
+    "Stadium": "Manchester",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "4",
+      "balls": "12",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "3.6",
+    "opposition": {
+      "country": "Australia",
+      "total": "140/2 (24.2 Overs, RR: 5.75)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "138 all out (33 Overs, RR: 4.18)"
+    },
+    "date": "13 Sep 2015",
+    "scoreAt": "13/2",
+    "description": "so nearly dropped at point, but grabbed at the second attempt! A horrid scratchy innings comes to an end. That was his first real shot in anger, and it scooted straight at Maxwell's head, who eventually clung onto the second attempt down by his knees"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Anwar Ali"
+    },
+    "Stadium": "Abu Dhabi",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "10",
+      "balls": "7",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "3.1",
+    "opposition": {
+      "country": "Pakistan",
+      "total": "217/4 (43.4 Overs, RR: 4.96)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "216 all out (49.4 Overs, RR: 4.34)"
+    },
+    "date": "11 Nov 2015",
+    "scoreAt": "14/3",
+    "description": "swishes outside off, nicked and taken at slip! Younis juggles the chance but holds on, to then be mobbed by his team-mates. The old magic hasn't quite faded and England are three down for spit"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm offbreak",
+      "name": "Iftikhar Ahmed"
+    },
+    "Stadium": "Abu Dhabi",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "stumped"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "109",
+      "balls": "117",
+      "4s": "7",
+      "6s": "3",
+      "batting_position": "2"
+    },
+    "ball": "38.5",
+    "opposition": {
+      "country": "Pakistan",
+      "total": "188 all out (45.5 Overs, RR: 4.10)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "283/5 (50 Overs, RR: 5.66)"
+    },
+    "date": "13 Nov 2015",
+    "scoreAt": "216/2",
+    "description": "and he's gone now! Goes for a slog sweep, plays over the top of the ball, his back foot is out of the crease, good take from Sarfraz and a neat stumping"
+  },
+  {
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Zafar Gohar"
+    },
+    "Stadium": "Sharjah",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "30",
+      "balls": "49",
+      "4s": "2",
+      "6s": "1",
+      "batting_position": "2"
+    },
+    "ball": "20.3",
+    "opposition": {
+      "country": "Pakistan",
+      "total": "208 all out (49.5 Overs, RR: 4.17)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "210/4 (41 Overs, RR: 5.12)"
+    },
+    "date": "17 Nov 2015",
+    "scoreAt": "87/3",
+    "description": "done him! It was on the cards. Lovely bowling. Floated up full, Hales leans forward and prods in front of his pads, the outside edge carries low to slip"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast",
+      "name": "Mohammad Irfan"
+    },
+    "Stadium": "Dubai (DSC)",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "22",
+      "balls": "29",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "11.1",
+    "opposition": {
+      "country": "Pakistan",
+      "total": "271 all out (40.4 Overs, RR: 6.66)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "355/5 (50 Overs, RR: 7.10)"
+    },
+    "date": "20 Nov 2015",
+    "scoreAt": "54/1",
+    "description": "terrific catch! Irfan breaks through. Hales going for a pull to a shortish delivery, comes off the toe of the bat as he tries to fetch it from outside off and the ball flies down to third man where Malik makes an excellent running catch to his left"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Marchant de Lange"
+    },
+    "Stadium": "Bloemfontein",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "57",
+      "balls": "47",
+      "4s": "6",
+      "6s": "2",
+      "batting_position": "2"
+    },
+    "ball": "17.4",
+    "opposition": {
+      "country": "South Africa",
+      "total": "250/5 (33.3 Overs, RR: 7.46)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "399/9 (50 Overs, RR: 7.98)"
+    },
+    "date": "3 Feb 2016",
+    "scoreAt": "130/2",
+    "description": "a miscued hoick, and Hales' excellent knock comes to an ignominious end. Slightly too full for the cross-batted wipe that he aimed out towards midwicket, de Lange's extra pace means the ball is onto him too soon, and a toe-ended lob to cover gives South Africa a timely breakthrough"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Kyle Abbott"
+    },
+    "Stadium": "Port Elizabeth",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "99",
+      "balls": "124",
+      "4s": "8",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "41.2",
+    "opposition": {
+      "country": "South Africa",
+      "total": "262/7 (50 Overs, RR: 5.24)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "263/5 (46.2 Overs, RR: 5.67)"
+    },
+    "date": "6 Feb 2016",
+    "scoreAt": "202/5",
+    "description": "short, pulled, gloved ... on my Lord, what has Hales done?! It took an eternity for the finger to go up but his guilty look probably pulled his own trigger! A lobbed chance to de Kock as Hales grabbed at his chance for three figures, and well, that non-jinxy statement has had its non-intended non-effect!"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Kagiso Rabada"
+    },
+    "Stadium": "Centurion",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "65",
+      "balls": "73",
+      "4s": "8",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "26.2",
+    "opposition": {
+      "country": "South Africa",
+      "total": "319/3 (46.2 Overs, RR: 6.88)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "318/8 (50 Overs, RR: 6.36)"
+    },
+    "date": "9 Feb 2016",
+    "scoreAt": "161/2",
+    "description": "top edge, and gone! A short ball from Rabada, pulled aggressively but not middled, and that spiralled high down to Morkel on the edge of the rope. Another fine innings from a man who is back to form for England"
+  },
+  {
+    "bowler": {
+      "type": "Legbreak googly",
+      "name": "Imran Tahir"
+    },
+    "Stadium": "Johannesburg",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "50",
+      "balls": "56",
+      "4s": "7",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "17.6",
+    "opposition": {
+      "country": "South Africa",
+      "total": "266/9 (47.2 Overs, RR: 5.61)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "262 all out (47.5 Overs, RR: 5.47)"
+    },
+    "date": "12 Feb 2016",
+    "scoreAt": "87/2",
+    "description": "down on one knee, looking for the massive mow, he connects well enough but he's picked out the sweeper at deep midwicket!"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Kagiso Rabada"
+    },
+    "Stadium": "Cape Town",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "112",
+      "balls": "128",
+      "4s": "14",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "43.1",
+    "opposition": {
+      "country": "South Africa",
+      "total": "237/5 (44 Overs, RR: 5.38)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "236 all out (45 Overs, RR: 5.24)"
+    },
+    "date": "14 Feb 2016",
+    "scoreAt": "223/9",
+    "description": "picks out the man! Tries to clear deep square leg with a pull, he connected cleanly but could not quite get the required distance and it's a well-taken catch on the boundary"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Suranga Lakmal"
+    },
+    "Stadium": "Nottingham",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "4",
+      "balls": "5",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "2.5",
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "286/9 (50 Overs, RR: 5.72)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "286/8 (50 Overs, RR: 5.72)"
+    },
+    "date": "21 Jun 2016",
+    "scoreAt": "7/2",
+    "description": "massive appeal, and Hales is gone too! In fact he is reviewing first, but if he hasn't hit this, then surely he's lbw! Fizzing line and length, met on the front pad by a late-arriving bat, and the ball flies off a combination of inside edge and pad-flap, straight to midwicket! Hales is utterly non-plussed, tied in knots by Lakmal's command of length!"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Suranga Lakmal"
+    },
+    "Stadium": "Bristol",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "0",
+      "balls": "1",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "0.3",
+    "opposition": {
+      "country": "Sri Lanka",
+      "total": "248/9 (50 Overs, RR: 4.96)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "16/1 (4 Overs, RR: 4.00)"
+    },
+    "date": "26 Jun 2016",
+    "scoreAt": "1/1",
+    "description": "back of a length, Hales plays away from his body - and nicks to the keeper! Big, thick deflection, the ball skidding on, Hales trying to force off the back foot. From an unbeaten hundred to a golden duck in the space of two days! SL have the early breakthrough they needed"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Umar Gul"
+    },
+    "Stadium": "Southampton",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "7",
+      "balls": "10",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "4.3",
+    "opposition": {
+      "country": "Pakistan",
+      "total": "260/6 (50 Overs, RR: 5.20)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "194/3 (34.3 Overs, RR: 5.62)"
+    },
+    "date": "24 Aug 2016",
+    "scoreAt": "27/1",
+    "description": "beautiful bowling! Outside off, feinting back to graze Hales' edge as he opened the face in a bid to steer the  ball through third man, but the ball was too close and took control of his intentions. A fine stooping take at a solitary slip and Pakistan strike early!"
+  },
+  {
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Imad Wasim"
+    },
+    "Stadium": "Lord's",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "14",
+      "balls": "24",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "8.5",
+    "opposition": {
+      "country": "Pakistan",
+      "total": "251 all out (49.5 Overs, RR: 5.03)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "255/6 (47.3 Overs, RR: 5.36)"
+    },
+    "date": "27 Aug 2016",
+    "scoreAt": "35/2",
+    "description": "filfty slog-sweep, and he's through the shot so early he might as well have continued his followthrough and swiped it at the second revolution! Stumps splattered, and another unconvincing innings ends to keep Pakistan in with a sniff ..."
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Hasan Ali"
+    },
+    "Stadium": "Nottingham",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "171",
+      "balls": "122",
+      "4s": "22",
+      "6s": "4",
+      "batting_position": "2"
+    },
+    "ball": "36.6",
+    "opposition": {
+      "country": "Pakistan",
+      "total": "275 all out (42.4 Overs, RR: 6.44)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "444/3 (50 Overs, RR: 8.88)"
+    },
+    "date": "30 Aug 2016",
+    "scoreAt": "281/2",
+    "description": "full and straight, given out lbw! Hales reviews but this looks pretty adjacent... Yep, Hawk-Eye says the ball was thundering into leg stump and Hales' merry bash is over, the crowd rises again, on his home ground he walks off with 171 to his name. He tucked in today"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast",
+      "name": "Mohammad Irfan"
+    },
+    "Stadium": "Leeds",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "8",
+      "balls": "18",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "6.4",
+    "opposition": {
+      "country": "Pakistan",
+      "total": "247/8 (50 Overs, RR: 4.94)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "252/6 (48 Overs, RR: 5.25)"
+    },
+    "date": "1 Sep 2016",
+    "scoreAt": "36/2",
+    "description": "edged and gone this time! Another perfect example of line and length, angled in, nipping away, grazing the blade and this time it carries to the keeper!"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm fast",
+      "name": "Mohammad Amir"
+    },
+    "Stadium": "Cardiff",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "23",
+      "balls": "15",
+      "4s": "5",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "4.5",
+    "opposition": {
+      "country": "Pakistan",
+      "total": "304/6 (48.2 Overs, RR: 6.28)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "302/9 (50 Overs, RR: 6.04)"
+    },
+    "date": "4 Sep 2016",
+    "scoreAt": "37/1",
+    "description": "picks out mid-on! Amir gives Hales a few words. A full ball, Hales goes for another drive, the bat twists a little in his hand and he mistimes a simple catch to Malik. Amir cut his fingers across the ball, so credit to him as well"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Jasprit Bumrah"
+    },
+    "Stadium": "Cuttack",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "14",
+      "balls": "12",
+      "4s": "3",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "3.5",
+    "opposition": {
+      "country": "India",
+      "total": "381/6 (50 Overs, RR: 7.62)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "366/8 (50 Overs, RR: 7.32)"
+    },
+    "date": "19 Jan 2017",
+    "scoreAt": "28/1",
+    "description": "an early breakthrough for India! Bumrah removes Hales, short of a length ball that cuts away just a touch, Hales is drawn towards it and he feathers it through for a simple catch to Dhoni"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Alzarri Joseph"
+    },
+    "Stadium": "Bridgetown",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "110",
+      "balls": "107",
+      "4s": "9",
+      "6s": "5",
+      "batting_position": "2"
+    },
+    "ball": "36.2",
+    "opposition": {
+      "country": "West Indies",
+      "total": "142 all out (39.2 Overs, RR: 3.61)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "328 all out (50 Overs, RR: 6.56)"
+    },
+    "date": "9 Mar 2017",
+    "scoreAt": "219/2",
+    "description": "slogged high in the air, takes a toe-end, and plops calmly into the hands of fine leg. That's the end of that. A well-deserved ovation for a fine comeback hundred"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Peter Chase"
+    },
+    "Stadium": "Bristol",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "55",
+      "balls": "39",
+      "4s": "10",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "11.3",
+    "opposition": {
+      "country": "Ireland",
+      "total": "126 all out (33 Overs, RR: 3.81)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "127/3 (20 Overs, RR: 6.35)"
+    },
+    "date": "5 May 2017",
+    "scoreAt": "78/2",
+    "description": "short ball, swings hard again, there's a big top edge on this, swirling towards backward point - well taken by Porterfield! Hales' luck runs out, but not before he'd taken advantage with a rapid fifty. Another wicket for Chase but Ireland need a few more to make the home fans nervous"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Tim Murtagh"
+    },
+    "Stadium": "Lord's",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "32",
+      "balls": "35",
+      "4s": "6",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "10.4",
+    "opposition": {
+      "country": "Ireland",
+      "total": "243 all out (46.1 Overs, RR: 5.26)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "328/6 (50 Overs, RR: 6.56)"
+    },
+    "date": "7 May 2017",
+    "scoreAt": "49/1",
+    "description": "bowled him, Murtagh strikes! Ireland have their wicket, and it's just reward for some forensic probing from the Middlesex old stager on his home ground... It was on a perfect length, nipping back up the slope, Hales was really in no-man's land trying to drive and the ball snaked between bat and pad to hit middle and leg. That's a bingo!"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Andile Phehlukwayo"
+    },
+    "Stadium": "Leeds",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "61",
+      "balls": "60",
+      "4s": "8",
+      "6s": "1",
+      "batting_position": "2"
+    },
+    "ball": "17.1",
+    "opposition": {
+      "country": "South Africa",
+      "total": "267 all out (45 Overs, RR: 5.93)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "339/6 (50 Overs, RR: 6.78)"
+    },
+    "date": "24 May 2017",
+    "scoreAt": "101/2",
+    "description": "got him, strikes first ball! Hales will be livid at himself, instead of taking a sighter he throws his hands at a wide-ish loosener and gets a thin nick through to de Kock. Key wicket for SA, breaking a 98-run stand. They don't call Phehlukwayo Lucky for nothing"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium-fast",
+      "name": "Dwaine Pretorius"
+    },
+    "Stadium": "Southampton",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "24",
+      "balls": "28",
+      "4s": "2",
+      "6s": "1",
+      "batting_position": "2"
+    },
+    "ball": "13.2",
+    "opposition": {
+      "country": "South Africa",
+      "total": "328/5 (50 Overs, RR: 6.56)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "330/6 (50 Overs, RR: 6.60)"
+    },
+    "date": "27 May 2017",
+    "scoreAt": "70/2",
+    "description": "the drop costs just those six runs, it turns out! Outside off, bounces more than Hales anticipates as he leans back to cut, and de Kock snaffles a well-judged edge. Hales' record of fifties against South Africa comes to an end"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Kagiso Rabada"
+    },
+    "Stadium": "Lord's",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "1",
+      "balls": "2",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "4.1",
+    "opposition": {
+      "country": "South Africa",
+      "total": "156/3 (28.5 Overs, RR: 5.41)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "153 all out (31.1 Overs, RR: 4.90)"
+    },
+    "date": "29 May 2017",
+    "scoreAt": "15/4",
+    "description": "England continue to attack... and SA continue to capitalise! Pitched up in the channel, Hales drives and Amla this time tumbles to his left to snap up another catch. A second for Rabada and England are tottering like an MCC member after a day on the port. Somehow that was only Hales' second ball... One he'll quickly want to forget"
+  },
+  {
+    "bowler": {
+      "type": "Legbreak",
+      "name": "Sabbir Rahman"
+    },
+    "Stadium": "The Oval",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "95",
+      "balls": "86",
+      "4s": "11",
+      "6s": "2",
+      "batting_position": "2"
+    },
+    "ball": "27.6",
+    "opposition": {
+      "country": "Bangladesh",
+      "total": "305/6 (50 Overs, RR: 6.10)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "308/2 (47.2 Overs, RR: 6.50)"
+    },
+    "date": "1 Jun 2017",
+    "scoreAt": "165/2",
+    "description": "and he's gone! No century. He can't restrain himself. Brings out the slog sweep, comes from a little low down on the bat, deep midwicket judges it well"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Adam Milne"
+    },
+    "Stadium": "Cardiff",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "56",
+      "balls": "62",
+      "4s": "3",
+      "6s": "2",
+      "batting_position": "2"
+    },
+    "ball": "20.6",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "223 all out (44.3 Overs, RR: 5.01)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "310 all out (49.3 Overs, RR: 6.26)"
+    },
+    "date": "6 Jun 2017",
+    "scoreAt": "118/2",
+    "description": "well, there's a riposte and a half! Hales was sitting back, expecting the short ball, but instead he's done in by a bail-trimmer - squared up on the crease, bat going nowhere. The end of a fine and threatening innings. Good breakthrough from Milne"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Josh Hazlewood"
+    },
+    "Stadium": "Birmingham",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "0",
+      "balls": "4",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "1.2",
+    "opposition": {
+      "country": "Australia",
+      "total": "277/9 (50 Overs, RR: 5.54)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "240/4 (40.2 Overs, RR: 5.95)"
+    },
+    "date": "10 Jun 2017",
+    "scoreAt": "6/2",
+    "description": "got him, nicked to slip! Hazlewood finds the perfect either-or length, hits the seam around off stump and Hales is frozen in position as he pushes tentatively, gets a big, thick edge and it loops to first where Finch clasps it low down"
+  },
+  {
+    "bowler": {
+      "type": "Left-arm medium-fast",
+      "name": "Rumman Raees"
+    },
+    "Stadium": "Cardiff",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "13",
+      "balls": "13",
+      "4s": "2",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "5.5",
+    "opposition": {
+      "country": "Pakistan",
+      "total": "215/2 (37.1 Overs, RR: 5.78)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "211 all out (49.5 Overs, RR: 4.23)"
+    },
+    "date": "14 Jun 2017",
+    "scoreAt": "34/1",
+    "description": "down the track and driven straight to cover, and Rumman has his maiden ODI wicket! Hales was aiming something expansive over the infield, but didn't get enough bat into his stroke, the blade turned on impact. A comfortable catch to Babar's midriff, and Pakistan have their breakthrough!"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Jerome Taylor"
+    },
+    "Stadium": "Manchester",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "19",
+      "balls": "14",
+      "4s": "4",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "4.2",
+    "opposition": {
+      "country": "West Indies",
+      "total": "204/9 (42 Overs, RR: 4.85)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "210/3 (30.5 Overs, RR: 6.81)"
+    },
+    "date": "19 Sep 2017",
+    "scoreAt": "31/1",
+    "description": "but Hales is out! Touch short and wide and he's slapped the ball straight to backward point, who juggles it momentarily before claiming the catch that sends Hales on his way. Good start checked"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast-medium",
+      "name": "Miguel Cummins"
+    },
+    "Stadium": "Bristol",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "lbw"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "36",
+      "balls": "35",
+      "4s": "5",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "10.6",
+    "opposition": {
+      "country": "West Indies",
+      "total": "245 all out (39.1 Overs, RR: 6.25)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "369/9 (50 Overs, RR: 7.38)"
+    },
+    "date": "24 Sep 2017",
+    "scoreAt": "73/2",
+    "description": "gone lbw after a review Big appeal (for lbw and maybe the catch as well) as this nips back off a good length and West Indies have gone upstairs. No inside edge, so it's about the lbw now. And it's three reds! Clipped the front pad first, crashing into middle and leg. Excellent review. Well bowled"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Pat Cummins"
+    },
+    "Stadium": "Melbourne",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "4",
+      "balls": "3",
+      "4s": "1",
+      "6s": "0",
+      "batting_position": "3"
+    },
+    "ball": "5.5",
+    "opposition": {
+      "country": "Australia",
+      "total": "304/8 (50 Overs, RR: 6.08)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "308/5 (48.5 Overs, RR: 6.30)"
+    },
+    "date": "14 Jan 2018",
+    "scoreAt": "60/2",
+    "description": "short, and a miscued pull, as Hales ducked into his pull as he realised he'd been beaten for pace. A simple catch pops up to short midwicket, and Australia are very much in the hunt now..."
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Jhye Richardson"
+    },
+    "Stadium": "Brisbane",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "57",
+      "balls": "60",
+      "4s": "7",
+      "6s": "1",
+      "batting_position": "3"
+    },
+    "ball": "19.2",
+    "opposition": {
+      "country": "Australia",
+      "total": "270/9 (50 Overs, RR: 5.40)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "274/6 (44.2 Overs, RR: 6.18)"
+    },
+    "date": "19 Jan 2018",
+    "scoreAt": "119/2",
+    "description": "dragged on! A first ODI wicket for Richardson. Short of a length, looking to run it down to third man and gets an under edge into the stumps"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium",
+      "name": "Marcus Stoinis"
+    },
+    "Stadium": "Sydney",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "1",
+      "balls": "8",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "3"
+    },
+    "ball": "9.4",
+    "opposition": {
+      "country": "Australia",
+      "total": "286/6 (50 Overs, RR: 5.72)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "302/6 (50 Overs, RR: 6.04)"
+    },
+    "date": "21 Jan 2018",
+    "scoreAt": "45/2",
+    "description": "pitched up, Hales attempts to go over the top - but loops a tame whack into the hands of mid-on! Another mistimed drive and Australia have their second wicket, Stoinis doing the business. Nowhere near the connection Hales was after and Zampa took it well tumbling forwards"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm fast",
+      "name": "Pat Cummins"
+    },
+    "Stadium": "Adelaide",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "bowled"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "3",
+      "balls": "11",
+      "4s": "0",
+      "6s": "0",
+      "batting_position": "3"
+    },
+    "ball": "3.2",
+    "opposition": {
+      "country": "Australia",
+      "total": "197/7 (37 Overs, RR: 5.32)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "196 all out (44.5 Overs, RR: 4.37)"
+    },
+    "date": "26 Jan 2018",
+    "scoreAt": "4/2",
+    "description": "bowled 'im! Superb ball from Cummins and England are two down for spit! There's been some nip off this fresh surface and Cummins locates the perfect length, it jags back appreciably as Hales presses forwards, flicks the front pad before rattling the off pole"
+  },
+  {
+    "bowler": {
+      "type": "Right-arm medium",
+      "name": "Mitchell Marsh"
+    },
+    "Stadium": "Perth",
+    "team_innings": "1",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "35",
+      "balls": "47",
+      "4s": "3",
+      "6s": "1",
+      "batting_position": "3"
+    },
+    "ball": "26.1",
+    "opposition": {
+      "country": "Australia",
+      "total": "247 all out (48.2 Overs, RR: 5.11)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "259 all out (47.4 Overs, RR: 5.43)"
+    },
+    "date": "28 Jan 2018",
+    "scoreAt": "151/3",
+    "description": "short ball, Hales tries to wallop it over square leg... but skews a top edge to point! Think that deflected off the helmet, Australia have used his head and Marsh breaks the stand. There's pace in this deck, seemed to surprise Hales and he top-edged it straight into the badge"
+  },
+  {
+    "bowler": {
+      "type": "Slow left-arm orthodox",
+      "name": "Mitchell Santner"
+    },
+    "Stadium": "Christchurch",
+    "team_innings": "2",
+    "dismissal": {
+      "wayOut": "caught"
+    },
+    "batsman": {
+      "batting-hand": "right",
+      "name": "Alex Hales"
+    },
+    "player_innings": {
+      "runs": "61",
+      "balls": "74",
+      "4s": "9",
+      "6s": "0",
+      "batting_position": "2"
+    },
+    "ball": "23.6",
+    "opposition": {
+      "country": "New Zealand",
+      "total": "223 all out (49.5 Overs, RR: 4.47)"
+    },
+    "team": {
+      "country": "ENG ",
+      "total": "229/3 (32.4 Overs, RR: 7.01)"
+    },
+    "date": "10 Mar 2018",
+    "scoreAt": "177/2",
+    "description": "smashed to midwicket! Hales lines up the slog sweep, but picks out Williamson who wraps his fingers round a fizzing chance, and New Zealand have the beginnings of a sniff as the openers depart"
+  }
+]
